@@ -1,0 +1,69 @@
+<div ng-controller="mainCtrl">
+	<div id="total" class="col-md-12">{{matches.length}} senators</div>
+	<div id="searchbars" class="col-md-12">
+		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" /></div>
+		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="state" ng-model="queryState" /></div>
+		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
+	</div>
+	<div class="col-md-12 select-boxes">
+		<select ng-model="senateCommittees.model">
+			<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		</select>
+		<select ng-model="parties.model">
+			<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		</select>
+	</div>
+	<ol when-scrolled="more()">
+		<li class="row" ng-repeat="member in displayed">
+			<img class="col-md-1 col-xs-4" ng-src="{{member.photoUrl}}" />
+			<div class="col-md-2 col-xs-8">
+				<span ng-if="member.district"><b>Rep. {{member.name}}</b></span>
+				<span ng-if="!member.district"><b>Sen. {{member.name}}</b></span>
+				<br>
+				<span>DC: {{member.contact[0].phone}}</span>
+			</div>
+			<div class="col-md-2 col-xs-6 social-links">
+				<span ng-if="member.socialTwitter" class="pointer">
+					<a ng-href="{{member.socialTwitter}}" target="_blank"><i class="fa fa-twitter" style="font-size:30px"></i></a>
+				</span>
+				<span ng-if="member.socialFacebook" class="pointer">
+					<a ng-href="{{member.socialFacebook}}" target="_blank"><i class="fa fa-facebook" style="font-size:30px"></i></a>
+				</span>
+				<span ng-if="member.socialInstagram" class="pointer">
+					<a ng-href="{{member.socialInstagram}}" target="_blank"><i class="fa fa-instagram" style="font-size:30px"></i></a>
+				</span>
+				<span ng-if="member.socialYoutube" class="pointer">
+					<a ng-href="{{member.socialYoutube}}" target="_blank"><i class="fa fa-youtube-play" style="font-size:30px"></i></a>
+				</span>
+				<!-- <span class="pointer">
+					<a ng-href="{{member.linkWikipedia}}" target="_blank"><i class="fa fa-wikipedia-w" style="font-size:30px"></i></a>
+				</span> -->
+			</div>
+			<div class="col-md-2 col-xs-6">
+				<span><b>State: </b>{{member.stateDisplay}}</span><br>
+				<span><b>Party: </b>{{member.party}}</span><br>
+			</div>
+			<div class="col-md-3 col-xs-6">
+				<span><b>Reelection:</b> {{member.reelection}}</span><br>
+				<span><b>Took office:</b> {{member.elected}}<span>
+			</div>
+			<div class="col-md-2 col-xs-6 contact-info">
+				<a ng-href="{{member.linkContact}}" target="_blank">Email</a>
+				<br ng-if="member.linkMeeting">
+				<a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a>
+				<br>
+				<a class="pointer" ng-click="toggleFilter(member)">Show all contact info</a>
+			</div>
+			<div class="col-md-12 full-contact" ng-hide="!member.toggle">
+				<!-- <div ng-repeat="contact in member.contact">
+					<b>{{contact.name}}</b> <span ng-if="contact.phone">|</span> {{contact.phone}} <span ng-if="contact.address">|</span> {{contact.address}}
+				</div> -->
+				<div class="row" ng-repeat="contact in member.contact">
+					<div class="col-md-2 col-xs-4"><b>{{contact.name}}</b></div>
+					<div class="col-md-2 col-xs-4">{{contact.phone}}</div>
+					<div class="col-md-8 col-xs-4">{{contact.address}}</div>
+				</div>
+			</div>
+		</li>
+	</ol>
+</div>

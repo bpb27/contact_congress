@@ -1,0 +1,41 @@
+/* atomic classes */
+.pointer {
+	cursor: pointer;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 50px;
+}
+
+ol {
+	height: 96vh;
+	overflow: auto;
+}
+
+#total {
+	text-align: center;
+  font-size: 30px;
+	padding: 20px;
+}
+
+.select-boxes {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.social-links, .contact-info {
+	z-index: 2;
+}
+
+.social-links a {
+	margin-right: 5px;
+}
+
+.full-contact {
+  padding: 20px 0;
+}
+
+.full-contact span {
+	padding: 0 5px;
+}
