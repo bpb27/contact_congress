@@ -32,6 +32,7 @@ ol li {
 #facebook-share {
   position: absolute;
   margin: 10px;
+	margin-top: 50px;
 	z-index: 2;
 }
 
