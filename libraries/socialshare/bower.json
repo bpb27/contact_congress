@@ -1,0 +1,28 @@
+{
+  "name": "angular-socialshare",
+  "main": [
+    "angular-socialshare.js",
+    "angular-socialshare.css",
+    "angular-socialshare.less"
+  ],
+  "version": "1.4.4",
+  "authors": [
+    "djds4rce <djd4rce@gmail.com>"
+  ],
+  "description": "Social Share buttons for AngularJS",
+  "keywords": [
+    "social",
+    "googleplus",
+    "facebook",
+    "twitter",
+    "linkdin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

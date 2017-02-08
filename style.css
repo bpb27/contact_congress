@@ -17,6 +17,24 @@ ol li {
 	margin-left: 3px;
 }
 
+#logo-img {
+	display: none;
+}
+
+#banner {
+	text-align: center;
+  background: #6b6566;
+  color: white;
+  padding: 10px 0;
+  font-size: 17px;
+}
+
+#facebook-share {
+  position: absolute;
+  margin: 10px;
+	z-index: 2;
+}
+
 #total {
 	text-align: center;
   font-size: 30px;

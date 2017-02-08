@@ -1,6 +1,6 @@
-var app = angular.module('myApp', ['ngRoute']);
+var app = angular.module('myApp', ['ngRoute', 'djds4rce.angular-socialshare']);
 
-app.config(function ($routeProvider) {
+app.config(function ($routeProvider, $locationProvider) {
     $routeProvider
         .when("/", {
             templateUrl: "home.html"
@@ -11,6 +11,13 @@ app.config(function ($routeProvider) {
         .otherwise({
             templateUrl: "home.html"
         });
+
+    $locationProvider.html5Mode(true).hashPrefix('!');
+
+});
+
+app.run(function ($FB) {
+    $FB.init('1748104988834383');
 });
 
 app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $http, $timeout) {
