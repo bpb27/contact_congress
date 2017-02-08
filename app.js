@@ -74,6 +74,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
         var sens = $scope.sens;
 
         if ($scope.senateCommittees.model !== "1") {
+            reps = [];
             var comm = $scope.senateCommittees.availableOptions.filter(function (item) {
                 return item.id === $scope.senateCommittees.model;
             })[0];

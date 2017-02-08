@@ -36,6 +36,6 @@ ol {
   padding: 20px 0;
 }
 
-.full-contact span {
-	padding: 0 5px;
+.even-contact {
+	background: #cdcdcd;
 }

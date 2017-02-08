@@ -15,14 +15,18 @@
 	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
-			<img class="col-md-1 col-xs-4" ng-src="{{member.photoUrl}}" />
-			<div class="col-md-2 col-xs-8">
+			<!-- <img class="col-md-1 col-xs-4" ng-src="{{member.photoUrl}}" /> -->
+			<div class="col-md-3 col-xs-6">
 				<span ng-if="member.district"><b>Rep. {{member.name}}</b></span>
-				<span ng-if="!member.district"><b>Sen. {{member.name}}</b></span>
-				<br>
-				<span>DC: {{member.contact[0].phone}}</span>
+				<span ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
+				<span>DC: {{member.contact[0].phone}}</span><br>
+				<span><a class="pointer" ng-click="toggleFilter(member)">All contact info</a></span><br>
+				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span>
 			</div>
-			<div class="col-md-2 col-xs-6 social-links">
+			<div class="col-md-3 col-xs-6 social-links">
+				<span ng-if="member.linkContact" class="pointer">
+					<a ng-href="{{member.linkContact}}" target="_blank"><i class="fa fa-envelope" style="font-size:30px"></i></a>
+				</span>
 				<span ng-if="member.socialTwitter" class="pointer">
 					<a ng-href="{{member.socialTwitter}}" target="_blank"><i class="fa fa-twitter" style="font-size:30px"></i></a>
 				</span>
@@ -39,7 +43,7 @@
 					<a ng-href="{{member.linkWikipedia}}" target="_blank"><i class="fa fa-wikipedia-w" style="font-size:30px"></i></a>
 				</span> -->
 			</div>
-			<div class="col-md-2 col-xs-6">
+			<div class="col-md-3 col-xs-6">
 				<span><b>State: </b>{{member.stateDisplay}}</span><br>
 				<span><b>Party: </b>{{member.party}}</span><br>
 			</div>
@@ -47,21 +51,11 @@
 				<span><b>Reelection:</b> {{member.reelection}}</span><br>
 				<span><b>Took office:</b> {{member.elected}}<span>
 			</div>
-			<div class="col-md-2 col-xs-6 contact-info">
-				<a ng-href="{{member.linkContact}}" target="_blank">Email</a>
-				<br ng-if="member.linkMeeting">
-				<a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a>
-				<br>
-				<a class="pointer" ng-click="toggleFilter(member)">Show all contact info</a>
-			</div>
 			<div class="col-md-12 full-contact" ng-hide="!member.toggle">
-				<!-- <div ng-repeat="contact in member.contact">
-					<b>{{contact.name}}</b> <span ng-if="contact.phone">|</span> {{contact.phone}} <span ng-if="contact.address">|</span> {{contact.address}}
-				</div> -->
-				<div class="row" ng-repeat="contact in member.contact">
-					<div class="col-md-2 col-xs-4"><b>{{contact.name}}</b></div>
-					<div class="col-md-2 col-xs-4">{{contact.phone}}</div>
-					<div class="col-md-8 col-xs-4">{{contact.address}}</div>
+				<div class="row" ng-repeat="contact in member.contact" ng-class-even="'even-contact'">
+					<div class="col-md-2 col-xs-6"><b>{{contact.name}}</b></div>
+					<div class="col-md-2 col-xs-6">{{contact.phone}}</div>
+					<div class="col-md-8 col-xs-12">{{contact.address}}</div>
 				</div>
 			</div>
 		</li>
