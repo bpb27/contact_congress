@@ -25,6 +25,15 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     $scope.sens - [];
     $scope.zips = [];
 
+    $scope.chambers = {
+        model: "1",
+        availableOptions: [
+            { id: "1", name: "Both chambers" },
+            { id: "2", name: "House" },
+            { id: "3", name: "Senate" }
+        ]
+    };
+
     $scope.parties = {
         model: "1",
         availableOptions: [
@@ -38,7 +47,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     $scope.senateCommittees = {
         model: "1",
         availableOptions: [
-            { id: "1", name: "All Committees" },
+            { id: "1", name: "All Senate Committees" },
             { id: "2", name: "Appropriations" },
             { id: "3", name: "Agriculture, Nutrition and Forestry" },
             { id: "4", name: "Armed Services" },
@@ -72,6 +81,14 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     $scope.update = function () {
         var reps = $scope.reps;
         var sens = $scope.sens;
+
+        if ($scope.chambers.model !== "1") {
+            if ($scope.chambers.model === "2") {
+                sens = [];
+            } else {
+                reps = [];
+            }
+        }
 
         if ($scope.senateCommittees.model !== "1") {
             reps = [];
@@ -115,8 +132,9 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
       'queryName',
       'queryState',
       'queryZip',
-      'senateCommittees.model',
-      'parties.model'
+      'chambers.model',
+      'parties.model',
+      'senateCommittees.model'
     ], function () {
         $scope.update();
     });

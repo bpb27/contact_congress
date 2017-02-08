@@ -12,6 +12,9 @@
 		<select ng-model="parties.model">
 			<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
+		<select ng-model="chambers.model">
+			<option ng-repeat="option in chambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		</select>
 	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
@@ -52,8 +55,8 @@
 				<span><b>Reelection:</b> {{member.reelection}}</span><br>
 				<span><b>Took office:</b> {{member.elected}}<span>
 			</div>
-			<div class="col-md-12 full-contact" ng-hide="!member.toggle">
-				<div class="row" ng-repeat="contact in member.contact" ng-class-even="'even-contact'">
+			<div class="col-md-12 col-xs-12 full-contact" ng-hide="!member.toggle">
+				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'">
 					<div class="col-md-2 col-xs-6"><b>{{contact.name}}</b></div>
 					<div class="col-md-2 col-xs-6">{{contact.phone}}</div>
 					<div class="col-md-8 col-xs-12">{{contact.address}}</div>
