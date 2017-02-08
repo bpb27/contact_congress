@@ -17,7 +17,11 @@ app.config(function ($routeProvider, $locationProvider) {
 });
 
 app.run(function ($FB) {
-    $FB.init('1748104988834383');
+    $FB.init({
+        appId: '1748104988834383',
+        xfbml: true,
+        version: 'v2.8'
+    });
 });
 
 app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $http, $timeout) {
