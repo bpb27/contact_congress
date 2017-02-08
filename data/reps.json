@@ -32,10 +32,18 @@
     "socialTwitter": "https://twitter.com/RepByrne",
     "socialYoutube": "https://www.youtube.com/channel/UCRUXmqQbrKo0T6xi_GT7TEA",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "2013*"
   },
   {
     "contact": [
+      {
+        "address": "442 Cannon HOB, Washington, DC 20515",
+        "fax": "(202) 225-8913",
+        "name": "Washington DC Office",
+        "phone": "(202) 225-2901"
+      },
       {
         "address": "City Hall - 505 E. Three Notch Street #322, Andalusia, AL 36420",
         "fax": "334-222-3342",
@@ -53,12 +61,6 @@
         "fax": "(334) 262-8758",
         "name": "Montgomery Office",
         "phone": "(334) 262-7718"
-      },
-      {
-        "address": "442 Cannon HOB, Washington, DC 20515",
-        "fax": "(202) 225-8913",
-        "name": "Washington DC Office",
-        "phone": "(202) 225-2901"
       }
     ],
     "district": "2",
@@ -73,6 +75,8 @@
     "socialTwitter": "https://twitter.com/RepMarthaRoby",
     "socialYoutube": "https://www.youtube.com/repmartharoby",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -107,6 +111,8 @@
     "socialTwitter": "https://twitter.com/repmikerogersal",
     "socialYoutube": "https://www.youtube.com/user/MikeRogersAL03",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -154,6 +160,8 @@
     "socialTwitter": "https://twitter.com/Robert_Aderholt",
     "socialYoutube": "https://www.youtube.com/user/RobertAderholt",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -195,6 +203,8 @@
     "socialTwitter": "https://twitter.com/RepMoBrooks",
     "socialYoutube": "https://www.youtube.com/user/RepMoBrooks",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -236,6 +246,8 @@
     "socialTwitter": "https://twitter.com/USRepGaryPalmer",
     "socialYoutube": "https://www.youtube.com/channel/UCYZfP-cNIvlJY3AcAc9OPpQ",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -283,6 +295,8 @@
     "socialTwitter": "https://twitter.com/RepTerriSewell",
     "socialYoutube": "https://www.youtube.com/user/RepSewell",
     "state": "alabama",
+    "stateDisplay": "Alabama",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -318,6 +332,8 @@
     "socialTwitter": "https://twitter.com/repdonyoung",
     "socialYoutube": "https://www.youtube.com/user/RepDonYoung",
     "state": "alaska",
+    "stateDisplay": "Alaska",
+    "threshold": 0,
     "yearElected": "1973*"
   },
   {
@@ -353,6 +369,8 @@
     "socialTwitter": "https://twitter.com/repohalleran",
     "socialYoutube": "https://www.youtube.com/c/repohalleran",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -388,6 +406,8 @@
     "socialTwitter": "https://twitter.com/RepMcSally",
     "socialYoutube": "https://www.youtube.com/channel/UCfHMG2Db0TJ_RatSBHuH8NA",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -429,6 +449,8 @@
     "socialTwitter": "https://twitter.com/repraulgrijalva",
     "socialYoutube": "https://www.youtube.com/user/raulgrijalvaaz07",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -476,6 +498,8 @@
     "socialTwitter": "https://twitter.com/repgosar",
     "socialYoutube": "https://www.youtube.com/user/repgosar",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -505,6 +529,8 @@
     "socialTwitter": "https://twitter.com/RepAndyBiggsAZ",
     "socialYoutube": "https://www.youtube.com/channel/UCqSq9kWOxk9yNTeILBCVC1w",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -534,6 +560,8 @@
     "socialTwitter": "https://twitter.com/RepDavid",
     "socialYoutube": "https://www.youtube.com/user/RepDavidSchweikert",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -563,6 +591,8 @@
     "socialTwitter": "https://twitter.com/@RepRubenGallego",
     "socialYoutube": "",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -592,6 +622,8 @@
     "socialTwitter": "https://twitter.com/RepTrentFranks",
     "socialYoutube": "https://www.youtube.com/user/RepTrentFranks",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -621,6 +653,8 @@
     "socialTwitter": "https://twitter.com/RepSinema",
     "socialYoutube": "",
     "state": "arizona",
+    "stateDisplay": "Arizona",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -662,6 +696,8 @@
     "socialTwitter": "https://twitter.com/reprickcrawford",
     "socialYoutube": "https://www.youtube.com/user/RepRickCrawford",
     "state": "arkansas",
+    "stateDisplay": "Arkansas",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -697,6 +733,8 @@
     "socialTwitter": "https://twitter.com/RepFrenchHill",
     "socialYoutube": "https://www.youtube.com/channel/UCT8uWroJtkwSsCJlVg0IKvQ",
     "state": "arkansas",
+    "stateDisplay": "Arkansas",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -738,6 +776,8 @@
     "socialTwitter": "https://twitter.com/rep_stevewomack",
     "socialYoutube": "https://www.youtube.com/user/CongressmanWomack",
     "state": "arkansas",
+    "stateDisplay": "Arkansas",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -785,6 +825,8 @@
     "socialTwitter": "https://twitter.com/RepWesterman",
     "socialYoutube": "https://www.youtube.com/channel/UCNshPbmupCwP5a7Hi79jETQ/feed?view_as=public",
     "state": "arkansas",
+    "stateDisplay": "Arkansas",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -826,6 +868,8 @@
     "socialTwitter": "https://twitter.com/RepLaMalfa",
     "socialYoutube": "https://www.youtube.com/user/RepLaMalfa",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -879,6 +923,8 @@
     "socialTwitter": "https://twitter.com/RepHuffman",
     "socialYoutube": "https://www.youtube.com/user/RepHuffman",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -920,6 +966,8 @@
     "socialTwitter": "https://twitter.com/RepGaramendi",
     "socialYoutube": "https://www.youtube.com/user/garamendiCA10",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2009*"
   },
   {
@@ -949,6 +997,8 @@
     "socialTwitter": "https://twitter.com/RepMcClintock",
     "socialYoutube": "http://www.youtube.com/user/McClintockCA04",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -990,6 +1040,8 @@
     "socialTwitter": "https://twitter.com/RepThompson",
     "socialYoutube": "http://www.youtube.com/CongressmanMThompson",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -1019,6 +1071,8 @@
     "socialTwitter": "https://twitter.com/DorisMatsui",
     "socialYoutube": "https://www.youtube.com/user/RepDorisMatsui",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2005*"
   },
   {
@@ -1048,6 +1102,8 @@
     "socialTwitter": "https://twitter.com/@RepBera",
     "socialYoutube": "http://www.youtube.com/repamibera",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -1083,6 +1139,8 @@
     "socialTwitter": "http://twitter.com/RepPaulCook",
     "socialYoutube": "http://www.youtube.com/RepPaulCook",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -1118,6 +1176,8 @@
     "socialTwitter": "http://twitter.com/RepMcNerney",
     "socialYoutube": "http://www.youtube.com/user/RepJerryMcNerney",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -1147,6 +1207,8 @@
     "socialTwitter": "https://twitter.com/RepJeffDenham",
     "socialYoutube": "http://www.youtube.com/repjeffdenham",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -1182,6 +1244,8 @@
     "socialTwitter": "http://twitter.com/RepDeSaulnier",
     "socialYoutube": "http://www.youtube.com/c/RepDeSaulnier",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -1211,6 +1275,8 @@
     "socialTwitter": "https://twitter.com/NancyPelosi",
     "socialYoutube": "http://www.youtube.com/user/nancypelosi",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1987*"
   },
   {
@@ -1240,6 +1306,8 @@
     "socialTwitter": "https://twitter.com/repbarbaralee",
     "socialYoutube": "https://www.youtube.com/user/RepLee",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1998*"
   },
   {
@@ -1269,6 +1337,8 @@
     "socialTwitter": "http://twitter.com/RepSpeier",
     "socialYoutube": "http://www.youtube.com/JackieSpeierCA14",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2008*"
   },
   {
@@ -1298,6 +1368,8 @@
     "socialTwitter": "https://twitter.com/repswalwell",
     "socialYoutube": "https://www.youtube.com/user/ericswalwell",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -1333,6 +1405,8 @@
     "socialTwitter": "http://twitter.com/repjimcosta",
     "socialYoutube": "http://www.youtube.com/RepJimCostaCA20",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -1362,6 +1436,8 @@
     "socialTwitter": "http://twitter.com/RepRoKhanna",
     "socialYoutube": "http://www.youtube.com/channel/UCr4KOYv1o1oEQhy1jhhm3pQ",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -1391,6 +1467,8 @@
     "socialTwitter": "https://twitter.com/repannaeshoo",
     "socialYoutube": "http://www.youtube.com/RepAnnaEshoo",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -1420,6 +1498,8 @@
     "socialTwitter": "http://twitter.com/repzoelofgren",
     "socialYoutube": "http://www.youtube.com/repzoelofgren",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -1455,6 +1535,8 @@
     "socialTwitter": "http://twitter.com/RepJimmyPanetta",
     "socialYoutube": "http://www.youtube.com/channel/UCmw-aERG51C96edMDPN7fXQ",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -1490,6 +1572,8 @@
     "socialTwitter": "http://twitter.com/RepDavidValadao",
     "socialYoutube": "http://www.youtube.com/congressmanvaladao",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -1525,6 +1609,8 @@
     "socialTwitter": "https://twitter.com/Rep_DevinNunes",
     "socialYoutube": "http://youtube.com/RepDevinNunes",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -1554,6 +1640,8 @@
     "socialTwitter": "https://twitter.com/GOPLeader",
     "socialYoutube": "http://www.youtube.com/user/RepKevinMcCarthy",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -1589,6 +1677,8 @@
     "socialTwitter": "http://twitter.com/RepCarbajal",
     "socialYoutube": "http://www.youtube.com/repcarbajal",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -1630,6 +1720,8 @@
     "socialTwitter": "http://twitter.com/SteveKnight25",
     "socialYoutube": "https://www.youtube.com/channel/UCNfnbtkP6hGUq1TLFQ3fD5Q",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -1665,6 +1757,8 @@
     "socialTwitter": "https://twitter.com/JuliaBrownley26",
     "socialYoutube": "http://www.youtube.com/RepJuliaBrownley",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -1700,6 +1794,8 @@
     "socialTwitter": "https://twitter.com/RepJudyChu",
     "socialYoutube": "http://www.youtube.com/user/RepJudyChu",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2009*"
   },
   {
@@ -1735,6 +1831,8 @@
     "socialTwitter": "http://www.twitter.com/RepAdamSchiff",
     "socialYoutube": "http://www.youtube.com/RepAdamSchiff",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -1764,6 +1862,8 @@
     "socialTwitter": "http://twitter.com/repcardenas",
     "socialYoutube": "http://www.youtube.com/user/repcardenas",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -1793,6 +1893,8 @@
     "socialTwitter": "https://twitter.com/bradsherman",
     "socialYoutube": "https://www.youtube.com/user/ShermanCA27",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -1822,6 +1924,8 @@
     "socialTwitter": "http://twitter.com/reppeteaguilar",
     "socialYoutube": "http://www.youtube.com/channel/UCxwbFLOlKDsXrwizV5jah7g",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -1851,6 +1955,8 @@
     "socialTwitter": "https://twitter.com/gracenapolitano",
     "socialYoutube": "https://www.youtube.com/RepGraceNapolitano",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -1886,6 +1992,8 @@
     "socialTwitter": "https://twitter.com/@RepTedLieu",
     "socialYoutube": "http://www.youtube.com/channel/UC9qcJxTqfDNBnVul1IojlFg",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -1915,6 +2023,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "NA"
   },
   {
@@ -1944,6 +2054,8 @@
     "socialTwitter": "http://twitter.com/NormaJTorres",
     "socialYoutube": "http://www.youtube.com/channel/UCvWY4qKP6--o3pIJY7hhKDg",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -1979,6 +2091,8 @@
     "socialTwitter": "http://twitter.com/CongressmanRuiz",
     "socialYoutube": "http://www.youtube.com/user/RepRaulRuiz",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -2008,6 +2122,8 @@
     "socialTwitter": "http://twitter.com/RepKarenBass",
     "socialYoutube": "http://www.youtube.com/user/RepKarenBass",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -2037,6 +2153,8 @@
     "socialTwitter": "http://twitter.com/replindasanchez",
     "socialYoutube": "http://www.youtube.com/user/LindaTSanchez",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -2072,6 +2190,8 @@
     "socialTwitter": "http://twitter.com/RepEdRoyce",
     "socialYoutube": "http://youtube.com/RepEdRoyce",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -2101,6 +2221,8 @@
     "socialTwitter": "https://twitter.com/#!/RepRoybalAllard",
     "socialYoutube": "http://www.youtube.com/user/RepRoybalAllard",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -2130,6 +2252,8 @@
     "socialTwitter": "https://twitter.com/RepMarkTakano",
     "socialYoutube": "https://www.youtube.com/user/RepMarkTakano",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -2159,6 +2283,8 @@
     "socialTwitter": "http://twitter.com/KenCalvert",
     "socialYoutube": "http://www.youtube.com/RepKenCalvert",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -2188,6 +2314,8 @@
     "socialTwitter": "http://twitter.com/MaxineWaters",
     "socialYoutube": "http://www.youtube.com/user/MaxineWaters",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1991"
   },
   {
@@ -2223,6 +2351,8 @@
     "socialTwitter": "http://twitter.com/RepBarragan",
     "socialYoutube": "",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -2252,6 +2382,8 @@
     "socialTwitter": "http://twitter.com/RepMimiWalters",
     "socialYoutube": "http://www.youtube.com/channel/UCyFubcwlZVLVLg-T-2PuooQ",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -2281,6 +2413,8 @@
     "socialTwitter": "https://twitter.com/reploucorrea",
     "socialYoutube": "",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -2310,6 +2444,8 @@
     "socialTwitter": "http://twitter.com/RepLowenthal",
     "socialYoutube": "http://www.youtube.com/RepLowenthal",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -2339,6 +2475,8 @@
     "socialTwitter": "https://twitter.com/danarohrabacher",
     "socialYoutube": "",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "1989"
   },
   {
@@ -2374,6 +2512,8 @@
     "socialTwitter": "https://twitter.com/darrellissa",
     "socialYoutube": "https://www.youtube.com/user/RepDarrellIssa/",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -2409,6 +2549,8 @@
     "socialTwitter": "https://twitter.com/Rep_Hunter",
     "socialYoutube": "http://www.youtube.com/CongressmanHunter",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -2444,6 +2586,8 @@
     "socialTwitter": "https://twitter.com/RepJuanVargas",
     "socialYoutube": "http://www.youtube.com/user/RepJuanVargas",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -2473,6 +2617,8 @@
     "socialTwitter": "https://twitter.com/RepScottPeters",
     "socialYoutube": "https://www.youtube.com/channel/UCQK77QJxW7Xr-S3zqeMd-0g",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -2502,6 +2648,8 @@
     "socialTwitter": "https://twitter.com/@RepSusanDavis",
     "socialYoutube": "",
     "state": "california",
+    "stateDisplay": "California",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -2531,6 +2679,8 @@
     "socialTwitter": "https://twitter.com/RepDianaDeGette",
     "socialYoutube": "http://www.youtube.com/user/RepDianaDeGette",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -2560,6 +2710,8 @@
     "socialTwitter": "https://twitter.com/RepJaredPolis",
     "socialYoutube": "https://www.youtube.com/user/JaredPolis31275/featured",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -2607,6 +2759,8 @@
     "socialTwitter": "https://twitter.com/RepTipton",
     "socialYoutube": "https://www.youtube.com/user/RepScottTipton",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -2642,6 +2796,8 @@
     "socialTwitter": "http://twitter.com/RepKenBuck",
     "socialYoutube": "http://www.youtube.com/channel/UCHK7Wcwij7NoxXGTeSHUWzg",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -2677,6 +2833,8 @@
     "socialTwitter": "https://twitter.com/RepDLamborn",
     "socialYoutube": "https://www.youtube.com/user/CongressmanLamborn",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -2706,6 +2864,8 @@
     "socialTwitter": "http://coffman.house.gov//twitter.com/RepMikeCoffman",
     "socialYoutube": "https://www.youtube.com/user/CongressmanCoffman",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -2735,6 +2895,8 @@
     "socialTwitter": "https://twitter.com/repperlmutter",
     "socialYoutube": "http://www.youtube.com/user/RepPerlmutter",
     "state": "colorado",
+    "stateDisplay": "Colorado",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -2764,6 +2926,8 @@
     "socialTwitter": "http://twitter.com/repjohnlarson",
     "socialYoutube": "http://www.youtube.com/user/RepJohnLarson",
     "state": "connecticut",
+    "stateDisplay": "Connecticut",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -2799,6 +2963,8 @@
     "socialTwitter": "https://twitter.com/repjoecourtney",
     "socialYoutube": "http://www.youtube.com/user/RepCourtney",
     "state": "connecticut",
+    "stateDisplay": "Connecticut",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -2828,6 +2994,8 @@
     "socialTwitter": "https://twitter.com/@rosadelauro",
     "socialYoutube": "http://www.youtube.com/rosadelauro",
     "state": "connecticut",
+    "stateDisplay": "Connecticut",
+    "threshold": 0,
     "yearElected": "1991"
   },
   {
@@ -2863,6 +3031,8 @@
     "socialTwitter": "http://twitter.com/jahimes",
     "socialYoutube": "http://www.youtube.com/user/congressmanhimes",
     "state": "connecticut",
+    "stateDisplay": "Connecticut",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -2892,6 +3062,8 @@
     "socialTwitter": "http://twitter.com/RepEsty",
     "socialYoutube": "http://www.youtube.com/user/RepEsty",
     "state": "connecticut",
+    "stateDisplay": "Connecticut",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -2921,6 +3093,8 @@
     "socialTwitter": "https://twitter.com/RepBRochester",
     "socialYoutube": "",
     "state": "delaware",
+    "stateDisplay": "Delaware",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -2950,6 +3124,8 @@
     "socialTwitter": "http://twitter.com/Rep_Matt_Gaetz",
     "socialYoutube": "http://www.youtube.com/channel/UClqXcJew_A3s8qiX-T4a9CA",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -2985,6 +3161,8 @@
     "socialTwitter": "http://twitter.com/drnealdunnfl2",
     "socialYoutube": "http://www.youtube.com/channel/UCRTGfrYP-RuDzJ2KGok7TRA",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3020,6 +3198,8 @@
     "socialTwitter": "http://twitter.com/RepTedYoho",
     "socialYoutube": "http://www.youtube.com/user/RepTedYoho",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -3049,6 +3229,8 @@
     "socialTwitter": "https://twitter.com/jrutherfordfl",
     "socialYoutube": "",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3078,6 +3260,8 @@
     "socialTwitter": "http://twitter.com/RepAlLawsonJr",
     "socialYoutube": "http://www.youtube.com/housedems",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3107,6 +3291,8 @@
     "socialTwitter": "https://twitter.com/RepDeSantis",
     "socialYoutube": "http://www.youtube.com/RepRonDeSantis",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -3142,6 +3328,8 @@
     "socialTwitter": "https://twitter.com/RepStephMurphy",
     "socialYoutube": "",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3171,6 +3359,8 @@
     "socialTwitter": "http://twitter.com/CongBillPosey",
     "socialYoutube": "http://youtube.com/CongressmanPosey",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -3200,6 +3390,8 @@
     "socialTwitter": "https://twitter.com/RepDarrenSoto",
     "socialYoutube": "",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3229,6 +3421,8 @@
     "socialTwitter": "http://twitter.com/RepValDemings",
     "socialYoutube": "http://www.youtube.com/channel/UCkcshqwFNJG6XeduOforhig",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3264,6 +3458,8 @@
     "socialTwitter": "https://twitter.com/RepWebster",
     "socialYoutube": "http://www.youtube.com/repdanwebster",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -3299,6 +3495,8 @@
     "socialTwitter": "https://twitter.com/repgusbilirakis",
     "socialYoutube": "https://www.youtube.com/user/RepGusBilirakis",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -3328,6 +3526,8 @@
     "socialTwitter": "https://twitter.com/repcharliecrist",
     "socialYoutube": "https://www.youtube.com/c/RepCharlieCrist",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3357,6 +3557,8 @@
     "socialTwitter": "https://twitter.com/USRepKCastor",
     "socialYoutube": "https://www.youtube.com/user/RepKathyCastor",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -3392,6 +3594,8 @@
     "socialTwitter": "http://twitter.com/RepDennisRoss",
     "socialYoutube": "http://youtube.com/RepDennisRoss",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -3427,6 +3631,8 @@
     "socialTwitter": "https://twitter.com/vernbuchanan",
     "socialYoutube": "http://www.youtube.com/vernbuchanan",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -3468,6 +3674,8 @@
     "socialTwitter": "https://twitter.com/TomRooney",
     "socialYoutube": "http://www.youtube.com/CongressmanRooney",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -3503,6 +3711,8 @@
     "socialTwitter": "https://twitter.com/repbrianmast",
     "socialYoutube": "https://www.youtube.com/repbrianmast",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3538,6 +3748,8 @@
     "socialTwitter": "https://twitter.com/RepRooney",
     "socialYoutube": "https://www.youtube.com/channel/UC5dLBbrW1JwIGs9h248lk6g",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3573,6 +3785,8 @@
     "socialTwitter": "https://twitter.com/RepHastingsFL",
     "socialYoutube": "http://alceehastings.house.gov/images/icon-youtube.png",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -3614,6 +3828,8 @@
     "socialTwitter": "http://twitter.com/repteddeutch",
     "socialYoutube": "http://www.youtube.com/user/congressmanteddeutch",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2010*"
   },
   {
@@ -3643,6 +3859,8 @@
     "socialTwitter": "https://twitter.com/RepLoisFrankel",
     "socialYoutube": "https://www.youtube.com/user/RepLoisFrankel",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -3678,6 +3896,8 @@
     "socialTwitter": "https://twitter.com/RepDWStweets",
     "socialYoutube": "https://www.youtube.com/user/RepWassermanSchultz",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -3719,6 +3939,8 @@
     "socialTwitter": "http://twitter.com/RepWilson",
     "socialYoutube": "http://www.youtube.com/repfredericawilson",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -3754,6 +3976,8 @@
     "socialTwitter": "http://twitter.com/@MarioDB",
     "socialYoutube": "http://www.youtube.com/MarioDiazBalart",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -3795,6 +4019,8 @@
     "socialTwitter": "http://twitter.com/RepCurbelo",
     "socialYoutube": "http://www.youtube.com/channel/UC6SRoWRNiv5U4a7ovRICwaw",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -3824,6 +4050,8 @@
     "socialTwitter": "http://www.twitter.com/RosLehtinen",
     "socialYoutube": "http://www.youtube.com/user/IleanaRosLehtinen",
     "state": "florida",
+    "stateDisplay": "Florida",
+    "threshold": 0,
     "yearElected": "1989*"
   },
   {
@@ -3859,6 +4087,8 @@
     "socialTwitter": "http://twitter.com/@repBuddyCarter",
     "socialYoutube": "https://www.youtube.com/channel/UCHQm49T6ikD_ioMAt50AwKQ",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -3900,6 +4130,8 @@
     "socialTwitter": "https://twitter.com/sanfordbishop",
     "socialYoutube": "http://www.youtube.com/user/RepSanfordBishop",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -3929,6 +4161,8 @@
     "socialTwitter": "http://twitter.com/RepDrewFerguson",
     "socialYoutube": "http://www.youtube.com/channel/UCuK7_j2sREWi_7wBAN477bg",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -3958,6 +4192,8 @@
     "socialTwitter": "http://twitter.com/RepHankJohnson",
     "socialYoutube": "http://www.youtube.com/user/RepHankJohnson",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -3987,6 +4223,8 @@
     "socialTwitter": "http://twitter.com/repjohnlewis",
     "socialYoutube": "http://www.youtube.com/user/repjohnlewis",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "1987"
   },
   {
@@ -4016,6 +4254,8 @@
     "socialTwitter": "https://twitter.com/reptomprice",
     "socialYoutube": "https://www.youtube.com/user/RepTomPrice",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -4045,6 +4285,8 @@
     "socialTwitter": "http://twitter.com/RepRobWoodall",
     "socialYoutube": "http://www.youtube.com/user/RobWoodallGA07",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -4080,6 +4322,8 @@
     "socialTwitter": "https://twitter.com/AustinScottGA08",
     "socialYoutube": "https://www.youtube.com/user/RepAustinScott",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -4109,6 +4353,8 @@
     "socialTwitter": "https://twitter.com/RepDougCollins",
     "socialYoutube": "https://www.youtube.com/user/repdougcollins",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -4150,6 +4396,8 @@
     "socialTwitter": "http://twitter.com/congressmanhice",
     "socialYoutube": "http://www.youtube.com/channel/UCzUMsS8DusN2QLpgweFthgQ",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -4191,6 +4439,8 @@
     "socialTwitter": "http://twitter.com/reploudermilk",
     "socialYoutube": "https://www.youtube.com/channel/UC2Kfw8fjca8k3w3KpzL5tNg",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -4238,6 +4488,8 @@
     "socialTwitter": "http://twitter.com/@RepRickAllen",
     "socialYoutube": "https://www.youtube.com/channel/UCZPoYXHFDAV17BGLMzGAmpg",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -4273,6 +4525,8 @@
     "socialTwitter": "http://twitter.com/RepDavidScott",
     "socialYoutube": "http://www.youtube.com/user/RepDavidScott",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -4308,6 +4562,8 @@
     "socialTwitter": "https://twitter.com/reptomgraves",
     "socialYoutube": "https://www.youtube.com/user/CongressmanGraves",
     "state": "georgia",
+    "stateDisplay": "Georgia",
+    "threshold": 0,
     "yearElected": "2010*"
   },
   {
@@ -4337,6 +4593,8 @@
     "socialTwitter": "https://twitter.com/rephanabusa",
     "socialYoutube": "https://www.youtube.com/user/rephanabusa",
     "state": "hawaii",
+    "stateDisplay": "Hawaii",
+    "threshold": 0,
     "yearElected": "2016"
   },
   {
@@ -4366,6 +4624,8 @@
     "socialTwitter": "https://twitter.com/tulsipress",
     "socialYoutube": "https://www.youtube.com/user/tulsipress",
     "state": "hawaii",
+    "stateDisplay": "Hawaii",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -4407,6 +4667,8 @@
     "socialTwitter": "https://twitter.com/Raul_Labrador",
     "socialYoutube": "https://www.youtube.com/user/RepLabrador?feature=mhsn",
     "state": "idaho",
+    "stateDisplay": "Idaho",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -4454,6 +4716,8 @@
     "socialTwitter": "http://twitter.com/CongMikeSimpson",
     "socialYoutube": "http://youtube.com/CongMikeSimpson",
     "state": "idaho",
+    "stateDisplay": "Idaho",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -4483,6 +4747,8 @@
     "socialTwitter": "http://twitter.com/RepBobbyRush",
     "socialYoutube": "http://www.youtube.com/user/CongressmanRush",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -4524,6 +4790,8 @@
     "socialTwitter": "https://twitter.com/RepRobinKelly",
     "socialYoutube": "http://www.youtube.com/channel/UCLhcNPX2nNQLNzwKW0nEykg",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2013*"
   },
   {
@@ -4571,6 +4839,8 @@
     "socialTwitter": "http://twitter.com/replipinski",
     "socialYoutube": "http://www.youtube.com/lipinski03",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -4600,6 +4870,8 @@
     "socialTwitter": "http://twitter.com/repgutierrez",
     "socialYoutube": "http://www.youtube.com/RepLuisGutierrez",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -4635,6 +4907,8 @@
     "socialTwitter": "http://twitter.com/RepMikeQuigley",
     "socialYoutube": "http://www.youtube.com/user/RepMikeQuigley",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2009*"
   },
   {
@@ -4670,6 +4944,8 @@
     "socialTwitter": "http://twitter.com/PeterRoskam",
     "socialYoutube": "http://www.youtube.com/user/RoskamIL06",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -4699,6 +4975,8 @@
     "socialTwitter": "https://twitter.com/RepDannyDavis",
     "socialYoutube": "http://www.youtube.com/dannykdavis07",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -4728,6 +5006,8 @@
     "socialTwitter": "http://twitter.com/congressmanraja",
     "socialYoutube": "http://www.youtube.com/c/CongressmanRaja",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -4769,6 +5049,8 @@
     "socialTwitter": "https://twitter.com/janschakowsky",
     "socialYoutube": "https://www.youtube.com/user/RepSchakowsky",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -4798,6 +5080,8 @@
     "socialTwitter": "http://twitter.com/repschneider",
     "socialYoutube": "http://www.youtube.com/user/RepBradSchneider",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -4833,6 +5117,8 @@
     "socialTwitter": "http://twitter.com/RepBillFoster",
     "socialYoutube": "http://www.youtube.com/user/RepBillFoster",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -4886,6 +5172,8 @@
     "socialTwitter": "http://twitter.com/repBost",
     "socialYoutube": "http://www.youtube.com/channel/UCYA1psY06vSf3QadHuCrmjQ",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -4945,6 +5233,8 @@
     "socialTwitter": "http://twitter.com/RodneyDavis",
     "socialYoutube": "http://youtube.com/RepRodneyDavis",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -4974,6 +5264,8 @@
     "socialTwitter": "https://twitter.com/rephultgren",
     "socialYoutube": "http://www.youtube.com/user/rephultgren",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -5021,6 +5313,8 @@
     "socialTwitter": "https://twitter.com/repshimkus",
     "socialYoutube": "http://www.youtube.com/user/RepShimkus",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -5062,6 +5356,8 @@
     "socialTwitter": "http://twitter.com/repkinzinger",
     "socialYoutube": "http://www.youtube.com/RepAdamKinzinger",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -5103,6 +5399,8 @@
     "socialTwitter": "https://twitter.com/RepCheri",
     "socialYoutube": "http://www.youtube.com/RepCheri",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -5150,6 +5448,8 @@
     "socialTwitter": "https://twitter.com/RepLaHood",
     "socialYoutube": "https://www.youtube.com/channel/UCVRbtFwaBGcixZIkygtalRw",
     "state": "illinois",
+    "stateDisplay": "Illinois",
+    "threshold": 0,
     "yearElected": "2015*"
   },
   {
@@ -5179,6 +5479,8 @@
     "socialTwitter": "https://twitter.com/RepVisclosky",
     "socialYoutube": "",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "1985"
   },
   {
@@ -5214,6 +5516,8 @@
     "socialTwitter": "https://twitter.com/RepWalorski",
     "socialYoutube": "https://www.youtube.com/repwalorski",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -5243,6 +5547,8 @@
     "socialTwitter": "http://twitter.com/RepJimBanks",
     "socialYoutube": "http://www.youtube.com/channel/UC_FR6TySW9uxvhjozkis6Xg",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -5278,6 +5584,8 @@
     "socialTwitter": "http://www.twitter.com/toddrokita",
     "socialYoutube": "http://www.youtube.com/reptoddrokita",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -5307,6 +5615,8 @@
     "socialTwitter": "https://twitter.com/@SusanWBrooks",
     "socialYoutube": "http://www.youtube.com/SusanWBrooks",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -5348,6 +5658,8 @@
     "socialTwitter": "https://twitter.com/RepLukeMesser",
     "socialYoutube": "https://www.youtube.com/user/RepLukeMesser",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -5377,6 +5689,8 @@
     "socialTwitter": "http://twitter.com/repandrecarson",
     "socialYoutube": "http://www.youtube.com/repandrecarson",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2008*"
   },
   {
@@ -5424,6 +5738,8 @@
     "socialTwitter": "https://twitter.com/RepLarryBucshon",
     "socialYoutube": "https://www.youtube.com/user/RepLarryBucshon",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -5459,6 +5775,8 @@
     "socialTwitter": "https://twitter.com/reptrey",
     "socialYoutube": "https://www.youtube.com/channel/UCTgS8a_zLg8HpUnk5WXY5ag",
     "state": "indiana",
+    "stateDisplay": "Indiana",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -5500,6 +5818,8 @@
     "socialTwitter": "http://twitter.com/RepRodBlum",
     "socialYoutube": "http://www.youtube.com/channel/UCACYUrK1zFAZzKcmz9ibEAg",
     "state": "iowa",
+    "stateDisplay": "Iowa",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -5535,6 +5855,8 @@
     "socialTwitter": "https://twitter.com/daveloebsack",
     "socialYoutube": "http://www.youtube.com/congressmanloebsack",
     "state": "iowa",
+    "stateDisplay": "Iowa",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -5576,6 +5898,8 @@
     "socialTwitter": "http://twitter.com/RepDavidYoung",
     "socialYoutube": "http://www.youtube.com/channel/UCD2SzM1kn4iZfHccN4bocQA",
     "state": "iowa",
+    "stateDisplay": "Iowa",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -5629,6 +5953,8 @@
     "socialTwitter": "https://twitter.com/SteveKingIA",
     "socialYoutube": "http://www.youtube.com/stevekingia",
     "state": "iowa",
+    "stateDisplay": "Iowa",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -5658,6 +5984,8 @@
     "socialTwitter": "https://twitter.com/RepMarshall",
     "socialYoutube": "http://www.youtube.com/republicanconference",
     "state": "kansas",
+    "stateDisplay": "Kansas",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -5693,6 +6021,8 @@
     "socialTwitter": "http://twitter.com/replynnjenkins",
     "socialYoutube": "http://www.youtube.com/RepLynnJenkins",
     "state": "kansas",
+    "stateDisplay": "Kansas",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -5722,6 +6052,8 @@
     "socialTwitter": "https://twitter.com/RepKevinYoder",
     "socialYoutube": "http://www.youtube.com/user/RepYoder",
     "state": "kansas",
+    "stateDisplay": "Kansas",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -5745,6 +6077,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "kansas",
+    "stateDisplay": "Kansas",
+    "threshold": 0,
     "yearElected": "NA"
   },
   {
@@ -5780,6 +6114,8 @@
     "socialTwitter": "https://twitter.com/KYComer",
     "socialYoutube": "",
     "state": "kentucky",
+    "stateDisplay": "Kentucky",
+    "threshold": 0,
     "yearElected": "2016"
   },
   {
@@ -5818,10 +6154,12 @@
     "photoUrl": "https://en.wikipedia.org/wiki/File:Brett_Guthrie,_Official_Photo.jpg",
     "socialFacebook": "https://www.facebook.com/CongressmanGuthrie/",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/RepGuthrie",
     "socialTwitte2": "https://twitter.com/brettguthrie?lang=en",
+    "socialTwitter": "https://twitter.com/RepGuthrie",
     "socialYoutube": "",
     "state": "kentucky",
+    "stateDisplay": "Kentucky",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -5857,6 +6195,8 @@
     "socialTwitter": "http://twitter.com/RepJohnYarmuth",
     "socialYoutube": "http://www.youtube.com/RepJohnYarmuth",
     "state": "kentucky",
+    "stateDisplay": "Kentucky",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -5898,6 +6238,8 @@
     "socialTwitter": "http://twitter.com/RepThomasMassie",
     "socialYoutube": "http://www.youtube.com/repthomasmassie",
     "state": "kentucky",
+    "stateDisplay": "Kentucky",
+    "threshold": 0,
     "yearElected": "2012*"
   },
   {
@@ -5939,6 +6281,8 @@
     "socialTwitter": "https://twitter.com/#!/RepHalRogers",
     "socialYoutube": "http://www.youtube.com/RepHalRogers",
     "state": "kentucky",
+    "stateDisplay": "Kentucky",
+    "threshold": 0,
     "yearElected": "1981"
   },
   {
@@ -5968,6 +6312,8 @@
     "socialTwitter": "https://twitter.com/RepAndyBarr",
     "socialYoutube": "http://www.youtube.com/RepAndyBarr",
     "state": "kentucky",
+    "stateDisplay": "Kentucky",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -6015,6 +6361,8 @@
     "socialTwitter": "https://twitter.com/SteveScalise",
     "socialYoutube": "https://www.youtube.com/user/RepSteveScalise",
     "state": "louisiana",
+    "stateDisplay": "Louisiana",
+    "threshold": 0,
     "yearElected": "2008"
   },
   {
@@ -6056,6 +6404,8 @@
     "socialTwitter": "http://twitter.com/RepRichmond",
     "socialYoutube": "http://www.youtube.com/RepCedricRichmond",
     "state": "louisiana",
+    "stateDisplay": "Louisiana",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -6079,6 +6429,8 @@
     "socialTwitter": "https://twitter.com/CaptClayHiggins",
     "socialYoutube": "",
     "state": "louisiana",
+    "stateDisplay": "Louisiana",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -6108,6 +6460,8 @@
     "socialTwitter": "https://twitter.com/repmikejohnson?lang=en",
     "socialYoutube": "",
     "state": "louisiana",
+    "stateDisplay": "Louisiana",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -6143,6 +6497,8 @@
     "socialTwitter": "http://twitter.com/RepAbraham",
     "socialYoutube": "",
     "state": "louisiana",
+    "stateDisplay": "Louisiana",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -6184,6 +6540,8 @@
     "socialTwitter": "http://twitter.com/RepGarretGraves",
     "socialYoutube": "http://www.youtube.com/channel/UCQLg9GGwTDluEFJtXf8seTA",
     "state": "louisiana",
+    "stateDisplay": "Louisiana",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -6219,6 +6577,8 @@
     "socialTwitter": "http://twitter.com/chelliepingree",
     "socialYoutube": "http://youtube.com/congresswomanpingree",
     "state": "maine",
+    "stateDisplay": "Maine",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -6260,6 +6620,8 @@
     "socialTwitter": "http://twitter.com/RepPoliquin",
     "socialYoutube": "http://www.youtube.com/channel/UCFk3paQ30PAME40YgJkuH4Q",
     "state": "maine",
+    "stateDisplay": "Maine",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -6301,6 +6663,8 @@
     "socialTwitter": "http://www.twitter.com/repandyharrismd",
     "socialYoutube": "http://www.youtube.com/user/RepAndyHarris",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -6330,6 +6694,8 @@
     "socialTwitter": "https://twitter.com/Call_Me_Dutch",
     "socialYoutube": "http://www.youtube.com/ruppersberger",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -6371,6 +6737,8 @@
     "socialTwitter": "https://twitter.com/RepSarbanes",
     "socialYoutube": "https://www.youtube.com/user/RepJohnSarbanes",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -6400,6 +6768,8 @@
     "socialTwitter": "https://twitter.com/AnthonyBrownMD4",
     "socialYoutube": "",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -6435,6 +6805,8 @@
     "socialTwitter": "http://twitter.com/WhipHoyer",
     "socialYoutube": "http://www.youtube.com/LeaderHoyer",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "1981*"
   },
   {
@@ -6470,6 +6842,8 @@
     "socialTwitter": "http://twitter.com/RepJohnDelaney",
     "socialYoutube": "http://www.youtube.com/repjohndelaney",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -6511,6 +6885,8 @@
     "socialTwitter": "https://twitter.com/RepCummings",
     "socialYoutube": "http://www.youtube.com/user/ElijahECummings",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "1996*"
   },
   {
@@ -6540,6 +6916,8 @@
     "socialTwitter": "http://twitter.com/repraskin",
     "socialYoutube": "http://www.youtube.com/channel/UChxDE6vho5BfBTOqiBsDmKg",
     "state": "maryland",
+    "stateDisplay": "Maryland",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -6575,6 +6953,8 @@
     "socialTwitter": "http://twitter.com/RepRichardNeal",
     "socialYoutube": "http://www.youtube.com/user/RepRichardENeal",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "1989"
   },
   {
@@ -6616,6 +6996,8 @@
     "socialTwitter": "http://twitter.com/repmcgovern",
     "socialYoutube": "http://www.youtube.com/repjimmcgovern",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -6669,6 +7051,8 @@
     "socialTwitter": "http://twitter.com/nikiinthehouse",
     "socialYoutube": "http://www.youtube.com/user/RepTsongas",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "2007*"
   },
   {
@@ -6704,6 +7088,8 @@
     "socialTwitter": "http://twitter.com/RepJoeKennedy",
     "socialYoutube": "http://www.youtube.com/channel/UCgfHlaGqxD8p-2V_YlNIqrA",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -6739,6 +7125,8 @@
     "socialTwitter": "http://twitter.com/RepKClark",
     "socialYoutube": "http://www.youtube.com/channel/UCgaI52w7QKI8LtkSeCCmSuw",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "2013*"
   },
   {
@@ -6768,6 +7156,8 @@
     "socialTwitter": "https://twitter.com/TeamMoulton",
     "socialYoutube": "https://www.youtube.com/channel/UC5w5qn7nj5Ljy69LTV7a_fQ",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -6803,6 +7193,8 @@
     "socialTwitter": "http://www.twitter.com/RepMikeCapuano",
     "socialYoutube": "http://www.youtube.com/user/RepMikeCapuano",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -6844,6 +7236,8 @@
     "socialTwitter": "http://twitter.com/#!/RepStephenLynch",
     "socialYoutube": "http://www.youtube.com/user/RepLynch",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "2001*"
   },
   {
@@ -6885,6 +7279,8 @@
     "socialTwitter": "http://twitter.com/USRepKeating",
     "socialYoutube": "http://www.youtube.com/user/RepBillKeating",
     "state": "massachusetts",
+    "stateDisplay": "Massachusetts",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -6914,6 +7310,8 @@
     "socialTwitter": "https://twitter.com/RepJackBergman",
     "socialYoutube": "",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -6949,6 +7347,8 @@
     "socialTwitter": "http://twitter.com/RepHuizenga",
     "socialYoutube": "http://youtube.com/RepHuizenga",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -6984,6 +7384,8 @@
     "socialTwitter": "https://twitter.com/justinamash",
     "socialYoutube": "https://www.youtube.com/user/RepJustinAmash",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -7019,6 +7421,8 @@
     "socialTwitter": "http://twitter.com/RepMoolenaar",
     "socialYoutube": "http://www.youtube.com/channel/UCnMvVN4a8roZu4crE0UW2DA",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -7048,6 +7452,8 @@
     "socialTwitter": "http://www.twitter.com/RepDanKildee",
     "socialYoutube": "http://www.youtube.com/RepDanKildee",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -7083,6 +7489,8 @@
     "socialTwitter": "http://twitter.com/RepFredUpton/",
     "socialYoutube": "http://youtube.com/user/RepFredUpton/",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "1987"
   },
   {
@@ -7112,6 +7520,8 @@
     "socialTwitter": "http://twitter.com/RepWalberg",
     "socialYoutube": "http://www.youtube.com/RepWalberg",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -7141,6 +7551,8 @@
     "socialTwitter": "http://twitter.com/repmikebishop",
     "socialYoutube": "http://www.youtube.com/channel/UCeG5_Zwq-4KXnGWufThSKRQ/feed",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -7170,6 +7582,8 @@
     "socialTwitter": "http://twitter.com/repsandylevin",
     "socialYoutube": "http://www.youtube.com/mi12yes",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "1983"
   },
   {
@@ -7199,6 +7613,8 @@
     "socialTwitter": "http://twitter.com/RepPaulMitchell",
     "socialYoutube": "http://www.youtube.com/channel/UCisQXodHJRZDaLtFMq_TzWg",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -7228,6 +7644,8 @@
     "socialTwitter": "http://twitter.com/repdavetrott",
     "socialYoutube": "http://www.youtube.com/channel/UCkIE7mLSCRV6QidM2fuil4w",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -7263,6 +7681,8 @@
     "socialTwitter": "http://twitter.com/RepDebDingell",
     "socialYoutube": "http://www.youtube.com/channel/UCnoP3KLT-HOvzDfC1-I-9lQ",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -7298,6 +7718,8 @@
     "socialTwitter": "http://twitter.com/repjohnconyers",
     "socialYoutube": "http://www.youtube.com/user/JCMI14",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "1965"
   },
   {
@@ -7333,6 +7755,8 @@
     "socialTwitter": "https://twitter.com/@RepLawrence",
     "socialYoutube": "https://www.youtube.com/channel/UCf0USy9GNigkB8O9sS1dodw",
     "state": "michigan",
+    "stateDisplay": "Michigan",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -7368,6 +7792,8 @@
     "socialTwitter": "https://twitter.com/RepTimWalz",
     "socialYoutube": "http://www.youtube.com/user/1529tjw",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -7397,6 +7823,8 @@
     "socialTwitter": "https://twitter.com/RepJasonLewis",
     "socialYoutube": "",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -7426,6 +7854,8 @@
     "socialTwitter": "http://twitter.com/RepErikPaulsen",
     "socialYoutube": "http://www.youtube.com/reperikpaulsen",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -7455,905 +7885,1263 @@
     "socialTwitter": "https://twitter.com/BettyMcCollum04",
     "socialYoutube": "",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "2263 Rayburn Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4755"
       },
       {
-        "address": "",
+        "address": "2100 Plymouth Avenue N, Minneapolis, MN 55411",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Minneapolis Office",
+        "phone": "(612) 522-1212"
       }
     ],
     "district": "5",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://ellison.house.gov/contact/email-me",
+    "linkMeeting": "https://ellison.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Keith_Ellison",
     "name": "Keith Ellison",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Keithellison.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/Keith.Ellison/",
+    "socialInstagram": "https://www.instagram.com/repkeithellison/?hl=en",
+    "socialTwitter": "https://twitter.com/keithellison",
+    "socialYoutube": "https://www.youtube.com/user/RepKeithEllison",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "315 Cannon House Office Building, Washington, DC 20003",
+        "fax": "(202) 225-6475",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2331"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "9201 Quaday Ave. NE, Suite 206, Otsego, MN 55330",
+        "fax": "(763) 241-7955",
+        "name": "Otsego Office",
+        "phone": "(763) 241-6848"
       }
     ],
     "district": "6",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://emmer.house.gov/contact/email",
+    "linkMeeting": "https://emmer.house.gov/meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Emmer",
     "name": "Tom Emmer",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Tom_Emmer_official_portrait_114th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/reptomemmer",
+    "socialInstagram": "http://instagram.com/reptomemmer",
+    "socialTwitter": "http://twitter.com/reptomemmer",
+    "socialYoutube": "http://www.youtube.com/RepTomEmmer",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2204 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-1593",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2165"
       },
       {
-        "address": "",
+        "address": "1420 East College Drive SW/WC, Marshall, MN 56258",
+        "fax": "507-537-2298",
+        "name": "Marshall Office",
+        "phone": "507-537-2299"
+      },
+      {
+        "address": "230 East 3rd Street, Redwood Falls, MN 56283",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Redwood Falls Office",
+        "phone": "507-637-2270"
+      },
+      {
+        "address": "714 Lake Avenue Suite 101, Detroit Lakes , MN 56501",
+        "fax": "218-847-5109",
+        "name": "Detroit Lakes Office",
+        "phone": "218-847-5056"
+      },
+      {
+        "address": "100 N. First Street, Montevideo, MN 56265",
+        "fax": "",
+        "name": "Montevideo Office",
+        "phone": "320-235-1061 "
+      },
+      {
+        "address": "324 3rd Street, SW, Suite 4, Willmar, MN 56201",
+        "fax": "320-235-2651",
+        "name": "Willmar Office",
+        "phone": "320-235-1061"
       }
     ],
     "district": "7",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://collinpeterson.house.gov/contact-me/email-me",
+    "linkMeeting": "https://collinpeterson.house.gov/contact-me/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Collin_Peterson",
     "name": "Collin Peterson",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Collin_Peterson,_Official_Portrait,_c.112th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/Collin-Peterson-6595227967/",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/collinpeterson?lang=en",
     "socialYoutube": "",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "1991"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2366 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-0699",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6211"
       },
       {
-        "address": "",
+        "address": "501 Laurel Street, Brainerd, MN 56401",
+        "fax": "(218) 454-4096",
+        "name": "Brainerd Office",
+        "phone": "(218) 454-4078"
+      },
+      {
+        "address": "313 North Main Street Room 103, Center City, MN 55012",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Center City Office",
+        "phone": "218-491-3131"
+      },
+      {
+        "address": "316 West Lake Street, Room #7, Chisholm, MN 55719",
+        "fax": "",
+        "name": "Chisholm Office",
+        "phone": "218-491-3114"
+      },
+      {
+        "address": "11 E. Superior Street #125, Duluth, MN 55802",
+        "fax": "(218) 464-5098",
+        "name": "Duluth Office",
+        "phone": "(218) 464-5095"
       }
     ],
     "district": "8",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://nolan.house.gov/contact/email-me",
+    "linkMeeting": "https://nolan.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rick_Nolan",
     "name": "Rick Nolan",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Rick_Nolan_official_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/UsRepRickNolan",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/usrepricknolan",
+    "socialYoutube": "http://www.youtube.com/USRepRickNolan",
     "state": "minnesota",
+    "stateDisplay": "Minnesota",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1721 Longworth H.O.B., Washington, DC 20515",
+        "fax": "(202) 225-3549",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4306"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "318 North 7th Street, Suite D, Columbus, MS 39701",
+        "fax": "(662) 328-5982",
+        "name": "Columbus Office",
+        "phone": "(662) 327-0748"
+      },
+      {
+        "address": "855 South Dunn Street, Eupora, MS 39744",
+        "fax": "(662) 258-7240",
+        "name": "Eupora Office",
+        "phone": "(662) 258-7240"
+      },
+      {
+        "address": "4135 County Road 200, Corinth, MS 38844",
+        "fax": "(662) 687-1525",
+        "name": "Farmington Office",
+        "phone": "(662) 687-1525"
+      },
+      {
+        "address": "2565 Caffey Street, #200, P.O. Box 218, Hernando, MS 38632",
+        "fax": "(662) 449-4836",
+        "name": "Hernando Office",
+        "phone": "(662) 449-3090"
+      },
+      {
+        "address": "431 West Main Street, Tupelo, MS 38804",
+        "fax": "(662) 841-8845",
+        "name": "Tupelo Office",
+        "phone": "(662) 841-8808"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://trentkelly.house.gov/Contact",
+    "linkMeeting": "https://trentkelly.house.gov/constituent-services/meeting-request.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Trent_Kelly_(politician)",
     "name": "Trent Kelly",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/Trent_Kelly_(politician)",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://facebook.com/reptrentkelly",
+    "socialInstagram": "https://www.instagram.com/reptrentkelly/",
+    "socialTwitter": "http://www.twitter.com/reptrentkelly",
+    "socialYoutube": "https://www.youtube.com/channel/UCtDrz-8tdg4ZgOAQHToSWaQ",
     "state": "mississippi",
+    "stateDisplay": "Mississippi",
+    "threshold": 0,
     "yearElected": "2015*"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2466 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-5898",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5876"
       },
       {
-        "address": "",
+        "address": "107 West Madison Street, Bolton, MS 39041",
+        "fax": "(601) 866-9036",
+        "name": "Bolton Office",
+        "phone": "(601) 866-9003"
+      },
+      {
+        "address": "910 Courthouse Lane, Greenville, MS 38701",
+        "fax": "(662) 334-1304",
+        "name": "Greenville Office",
+        "phone": "(662) 335-9003"
+      },
+      {
+        "address": "509 Highway 82 West, Greenwood, MS 38930",
+        "fax": "(662) 453-0118",
+        "name": "Greenwood Office",
+        "phone": "(662) 455-9003"
+      },
+      {
+        "address": "3607 Medgar Evers Boulevard, Jackson, MS 39213",
+        "fax": "(601)-982-5337",
+        "name": "Jackson Office",
+        "phone": "(601) 946-9003"
+      },
+      {
+        "address": "P.O. Box 356, 263 East Main Street, Marks, MS 38646",
+        "fax": "",
+        "name": "Marks Office",
+        "phone": "(662) 326-9003"
+      },
+      {
+        "address": "P.O. Box 679 106 Green Avenue, Suite 106, Mound Bayou, MS 38762",
         "fax": "",
         "name": "Office",
-        "phone": ""
+        "phone": "(662) 741-9003"
       }
     ],
     "district": "2",
-    "linkContact": "",
+    "linkContact": "https://benniethompson.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bennie_Thompson",
     "name": "Bennie Thompson",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Bennie_Thompson,_Official_Portrait,_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/Congressman-Bennie-G-Thompson/",
+    "socialInstagram": "http://instagram.com/benniegthompson/",
+    "socialTwitter": "http://twitter.com/BennieGThompson",
+    "socialYoutube": "http://www.youtube.com/user/RepBennieThompson",
     "state": "mississippi",
+    "stateDisplay": "Mississippi",
+    "threshold": 0,
     "yearElected": "1993*"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2227 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-5797",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5031"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "230 South Whitworth St., Brookhaven, MS 39601",
+        "fax": "(601) 823-5512",
+        "name": "Brookhaven Office",
+        "phone": "(601) 823-3400"
+      },
+      {
+        "address": "1901 Front St., Suite A, Meridian, MS 39301",
+        "fax": "(601) 693-1801",
+        "name": "Meridian Office",
+        "phone": "(601) 693-6681"
+      },
+      {
+        "address": "2507-A Old Brandon Rd., Pearl, MS 39208",
+        "fax": "(601) 932-4647",
+        "name": "Pearl Office",
+        "phone": "(601) 932-2410"
+      },
+      {
+        "address": "600 Russell St., Suite 160, Starkville, MS 39759",
+        "fax": "(662) 324-0033",
+        "name": "Starkville Office",
+        "phone": "(662) 324-0007"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://harper.house.gov/contact-gregg/email-gregg",
+    "linkMeeting": "http://harper.house.gov/contact-gregg/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gregg_Harper",
     "name": "Gregg Harper",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Greg_Harper_official_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/GreggHarper",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/GreggHarper",
+    "socialYoutube": "http://www.youtube.com/congressmanharper",
     "state": "mississippi",
+    "stateDisplay": "Mississippi",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "2349 Rayburn House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5772"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "970 Tommy Munro Drive, Suite D, Biloxi, MS 39532",
+        "fax": "(228) 864-3099",
+        "name": "Biloxi Office",
+        "phone": "(228) 864-7670"
+      },
+      {
+        "address": "3118 Pascagoula St., Suite 181, Pascagoula, MS 39567",
+        "fax": "228-202-8105",
+        "name": "Pascagoula Office",
+        "phone": "228-202-8104"
+      },
+      {
+        "address": "641 Main Street, Suite 142, Hattiesburg, MS 39401",
+        "fax": "601-582-3452",
+        "name": "Hattiesburg Office",
+        "phone": "(601) 582-3246"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://palazzo.house.gov/contact",
+    "linkMeeting": "http://palazzo.house.gov/contact/scheduling-requests.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Steven_Palazzo",
     "name": "Steven Palazzo",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Steven_Palazzo,_Official_Portrait,_112th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/stevenpalazzo",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/congpalazzo",
+    "socialYoutube": "http://www.youtube.com/CongressmanPalazzo",
     "state": "mississippi",
+    "stateDisplay": "Mississippi",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2428 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 226-3717",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2406"
       },
       {
-        "address": "",
-        "fax": "",
+        "address": "1281 Graham Rd, Suite 202, Florissant, MO 63031",
+        "fax": "(314) 383-8020",
+        "name": "Florissant Office",
+        "phone": "(314) 383-5240"
+      },
+      {
+        "address": "111 S. 10th Street, Suite 24.344, St. Louis, MO 63102",
+        "fax": "(314) 367-1341",
         "name": "Office",
-        "phone": ""
+        "phone": "(314) 367-1970"
+      },
+      {
+        "address": "6830 Gravois, St. Louis, MO 63116",
+        "fax": "(314) 669-9398",
+        "name": "St. Louis Office",
+        "phone": "(314) 669-9393"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://lacyclay.house.gov/contact/email",
+    "linkMeeting": "https://lacyclay.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/William_Lacy_Clay,_Jr.",
     "name": "William Clay",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Williamclay.jpeg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/CongressmanClayMO1/",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/LacyClayMO1",
+    "socialYoutube": "http://www.youtube.com/user/WilliamLacyClay",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "435 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-1621"
       },
       {
-        "address": "",
+        "address": "301 Sovereign Court, Suite 201, Ballwin, MO 63011",
         "fax": "",
         "name": "Office",
-        "phone": ""
+        "phone": "(636) 779-5449"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://wagner.house.gov/contact/email-me",
+    "linkMeeting": "https://wagner.house.gov/contact/meeting-event-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ann_Wagner",
     "name": "Ann Wagner",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Ann_Wagner_113th_Congress_official_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/pages/Ann-Wagner/215485388588143",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/@RepAnnWagner",
+    "socialYoutube": "http://www.youtube.com/channel/UCy2v2DXXvQnbRc8Zx77Dnsg",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2230 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-5712",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2956"
       },
       {
-        "address": "",
+        "address": "2117 Missouri Boulevard, Jefferson City, MO 65109",
+        "fax": "(573) 635-8347",
+        "name": "Jefferson City Office",
+        "phone": "(573) 635-7232"
+      },
+      {
+        "address": "113 East Pearce Boulevard, Wentzville, MO 63385",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Wentzville Office",
+        "phone": "(636) 327-7055"
+      },
+      {
+        "address": "516 Jefferson St., Washington, MO 63090",
+        "fax": "(636) 239-0478",
+        "name": "Washington Office",
+        "phone": "(636) 239-2276"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://luetkemeyer.house.gov/Contact/",
+    "linkMeeting": "http://luetkemeyer.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Blaine_Luetkemeyer",
     "name": "Blaine Luetkemeyer",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Blaine_Luetkemeyer.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/BlaineLuetkemeyer",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/repblainepress",
+    "socialYoutube": "http://www.youtube.com/user/BLuetkemeyer",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2235 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-0148",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2876"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "2415 Carter Lane, Suite 4, Columbia, MO 65201",
+        "fax": "(573) 442-9309",
+        "name": "Columbia Office",
+        "phone": "(573) 442-9311"
+      },
+      {
+        "address": "1909 North Commercial Street, Harrisonville, MO 64701",
+        "fax": "(816) 884-3163",
+        "name": "Harrisonville Office",
+        "phone": "(816) 884-3411"
+      },
+      {
+        "address": "219 North Adams Street, Lebanon, MO 65536",
+        "fax": "(417) 532-3886",
+        "name": "Lebanon Office",
+        "phone": "(417) 532-5582"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://hartzler.house.gov/contact/email",
+    "linkMeeting": "https://hartzler.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Vicky_Hartzler",
     "name": "Vicky Hartzler",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Vicky_Hartzler_official_photo,_114th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/Congresswoman.Hartzler",
+    "socialInstagram": "http://instagram.com/rephartzler",
+    "socialTwitter": "https://twitter.com/rephartzler",
+    "socialYoutube": "http://www.youtube.com/user/RepVickyHartzler",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2335 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-4403",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4535"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1923 Main St., Higginsville, MO 64037",
+        "fax": "(660) 584-7227",
+        "name": "Higginsville Office",
+        "phone": "(660) 584-7373"
+      },
+      {
+        "address": "211 West Maple Avenue, Independence, MO 64050",
+        "fax": "(816) 833-2991",
+        "name": "Independence Office",
+        "phone": "(816) 833-4545"
+      },
+      {
+        "address": "101 W. 31 Street, Kansas City, MO 64108",
+        "fax": "(816) 471-5215",
+        "name": "Kansas City Office",
+        "phone": "(816) 842-4545"
       }
     ],
     "district": "5",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://cleaver.house.gov/contact/email-me",
+    "linkMeeting": "https://cleaver.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Emanuel_Cleaver",
     "name": "Emanuel Cleaver",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Rep._Emanuel_Cleaver.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/emanuelcleaverii",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/repcleaver",
+    "socialYoutube": "https://www.youtube.com/user/repcleaver",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1135 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-8221",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-7041"
       },
       {
-        "address": "",
+        "address": "906 Broadway, PO Box 364, Hannibal, MO 63401",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Hannibal Office",
+        "phone": "(573) 221-3400"
+      },
+      {
+        "address": "11724 NW Plaza Circle, Suite 900, Kansas City, MO 64153",
+        "fax": "(816) 792-0694",
+        "name": "Kansas City Office",
+        "phone": "(816) 792-3976"
+      },
+      {
+        "address": "411 Jules Street, Room 111, St. Joseph, MO 64501",
+        "fax": "(816) 749-0801",
+        "name": "St. Joseph Office",
+        "phone": "(816) 749-0800"
       }
     ],
     "district": "6",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://graves.house.gov/contact/email-me",
+    "linkMeeting": "https://graves.house.gov/services/schedule-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sam_Graves",
     "name": "Sam Graves",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Sam_Graves,_Official_Portrait,_c113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/pages/Sam-Graves/118514606128",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/RepSamGraves",
     "socialYoutube": "",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2454 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-5604",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6536"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "3232 E. Ridgeview St., Springfield, MO 65804",
+        "fax": "(417) 889-4915",
+        "name": "Springfield Office",
+        "phone": "(417) 889-1800"
+      },
+      {
+        "address": "2727 E. 32nd St. Ste. 2, Joplin, MO 64804",
+        "fax": "(417) 781-2832",
+        "name": "Joplin Office",
+        "phone": "(417) 781-1041"
       }
     ],
     "district": "7",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://long.house.gov/email-billy/",
+    "linkMeeting": "https://long.house.gov/schedule-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Billy_Long",
     "name": "Billy Long",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Billy_Long_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/Rep.Billy.Long",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/usreplong",
+    "socialYoutube": "http://www.youtube.com/user/MOdistrict7",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1118 Longworth House Office Building, Washington, DC 20515",
+        "fax": "202-226-0326",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4404"
       },
       {
-        "address": "",
+        "address": "2502 Tanner Drive, Suite 205, Cape Girardeau, MO 63703",
+        "fax": "573-335-1931",
+        "name": "Cape Girardeau Office",
+        "phone": "573-335-0101"
+      },
+      {
+        "address": "P.O. Box 1165, Farmington, MO 63640",
+        "fax": "573-756-9762",
+        "name": "Farmington Office",
+        "phone": "573-756-9755"
+      },
+      {
+        "address": "830A S. Bishop, Rolla, MO 65401",
+        "fax": "573-364-1053",
+        "name": "Rolla Office",
+        "phone": "573-364-2455"
+      },
+      {
+        "address": "35 Court Square, Suite 300, West Plains, MO 65775",
+        "fax": "417-255-2009",
+        "name": "West Plains Office",
+        "phone": "417-255-1515"
+      },
+      {
+        "address": "2725 North Westwood Blvd, Suite 5A, Poplar Bluff, MO 63901",
         "fax": "",
-        "name": "Office",
+        "name": "Poplar Bluff Office",
         "phone": ""
       }
     ],
     "district": "8",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://jasonsmith.house.gov/contact/email-jason",
+    "linkMeeting": "https://jasonsmith.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jason_T._Smith",
     "name": "Jason T. Smith",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Jason_T._Smith,_Official_Portrait,_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repjasonsmith",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepJasonSmith",
+    "socialYoutube": "http://www.youtube.com/user/RepJasonSmith",
     "state": "missouri",
+    "stateDisplay": "Missouri",
+    "threshold": 0,
     "yearElected": "2013*"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1419 Longworth House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-5687",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3211"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "222 North 32nd Street, Suite 900, Billings, MT 59101",
+        "fax": "406-702-1182",
+        "name": "Billings Office",
+        "phone": "406-969-1736"
+      },
+      {
+        "address": "710 Central Ave, Great Falls, MT 59401",
+        "fax": "406-952-1211",
+        "name": "Great Falls Office",
+        "phone": "406-952-1210"
+      },
+      {
+        "address": "910 N. Last Chance Gulch, Suite B, Helena, MT 59601",
+        "fax": "406-502-1436",
+        "name": "Helena Office",
+        "phone": "406-502-1435"
+      },
+      {
+        "address": "1008 South Avenue, Suite 2, Missoula, MT 59801",
+        "fax": "(406) 540-4371",
+        "name": "Missoula Office",
+        "phone": "(406) 540-4370"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://zinke.house.gov/contact/email",
+    "linkMeeting": "https://zinke.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ryan_Zinke",
     "name": "Ryan Zinke",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Ryan_Zinke_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/CongressmanRyanZinke",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepRyanZinke",
+    "socialYoutube": "http://www.youtube.com/channel/UCBKZXK7VNIQWnKsYQt8GWjA",
     "state": "montana",
+    "stateDisplay": "Montana",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1514 Longworth House Office, Washington, DC 20515",
+        "fax": "(202) 225-5686",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4806"
       },
       {
-        "address": "",
+        "address": "P.O. Box 377, 641 N. Broad Street, Fremont, NE 68026",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Fremont Office",
+        "phone": "(402) 727-0888"
+      },
+      {
+        "address": "301 South 13th Street, Suite 100, Lincoln, NE 68508",
+        "fax": "(402) 438-1604",
+        "name": "Lincoln Office",
+        "phone": "(402) 438-1598"
+      },
+      {
+        "address": "506 West Madison Avenue, Suite 2, Norfolk, NE 68701",
+        "fax": "",
+        "name": "Norfolk Office",
+        "phone": "(402) 379-2064"
       }
     ],
     "district": "1",
-    "linkContact": "",
+    "linkContact": "https://fortenberry.house.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Fortenberry",
     "name": "Jeff Fortenberry",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Jeff_Fortenberry_Official.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/jefffortenberry",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/jefffortenberry",
+    "socialYoutube": "http://www.youtube.com/JeffFortenberry",
     "state": "nebraska",
+    "stateDisplay": "Nebraska",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "1516 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4155"
       },
       {
-        "address": "",
+        "address": "13906 Gold Circle, Suite 101, Omaha, NE 68144",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Omaha Office",
+        "phone": "888-221-7452"
       }
     ],
     "district": "2",
-    "linkContact": "",
+    "linkContact": "https://bacon.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Don_Bacon_(general)",
     "name": "Don Bacon",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Donald_J._Bacon.JPG",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepDonBacon/",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/RepDonBacon",
     "socialYoutube": "",
     "state": "nebraska",
+    "stateDisplay": "Nebraska",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "320 Cannon HOB, Washington, DC 20515",
+        "fax": "(202) 225-0207",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6435"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "416 Valley View Drive, Suite 600, Scottsbluff, NE 69361",
+        "fax": "(308) 633-6335",
+        "name": "Scottsbluff Office",
+        "phone": "(308) 633-6333"
+      },
+      {
+        "address": "1811 West Second Street, Suite 275, Grand Island, NE 68803",
+        "fax": "(308) 384-3902",
+        "name": "Grand Island Office",
+        "phone": "(308) 384-3900"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://adriansmith.house.gov/contact-me/email-me",
+    "linkMeeting": "https://adriansmith.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Adrian_Smith_(politician)",
     "name": "Adrian Smith",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Adrian_Smith,_official_110th_Congress_photo_portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/AdrianSmithNE/",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepAdrianSmith",
+    "socialYoutube": "http://www.youtube.com/user/RepAdrianSmith",
     "state": "nebraska",
+    "stateDisplay": "Nebraska",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "2464 Rayburn House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-5965"
       },
       {
-        "address": "",
+        "address": "550 East Charleston Blvd., Suite B, Las Vegas, NV 89104",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Las Vegas Office",
+        "phone": "(702) 220-9823"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://titus.house.gov/contact/email-me",
+    "linkMeeting": "https://titus.house.gov/make-an-appointment",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dina_Titus",
     "name": "Dina Titus",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Dina_Titus_official_photo_2009.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/CongresswomanTitus",
+    "socialInstagram": "http://instagram.com/dinatitusnv",
+    "socialTwitter": "https://twitter.com/repdinatitus",
+    "socialYoutube": "http://www.youtube.com/user/CongresswomanTitus",
     "state": "nevada",
+    "stateDisplay": "Nevada",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "332 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-5679",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6155"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "5310 Kietzke Lane, Suite 103, Reno, NV 89511",
+        "fax": "(775) 686-5711",
+        "name": "Reno Office",
+        "phone": "(775) 686-5760"
+      },
+      {
+        "address": "905 Railroad Street, Suite 104 D, Elko, NV 89801",
+        "fax": "(775) 753-9984",
+        "name": "Elko Office",
+        "phone": "(775) 777-7705"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://amodei.house.gov/email-me/",
+    "linkMeeting": "https://amodei.house.gov/request-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_Amodei",
     "name": "Mark Amodei",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Mark_Amodei.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/MarkAmodeiNV2",
+    "socialInstagram": "http://instagram.com/MarkAmodeiNV2#",
+    "socialTwitter": "https://twitter.com/markamodeinv2",
+    "socialYoutube": "http://www.youtube.com/markamodeinv2",
     "state": "nevada",
+    "stateDisplay": "Nevada",
+    "threshold": 0,
     "yearElected": "2011*"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "413 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-3252"
       },
       {
-        "address": "",
+        "address": "8872 S Eastern Ave, Suite 210/220, Las Vegas, NV 89123",
         "fax": "",
-        "name": "Office",
+        "name": "Las Vegas Office",
         "phone": ""
       }
     ],
     "district": "3",
-    "linkContact": "",
+    "linkContact": "https://rosen.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jacky_Rosen",
     "name": "Jacky Rosen",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Jacky_Rosen.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepJackyRosen/",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/rosenfornevada?lang=en",
     "socialYoutube": "",
     "state": "nevada",
+    "stateDisplay": "Nevada",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "313 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-9894"
       },
       {
-        "address": "",
+        "address": "2250 N Las Vegas Blvd, Suite 500, North Las Vegas, NV 89030",
         "fax": "",
-        "name": "Office",
+        "name": "North Las Vegas Office",
         "phone": ""
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://kihuen.house.gov/contact",
+    "linkMeeting": "http://kihuen.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ruben_Kihuen",
     "name": "Ruben Kihuen",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Ruben_Kihuen.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepKihuen",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/RepKihuen",
     "socialYoutube": "",
     "state": "nevada",
+    "stateDisplay": "Nevada",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "1530 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-5456"
       },
       {
-        "address": "",
+        "address": "660 Central Ave, Dover, NH 03820",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Dover Office",
+        "phone": "888-216-5373"
       }
     ],
     "district": "1",
-    "linkContact": "",
+    "linkContact": "https://shea-porter.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Carol_Shea-Porter",
     "name": "Carol Shea-Porter",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Carol_shea-porter.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repsheaporter",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "http://twitter.com/repsheaporter",
     "socialYoutube": "",
     "state": "new_hampshire",
+    "stateDisplay": "New Hampshire",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "137 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-2946",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5206"
       },
       {
-        "address": "",
+        "address": "18 North Main Street, Fourth Floor, Concord, NH 03301",
+        "fax": "(603) 226-1010",
+        "name": "Concord Office",
+        "phone": "(603) 226-1002"
+      },
+      {
+        "address": "184 Main Street, Suite 222, Nashua, NH 03060",
+        "fax": "(603) 595-2016",
+        "name": "Nashua Office",
+        "phone": "(603) 595-2006"
+      },
+      {
+        "address": "33 Main Street, Suite 202, Littleton, NH 03561",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "North County Office",
+        "phone": "(603) 444-7700"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://kuster.house.gov/contact/email-me",
+    "linkMeeting": "https://kuster.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ann_McLane_Kuster",
     "name": "Ann McLane Kuster",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Anne_McLane_Kuster,_Official_Portrait,_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/CongresswomanAnnieKuster",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/@RepAnnieKuster",
+    "socialYoutube": "http://www.youtube.com/RepKuster",
     "state": "new_hampshire",
+    "stateDisplay": "New Hampshire",
+    "threshold": 15546,
     "yearElected": "2013"
   },
   {
     "contact": [
       {
-        "address": "",
+        "address": "1531 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6501"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "10 Melrose Avenue, Suite 210, Cherry Hill, NJ 08003",
+        "fax": "(856) 427-4109",
+        "name": "Cherry Hill Office",
+        "phone": "(856) 427-7000"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://norcross.house.gov/contact/email-me",
+    "linkMeeting": "https://norcross.house.gov/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Donald_Norcross",
     "name": "Donald Norcross",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:RepDonaldNorcross-official-cropped.png",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/DonaldNorcrossNJ",
+    "socialInstagram": "https://instagram.com/donald_norcross/",
+    "socialTwitter": "https://twitter.com/@DonaldNorcross",
+    "socialYoutube": "http://www.youtube.com/channel/UC7kXK_PyDiOT8YrdP0jYZHw/feed/",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 70843,
     "yearElected": "2014*"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2427 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-3318",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6572"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "5914 Main Street Suite 103, Mays Landing, NJ 08330",
+        "fax": "(609) 625-5071",
+        "name": "Mays Landing Office",
+        "phone": "(609) 625-5008"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://lobiondo.house.gov/contact-me/email-me",
+    "linkMeeting": "https://lobiondo.house.gov/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Frank_LoBiondo",
     "name": "Frank LoBiondo",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Frank_A._LoBiondo_113th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/FrankLoBiondo",
+    "socialInstagram": "https://instagram.com/repfranklobiondo/",
+    "socialTwitter": "http://twitter.com/RepLoBiondo",
+    "socialYoutube": "http://www.youtube.com/user/USRepFrankLoBiondo",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "506 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-0778",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4765"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "535 East Main Street, Marlton, NJ 08053",
+        "fax": "(856) 574-4697",
+        "name": "Marlton Office",
+        "phone": "(856) 267-5182"
+      },
+      {
+        "address": "33 Washington St, Toms River, NJ 08753",
+        "fax": "(732) 998-8137",
+        "name": "Toms River Office",
+        "phone": "(732) 569-6495"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://macarthur.house.gov/contact/email",
+    "linkMeeting": "https://macarthur.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_MacArthur",
     "name": "Tom MacArthur",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Tom_MacArthur_official_congressional_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/CongressmanTomMacArthur",
+    "socialInstagram": "http://instagram.com/reptmac/",
+    "socialTwitter": "http://twitter.com/RepTomMacArthur",
+    "socialYoutube": "http://www.youtube.com/channel/UCLD7s-g8XgSd_wvuUWATKkQ",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2373 Rayburn House Office Building, Washington, D.C. 20515",
+        "fax": "(202) 225-7768",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3765"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "112 Village Center Drive, Second Floor, Freehold, N.J. 07728",
+        "fax": "(732) 780-3079",
+        "name": "Freehold Office",
+        "phone": "(732) 780-3035"
+      },
+      {
+        "address": "405 Route 539 (Pinehurst Road), Plumsted, N.J. 08514",
+        "fax": "(609) 286-2630",
+        "name": "Plumsted Office",
+        "phone": "(609) 286-2571"
+      },
+      {
+        "address": "4573 South Broad Street, Hamilton, N.J. 08620",
+        "fax": "(609) 585-9155",
+        "name": "Hamilton Office",
+        "phone": "(609) 585-7878"
       }
     ],
     "district": "4",
-    "linkContact": "",
+    "linkContact": "http://chrissmith.house.gov/contact/zipauth.htm",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)",
     "name": "Chris Smith",
     "party": "Republican",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Day2_chris_smith.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/pages/Congressman-Chris-Smith/371621772908416",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepChrisSmith",
+    "socialYoutube": "http://www.youtube.com/USRepChrisSmith",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "1981"
   },
   {
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "213 Cannon HOB, Washington, DC 20515",
+        "fax": "(202) 225-9048",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4465"
       },
       {
-        "address": "",
+        "address": "65 Harristown Road, Suite 104, Glen Rock, NJ 07452",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Glen Rock Office",
+        "phone": "888-216-5646"
+      },
+      {
+        "address": "93 Spring Street, Suite 408, Newton, NJ 07860",
+        "fax": "",
+        "name": "Newton Office",
+        "phone": "888-216-5646"
       }
     ],
     "district": "5",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://gottheimer.house.gov/contact",
+    "linkMeeting": "http://gottheimer.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Josh_Gottheimer",
     "name": "Josh Gottheimer",
     "party": "Democratic",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Josh_Gottheimer_FCC.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
+    "socialFacebook": "https://www.facebook.com/RepJoshG",
+    "socialInstagram": "https://www.instagram.com/RepJoshG/",
+    "socialTwitter": "https://twitter.com/RepJoshG",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -8383,6 +9171,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "1988*"
   },
   {
@@ -8412,6 +9202,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -8441,6 +9233,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2006*"
   },
   {
@@ -8470,6 +9264,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -8499,6 +9295,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2012*"
   },
   {
@@ -8528,6 +9326,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -8557,6 +9357,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_jersey",
+    "stateDisplay": "New Jersey",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -8586,6 +9388,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_mexico",
+    "stateDisplay": "New Mexico",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -8615,6 +9419,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_mexico",
+    "stateDisplay": "New Mexico",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -8644,6 +9450,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_mexico",
+    "stateDisplay": "New Mexico",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -8673,6 +9481,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -8702,6 +9512,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -8731,6 +9543,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -8760,6 +9574,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -8789,6 +9605,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1998*"
   },
   {
@@ -8818,6 +9636,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -8847,6 +9667,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -8876,6 +9698,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -8905,6 +9729,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -8934,6 +9760,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1992*"
   },
   {
@@ -8963,6 +9791,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2015*"
   },
   {
@@ -8992,6 +9822,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -9021,6 +9853,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -9050,6 +9884,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -9079,6 +9915,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1990*"
   },
   {
@@ -9108,6 +9946,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1989"
   },
   {
@@ -9137,6 +9977,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1989"
   },
   {
@@ -9166,6 +10008,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9195,6 +10039,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -9224,6 +10070,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -9253,6 +10101,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -9282,6 +10132,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -9311,6 +10163,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2010*"
   },
   {
@@ -9340,6 +10194,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -9369,6 +10225,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "1987"
   },
   {
@@ -9398,6 +10256,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -9427,6 +10287,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "new_york",
+    "stateDisplay": "New York",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9456,6 +10318,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2004*"
   },
   {
@@ -9485,6 +10349,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9514,6 +10380,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -9543,6 +10411,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -9572,6 +10442,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -9601,6 +10473,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -9630,6 +10504,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -9659,6 +10535,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9688,6 +10566,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9717,6 +10597,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -9746,6 +10628,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9775,6 +10659,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2014*"
   },
   {
@@ -9804,6 +10690,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_carolina",
+    "stateDisplay": "North Carolina",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -9833,6 +10721,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "north_dakota",
+    "stateDisplay": "North Dakota",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9862,6 +10752,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -9891,6 +10783,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9920,6 +10814,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -9949,6 +10845,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -9978,6 +10876,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -10007,6 +10907,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10036,6 +10938,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10065,6 +10969,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2016"
   },
   {
@@ -10094,6 +11000,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "1983"
   },
   {
@@ -10123,6 +11031,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -10152,6 +11062,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2008*"
   },
   {
@@ -10181,6 +11093,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -10210,6 +11124,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -10239,6 +11155,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -10268,6 +11186,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10297,6 +11217,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "ohio",
+    "stateDisplay": "Ohio",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10326,6 +11248,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oklahoma",
+    "stateDisplay": "Oklahoma",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -10355,6 +11279,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oklahoma",
+    "stateDisplay": "Oklahoma",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -10384,6 +11310,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oklahoma",
+    "stateDisplay": "Oklahoma",
+    "threshold": 0,
     "yearElected": "1994*"
   },
   {
@@ -10413,6 +11341,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oklahoma",
+    "stateDisplay": "Oklahoma",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -10442,6 +11372,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oklahoma",
+    "stateDisplay": "Oklahoma",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -10471,6 +11403,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oregon",
+    "stateDisplay": "Oregon",
+    "threshold": 0,
     "yearElected": "2012*"
   },
   {
@@ -10500,6 +11434,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oregon",
+    "stateDisplay": "Oregon",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -10529,6 +11465,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oregon",
+    "stateDisplay": "Oregon",
+    "threshold": 0,
     "yearElected": "1996*"
   },
   {
@@ -10558,6 +11496,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oregon",
+    "stateDisplay": "Oregon",
+    "threshold": 0,
     "yearElected": "1987"
   },
   {
@@ -10587,6 +11527,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "oregon",
+    "stateDisplay": "Oregon",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -10616,6 +11558,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "1998*"
   },
   {
@@ -10645,6 +11589,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2016*"
   },
   {
@@ -10674,6 +11620,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10703,6 +11651,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -10732,6 +11682,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -10761,6 +11713,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -10790,6 +11744,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10819,6 +11775,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -10848,6 +11806,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2001*"
   },
   {
@@ -10877,6 +11837,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10906,6 +11868,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -10935,6 +11899,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -10964,6 +11930,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -10993,6 +11961,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -11022,6 +11992,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -11051,6 +12023,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -11080,6 +12054,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -11109,6 +12085,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "pennsylvania",
+    "stateDisplay": "Pennsylvania",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -11138,6 +12116,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "rhode_island",
+    "stateDisplay": "Rhode Island",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11167,6 +12147,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "rhode_island",
+    "stateDisplay": "Rhode Island",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -11196,6 +12178,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "2013*"
   },
   {
@@ -11225,6 +12209,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "2001*"
   },
   {
@@ -11254,6 +12240,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11283,6 +12271,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11312,6 +12302,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11341,6 +12333,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -11370,6 +12364,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_carolina",
+    "stateDisplay": "South Carolina",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -11399,6 +12395,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "south_dakota",
+    "stateDisplay": "South Dakota",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11428,6 +12426,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -11457,6 +12457,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "1988*"
   },
   {
@@ -11486,6 +12488,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11515,6 +12519,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11544,6 +12550,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -11573,6 +12581,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -11602,6 +12612,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -11631,6 +12643,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -11660,6 +12674,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "tennessee",
+    "stateDisplay": "Tennessee",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -11689,6 +12705,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -11718,6 +12736,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -11747,6 +12767,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1991*"
   },
   {
@@ -11776,6 +12798,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -11805,6 +12829,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -11834,6 +12860,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1985"
   },
   {
@@ -11863,6 +12891,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -11892,6 +12922,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -11921,6 +12953,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -11950,6 +12984,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -11979,6 +13015,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -12008,6 +13046,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -12037,6 +13077,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -12066,6 +13108,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12095,6 +13139,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -12124,6 +13170,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12153,6 +13201,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -12182,6 +13232,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -12211,6 +13263,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -12240,6 +13294,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12269,6 +13325,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1987"
   },
   {
@@ -12298,6 +13356,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -12327,6 +13387,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -12356,6 +13418,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -12385,6 +13449,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12414,6 +13480,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -12443,6 +13511,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -12472,6 +13542,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -12501,6 +13573,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -12530,6 +13604,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1991"
   },
   {
@@ -12559,6 +13635,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -12588,6 +13666,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -12617,6 +13697,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12646,6 +13728,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12675,6 +13759,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "1995"
   },
   {
@@ -12704,6 +13790,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "texas",
+    "stateDisplay": "Texas",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -12733,6 +13821,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "utah",
+    "stateDisplay": "Utah",
+    "threshold": 0,
     "yearElected": "2003"
   },
   {
@@ -12762,6 +13852,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "utah",
+    "stateDisplay": "Utah",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -12791,6 +13883,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "utah",
+    "stateDisplay": "Utah",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -12820,6 +13914,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "utah",
+    "stateDisplay": "Utah",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -12849,6 +13945,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "vermont",
+    "stateDisplay": "Vermont",
+    "threshold": 0,
     "yearElected": "2007"
   },
   {
@@ -12878,6 +13976,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2007*"
   },
   {
@@ -12907,6 +14007,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -12936,6 +14038,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -12965,6 +14069,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -12994,6 +14100,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -13023,6 +14131,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "1993"
   },
   {
@@ -13052,6 +14162,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2014*"
   },
   {
@@ -13081,6 +14193,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -13110,6 +14224,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -13139,6 +14255,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -13168,6 +14286,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "virginia",
+    "stateDisplay": "Virginia",
+    "threshold": 0,
     "yearElected": "2009"
   },
   {
@@ -13197,6 +14317,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2012*"
   },
   {
@@ -13226,6 +14348,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2001"
   },
   {
@@ -13255,6 +14379,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -13284,6 +14410,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -13313,6 +14441,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -13342,6 +14472,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -13371,6 +14503,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -13400,6 +14534,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -13429,6 +14565,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -13458,6 +14596,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "washington",
+    "stateDisplay": "Washington",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -13487,6 +14627,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "west_virginia",
+    "stateDisplay": "West Virginia",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -13516,6 +14658,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "west_virginia",
+    "stateDisplay": "West Virginia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -13545,6 +14689,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "west_virginia",
+    "stateDisplay": "West Virginia",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -13574,6 +14720,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "1999"
   },
   {
@@ -13603,6 +14751,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "2013"
   },
   {
@@ -13632,6 +14782,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "1997"
   },
   {
@@ -13661,6 +14813,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "2005"
   },
   {
@@ -13690,6 +14844,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "1979"
   },
   {
@@ -13719,6 +14875,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "2015"
   },
   {
@@ -13748,6 +14906,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "2011"
   },
   {
@@ -13777,6 +14937,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wisconsin",
+    "stateDisplay": "Wisconsin",
+    "threshold": 0,
     "yearElected": "2017"
   },
   {
@@ -13806,6 +14968,8 @@
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "wyoming",
+    "stateDisplay": "Wyoming",
+    "threshold": 0,
     "yearElected": "2017"
   }
 ]

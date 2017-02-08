@@ -90,6 +90,9 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             sens = sens.filter(function (sen) {
                 return sen.party === party.name;
             });
+            reps = reps.filter(function (rep) {
+                return rep.party === party.name;
+            });
         }
 
         if ($scope.queryZip.length === 5 && $scope.zips[$scope.queryZip]) {
@@ -119,8 +122,8 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     });
 
     $http.get('/data/reps.json').then(function (results) {
-        results.data = [];
-        $scope.reps = results.data;
+        // results.data = [];
+        $scope.reps = addDates(results.data, 2018);
         $scope.matches = results.data;
         $scope.displayed = results.data.slice(0, $scope.increment);
     });
@@ -137,12 +140,12 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     });
 
 
-    function addDates(group) {
+    function addDates(group, reelectionYear) {
         return group.map(function (item) {
             var d = new Date();
             d.setDate(8);
             d.setMonth(10);
-            d.setYear(parseInt(item.yearReelection));
+            d.setYear(parseInt(reelectionYear || item.yearReelection));
             item['reelection'] = moment(d).fromNow();
             d.setDate(20);
             d.setMonth(0);

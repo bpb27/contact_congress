@@ -13,6 +13,10 @@ ol {
 	overflow: auto;
 }
 
+ol li {
+	margin-left: 3px;
+}
+
 #total {
 	text-align: center;
   font-size: 30px;

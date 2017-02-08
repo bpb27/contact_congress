@@ -1,5 +1,5 @@
 <div ng-controller="mainCtrl">
-	<div id="total" class="col-md-12">{{matches.length}} senators</div>
+	<div id="total" class="col-md-12">{{matches.length}} members of Congress</div>
 	<div id="searchbars" class="col-md-12">
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" /></div>
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="state" ng-model="queryState" /></div>
@@ -46,6 +46,7 @@
 			<div class="col-md-3 col-xs-6">
 				<span><b>State: </b>{{member.stateDisplay}}</span><br>
 				<span><b>Party: </b>{{member.party}}</span><br>
+				<span ng-if="member.district"><b>District: </b>{{member.district}}</span>
 			</div>
 			<div class="col-md-3 col-xs-6">
 				<span><b>Reelection:</b> {{member.reelection}}</span><br>
