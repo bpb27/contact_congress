@@ -1,0 +1,1742 @@
+[
+  {
+    "name": "Bradley Byrne",
+    "num": "96.4"
+  },
+  {
+    "name": "Martha Roby",
+    "num": "48.8"
+  },
+  {
+    "name": "Mike Rogers",
+    "num": "66.9"
+  },
+  {
+    "name": "Robert Aderholt",
+    "num": "98.5"
+  },
+  {
+    "name": "Mo Brooks",
+    "num": "66.7"
+  },
+  {
+    "name": "Gary Palmer",
+    "num": "74.5"
+  },
+  {
+    "name": "Terri Sewell",
+    "num": "98.4"
+  },
+  {
+    "name": "Don Young",
+    "num": "50.3"
+  },
+  {
+    "name": "Tom O'Halleran",
+    "num": "50.7"
+  },
+  {
+    "name": "Martha McSally",
+    "num": "57.0"
+  },
+  {
+    "name": "Raul Grijalva",
+    "num": "100"
+  },
+  {
+    "name": "Paul Gosar",
+    "num": "71.5"
+  },
+  {
+    "name": "Andy Biggs",
+    "num": "64.1"
+  },
+  {
+    "name": "David Schweikert",
+    "num": "62.1"
+  },
+  {
+    "name": "Ruben Gallego",
+    "num": "75.2"
+  },
+  {
+    "name": "Trent Franks",
+    "num": "68.5"
+  },
+  {
+    "name": "Kyrsten Sinema",
+    "num": "60.9"
+  },
+  {
+    "name": "Rick Crawford",
+    "num": "76.3"
+  },
+  {
+    "name": "French Hill",
+    "num": "58.4"
+  },
+  {
+    "name": "Steve Womack",
+    "num": "77.3"
+  },
+  {
+    "name": "Bruce Westerman",
+    "num": "74.9"
+  },
+  {
+    "name": "Doug LaMalfa",
+    "num": "59.1"
+  },
+  {
+    "name": "Jared Huffman",
+    "num": "76.9"
+  },
+  {
+    "name": "John Garamendi",
+    "num": "59.4"
+  },
+  {
+    "name": "Tom McClintock",
+    "num": "62.7"
+  },
+  {
+    "name": "Mike Thompson",
+    "num": "76.9"
+  },
+  {
+    "name": "Doris Matsui",
+    "num": "75.4"
+  },
+  {
+    "name": "Ami Bera",
+    "num": "51.2"
+  },
+  {
+    "name": "Paul Cook",
+    "num": "62.3"
+  },
+  {
+    "name": "Jerry McNerney",
+    "num": "57.4"
+  },
+  {
+    "name": "Jeff Denham",
+    "num": "51.7"
+  },
+  {
+    "name": "Mark DeSaulnier",
+    "num": "72.1"
+  },
+  {
+    "name": "Nancy Pelosi",
+    "num": "80.9"
+  },
+  {
+    "name": "Barbara Lee",
+    "num": "90.8"
+  },
+  {
+    "name": "Jackie Speier",
+    "num": "80.9"
+  },
+  {
+    "name": "Eric Swalwell",
+    "num": "73.8"
+  },
+  {
+    "name": "Jim Costa",
+    "num": "58.0"
+  },
+  {
+    "name": "Ro Khanna",
+    "num": "61.0"
+  },
+  {
+    "name": "Anna Eshoo",
+    "num": "71.1"
+  },
+  {
+    "name": "Zoe Lofgren",
+    "num": "73.9"
+  },
+  {
+    "name": "Jimmy Panetta",
+    "num": "70.8"
+  },
+  {
+    "name": "David Valadao",
+    "num": "56.7"
+  },
+  {
+    "name": "Devin Nunes",
+    "num": "67.6"
+  },
+  {
+    "name": "Kevin McCarthy",
+    "num": "69.2"
+  },
+  {
+    "name": "Salud Carbajal",
+    "num": "53.4"
+  },
+  {
+    "name": "Steve Knight",
+    "num": "53.1"
+  },
+  {
+    "name": "Julia Brownley",
+    "num": "60.4"
+  },
+  {
+    "name": "Judy Chu",
+    "num": "67.4"
+  },
+  {
+    "name": "Adam Schiff",
+    "num": "78.0"
+  },
+  {
+    "name": "Tony Cardenas",
+    "num": "74.7"
+  },
+  {
+    "name": "Brad Sherman",
+    "num": "72.6"
+  },
+  {
+    "name": "Pete Aguilar",
+    "num": "56.1"
+  },
+  {
+    "name": "Grace Napolitano",
+    "num": "61.6"
+  },
+  {
+    "name": "Ted Lieu",
+    "num": "66.4"
+  },
+  {
+    "name": "Xavier Becerra",
+    "num": "77.2"
+  },
+  {
+    "name": "Norma Torres",
+    "num": "72.4"
+  },
+  {
+    "name": "Raul Ruiz",
+    "num": "62.1"
+  },
+  {
+    "name": "Karen Bass",
+    "num": "81.1"
+  },
+  {
+    "name": "Linda Sanchez",
+    "num": "70.5"
+  },
+  {
+    "name": "Ed Royce",
+    "num": "57.2"
+  },
+  {
+    "name": "Lucille Roybal-Allard",
+    "num": "71.4"
+  },
+  {
+    "name": "Mark Takano",
+    "num": "65.0"
+  },
+  {
+    "name": "Ken Calvert",
+    "num": "58.8"
+  },
+  {
+    "name": "Maxine Waters",
+    "num": "76.1"
+  },
+  {
+    "name": "Nanette Barragan",
+    "num": "52.2"
+  },
+  {
+    "name": "Mimi Walters",
+    "num": "58.6"
+  },
+  {
+    "name": "Lou Correa",
+    "num": "70.0"
+  },
+  {
+    "name": "Alan Lowenthal",
+    "num": "63.7"
+  },
+  {
+    "name": "Dana Rohrabacher",
+    "num": "58.3"
+  },
+  {
+    "name": "Darrell Issa",
+    "num": "50.3"
+  },
+  {
+    "name": "Duncan D. Hunter",
+    "num": "63.5"
+  },
+  {
+    "name": "Juan Vargas",
+    "num": "72.8"
+  },
+  {
+    "name": "Scott Peters",
+    "num": "56.5"
+  },
+  {
+    "name": "Susan Davis",
+    "num": "67.0"
+  },
+  {
+    "name": "Diana DeGette",
+    "num": "67.9"
+  },
+  {
+    "name": "Jared Polis",
+    "num": "56.9"
+  },
+  {
+    "name": "Scott Tipton",
+    "num": "54.6"
+  },
+  {
+    "name": "Ken Buck",
+    "num": "63.6"
+  },
+  {
+    "name": "Doug Lamborn",
+    "num": "62.3"
+  },
+  {
+    "name": "Mike Coffman",
+    "num": "50.9"
+  },
+  {
+    "name": "Ed Perlmutter",
+    "num": "55.2"
+  },
+  {
+    "name": "John B. Larson",
+    "num": "64.1"
+  },
+  {
+    "name": "Joe Courtney",
+    "num": "63.2"
+  },
+  {
+    "name": "Rosa DeLauro",
+    "num": "69.0"
+  },
+  {
+    "name": "Jim Himes",
+    "num": "59.9"
+  },
+  {
+    "name": "Elizabeth Esty",
+    "num": "58.0"
+  },
+  {
+    "name": "Lisa Blunt Rochester",
+    "num": "55.5"
+  },
+  {
+    "name": "Matt Gaetz",
+    "num": "69.1"
+  },
+  {
+    "name": "Neal Dunn",
+    "num": "67.3"
+  },
+  {
+    "name": "Ted Yoho",
+    "num": "56.6"
+  },
+  {
+    "name": "John Rutherford",
+    "num": "70.2"
+  },
+  {
+    "name": "Al Lawson",
+    "num": "64.2"
+  },
+  {
+    "name": "Ron DeSantis",
+    "num": "58.6"
+  },
+  {
+    "name": "Stephanie Murphy",
+    "num": "51.5"
+  },
+  {
+    "name": "Bill Posey",
+    "num": "63.1"
+  },
+  {
+    "name": "Darren Soto",
+    "num": "57.5"
+  },
+  {
+    "name": "Val Demings",
+    "num": "64.9"
+  },
+  {
+    "name": "Daniel Webster",
+    "num": "65.4"
+  },
+  {
+    "name": "Gus Bilirakis",
+    "num": "68.6"
+  },
+  {
+    "name": "Charlie Crist",
+    "num": "51.9"
+  },
+  {
+    "name": "Kathy Castor",
+    "num": "61.8"
+  },
+  {
+    "name": "Dennis Ross",
+    "num": "57.5"
+  },
+  {
+    "name": "Vern Buchanan",
+    "num": "59.8"
+  },
+  {
+    "name": "Tom Rooney",
+    "num": "61.8"
+  },
+  {
+    "name": "Brian Mast",
+    "num": "53.6"
+  },
+  {
+    "name": "Francis Rooney",
+    "num": "65.9"
+  },
+  {
+    "name": "Alcee Hastings",
+    "num": "80.3"
+  },
+  {
+    "name": "Lois Frankel",
+    "num": "62.7"
+  },
+  {
+    "name": "Ted Deutch",
+    "num": "58.9"
+  },
+  {
+    "name": "Debbie Wasserman Schultz",
+    "num": "56.7"
+  },
+  {
+    "name": "Frederica Wilson",
+    "num": "100"
+  },
+  {
+    "name": "Mario Diaz-Balart",
+    "num": "62.4"
+  },
+  {
+    "name": "Carlos Curbelo",
+    "num": "53.0"
+  },
+  {
+    "name": "Ileana Ros-Lehtinen",
+    "num": "54.9"
+  },
+  {
+    "name": "Buddy Carter",
+    "num": "100"
+  },
+  {
+    "name": "Sanford Bishop",
+    "num": "61.2"
+  },
+  {
+    "name": "Drew Ferguson",
+    "num": "68.4"
+  },
+  {
+    "name": "Hank Johnson",
+    "num": "75.7"
+  },
+  {
+    "name": "John Lewis",
+    "num": "84.4"
+  },
+  {
+    "name": "Tom Price",
+    "num": "61.7"
+  },
+  {
+    "name": "Rob Woodall",
+    "num": "60.4"
+  },
+  {
+    "name": "Austin Scott",
+    "num": "67.6"
+  },
+  {
+    "name": "Doug Collins",
+    "num": "100"
+  },
+  {
+    "name": "Jody Hice",
+    "num": "100"
+  },
+  {
+    "name": "Barry Loudermilk",
+    "num": "67.4"
+  },
+  {
+    "name": "Rick W. Allen",
+    "num": "61.6"
+  },
+  {
+    "name": "David Scott",
+    "num": "100"
+  },
+  {
+    "name": "Tom Graves",
+    "num": "100"
+  },
+  {
+    "name": "Colleen Hanabusa",
+    "num": "71.9"
+  },
+  {
+    "name": "Tulsi Gabbard",
+    "num": "81.2"
+  },
+  {
+    "name": "Raul Labrador",
+    "num": "68.2"
+  },
+  {
+    "name": "Mike Simpson",
+    "num": "62.9"
+  },
+  {
+    "name": "Bobby Rush",
+    "num": "74.1"
+  },
+  {
+    "name": "Robin Kelly",
+    "num": "79.8"
+  },
+  {
+    "name": "Dan Lipinski",
+    "num": "100"
+  },
+  {
+    "name": "Luis Gutierrez",
+    "num": "100"
+  },
+  {
+    "name": "Mike Quigley",
+    "num": "67.8"
+  },
+  {
+    "name": "Peter Roskam",
+    "num": "59.2"
+  },
+  {
+    "name": "Danny K. Davis",
+    "num": "84.2"
+  },
+  {
+    "name": "Raja Krishnamoorthi",
+    "num": "58.3"
+  },
+  {
+    "name": "Jan Schakowsky",
+    "num": "66.5"
+  },
+  {
+    "name": "Brad Schneider",
+    "num": "52.6"
+  },
+  {
+    "name": "Bill Foster",
+    "num": "60.4"
+  },
+  {
+    "name": "Mike Bost",
+    "num": "54.3"
+  },
+  {
+    "name": "Rodney Davis",
+    "num": "59.7"
+  },
+  {
+    "name": "Randy Hultgren",
+    "num": "59.3"
+  },
+  {
+    "name": "John Shimkus",
+    "num": "100"
+  },
+  {
+    "name": "Adam Kinzinger",
+    "num": "99.9"
+  },
+  {
+    "name": "Cheri Bustos",
+    "num": "60.3"
+  },
+  {
+    "name": "Darin LaHood",
+    "num": "72.1"
+  },
+  {
+    "name": "Pete Visclosky",
+    "num": "81.5"
+  },
+  {
+    "name": "Jackie Walorski",
+    "num": "59.3"
+  },
+  {
+    "name": "Jim Banks",
+    "num": "70.1"
+  },
+  {
+    "name": "Todd Rokita",
+    "num": "64.6"
+  },
+  {
+    "name": "Susan Brooks",
+    "num": "61.5"
+  },
+  {
+    "name": "Luke Messer",
+    "num": "69.1"
+  },
+  {
+    "name": "Andre Carson",
+    "num": "60.0"
+  },
+  {
+    "name": "Larry Bucshon",
+    "num": "63.7"
+  },
+  {
+    "name": "Trey Hollingsworth",
+    "num": "54.1"
+  },
+  {
+    "name": "Rod Blum",
+    "num": "53.8"
+  },
+  {
+    "name": "Dave Loebsack",
+    "num": "53.7"
+  },
+  {
+    "name": "David Young",
+    "num": "53.5"
+  },
+  {
+    "name": "Steve King",
+    "num": "61.3"
+  },
+  {
+    "name": "Roger Marshall",
+    "num": "65.8"
+  },
+  {
+    "name": "Lynn Jenkins",
+    "num": "60.9"
+  },
+  {
+    "name": "Kevin Yoder",
+    "num": "51.3"
+  },
+  {
+    "name": "Mike Pompeo",
+    "num": "61.6"
+  },
+  {
+    "name": "James Comer",
+    "num": "72.6"
+  },
+  {
+    "name": "Brett Guthrie",
+    "num": "100"
+  },
+  {
+    "name": "John Yarmuth",
+    "num": "63.5"
+  },
+  {
+    "name": "Thomas Massie",
+    "num": "71.3"
+  },
+  {
+    "name": "Hal Rogers",
+    "num": "100"
+  },
+  {
+    "name": "Andy Barr",
+    "num": "61.1"
+  },
+  {
+    "name": "Steve Scalise",
+    "num": "74.6"
+  },
+  {
+    "name": "Cedric Richmond",
+    "num": "69.8"
+  },
+  {
+    "name": "Clay Higgins",
+    "num": "26.5"
+  },
+  {
+    "name": "Mike Johnson",
+    "num": "24.7"
+  },
+  {
+    "name": "Ralph Abraham",
+    "num": "81.6"
+  },
+  {
+    "name": "Garret Graves",
+    "num": "62.7"
+  },
+  {
+    "name": "Chellie Pingree",
+    "num": "58.0"
+  },
+  {
+    "name": "Bruce Poliquin",
+    "num": "54.8"
+  },
+  {
+    "name": "Andy Harris",
+    "num": "67.0"
+  },
+  {
+    "name": "Dutch Ruppersberger",
+    "num": "62.1"
+  },
+  {
+    "name": "John Sarbanes",
+    "num": "63.2"
+  },
+  {
+    "name": "Anthony G. Brown",
+    "num": "74.1"
+  },
+  {
+    "name": "Steny Hoyer",
+    "num": "67.4"
+  },
+  {
+    "name": "John Delaney",
+    "num": "56.0"
+  },
+  {
+    "name": "Elijah Cummings",
+    "num": "74.9"
+  },
+  {
+    "name": "Jamie Raskin",
+    "num": "60.6"
+  },
+  {
+    "name": "Richard Neal",
+    "num": "73.3"
+  },
+  {
+    "name": "Jim McGovern",
+    "num": "98.2"
+  },
+  {
+    "name": "Niki Tsongas",
+    "num": "68.7"
+  },
+  {
+    "name": "Joe Kennedy",
+    "num": "70.1"
+  },
+  {
+    "name": "Katherine Clark",
+    "num": "98.6"
+  },
+  {
+    "name": "Seth Moulton",
+    "num": "98.4"
+  },
+  {
+    "name": "Mike Capuano",
+    "num": "98.6"
+  },
+  {
+    "name": "Stephen F. Lynch",
+    "num": "27.5"
+  },
+  {
+    "name": "Bill Keating",
+    "num": "33.6"
+  },
+  {
+    "name": "Jack Bergman",
+    "num": "54.9"
+  },
+  {
+    "name": "Bill Huizenga",
+    "num": "62.6"
+  },
+  {
+    "name": "Justin Amash",
+    "num": "59.5"
+  },
+  {
+    "name": "John Moolenaar",
+    "num": "61.6"
+  },
+  {
+    "name": "Dan Kildee",
+    "num": "61.2"
+  },
+  {
+    "name": "Fred Upton",
+    "num": "58.7"
+  },
+  {
+    "name": "Tim Walberg",
+    "num": "55.0"
+  },
+  {
+    "name": "Mike Bishop",
+    "num": "56.0"
+  },
+  {
+    "name": "Sander Levin",
+    "num": "57.9"
+  },
+  {
+    "name": "Paul Mitchell",
+    "num": "63.1"
+  },
+  {
+    "name": "David Trott",
+    "num": "52.9"
+  },
+  {
+    "name": "Debbie Dingell",
+    "num": "64.3"
+  },
+  {
+    "name": "John Conyers",
+    "num": "77.1"
+  },
+  {
+    "name": "Brenda Lawrence",
+    "num": "78.5"
+  },
+  {
+    "name": "Tim Walz",
+    "num": "50.3"
+  },
+  {
+    "name": "Jason Lewis",
+    "num": "47"
+  },
+  {
+    "name": "Erik Paulsen",
+    "num": "56.7"
+  },
+  {
+    "name": "Betty McCollum",
+    "num": "34.4"
+  },
+  {
+    "name": "Keith Ellison",
+    "num": "22.3"
+  },
+  {
+    "name": "Tom Emmer",
+    "num": "65.6"
+  },
+  {
+    "name": "Collin Peterson",
+    "num": "52.5"
+  },
+  {
+    "name": "Rick Nolan",
+    "num": "50.2"
+  },
+  {
+    "name": "Trent Kelly",
+    "num": "68.7"
+  },
+  {
+    "name": "Bennie Thompson",
+    "num": "67.1"
+  },
+  {
+    "name": "Gregg Harper",
+    "num": "66.2"
+  },
+  {
+    "name": "Steven Palazzo",
+    "num": "65.0"
+  },
+  {
+    "name": "William Clay",
+    "num": "75.5"
+  },
+  {
+    "name": "Ann Wagner",
+    "num": "58.5"
+  },
+  {
+    "name": "Blaine Luetkemeyer",
+    "num": "67.8"
+  },
+  {
+    "name": "Vicky Hartzler",
+    "num": "67.8"
+  },
+  {
+    "name": "Emanuel Cleaver",
+    "num": "58.8"
+  },
+  {
+    "name": "Sam Graves",
+    "num": "68.0"
+  },
+  {
+    "name": "Billy Long",
+    "num": "67.5"
+  },
+  {
+    "name": "Jason T. Smith",
+    "num": "74.4"
+  },
+  {
+    "name": "Ryan Zinke",
+    "num": "56.2"
+  },
+  {
+    "name": "Jeff Fortenberry",
+    "num": "69.5"
+  },
+  {
+    "name": "Don Bacon",
+    "num": "48.9"
+  },
+  {
+    "name": "Adrian Smith",
+    "num": "100"
+  },
+  {
+    "name": "Dina Titus",
+    "num": "61.9"
+  },
+  {
+    "name": "Mark Amodei",
+    "num": "58.3"
+  },
+  {
+    "name": "Jacky Rosen",
+    "num": "47.2"
+  },
+  {
+    "name": "Ruben Kihuen",
+    "num": "48.5"
+  },
+  {
+    "name": "Carol Shea-Porter",
+    "num": "44.3"
+  },
+  {
+    "name": "Ann McLane Kuster",
+    "num": "49.8"
+  },
+  {
+    "name": "Donald Norcross",
+    "num": "60.0"
+  },
+  {
+    "name": "Frank LoBiondo",
+    "num": "59.2"
+  },
+  {
+    "name": "Tom MacArthur",
+    "num": "59.3"
+  },
+  {
+    "name": "Chris Smith",
+    "num": "63.7"
+  },
+  {
+    "name": "Josh Gottheimer",
+    "num": "51.1"
+  },
+  {
+    "name": "Frank Pallone",
+    "num": "63.7"
+  },
+  {
+    "name": "Leonard Lance",
+    "num": "54.1"
+  },
+  {
+    "name": "Albio Sires",
+    "num": "77.0"
+  },
+  {
+    "name": "Bill Pascrell",
+    "num": "69.7"
+  },
+  {
+    "name": "Donald Payne, Jr.",
+    "num": "85.7"
+  },
+  {
+    "name": "Rodney Frelinghuysen",
+    "num": "58.0"
+  },
+  {
+    "name": "Bonnie Watson Coleman",
+    "num": "62.9"
+  },
+  {
+    "name": "Michelle Lujan Grisham",
+    "num": "65.1"
+  },
+  {
+    "name": "Steve Pearce",
+    "num": "62.7"
+  },
+  {
+    "name": "Ben Lujan",
+    "num": "62.4"
+  },
+  {
+    "name": "Lee Zeldin",
+    "num": "58.9"
+  },
+  {
+    "name": "Peter King",
+    "num": "62.4"
+  },
+  {
+    "name": "Thomas Suozzi",
+    "num": "52.8"
+  },
+  {
+    "name": "Kathleen Rice",
+    "num": "59.5"
+  },
+  {
+    "name": "Gregory Meeks",
+    "num": "85.4"
+  },
+  {
+    "name": "Grace Meng",
+    "num": "72.1"
+  },
+  {
+    "name": "Nydia Velazquez",
+    "num": "90.7"
+  },
+  {
+    "name": "Hakeem Jeffries",
+    "num": "93.2"
+  },
+  {
+    "name": "Yvette Clarke",
+    "num": "92.3"
+  },
+  {
+    "name": "Jerrold Nadler",
+    "num": "78.0"
+  },
+  {
+    "name": "Daniel Donovan",
+    "num": "61.5"
+  },
+  {
+    "name": "Carolyn Maloney",
+    "num": "83.1"
+  },
+  {
+    "name": "Adriano Espaillat",
+    "num": "88.6"
+  },
+  {
+    "name": "Joseph Crowley",
+    "num": "82.8"
+  },
+  {
+    "name": "Jose Serrano",
+    "num": "95.2"
+  },
+  {
+    "name": "Eliot Engel",
+    "num": "94.4"
+  },
+  {
+    "name": "Nita Lowey",
+    "num": "99.1"
+  },
+  {
+    "name": "Sean Patrick Maloney",
+    "num": "55.6"
+  },
+  {
+    "name": "John Faso",
+    "num": "54.2"
+  },
+  {
+    "name": "Paul Tonko",
+    "num": "67.9"
+  },
+  {
+    "name": "Elise Stefanik",
+    "num": "65.3"
+  },
+  {
+    "name": "Claudia Tenney",
+    "num": "46.5"
+  },
+  {
+    "name": "Tom Reed",
+    "num": "57.6"
+  },
+  {
+    "name": "John Katko",
+    "num": "60.5"
+  },
+  {
+    "name": "Louise Slaughter",
+    "num": "56.1"
+  },
+  {
+    "name": "Brian Higgins",
+    "num": "74.6"
+  },
+  {
+    "name": "Chris Collins",
+    "num": "67.2"
+  },
+  {
+    "name": "G. K. Butterfield",
+    "num": "68.6"
+  },
+  {
+    "name": "George Holding",
+    "num": "56.7"
+  },
+  {
+    "name": "Walter Jones",
+    "num": "67.3"
+  },
+  {
+    "name": "David Price",
+    "num": "68.2"
+  },
+  {
+    "name": "Virginia Foxx",
+    "num": "58.4"
+  },
+  {
+    "name": "Mark Walker",
+    "num": "59.2"
+  },
+  {
+    "name": "David Rouzer",
+    "num": "60.9"
+  },
+  {
+    "name": "Richard Hudson",
+    "num": "58.8"
+  },
+  {
+    "name": "Robert Pittenger",
+    "num": "58.2"
+  },
+  {
+    "name": "Patrick McHenry",
+    "num": "63.1"
+  },
+  {
+    "name": "Mark Meadows",
+    "num": "64.1"
+  },
+  {
+    "name": "Alma Adams",
+    "num": "67.0"
+  },
+  {
+    "name": "Ted Budd",
+    "num": "56.1"
+  },
+  {
+    "name": "Kevin Cramer",
+    "num": "69.1"
+  },
+  {
+    "name": "Steve Chabot",
+    "num": "59.2"
+  },
+  {
+    "name": "Brad Wenstrup",
+    "num": "65.0"
+  },
+  {
+    "name": "Joyce Beatty",
+    "num": "68.6"
+  },
+  {
+    "name": "Jim Jordan",
+    "num": "68.0"
+  },
+  {
+    "name": "Bob Latta",
+    "num": "70.9"
+  },
+  {
+    "name": "Bill Johnson",
+    "num": "70.7"
+  },
+  {
+    "name": "Bob Gibbs",
+    "num": "64.0"
+  },
+  {
+    "name": "Warren Davidson",
+    "num": "68.8"
+  },
+  {
+    "name": "Marcy Kaptur",
+    "num": "68.7"
+  },
+  {
+    "name": "Mike Turner",
+    "num": "64.1"
+  },
+  {
+    "name": "Marcia Fudge",
+    "num": "80.3"
+  },
+  {
+    "name": "Pat Tiberi",
+    "num": "66.6"
+  },
+  {
+    "name": "Tim Ryan",
+    "num": "67.7"
+  },
+  {
+    "name": "David Joyce",
+    "num": "62.6"
+  },
+  {
+    "name": "Steve Stivers",
+    "num": "66.2"
+  },
+  {
+    "name": "Jim Renacci",
+    "num": "65.3"
+  },
+  {
+    "name": "Jim Bridenstine",
+    "num": "100"
+  },
+  {
+    "name": "Markwayne Mullin",
+    "num": "70.6"
+  },
+  {
+    "name": "Frank Lucas",
+    "num": "78.3"
+  },
+  {
+    "name": "Tom Cole",
+    "num": "69.6"
+  },
+  {
+    "name": "Steve Russell",
+    "num": "57.1"
+  },
+  {
+    "name": "Suzanne Bonamici",
+    "num": "59.6"
+  },
+  {
+    "name": "Greg Walden",
+    "num": "28.0"
+  },
+  {
+    "name": "Earl Blumenauer",
+    "num": "71.8"
+  },
+  {
+    "name": "Peter DeFazio",
+    "num": "55.5"
+  },
+  {
+    "name": "Kurt Schrader",
+    "num": "53.5"
+  },
+  {
+    "name": "Bob Brady",
+    "num": "82.2"
+  },
+  {
+    "name": "Dwight Evans",
+    "num": "90.2"
+  },
+  {
+    "name": "Mike Kelly",
+    "num": "[505]"
+  },
+  {
+    "name": "Scott Perry",
+    "num": "66.1"
+  },
+  {
+    "name": "Glenn Thompson",
+    "num": "67.2"
+  },
+  {
+    "name": "Ryan Costello",
+    "num": "57.3"
+  },
+  {
+    "name": "Pat Meehan",
+    "num": "59.5"
+  },
+  {
+    "name": "Brian Fitzpatrick",
+    "num": "54.4"
+  },
+  {
+    "name": "Bill Shuster",
+    "num": "63.4"
+  },
+  {
+    "name": "Tom Marino",
+    "num": "70.2"
+  },
+  {
+    "name": "Lou Barletta",
+    "num": "63.7"
+  },
+  {
+    "name": "Keith Rothfus",
+    "num": "61.8"
+  },
+  {
+    "name": "Brendan F. Boyle",
+    "num": "[503]"
+  },
+  {
+    "name": "Michael Doyle",
+    "num": "74.4"
+  },
+  {
+    "name": "Charlie Dent",
+    "num": "58.4"
+  },
+  {
+    "name": "Lloyd Smucker",
+    "num": "53.8"
+  },
+  {
+    "name": "Matt Cartwright",
+    "num": "53.8"
+  },
+  {
+    "name": "Timothy F. Murphy",
+    "num": "[503]"
+  },
+  {
+    "name": "David Cicilline",
+    "num": "64.5"
+  },
+  {
+    "name": "Jim Langevin",
+    "num": "58.1"
+  },
+  {
+    "name": "Mark Sanford",
+    "num": "58.6"
+  },
+  {
+    "name": "Joe Wilson",
+    "num": "60.3"
+  },
+  {
+    "name": "Jeff Duncan",
+    "num": "72.8"
+  },
+  {
+    "name": "Trey Gowdy",
+    "num": "67.2"
+  },
+  {
+    "name": "Mick Mulvaney",
+    "num": "59.2"
+  },
+  {
+    "name": "Jim Clyburn",
+    "num": "70.1"
+  },
+  {
+    "name": "Tom Rice",
+    "num": "61.0"
+  },
+  {
+    "name": "Kristi Noem",
+    "num": "64.1"
+  },
+  {
+    "name": "Phil Roe",
+    "num": "78.4"
+  },
+  {
+    "name": "Jimmy Duncan",
+    "num": "75.6"
+  },
+  {
+    "name": "Chuck Fleischmann",
+    "num": "66.4"
+  },
+  {
+    "name": "Scott DesJarlais",
+    "num": "65.0"
+  },
+  {
+    "name": "Jim Cooper",
+    "num": "62.6"
+  },
+  {
+    "name": "Diane Black",
+    "num": "71.1"
+  },
+  {
+    "name": "Marsha Blackburn",
+    "num": "72.2"
+  },
+  {
+    "name": "David Kustoff",
+    "num": "68.8"
+  },
+  {
+    "name": "Steve Cohen",
+    "num": "78.7"
+  },
+  {
+    "name": "Louie Gohmert",
+    "num": "73.9"
+  },
+  {
+    "name": "Ted Poe",
+    "num": "60.6"
+  },
+  {
+    "name": "Sam Johnson",
+    "num": "61.2"
+  },
+  {
+    "name": "John Ratcliffe",
+    "num": "88.0"
+  },
+  {
+    "name": "Jeb Hensarling",
+    "num": "80.6"
+  },
+  {
+    "name": "Joe Barton",
+    "num": "58.3"
+  },
+  {
+    "name": "John Culberson",
+    "num": "56.2"
+  },
+  {
+    "name": "Kevin Brady",
+    "num": "100"
+  },
+  {
+    "name": "Al Green",
+    "num": "80.6"
+  },
+  {
+    "name": "Michael McCaul",
+    "num": "57.3"
+  },
+  {
+    "name": "Mike Conaway",
+    "num": "89.5"
+  },
+  {
+    "name": "Kay Granger",
+    "num": "69.4"
+  },
+  {
+    "name": "Mac Thornberry",
+    "num": "90.0"
+  },
+  {
+    "name": "Randy Weber",
+    "num": "61.9"
+  },
+  {
+    "name": "Vicente Gonzalez",
+    "num": "57.3"
+  },
+  {
+    "name": "Beto O'Rourke",
+    "num": "85.7"
+  },
+  {
+    "name": "Bill Flores",
+    "num": "60.8"
+  },
+  {
+    "name": "Sheila Jackson Lee",
+    "num": "73.5"
+  },
+  {
+    "name": "Jodey Arrington",
+    "num": "86.7"
+  },
+  {
+    "name": "Joaquin Castro",
+    "num": "79.7"
+  },
+  {
+    "name": "Lamar S. Smith",
+    "num": "57.0"
+  },
+  {
+    "name": "Pete Olson",
+    "num": "59.5"
+  },
+  {
+    "name": "Will Hurd",
+    "num": "48.3"
+  },
+  {
+    "name": "Kenny Marchant",
+    "num": "56.2"
+  },
+  {
+    "name": "Roger Williams",
+    "num": "58.4"
+  },
+  {
+    "name": "Michael Burgess",
+    "num": "66.4"
+  },
+  {
+    "name": "Blake Farenthold",
+    "num": "61.7"
+  },
+  {
+    "name": "Henry Cuellar",
+    "num": "66.2"
+  },
+  {
+    "name": "Gene Green",
+    "num": "72.5"
+  },
+  {
+    "name": "Eddie Johnson",
+    "num": "77.9"
+  },
+  {
+    "name": "John Carter",
+    "num": "58.4"
+  },
+  {
+    "name": "Pete Sessions",
+    "num": "71.1"
+  },
+  {
+    "name": "Marc Veasey",
+    "num": "73.7"
+  },
+  {
+    "name": "Filemon Vela, Jr.",
+    "num": "62.7"
+  },
+  {
+    "name": "Lloyd Doggett",
+    "num": "63.1"
+  },
+  {
+    "name": "Brian Babin",
+    "num": "88.6"
+  },
+  {
+    "name": "Rob Bishop",
+    "num": "65.9"
+  },
+  {
+    "name": "Chris Stewart",
+    "num": "61.6"
+  },
+  {
+    "name": "Jason Chaffetz",
+    "num": "73.5"
+  },
+  {
+    "name": "Mia Love",
+    "num": "53.8"
+  },
+  {
+    "name": "Peter Welch",
+    "num": "82.5"
+  },
+  {
+    "name": "Rob Wittman",
+    "num": "59.9"
+  },
+  {
+    "name": "Scott Taylor",
+    "num": "61.3"
+  },
+  {
+    "name": "Robert Scott",
+    "num": "66.7"
+  },
+  {
+    "name": "Donald McEachin",
+    "num": "57.7"
+  },
+  {
+    "name": "Thomas Garrett, Jr.",
+    "num": "58.2"
+  },
+  {
+    "name": "Bob Goodlatte",
+    "num": "66.6"
+  },
+  {
+    "name": "Dave Brat",
+    "num": "57.5"
+  },
+  {
+    "name": "Don Beyer",
+    "num": "68.4"
+  },
+  {
+    "name": "Morgan Griffith",
+    "num": "68.6"
+  },
+  {
+    "name": "Barbara Comstock",
+    "num": "52.7"
+  },
+  {
+    "name": "Gerry Connolly",
+    "num": "87.9"
+  },
+  {
+    "name": "Suzan DelBene",
+    "num": "55.4"
+  },
+  {
+    "name": "Rick Larsen",
+    "num": "64.0"
+  },
+  {
+    "name": "Jaime Herrera Beutler",
+    "num": "61.8"
+  },
+  {
+    "name": "Dan Newhouse",
+    "num": "57.6"
+  },
+  {
+    "name": "Cathy McMorris Rodgers",
+    "num": "59.6"
+  },
+  {
+    "name": "Derek Kilmer",
+    "num": "61.5"
+  },
+  {
+    "name": "Pramila Jayapal",
+    "num": "56.0"
+  },
+  {
+    "name": "Dave Reichert",
+    "num": "60.2"
+  },
+  {
+    "name": "Adam Smith",
+    "num": "72.9"
+  },
+  {
+    "name": "Dennis Heck",
+    "num": "58.7"
+  },
+  {
+    "name": "David McKinley",
+    "num": "69.0"
+  },
+  {
+    "name": "Alex Mooney",
+    "num": "58.2"
+  },
+  {
+    "name": "Evan Jenkins",
+    "num": "67.9"
+  },
+  {
+    "name": "Paul Ryan",
+    "num": "65.0"
+  },
+  {
+    "name": "Mark Pocan",
+    "num": "68.7"
+  },
+  {
+    "name": "Ron Kind",
+    "num": "98.9"
+  },
+  {
+    "name": "Gwen Moore",
+    "num": "76.7"
+  },
+  {
+    "name": "Jim Sensenbrenner",
+    "num": "66.7"
+  },
+  {
+    "name": "Glenn Grothman",
+    "num": "57.2"
+  },
+  {
+    "name": "Sean Duffy",
+    "num": "61.7"
+  },
+  {
+    "name": "Mike Gallagher",
+    "num": "62.7"
+  },
+  {
+    "name": "Liz Cheney",
+    "num": "60.3"
+  }
+]

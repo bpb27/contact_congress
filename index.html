@@ -6,12 +6,10 @@
 
 		<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Contacting Congress - every phone number, mailing address, social media account, how to schedule a meeting. Get invloved.">
 		<meta name="Keywords" content="congress, senate, house of representatives, office locations, phone numbers, twitter, instagram, youtube, facebook, election, reelection, re-election, call your representative, mailing address, dc number, washington dc, donald trump, committees, 2016, 2018, hillary clinton, barack obama"/>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<base href="/">
-
 		<meta property="og:url" content="http://www.contactingcongress.org" />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="Contacting Congress" />
@@ -21,30 +19,26 @@
 		<link rel="icon" href="./favicon.ico">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-		<link rel='stylesheet' href="./libraries/socialshare/angular-socialshare.min.css">
 		<link rel="stylesheet" type="text/css" href="./libraries/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="style.css">
 
+		<base href="/">
+
+		<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="./libraries/moment.js"></script>
+		<script src="app.js"></script>
+
 	</head>
-
-	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-	<script src="./libraries/socialshare/angular-socialshare.min.js"></script>
-	<script src="./libraries/moment.js"></script>
-	<script src="app.js"></script>
-
 	<body ng-app="myApp">
-
 		<div id="facebook-share">
 			<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.contactingcongress.org&width=106&layout=button_count&action=like&size=small&show_faces=true&share=true&height=46&appId=1748104988834383" width="106" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 		</div>
-		<!-- <img id="logo-im" src="http://contactingcongress.org/logo.png" /> -->
 		<div id="banner">
 			<u>Contacting Congress</u> - be an active participant in your democracy
 		</div>
-		<!-- <div id="facebook-share"><a facebook-feed-share class="facebookShare" data-url="http://www.contactingcongress.org" data-shares='shares', data-description="Contacting Congress">{{ shares }}</a></div> -->
 		<div ng-view class="view-frame container-fluid"></div>
 	</body>
 </html>

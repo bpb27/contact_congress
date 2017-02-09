@@ -55,6 +55,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorRichardShelby",
     "state": "alabama",
     "stateDisplay": "Alabama",
+    "threshold": "64.2",
     "yearElected": "1987",
     "yearReelection": "2022"
   },
@@ -116,6 +117,7 @@
     "socialYoutube": "http://www.youtube.com/SenatorSessions",
     "state": "alabama",
     "stateDisplay": "Alabama",
+    "threshold": "100",
     "yearElected": "1997",
     "yearReelection": "2020"
   },
@@ -182,6 +184,7 @@
     "socialYoutube": "https://www.youtube.com/senatormurkowski",
     "state": "alaska",
     "stateDisplay": "Alaska",
+    "threshold": "44",
     "yearElected": "2002",
     "yearReelection": "2022"
   },
@@ -248,6 +251,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UC7tXCm8gKlAhTFo2kuf5ylw",
     "state": "alaska",
     "stateDisplay": "Alaska",
+    "threshold": "48.0",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -296,6 +300,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorJohnMcCain?feature=mhum",
     "state": "arizona",
     "stateDisplay": "Arizona",
+    "threshold": "53",
     "yearElected": "1987",
     "yearReelection": "2022"
   },
@@ -337,6 +342,7 @@
     "socialYoutube": "http://www.youtube.com/flakeoffice",
     "state": "arizona",
     "stateDisplay": "Arizona",
+    "threshold": "49.2",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -410,6 +416,7 @@
     "socialYoutube": "http://www.youtube.com/user/BoozmanPressOffice",
     "state": "arkansas",
     "stateDisplay": "Arkansas",
+    "threshold": "59.7",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -445,6 +452,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCxrZsasJfxOVUEOnhed5doA",
     "state": "arkansas",
     "stateDisplay": "Arkansas",
+    "threshold": "56.5",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -499,6 +507,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorFeinstein",
     "state": "california",
     "stateDisplay": "California",
+    "threshold": "62.5",
     "yearElected": "1992",
     "yearReelection": "2018"
   },
@@ -559,6 +568,7 @@
     "socialYoutube": "",
     "state": "california",
     "stateDisplay": "California",
+    "threshold": "61.8",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -630,6 +640,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorBennet",
     "state": "colorado",
     "stateDisplay": "Colorado",
+    "threshold": "50.0",
     "yearElected": "2009",
     "yearReelection": "2022"
   },
@@ -708,6 +719,7 @@
     "socialYoutube": "",
     "state": "colorado",
     "stateDisplay": "Colorado",
+    "threshold": "48.2",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -750,6 +762,7 @@
     "socialYoutube": "http://www.youtube.com/SenatorBlumenthal",
     "state": "connecticut",
     "stateDisplay": "Connecticut",
+    "threshold": "63.2",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -785,6 +798,7 @@
     "socialYoutube": "http://www.youtube.com/senchrismurphy/",
     "state": "connecticut",
     "stateDisplay": "Connecticut",
+    "threshold": "54.8",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -832,6 +846,7 @@
     "socialYoutube": "http://www.youtube.com/senatorcarper",
     "state": "delaware",
     "stateDisplay": "Delaware",
+    "threshold": "66.4",
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -875,6 +890,7 @@
     "socialYoutube": "https://www.youtube.com/user/senatorchriscoons",
     "state": "delaware",
     "stateDisplay": "Delaware",
+    "threshold": "55.8",
     "yearElected": "2010",
     "yearReelection": "2020"
   },
@@ -952,6 +968,7 @@
     "socialYoutube": "",
     "state": "florida",
     "stateDisplay": "Florida",
+    "threshold": "55.2",
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -1018,6 +1035,7 @@
     "socialYoutube": "http://www.youtube.com/SenatorMarcoRubio",
     "state": "florida",
     "stateDisplay": "Florida",
+    "threshold": "52.0",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -1055,6 +1073,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorIsakson",
     "state": "georgia",
     "stateDisplay": "Georgia",
+    "threshold": "54.8",
     "yearElected": "2005",
     "yearReelection": "2022"
   },
@@ -1090,6 +1109,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCXHsrkPP4TAm0s0qB1C31Lw",
     "state": "georgia",
     "stateDisplay": "Georgia",
+    "threshold": "52.9",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -1127,6 +1147,7 @@
     "socialYoutube": "https://www.youtube.com/senbrianschatz",
     "state": "hawaii",
     "stateDisplay": "Hawaii",
+    "threshold": "73.6",
     "yearElected": "2012",
     "yearReelection": "2022"
   },
@@ -1164,6 +1185,7 @@
     "socialYoutube": "http://www.youtube.com/user/CongresswomanHirono",
     "state": "hawaii",
     "stateDisplay": "Hawaii",
+    "threshold": "62.6",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1231,6 +1253,7 @@
     "socialYoutube": "http://www.youtube.com/user/senatorcrapo",
     "state": "idaho",
     "stateDisplay": "Idaho",
+    "threshold": "66.1",
     "yearElected": "1999",
     "yearReelection": "2022"
   },
@@ -1298,6 +1321,7 @@
     "socialYoutube": "http://www.youtube.com/SenatorJamesRisch",
     "state": "idaho",
     "stateDisplay": "Idaho",
+    "threshold": "65.3",
     "yearElected": "2009",
     "yearReelection": "2020"
   },
@@ -1351,6 +1375,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorDurbin",
     "state": "illinois",
     "stateDisplay": "Illinois",
+    "threshold": "53.5",
     "yearElected": "1997",
     "yearReelection": "2020"
   },
@@ -1387,6 +1412,7 @@
     "socialYoutube": "https://www.youtube.com/SenDuckworth",
     "state": "illinois",
     "stateDisplay": "Illinois",
+    "threshold": " 54.9",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -1452,6 +1478,7 @@
     "socialYoutube": "http://www.youtube.com/sendonnelly",
     "state": "indiana",
     "stateDisplay": "Indiana",
+    "threshold": "50.0",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1506,6 +1533,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UC0vPqS6JHqPoptRGdyja9Lw",
     "state": "indiana",
     "stateDisplay": "Indiana",
+    "threshold": "52.1",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -1572,6 +1600,7 @@
     "socialYoutube": "",
     "state": "iowa",
     "stateDisplay": "Iowa",
+    "threshold": "60.1",
     "yearElected": "1981",
     "yearReelection": "2022"
   },
@@ -1632,6 +1661,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCLwrmtF_84FIcK3TyMs4MIw",
     "state": "iowa",
     "stateDisplay": "Iowa",
+    "threshold": "52.1",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -1687,6 +1717,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenPatRoberts",
     "state": "kansas",
     "stateDisplay": "Kansas",
+    "threshold": "53.1",
     "yearElected": "1997",
     "yearReelection": "2020"
   },
@@ -1748,6 +1779,7 @@
     "socialYoutube": "http://www.youtube.com/senatorjerrymoran",
     "state": "kansas",
     "stateDisplay": "Kansas",
+    "threshold": "62.1",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -1814,6 +1846,7 @@
     "socialYoutube": "http://www.youtube.com/RepublicanLeader",
     "state": "kentucky",
     "stateDisplay": "Kentucky",
+    "threshold": "56.1",
     "yearElected": "1985",
     "yearReelection": "2020"
   },
@@ -1850,6 +1883,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorRandPaul",
     "state": "kentucky",
     "stateDisplay": "Kentucky",
+    "threshold": "57.27",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -1922,6 +1956,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCCEyGhUzxgkxFzWCY-rxz8g",
     "state": "louisiana",
     "stateDisplay": "Louisiana",
+    "threshold": "55.9",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -1948,6 +1983,7 @@
     "socialYoutube": "",
     "state": "louisiana",
     "stateDisplay": "Louisiana",
+    "threshold": "60.65",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -2013,6 +2049,7 @@
     "socialYoutube": "http://www.youtube.com/senatorsusancollins",
     "state": "maine",
     "stateDisplay": "Maine",
+    "threshold": "68.5",
     "yearElected": "1997",
     "yearReelection": "2020"
   },
@@ -2068,6 +2105,7 @@
     "socialYoutube": "http://www.youtube.com/user/senatorangusking?feature=watch",
     "state": "maine",
     "stateDisplay": "Maine",
+    "threshold": "52.9",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2134,6 +2172,7 @@
     "socialYoutube": "https://www.youtube.com/senatorcardin",
     "state": "maryland",
     "stateDisplay": "Maryland",
+    "threshold": "56.0",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -2164,6 +2203,7 @@
     "socialYoutube": "",
     "state": "maryland",
     "stateDisplay": "Maryland",
+    "threshold": "60.9",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -2205,6 +2245,7 @@
     "socialYoutube": "http://www.youtube.com/senelizabethwarren",
     "state": "massachusetts",
     "stateDisplay": "Massachusetts",
+    "threshold": "53.7",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2253,6 +2294,7 @@
     "socialYoutube": "http://www.youtube.com/user/repmarkey",
     "state": "massachusetts",
     "stateDisplay": "Massachusetts",
+    "threshold": "62.0",
     "yearElected": "2013",
     "yearReelection": "2020"
   },
@@ -2319,6 +2361,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorStabenow",
     "state": "michigan",
     "stateDisplay": "Michigan",
+    "threshold": "58.8",
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -2390,6 +2433,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UC7LYNbnKSK2VZqQ98YROWHQ",
     "state": "michigan",
     "stateDisplay": "Michigan",
+    "threshold": "54.6",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -2444,6 +2488,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorKlobuchar",
     "state": "minnesota",
     "stateDisplay": "Minnesota",
+    "threshold": "65.2",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -2498,6 +2543,7 @@
     "socialYoutube": "https://www.youtube.com/SenatorFranken",
     "state": "minnesota",
     "stateDisplay": "Minnesota",
+    "threshold": "53.2",
     "yearElected": "2009",
     "yearReelection": "2020"
   },
@@ -2545,6 +2591,7 @@
     "socialYoutube": "http://www.youtube.com/user/sencochran",
     "state": "mississippi",
     "stateDisplay": "Mississippi",
+    "threshold": "59.9",
     "yearElected": "1978",
     "yearReelection": "2020"
   },
@@ -2599,6 +2646,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorWicker",
     "state": "mississippi",
     "stateDisplay": "Mississippi",
+    "threshold": "57.2",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -2652,6 +2700,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorMcCaskill",
     "state": "missouri",
     "stateDisplay": "Missouri",
+    "threshold": "54.8",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -2712,6 +2761,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorBlunt?feature=mhum",
     "state": "missouri",
     "stateDisplay": "Missouri",
+    "threshold": "49.3",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -2791,6 +2841,7 @@
     "socialYoutube": "http://www.youtube.com/senatorjontester",
     "state": "montana",
     "stateDisplay": "Montana",
+    "threshold": "48.6",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -2876,6 +2927,7 @@
     "socialYoutube": "https://www.youtube.com/user/SteveDainesMT",
     "state": "montana",
     "stateDisplay": "Montana",
+    "threshold": "57.8",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -2936,6 +2988,7 @@
     "socialYoutube": "http://www.youtube.com/senatordebfischer",
     "state": "nebraska",
     "stateDisplay": "Nebraska",
+    "threshold": "57.8",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2989,6 +3042,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCYaNGwcM2Dl5yDcDqS6xV2g",
     "state": "nebraska",
     "stateDisplay": "Nebraska",
+    "threshold": "64.4",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -3033,6 +3087,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCip_83SiKUqwnUT57VOXrCg",
     "state": "nevada",
     "stateDisplay": "Nevada",
+    "threshold": "47.1",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -3075,6 +3130,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenDeanHeller",
     "state": "nevada",
     "stateDisplay": "Nevada",
+    "threshold": "45.9",
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -3142,6 +3198,7 @@
     "socialYoutube": "https://www.youtube.com/senatorshaheen",
     "state": "new_hampshire",
     "stateDisplay": "New Hampshire",
+    "threshold": "51.5",
     "yearElected": "2009",
     "yearReelection": "2020"
   },
@@ -3177,6 +3234,7 @@
     "socialYoutube": "https://www.youtube.com/c/SenatorHassan",
     "state": "new_hampshire",
     "stateDisplay": "New Hampshire",
+    "threshold": "47.97",
     "yearElected": "2017",
     "yearReelection": "2022"
   },
@@ -3218,6 +3276,7 @@
     "socialYoutube": "https://www.youtube.com/SenatorMenendezNJ",
     "state": "new_jersey",
     "stateDisplay": "New Jersey",
+    "threshold": "58.9",
     "yearElected": "2006",
     "yearReelection": "2018"
   },
@@ -3260,6 +3319,7 @@
     "socialYoutube": "http://www.youtube.com/sencorybooker",
     "state": "new_jersey",
     "stateDisplay": "New Jersey",
+    "threshold": "55.8",
     "yearElected": "2013",
     "yearReelection": "2020"
   },
@@ -3321,6 +3381,7 @@
     "socialYoutube": "http://www.youtube.com/senatortomudall",
     "state": "new_mexico",
     "stateDisplay": "New Mexico",
+    "threshold": "55.6",
     "yearElected": "2009",
     "yearReelection": "2020"
   },
@@ -3380,6 +3441,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenMartinHeinrich",
     "state": "new_mexico",
     "stateDisplay": "New Mexico",
+    "threshold": "51.0",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -3456,6 +3518,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorSchumer",
     "state": "new_york",
     "stateDisplay": "New York",
+    "threshold": "70.4",
     "yearElected": "1999",
     "yearReelection": "2022"
   },
@@ -3533,6 +3596,7 @@
     "socialYoutube": "https://www.youtube.com/user/KirstenEGillibrand",
     "state": "new_york",
     "stateDisplay": "New York",
+    "threshold": "71.6",
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -3586,6 +3650,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorRichardBurr",
     "state": "north_carolina",
     "stateDisplay": "North Carolina",
+    "threshold": "51.1",
     "yearElected": "2005",
     "yearReelection": "2022"
   },
@@ -3640,6 +3705,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCUD9VGV4SSGWjGdbn37Ea2w",
     "state": "north_carolina",
     "stateDisplay": "North Carolina",
+    "threshold": "48.8",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -3701,6 +3767,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorJohnHoevenND",
     "state": "north_dakota",
     "stateDisplay": "North Dakota",
+    "threshold": "78.4",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -3762,6 +3829,7 @@
     "socialYoutube": "http://www.youtube.com/senatorheidiheitkamp",
     "state": "north_dakota",
     "stateDisplay": "North Dakota",
+    "threshold": "50.24",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -3816,6 +3884,7 @@
     "socialYoutube": "https://www.youtube.com/user/SherrodBrownOhio",
     "state": "ohio",
     "stateDisplay": "Ohio",
+    "threshold": "50.7",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -3870,6 +3939,7 @@
     "socialYoutube": "http://www.youtube.com/SenRobPortman",
     "state": "ohio",
     "stateDisplay": "Ohio",
+    "threshold": "58.0",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -3925,6 +3995,7 @@
     "socialYoutube": "https://www.youtube.com/user/JimInhofePressOffice",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
+    "threshold": "68.0",
     "yearElected": "1994",
     "yearReelection": "2020"
   },
@@ -3967,6 +4038,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCz8T6sK5fEycyWmVz6Vpe5Q",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
+    "threshold": "67.7",
     "yearElected": "2015",
     "yearReelection": "2022"
   },
@@ -4033,6 +4105,7 @@
     "socialYoutube": "http://www.youtube.com/senronwyden",
     "state": "oregon",
     "stateDisplay": "Oregon",
+    "threshold": "56.1",
     "yearElected": "1996",
     "yearReelection": "2022"
   },
@@ -4099,6 +4172,7 @@
     "socialYoutube": "",
     "state": "oregon",
     "stateDisplay": "Oregon",
+    "threshold": "55.7",
     "yearElected": "2009",
     "yearReelection": "2020"
   },
@@ -4169,6 +4243,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorBobCasey",
     "state": "pennsylvania",
     "stateDisplay": "Pennsylvania",
+    "threshold": "53.7",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -4240,6 +4315,7 @@
     "socialYoutube": "http://www.youtube.com/user/sentoomey",
     "state": "pennsylvania",
     "stateDisplay": "Pennsylvania",
+    "threshold": "48.9",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -4282,6 +4358,7 @@
     "socialYoutube": "http://www.youtube.com/user/senatorreed",
     "state": "rhode_island",
     "stateDisplay": "Rhode Island",
+    "threshold": "70.6",
     "yearElected": "1997",
     "yearReelection": "2020"
   },
@@ -4318,6 +4395,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorWhitehouse",
     "state": "rhode_island",
     "stateDisplay": "Rhode Island",
+    "threshold": "64.8",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -4385,6 +4463,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UClLGZMA5Ei2Z8fR1PLEx6yQ",
     "state": "south_carolina",
     "stateDisplay": "South Carolina",
+    "threshold": "54.3",
     "yearElected": "2003",
     "yearReelection": "2020"
   },
@@ -4433,6 +4512,7 @@
     "socialYoutube": "http://www.youtube.com/SenatorTimScott",
     "state": "south_carolina",
     "stateDisplay": "South Carolina",
+    "threshold": "60.5",
     "yearElected": "2013",
     "yearReelection": "2022"
   },
@@ -4480,6 +4560,7 @@
     "socialYoutube": "http://www.youtube.com/johnthune",
     "state": "south_dakota",
     "stateDisplay": "South Dakota",
+    "threshold": "71.8",
     "yearElected": "2005",
     "yearReelection": "2022"
   },
@@ -4535,6 +4616,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UC-pvzimyBdpdkcIfsicrfrQ",
     "state": "south_dakota",
     "stateDisplay": "South Dakota",
+    "threshold": "50.4",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -4601,6 +4683,7 @@
     "socialYoutube": "http://www.youtube.com/user/lamaralexander",
     "state": "tennessee",
     "stateDisplay": "Tennessee",
+    "threshold": "61.9",
     "yearElected": "2003",
     "yearReelection": "2020"
   },
@@ -4666,6 +4749,7 @@
     "socialYoutube": "http://www.youtube.com/user/senatorcorker",
     "state": "tennessee",
     "stateDisplay": "Tennessee",
+    "threshold": "64.9",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -4737,6 +4821,7 @@
     "socialYoutube": "http://www.youtube.com/senjohncornyn",
     "state": "texas",
     "stateDisplay": "Texas",
+    "threshold": "61.6",
     "yearElected": "2002",
     "yearReelection": "2020"
   },
@@ -4803,6 +4888,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenTedCruz",
     "state": "texas",
     "stateDisplay": "Texas",
+    "threshold": "56.5",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -4862,6 +4948,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorOrrinHatch",
     "state": "utah",
     "stateDisplay": "Utah",
+    "threshold": "65.3",
     "yearElected": "1977",
     "yearReelection": "2018"
   },
@@ -4904,6 +4991,7 @@
     "socialYoutube": "http://youtube.com/senatormikelee",
     "state": "utah",
     "stateDisplay": "Utah",
+    "threshold": "68.1",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -4946,6 +5034,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorPatrickLeahy",
     "state": "vermont",
     "stateDisplay": "Vermont",
+    "threshold": "59.9",
     "yearElected": "1975",
     "yearReelection": "2022"
   },
@@ -4989,6 +5078,7 @@
     "socialYoutube": "http://www.youtube.com/senatorsanders",
     "state": "vermont",
     "stateDisplay": "Vermont",
+    "threshold": "71",
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -5050,6 +5140,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorMarkWarner",
     "state": "virginia",
     "stateDisplay": "Virginia",
+    "threshold": "49.1",
     "yearElected": "2009",
     "yearReelection": "2020"
   },
@@ -5117,6 +5208,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorTimKaine",
     "state": "virginia",
     "stateDisplay": "Virginia",
+    "threshold": "52.9",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -5183,6 +5275,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorPattyMurray",
     "state": "washington",
     "stateDisplay": "Washington",
+    "threshold": "59.04",
     "yearElected": "1993",
     "yearReelection": "2022"
   },
@@ -5250,6 +5343,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorCantwell",
     "state": "washington",
     "stateDisplay": "Washington",
+    "threshold": "60.5",
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -5298,6 +5392,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorJoeManchin",
     "state": "west_virginia",
     "stateDisplay": "West Virginia",
+    "threshold": "60.6",
     "yearElected": "2010",
     "yearReelection": "2018"
   },
@@ -5351,6 +5446,7 @@
     "socialYoutube": "https://www.youtube.com/channel/UCbiXdR4XQ3vD9Xp5lfR9QXw",
     "state": "west_virginia",
     "stateDisplay": "West Virginia",
+    "threshold": "62.1",
     "yearElected": "2015",
     "yearReelection": "2020"
   },
@@ -5393,6 +5489,7 @@
     "socialYoutube": "http://www.youtube.com/user/SenatorRonJohnson",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
+    "threshold": "50.19",
     "yearElected": "2011",
     "yearReelection": "2022"
   },
@@ -5458,6 +5555,7 @@
     "socialYoutube": "https://www.youtube.com/SenatorTammyBaldwin",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
+    "threshold": "51.4",
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -5519,6 +5617,7 @@
     "socialYoutube": "https://www.youtube.com/user/SenatorEnzi",
     "state": "wyoming",
     "stateDisplay": "Wyoming",
+    "threshold": "71.2",
     "yearElected": "1997",
     "yearReelection": "2020"
   },
@@ -5573,6 +5672,7 @@
     "socialYoutube": "https://www.youtube.com/user/barrassowyo",
     "state": "wyoming",
     "stateDisplay": "Wyoming",
+    "threshold": "75.7",
     "yearElected": "2007",
     "yearReelection": "2018"
   }

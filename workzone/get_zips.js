@@ -117,6 +117,9 @@ function getMembers(selector) {
 var a = getMembers(s);
 copy(a);
 
+
+
+
 function assign(sens, comms) {
     return sens.map(function (sen) {
         var a = [];
@@ -131,9 +134,49 @@ function assign(sens, comms) {
 }
 
 function allcomms(comms) {
-    var all = [];
-    comms.forEach(function (comm) {
-        all.push(comm.name);
+    return comms.map(function (comm, i) {
+        return {
+            id: (i + 1).toString(),
+            name: comm.name
+        }
     });
-    console.log(all);
+}
+
+
+
+// get win margin
+
+function getData(tableSelector) {
+    var data = [];
+    var el = $(tableSelector)[0];
+    var names = el.querySelectorAll('td:nth-child(7) b a');
+    for (var i = 0; i < names.length; i++) {
+        data.push(names[i].text);
+    }
+    console.log(data);
+}
+
+var tables = $$('.wikitable').slice(4, 54);
+var results = [];
+
+for (var k = 0; k < tables.length; k++) {
+    results = results.concat(getData(tables[k]));
+}
+
+console.log(results)
+
+
+function getData(tableEl) {
+    var data = [];
+    var entries = tableEl.querySelectorAll('td:nth-child(6)');
+    console.log(entries)
+
+    for (var i = 0; i < entries.length; i++) {
+        var o = {};
+        o.name = entries[i].querySelector('b a').textContent;
+        o.num = entries[i].textContent.split('%')[0].split(')')[1].trim();
+        data.push(o);
+    }
+
+    return data;
 }

@@ -1,4 +1,4 @@
-var app = angular.module('myApp', ['ngRoute', 'djds4rce.angular-socialshare']);
+var app = angular.module('myApp', ['ngRoute']);
 
 app.config(function ($routeProvider, $locationProvider) {
     $routeProvider
@@ -16,9 +16,9 @@ app.config(function ($routeProvider, $locationProvider) {
 
 });
 
-app.run(function ($FB) {
-    $FB.init('1748104988834383');
-});
+// app.run(function ($FB) {
+//     $FB.init('1748104988834383');
+// });
 
 app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $http, $timeout) {
 
@@ -48,6 +48,34 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             { id: "2", name: "Democratic" },
             { id: "3", name: "Independent" },
             { id: "4", name: "Republican" }
+        ]
+    };
+
+    $scope.houseCommittees = {
+        model: "1",
+        availableOptions: [
+            { id: "1", name: "All House Committees" },
+            { id: "2", name: "Agriculture" },
+            { id: "3", name: "Appropriations" },
+            { id: "4", name: "Armed Services" },
+            { id: "5", name: "Budget" },
+            { id: "6", name: "Education and the Workforce" },
+            { id: "7", name: "Energy and Commerce" },
+            { id: "8", name: "Ethics" },
+            { id: "9", name: "Financial Services" },
+            { id: "10", name: "Foreign Affairs" },
+            { id: "11", name: "Homeland Security" },
+            { id: "12", name: "House Administration" },
+            { id: "13", name: "Intelligence" },
+            { id: "14", name: "Judiciary" },
+            { id: "15", name: "Natural Resources" },
+            { id: "16", name: "Oversight and Government Reform" },
+            { id: "17", name: "Rules" },
+            { id: "18", name: "Science, Space, and Technology" },
+            { id: "19", name: "Small Business" },
+            { id: "20", name: "Transportation and Infrastructure" },
+            { id: "21", name: "Veterans’ Affairs" },
+            { id: "22", name: "Ways and Means" }
         ]
     };
 
@@ -97,6 +125,16 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             }
         }
 
+        if ($scope.houseCommittees.model !== "1") {
+            sens = [];
+            var comm = $scope.houseCommittees.availableOptions.filter(function (item) {
+                return item.id === $scope.houseCommittees.model;
+            })[0];
+            reps = reps.filter(function (rep) {
+                return rep.committees.indexOf(comm.name) !== -1;
+            });
+        }
+
         if ($scope.senateCommittees.model !== "1") {
             reps = [];
             var comm = $scope.senateCommittees.availableOptions.filter(function (item) {
@@ -141,6 +179,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
       'queryZip',
       'chambers.model',
       'parties.model',
+      'houseCommittees.model',
       'senateCommittees.model'
     ], function () {
         $scope.update();

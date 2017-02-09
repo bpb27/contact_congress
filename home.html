@@ -6,6 +6,9 @@
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
 	</div>
 	<div class="col-md-12 select-boxes">
+		<select ng-model="houseCommittees.model">
+			<option ng-repeat="option in houseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		</select>
 		<select ng-model="senateCommittees.model">
 			<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
@@ -52,8 +55,9 @@
 				<span ng-if="member.district"><b>District: </b>{{member.district}}</span>
 			</div>
 			<div class="col-md-3 col-xs-6">
+				<span><b>First elected:</b> {{member.elected}}<span><br>
 				<span><b>Reelection:</b> {{member.reelection}}</span><br>
-				<span><b>Took office:</b> {{member.elected}}<span>
+				<span><b>Last election:</b> {{member.threshold}}% of vote<span>
 			</div>
 			<div class="col-md-12 col-xs-12 full-contact" ng-hide="!member.toggle">
 				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'">

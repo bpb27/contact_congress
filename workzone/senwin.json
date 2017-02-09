@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Richard Shelby",
+    "num": "64.2"
+  },
+  {
+    "name": "Lisa Murkowski",
+    "num": "44"
+  },
+  {
+    "name": "John McCain",
+    "num": "53"
+  },
+  {
+    "name": "John Boozman",
+    "num": "59.7"
+  },
+  {
+    "name": "Kamala Harris",
+    "num": "61.8"
+  },
+  {
+    "name": "Michael Bennet",
+    "num": "50.0"
+  },
+  {
+    "name": "Richard Blumenthal",
+    "num": "63.2"
+  },
+  {
+    "name": "Marco Rubio",
+    "num": "52.0"
+  },
+  {
+    "name": "Johnny Isakson",
+    "num": "54.8"
+  },
+  {
+    "name": "Brian Schatz",
+    "num": "73.6"
+  },
+  {
+    "name": "Mike Crapo",
+    "num": "66.1"
+  },
+  {
+    "name": "Tammy Duckworth",
+    "num": " 54.9"
+  },
+  {
+    "name": "Todd Young",
+    "num": "52.1"
+  },
+  {
+    "name": "Chuck Grassley",
+    "num": "60.1"
+  },
+  {
+    "name": "Jerry Moran",
+    "num": "62.1"
+  },
+  {
+    "name": "Rand Paul",
+    "num": "57.27"
+  },
+  {
+    "name": "John N. Kennedy",
+    "num": "60.65"
+  },
+  {
+    "name": "Chris Van Hollen",
+    "num": "60.9"
+  },
+  {
+    "name": "Roy Blunt",
+    "num": "49.3"
+  },
+  {
+    "name": "Catherine Cortez Masto",
+    "num": "47.1"
+  },
+  {
+    "name": "Maggie Hassan",
+    "num": "47.97"
+  },
+  {
+    "name": "Chuck Schumer",
+    "num": "70.4"
+  },
+  {
+    "name": "Richard Burr",
+    "num": "51.1"
+  },
+  {
+    "name": "John Hoeven",
+    "num": "78.4"
+  },
+  {
+    "name": "Rob Portman",
+    "num": "58.0"
+  },
+  {
+    "name": "James Lankford",
+    "num": "67.7"
+  },
+  {
+    "name": "Ron Wyden",
+    "num": "56.1"
+  },
+  {
+    "name": "Pat Toomey",
+    "num": "48.9"
+  },
+  {
+    "name": "Tim Scott",
+    "num": "60.5"
+  },
+  {
+    "name": "John Thune",
+    "num": "71.8"
+  },
+  {
+    "name": "Mike Lee",
+    "num": "68.1"
+  },
+  {
+    "name": "Patrick Leahy",
+    "num": "59.9"
+  },
+  {
+    "name": "Patty Murray",
+    "num": "59.04"
+  },
+  {
+    "name": "Ron Johnson",
+    "num": "50.19"
+  },
+  {
+    "name": "Jeff Sessions",
+    "num": "100"
+  },
+  {
+    "name": "Dan Sullivan",
+    "num": "48.0"
+  },
+  {
+    "name": "Tom Cotton",
+    "num": "56.5"
+  },
+  {
+    "name": "Cory Gardner",
+    "num": "48.2"
+  },
+  {
+    "name": "Chris Coons",
+    "num": "55.8"
+  },
+  {
+    "name": "David Perdue",
+    "num": "52.9"
+  },
+  {
+    "name": "Jim Risch",
+    "num": "65.3"
+  },
+  {
+    "name": "Dick Durbin",
+    "num": "53.5"
+  },
+  {
+    "name": "Joni Ernst",
+    "num": "52.1"
+  },
+  {
+    "name": "Pat Roberts",
+    "num": "53.1"
+  },
+  {
+    "name": "Mitch McConnell",
+    "num": "56.1"
+  },
+  {
+    "name": "Bill Cassidy",
+    "num": "55.9"
+  },
+  {
+    "name": "Susan Collins",
+    "num": "68.5"
+  },
+  {
+    "name": "Ed Markey",
+    "num": "62.0"
+  },
+  {
+    "name": "Gary Peters",
+    "num": "54.6"
+  },
+  {
+    "name": "Al Franken",
+    "num": "53.2"
+  },
+  {
+    "name": "Thad Cochran",
+    "num": "59.9"
+  },
+  {
+    "name": "Steve Daines",
+    "num": "57.8"
+  },
+  {
+    "name": "Ben Sasse",
+    "num": "64.4"
+  },
+  {
+    "name": "Jeanne Shaheen",
+    "num": "51.5"
+  },
+  {
+    "name": "Cory Booker",
+    "num": "55.8"
+  },
+  {
+    "name": "Tom Udall",
+    "num": "55.6"
+  },
+  {
+    "name": "Thom Tillis",
+    "num": "48.8"
+  },
+  {
+    "name": "Jim Inhofe",
+    "num": "68.0"
+  },
+  {
+    "name": "Jeff Merkley",
+    "num": "55.7"
+  },
+  {
+    "name": "Jack Reed",
+    "num": "70.6"
+  },
+  {
+    "name": "Lindsey Graham",
+    "num": "54.3"
+  },
+  {
+    "name": "Mike Rounds",
+    "num": "50.4"
+  },
+  {
+    "name": "Lamar Alexander",
+    "num": "61.9"
+  },
+  {
+    "name": "John Cornyn",
+    "num": "61.6"
+  },
+  {
+    "name": "Mark Warner",
+    "num": "49.1"
+  },
+  {
+    "name": "Shelley Moore Capito",
+    "num": "62.1"
+  },
+  {
+    "name": "Mike Enzi",
+    "num": "71.2"
+  },
+  {
+    "name": "Jeff Flake",
+    "num": "49.2"
+  },
+  {
+    "name": "Dianne Feinstein",
+    "num": "62.5"
+  },
+  {
+    "name": "Chris Murphy",
+    "num": "54.8"
+  },
+  {
+    "name": "Tom Carper",
+    "num": "66.4"
+  },
+  {
+    "name": "Bill Nelson",
+    "num": "55.2"
+  },
+  {
+    "name": "Mazie Hirono",
+    "num": "62.6"
+  },
+  {
+    "name": "Joe Donnelly",
+    "num": "50.0"
+  },
+  {
+    "name": "Angus King",
+    "num": "52.9"
+  },
+  {
+    "name": "Ben Cardin",
+    "num": "56.0"
+  },
+  {
+    "name": "Elizabeth Warren",
+    "num": "53.7"
+  },
+  {
+    "name": "Debbie Stabenow",
+    "num": "58.8"
+  },
+  {
+    "name": "Amy Klobuchar",
+    "num": "65.2"
+  },
+  {
+    "name": "Roger Wicker",
+    "num": "57.2"
+  },
+  {
+    "name": "Claire McCaskill",
+    "num": "54.8"
+  },
+  {
+    "name": "Jon Tester",
+    "num": "48.6"
+  },
+  {
+    "name": "Deb Fischer",
+    "num": "57.8"
+  },
+  {
+    "name": "Dean Heller",
+    "num": "45.9"
+  },
+  {
+    "name": "Bob Menendez",
+    "num": "58.9"
+  },
+  {
+    "name": "Martin Heinrich",
+    "num": "51.0"
+  },
+  {
+    "name": "Kirsten Gillibrand",
+    "num": "71.6"
+  },
+  {
+    "name": "Heidi Heitkamp",
+    "num": "50.24"
+  },
+  {
+    "name": "Sherrod Brown",
+    "num": "50.7"
+  },
+  {
+    "name": "Bob Casey Jr.",
+    "num": "53.7"
+  },
+  {
+    "name": "Sheldon Whitehouse",
+    "num": "64.8"
+  },
+  {
+    "name": "Bob Corker",
+    "num": "64.9"
+  },
+  {
+    "name": "Ted Cruz",
+    "num": "56.5"
+  },
+  {
+    "name": "Orrin Hatch",
+    "num": "65.3"
+  },
+  {
+    "name": "Bernie Sanders",
+    "num": "71"
+  },
+  {
+    "name": "Tim Kaine",
+    "num": "52.9"
+  },
+  {
+    "name": "Maria Cantwell",
+    "num": "60.5"
+  },
+  {
+    "name": "Joe Manchin",
+    "num": "60.6"
+  },
+  {
+    "name": "Tammy Baldwin",
+    "num": "51.4"
+  },
+  {
+    "name": "John Barrasso",
+    "num": "75.7"
+  }
+]
