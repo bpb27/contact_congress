@@ -13323,30 +13323,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1126 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-3719",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5261"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1030 Tallmadge Ave, Akron, OH 44310",
+        "fax": "(330) 630-7314",
+        "name": "Akron Office",
+        "phone": "(330) 630-7311"
+      },
+      {
+        "address": "197 West Market St, Warren, OH 44481",
+        "fax": "330-373-0098",
+        "name": "Warren Office",
+        "phone": "330-373-0074"
+      },
+      {
+        "address": "241 West Federal St., Youngstown, OH 44503",
+        "fax": "(330) 740-0182",
+        "name": "Youngstown Office",
+        "phone": "(330) 740-0193"
       }
     ],
     "district": "13",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://timryanforms.house.gov/contact/",
+    "linkMeeting": "https://timryan.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tim_Ryan_(politician)",
     "name": "Tim Ryan",
     "party": "Democratic",
     "photoFilename": "ohio13.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rep._Tim_Ryan_Congressional_Head_Shot_2010.jpg/75px-Rep._Tim_Ryan_Congressional_Head_Shot_2010.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/timryan",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/#!/RepTimRyan",
+    "socialYoutube": "https://www.youtube.com/timryanvision",
     "state": "ohio",
     "stateDisplay": "Ohio",
     "threshold": "67.7",
@@ -13359,30 +13371,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1124 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-3307",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5731"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1 Victoria Place, Room 320, Painesville, OH 44077",
+        "fax": "(440) 352-3622",
+        "name": "Painesville Office",
+        "phone": "(440) 352-3939"
+      },
+      {
+        "address": "10075 Ravenna Road, Twinsburg, OH 44087",
+        "fax": "(330) 425-7071",
+        "name": "Twinsburg Office",
+        "phone": "(330) 357-4139"
       }
     ],
     "district": "14",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://joyce.house.gov/email-me/",
+    "linkMeeting": "https://joyce.house.gov/schedule-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/David_Joyce_(politician)",
     "name": "David Joyce",
     "party": "Republican",
     "photoFilename": "ohio14.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/David_Joyce.jpg/75px-David_Joyce.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/RepDaveJoyce",
+    "socialInstagram": "http://www.instagram.com/repdavejoyce",
+    "socialTwitter": "https://twitter.com/RepDaveJoyce",
+    "socialYoutube": "http://www.youtube.com/RepDaveJoyce",
     "state": "ohio",
     "stateDisplay": "Ohio",
     "threshold": "62.6",
@@ -13395,30 +13413,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1022 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-3529",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2015"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "3790 Municipal Way, Hilliard, OH 43026",
+        "fax": "(614) 771-3990",
+        "name": "Hilliard Office",
+        "phone": "(614) 771-4968"
+      },
+      {
+        "address": "123 South Broad Street, Suite 235, Lancaster, OH 43130",
+        "fax": "(740) 654-2482",
+        "name": "Lancaster Office",
+        "phone": "(740) 654-2654"
+      },
+      {
+        "address": "69 N. South Street, Wilmington, OH 45177",
+        "fax": "(937) 283-7052",
+        "name": "Wilmington Office",
+        "phone": "(937) 283-7049"
       }
     ],
     "district": "15",
-    "linkContact": "",
+    "linkContact": "http://stivers.house.gov/Contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Steve_Stivers",
     "name": "Steve Stivers",
     "party": "Republican",
     "photoFilename": "ohio15.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Steve_Stivers%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Steve_Stivers%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/pages/Rep-Steve-Stivers/116058275133542",
+    "socialInstagram": "http://www.instagram.com/RepSteveStivers",
+    "socialTwitter": "http://twitter.com/RepSteveStivers",
+    "socialYoutube": "http://www.youtube.com/RepSteveStivers",
     "state": "ohio",
     "stateDisplay": "Ohio",
     "threshold": "66.2",
@@ -13432,30 +13462,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "328 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-3059",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3876"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1 Park Center Drive, Suite 302, Wadsworth, Ohio 44281",
+        "fax": "(330) 334-0061",
+        "name": "Wadsworth Office",
+        "phone": "(330) 334-0040"
+      },
+      {
+        "address": "7335 Ridge Road, Suite 2, Parma, OH 44129",
+        "fax": "(440) 882-6560",
+        "name": "Parma Office",
+        "phone": "(440) 882-6779"
       }
     ],
     "district": "16",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://renacci.house.gov/index.cfm/contact-form",
+    "linkMeeting": "http://renacci.house.gov/index.cfm/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Renacci",
     "name": "Jim Renacci",
     "party": "Republican",
     "photoFilename": "ohio16.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jim_Renacci%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Jim_Renacci%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/repjimrenacci",
+    "socialInstagram": "https://www.instagram.com/repjimrenacci/",
+    "socialTwitter": "https://twitter.com/repjimrenacci",
+    "socialYoutube": "https://www.youtube.com/user/RepJimRenacci",
     "state": "ohio",
     "stateDisplay": "Ohio",
     "threshold": "65.3",
@@ -13469,30 +13505,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "216 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2211"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "2448 E. 81st St., Suite 5150, Tulsa, OK 74137",
+        "fax": "918-935-2716",
+        "name": "Tulsa Office",
+        "phone": "918-935-3222"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://bridenstine.house.gov/contact",
+    "linkMeeting": "http://bridenstine.house.gov/contact/request-a-meeting.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Bridenstine",
     "name": "Jim Bridenstine",
     "party": "Republican",
     "photoFilename": "oklahoma1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jim_Bridenstine%2C_official_portrait%2C_113th_Congress.jpg/75px-Jim_Bridenstine%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/congressmanjimbridenstine",
+    "socialInstagram": "http://instagram.com/repjbridenstine/",
+    "socialTwitter": "http://twitter.com/repjbridenstine",
+    "socialYoutube": "http://www.youtube.com/repjimbridenstine",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
     "threshold": "100",
@@ -13505,30 +13541,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1113 Longworth House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-3038",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2701"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1 E. Choctaw, Suite 175, McAlester, OK 74501",
+        "fax": "(918) 423-1940",
+        "name": "McAlester Office",
+        "phone": "(918) 423-5951"
+      },
+      {
+        "address": "3109 Azalea Park Dr., Muskogee, OK 74401",
+        "fax": "(918) 686-0128",
+        "name": "Muskogee Office",
+        "phone": "(918) 687-2533"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://mullin.house.gov/contact/",
+    "linkMeeting": "https://mullin.house.gov/constituent-services/ok-meeting-request.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Markwayne_Mullin",
     "name": "Markwayne Mullin",
     "party": "Republican",
     "photoFilename": "oklahoma2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Markwayne_Mullin_official_congressional_photo.jpg/75px-Markwayne_Mullin_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepMullin",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepMullin",
+    "socialYoutube": "https://www.youtube.com/channel/UCLQlm-cbGbJj9baZC6oFsag",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
     "threshold": "70.6",
@@ -13543,30 +13585,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2405 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-8698",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5565"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "10952 NW Expressway Suite B, Yukon, OK 73099",
+        "fax": "(405) 373-2046",
+        "name": "Yukon Office",
+        "phone": "(405) 373-1958"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://lucas.house.gov/contact-me/email-me",
+    "linkMeeting": "https://lucas.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Frank_Lucas_(Oklahoma)",
     "name": "Frank Lucas",
     "party": "Republican",
     "photoFilename": "oklahoma3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Frank_Lucas.jpg/75px-Frank_Lucas.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepFrankLucas",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/repfranklucas",
+    "socialYoutube": "https://www.youtube.com/user/RepFrankLucas",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
     "threshold": "78.3",
@@ -13581,30 +13623,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2467 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-3512",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6165"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "100 E. 13th St, Suite 213, Ada, OK 74820",
+        "fax": "(580) 436-5451",
+        "name": "Ada Office",
+        "phone": "(580) 436-5375"
+      },
+      {
+        "address": "711 SW D Ave., Suite 201, Lawton, OK 73501",
+        "fax": "(580) 357-7477",
+        "name": "Lawton Office",
+        "phone": "(580) 357-2131"
+      },
+      {
+        "address": "2424 Springer Dr., Suite 201, Norman, OK 73069",
+        "fax": "(405) 321-7369",
+        "name": "Norman Office",
+        "phone": "(405) 329-6500"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://cole.house.gov/contact/email",
+    "linkMeeting": "https://cole.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Cole",
     "name": "Tom Cole",
     "party": "Republican",
     "photoFilename": "oklahoma4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tom_Cole_official_congressional_photo.jpg/75px-Tom_Cole_official_congressional_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/TomColeOK04",
+    "socialInstagram": "http://instagram.com/TomColeOK04/",
+    "socialTwitter": "http://twitter.com/TomColeOK04",
+    "socialYoutube": "http://www.youtube.com/TomColeOK04",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
     "threshold": "69.6",
@@ -13618,30 +13672,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "128 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 226-1463",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2132"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "4600 SE 29th, Suite 400, Del City, OK 73115",
+        "fax": "(405) 602-3953",
+        "name": "Del City Office",
+        "phone": "(405) 602-3074"
       }
     ],
     "district": "5",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://russell.house.gov/contact/email",
+    "linkMeeting": "https://russell.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Steve_Russell_(politician)",
     "name": "Steve Russell",
     "party": "Republican",
     "photoFilename": "oklahoma5.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steve_Russell_official_congressional_photo.jpg/75px-Steve_Russell_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/pages/Congressman-Steve-Russell/996556490372532",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepRussell",
+    "socialYoutube": "http://www.youtube.com/channel/UC2z7ACZuDophcPphXdJfbZQ",
     "state": "oklahoma",
     "stateDisplay": "Oklahoma",
     "threshold": "57.1",
@@ -13655,30 +13709,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "439 Cannon HOB, Washington, DC 20515",
+        "fax": "(202) 225-9497",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-0855"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "12725 SW Millikan Way, Suite 220, Beaverton, OR 97005",
+        "fax": "(503) 469-6018",
+        "name": "Beaverton Office",
+        "phone": "(503) 469-6010"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://bonamici.house.gov/contact-me/email-me",
+    "linkMeeting": "http://bonamici.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Suzanne_Bonamici",
     "name": "Suzanne Bonamici",
     "party": "Democratic",
     "photoFilename": "oregon1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Suzanne_Bonamici.jpg/75px-Suzanne_Bonamici.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/CongresswomanBonamici",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepBonamici",
+    "socialYoutube": "http://www.youtube.com/user/RepSuzanneBonamici/",
     "state": "oregon",
     "stateDisplay": "Oregon",
     "threshold": "59.6",
