@@ -20,6 +20,7 @@ ol li {
 
 select {
   font-family: sans-serif;
+	height: 30px;
 }
 
 #logo-img {

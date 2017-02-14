@@ -121,13 +121,19 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
 
     $scope.more = function () {
         $scope.increment = $scope.increment + 20;
+        $scope.update(true);
     }
 
     $scope.toggleFilter = function (item) {
         item.toggle = !item.toggle;
     };
 
-    $scope.update = function () {
+    $scope.update = function (noReset) {
+
+        if (!noReset) {
+            $scope.increment = 20;
+        }
+
         var reps = $scope.reps ? $scope.reps.slice() : [];
         var sens = $scope.sens ? $scope.sens.slice() : [];
 
@@ -247,7 +253,6 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     }
 
     $scope.$watchGroup([
-      'increment',
       'queryName',
       'queryState',
       'queryZip',
@@ -269,12 +274,12 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     $http.get('/data/sens.json').then(function (results) {
         results.data = addDates(results.data);
         $scope.sens = results.data;
-        $scope.increment += 1;
+        $scope.update();
     });
 
     $http.get('/data/zips.json').then(function (results) {
         $scope.zips = results.data;
-        $scope.increment += 1;
+        $scope.update();
     });
 
 
