@@ -79,6 +79,14 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
         ]
     };
 
+    $scope.ordering = {
+        model: "1",
+        availableOptions: [
+            { id: "1", name: "Asc" },
+            { id: "2", name: "Desc" }
+        ]
+    };
+
     $scope.senateCommittees = {
         model: "1",
         availableOptions: [
@@ -102,6 +110,18 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             { id: "18", name: "Rules and Administration" },
             { id: "19", name: "Small Business and Entrepreneurship" },
             { id: "20", name: "Veterans' Affairs" }
+        ]
+    };
+
+    $scope.sorting = {
+        model: "1",
+        availableOptions: [
+            { id: "1", name: "State" },
+            { id: "2", name: "First name" },
+            { id: "3", name: "Last name" },
+            { id: "4", name: "Year elected" },
+            { id: "5", name: "Reelection year" },
+            { id: "6", name: "Elected by %" },
         ]
     };
 
@@ -169,7 +189,63 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             $scope.matches = reps.concat(sens);
         }
 
-        $scope.displayed = $scope.matches.slice(0, $scope.increment);
+        if ($scope.sorting.model !== "1") {
+            var sortId = $scope.sorting.model;
+            var sortedMatches = $scope.matches.sort(function (a, b) {
+                if (sortId === "2") {
+                    if (a.name.split(' ')[0].toLowerCase().trim() < b.name.split(' ')[0].toLowerCase().trim()) {
+                        return -1;
+                    } else if (a.name.split(' ')[0].toLowerCase().trim() > b.name.split(' ')[0].toLowerCase().trim()) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
+                }
+                if (sortId === "3") {
+                    if (lastName(a.name) < lastName(b.name)) {
+                        return -1;
+                    } else if (lastName(a.name) > lastName(b.name)) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
+                }
+                if (sortId === "4") {
+                    if (parseInt(a.yearElected.replace('*', '')) < parseInt(b.yearElected.replace('*', ''))) {
+                        return -1;
+                    } else if (parseInt(a.yearElected.replace('*', '')) > parseInt(b.yearElected.replace('*', ''))) {
+                        return 1;
+                    } else {
+                        return 0
+                    }
+                }
+                if (sortId === "5") {
+                    if (parseInt(a.yearReelection.replace('*', '')) < parseInt(b.yearReelection.replace('*', ''))) {
+                        return -1;
+                    } else if (parseInt(a.yearReelection.replace('*', '')) > parseInt(b.yearReelection.replace('*', ''))) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
+                }
+                if (sortId === "6") {
+                    if (parseInt(a.threshold) < parseInt(b.threshold)) {
+                        return -1;
+                    }
+                    if (parseInt(a.threshold) > parseInt(b.threshold)) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
+                }
+            });
+
+            $scope.displayed = $scope.ordering.model === "2" ? sortedMatches.reverse().slice(0, $scope.increment) : sortedMatches.slice(0, $scope.increment);
+
+        } else {
+            $scope.displayed = $scope.ordering.model === "2" ? $scope.matches.reverse().slice(0, $scope.increment) : $scope.matches.slice(0, $scope.increment);
+        }
+
     }
 
     $scope.$watchGroup([
@@ -180,13 +256,14 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
       'chambers.model',
       'parties.model',
       'houseCommittees.model',
-      'senateCommittees.model'
+      'senateCommittees.model',
+      'sorting.model',
+      'ordering.model'
     ], function () {
         $scope.update();
     });
 
     $http.get('/data/reps.json').then(function (results) {
-        // results.data = [];
         $scope.reps = addDates(results.data, 2018);
         $scope.matches = results.data;
         $scope.displayed = results.data.slice(0, $scope.increment);
@@ -243,6 +320,11 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
         }).concat(sens.filter(function (item) {
             return item.state.toLowerCase().indexOf(state.toLowerCase()) !== -1;
         }));
+    }
+
+    function lastName(str) {
+        var l = str.replace(' Jr', '').split(' ');
+        return l[l.length - 1].toLowerCase().trim();
     }
 
     function parseDistricts(str) {

@@ -6,6 +6,12 @@
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
 	</div>
 	<div class="col-md-12 select-boxes">
+		<select ng-model="sorting.model">
+			<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		</select>
+		<select ng-model="ordering.model">
+			<option ng-repeat="option in ordering.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		</select>
 		<select ng-model="houseCommittees.model">
 			<option ng-repeat="option in houseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
