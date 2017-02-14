@@ -6,11 +6,11 @@
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
 	</div>
 	<div class="col-md-12 select-boxes">
-		<select ng-model="sorting.model">
-			<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		<select ng-model="parties.model">
+			<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
-		<select ng-model="ordering.model">
-			<option ng-repeat="option in ordering.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		<select ng-model="chambers.model">
+			<option ng-repeat="option in chambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
 		<select ng-model="houseCommittees.model">
 			<option ng-repeat="option in houseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
@@ -18,27 +18,32 @@
 		<select ng-model="senateCommittees.model">
 			<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
-		<select ng-model="parties.model">
-			<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
-		</select>
-		<select ng-model="chambers.model">
-			<option ng-repeat="option in chambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
+		<select ng-model="sorting.model">
+			<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
 	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
-			<!-- <img class="col-md-1 col-xs-4" ng-src="{{member.photoUrl}}" /> -->
-			<div class="col-md-3 col-xs-6">
-				<span ng-if="member.district"><b>Rep. {{member.name}}</b></span>
-				<span ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
+			<div class="col-md-1 col-xs-2">
+				<img ng-src="./images/{{member.photoFilename}}" />
+			</div>
+			<div class="col-md-3 col-xs-12">
+				<span class="member-name" ng-if="member.district"><b>Rep. {{member.name}}</b></span>
+				<span class="member-name" ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
 				<span>DC: {{member.contact[0].phone}}</span><br>
 				<span><a class="pointer" ng-click="toggleFilter(member)">All contact info</a></span><br>
-				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span>
+				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span><br ng-if="member.linkMeeting">
+				<span><a ng-href="{{member.linkContact}}" target="_blank">Email office</a></span>
 			</div>
-			<div class="col-md-3 col-xs-6 social-links">
-				<span ng-if="member.linkContact" class="pointer">
-					<a ng-href="{{member.linkContact}}" target="_blank"><i class="fa fa-envelope" style="font-size:30px"></i></a>
-				</span>
+			<div class="col-md-3 col-xs-12">
+				<span><b>State: </b>{{member.stateDisplay}}</span><br>
+				<span><b>Party: </b>{{member.party}}</span><br>
+				<span ng-if="member.district"><b>District: </b>{{member.district}}</span><br ng-if="member.district">
+				<span><b>First elected:</b> {{member.elected}}<span><br>
+				<span><b>Reelection:</b> {{member.reelection}}</span><br>
+				<span><b>Last election:</b> {{member.threshold}}% of vote<span>
+			</div>
+			<div class="col-md-5 col-xs-12 social-links">
 				<span ng-if="member.socialTwitter" class="pointer">
 					<a ng-href="{{member.socialTwitter}}" target="_blank"><i class="fa fa-twitter" style="font-size:30px"></i></a>
 				</span>
@@ -51,19 +56,9 @@
 				<span ng-if="member.socialYoutube" class="pointer">
 					<a ng-href="{{member.socialYoutube}}" target="_blank"><i class="fa fa-youtube-play" style="font-size:30px"></i></a>
 				</span>
-				<!-- <span class="pointer">
+				<span class="pointer">
 					<a ng-href="{{member.linkWikipedia}}" target="_blank"><i class="fa fa-wikipedia-w" style="font-size:30px"></i></a>
-				</span> -->
-			</div>
-			<div class="col-md-3 col-xs-6">
-				<span><b>State: </b>{{member.stateDisplay}}</span><br>
-				<span><b>Party: </b>{{member.party}}</span><br>
-				<span ng-if="member.district"><b>District: </b>{{member.district}}</span>
-			</div>
-			<div class="col-md-3 col-xs-6">
-				<span><b>First elected:</b> {{member.elected}}<span><br>
-				<span><b>Reelection:</b> {{member.reelection}}</span><br>
-				<span><b>Last election:</b> {{member.threshold}}% of vote<span>
+				</span>
 			</div>
 			<div class="col-md-12 col-xs-12 full-contact" ng-hide="!member.toggle">
 				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'">

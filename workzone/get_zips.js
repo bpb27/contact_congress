@@ -10,7 +10,7 @@ console.log(zips);
 
 //https://en.wikipedia.org/wiki/Current_members_of_the_United_States_House_of_Representatives
 var reps = [];
-var rows = $('#mw-content-text > table:nth-child(19) tr');
+var rows = $('#mw-content-text > table:nth-child(18) tr');
 for (var i = 1; i < rows.length; i++) {
 
     var el = rows[i];
@@ -34,8 +34,13 @@ for (var i = 1; i < rows.length; i++) {
     if (!vacant) {
         party = el.querySelector('td:nth-child(4)').textContent;
         year = el.querySelector('td:nth-child(7)').textContent;
-        link = 'https://en.wikipedia.org' + el.querySelector('td:nth-child(2) .vcard a').getAttribute('href');
-        photoUrl = 'https://en.wikipedia.org' + el.querySelector('td:nth-child(2) a').getAttribute('href');
+        link = 'https:' + el.querySelector('td:nth-child(2) .vcard a').getAttribute('href');
+        try {
+            photoUrl = 'https:' + el.querySelector('td:nth-child(2) a img').getAttribute('src');
+        } catch (e) {
+            console.log(e);
+            photoUrl = '';
+        }
     }
 
     reps.push({

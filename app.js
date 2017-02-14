@@ -1,4 +1,4 @@
-var app = angular.module('myApp', ['ngRoute']);
+var app = angular.module('myApp', ['ngRoute', 'ngAnimate']);
 
 app.config(function ($routeProvider, $locationProvider) {
     $routeProvider
@@ -15,10 +15,6 @@ app.config(function ($routeProvider, $locationProvider) {
     $locationProvider.html5Mode(true).hashPrefix('!');
 
 });
-
-// app.run(function ($FB) {
-//     $FB.init('1748104988834383');
-// });
 
 app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $http, $timeout) {
 
@@ -79,14 +75,6 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
         ]
     };
 
-    $scope.ordering = {
-        model: "1",
-        availableOptions: [
-            { id: "1", name: "Asc" },
-            { id: "2", name: "Desc" }
-        ]
-    };
-
     $scope.senateCommittees = {
         model: "1",
         availableOptions: [
@@ -116,12 +104,18 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     $scope.sorting = {
         model: "1",
         availableOptions: [
-            { id: "1", name: "State" },
-            { id: "2", name: "First name" },
-            { id: "3", name: "Last name" },
-            { id: "4", name: "Year elected" },
-            { id: "5", name: "Reelection year" },
-            { id: "6", name: "Elected by %" },
+            { id: "1", name: "Order: State (asc)" },
+            { id: "2", name: "Order: State (desc)" },
+            { id: "3", name: "Order: First name (asc)" },
+            { id: "4", name: "Order: First name (desc)" },
+            { id: "5", name: "Order: Last name (asc)" },
+            { id: "6", name: "Order: Last name (desc)" },
+            { id: "7", name: "Order: Year first elected (asc)" },
+            { id: "8", name: "Order: Year first elected (desc)" },
+            { id: "9", name: "Order: Reelection year (asc)" },
+            { id: "10", name: "Order: Reelection year (desc)" },
+            { id: "11", name: "Order: Elected by % (asc)" },
+            { id: "12", name: "Order: Elected by % (desc)" }
         ]
     };
 
@@ -134,8 +128,8 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
     };
 
     $scope.update = function () {
-        var reps = $scope.reps;
-        var sens = $scope.sens;
+        var reps = $scope.reps ? $scope.reps.slice() : [];
+        var sens = $scope.sens ? $scope.sens.slice() : [];
 
         if ($scope.chambers.model !== "1") {
             if ($scope.chambers.model === "2") {
@@ -189,10 +183,15 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             $scope.matches = reps.concat(sens);
         }
 
-        if ($scope.sorting.model !== "1") {
+        var sortId = $scope.sorting.model;
+        var reverse = $scope.sorting.availableOptions.filter(function (item) {
+            return item.id === sortId;
+        })[0].name.indexOf('desc') !== -1;
+
+        if (sortId !== "1" && sortId !== "2") {
             var sortId = $scope.sorting.model;
             var sortedMatches = $scope.matches.sort(function (a, b) {
-                if (sortId === "2") {
+                if (sortId === "3" || sortId === "4") {
                     if (a.name.split(' ')[0].toLowerCase().trim() < b.name.split(' ')[0].toLowerCase().trim()) {
                         return -1;
                     } else if (a.name.split(' ')[0].toLowerCase().trim() > b.name.split(' ')[0].toLowerCase().trim()) {
@@ -201,7 +200,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
                         return 0;
                     }
                 }
-                if (sortId === "3") {
+                if (sortId === "5" || sortId === "6") {
                     if (lastName(a.name) < lastName(b.name)) {
                         return -1;
                     } else if (lastName(a.name) > lastName(b.name)) {
@@ -210,7 +209,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
                         return 0;
                     }
                 }
-                if (sortId === "4") {
+                if (sortId === "7" || sortId === "8") {
                     if (parseInt(a.yearElected.replace('*', '')) < parseInt(b.yearElected.replace('*', ''))) {
                         return -1;
                     } else if (parseInt(a.yearElected.replace('*', '')) > parseInt(b.yearElected.replace('*', ''))) {
@@ -219,7 +218,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
                         return 0
                     }
                 }
-                if (sortId === "5") {
+                if (sortId === "9" || sortId === "10") {
                     if (parseInt(a.yearReelection.replace('*', '')) < parseInt(b.yearReelection.replace('*', ''))) {
                         return -1;
                     } else if (parseInt(a.yearReelection.replace('*', '')) > parseInt(b.yearReelection.replace('*', ''))) {
@@ -228,11 +227,10 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
                         return 0;
                     }
                 }
-                if (sortId === "6") {
+                if (sortId === "11" || sortId === "12") {
                     if (parseInt(a.threshold) < parseInt(b.threshold)) {
                         return -1;
-                    }
-                    if (parseInt(a.threshold) > parseInt(b.threshold)) {
+                    } else if (parseInt(a.threshold) > parseInt(b.threshold)) {
                         return 1;
                     } else {
                         return 0;
@@ -240,10 +238,10 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
                 }
             });
 
-            $scope.displayed = $scope.ordering.model === "2" ? sortedMatches.reverse().slice(0, $scope.increment) : sortedMatches.slice(0, $scope.increment);
+            $scope.displayed = reverse ? sortedMatches.reverse().slice(0, $scope.increment) : sortedMatches.slice(0, $scope.increment);
 
         } else {
-            $scope.displayed = $scope.ordering.model === "2" ? $scope.matches.reverse().slice(0, $scope.increment) : $scope.matches.slice(0, $scope.increment);
+            $scope.displayed = reverse ? $scope.matches.reverse().slice(0, $scope.increment) : $scope.matches.slice(0, $scope.increment);
         }
 
     }
@@ -257,8 +255,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
       'parties.model',
       'houseCommittees.model',
       'senateCommittees.model',
-      'sorting.model',
-      'ordering.model'
+      'sorting.model'
     ], function () {
         $scope.update();
     });
@@ -315,6 +312,9 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
 
     function findByState(state, reps, sens) {
         state = state.replace(' ', '_');
+        if (!sens) {
+            sens = [];
+        }
         return reps.filter(function (item) {
             return item.state.indexOf(state.toLowerCase()) !== -1;
         }).concat(sens.filter(function (item) {
