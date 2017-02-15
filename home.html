@@ -1,11 +1,11 @@
 <div ng-controller="mainCtrl">
-	<div id="total" class="col-md-12">{{matches.length}} members of Congress</div>
-	<div id="searchbars" class="col-md-12">
+	<div id="total" class="col-md-12">{{matches.length}} members <span class="sh">of Congress</span></div>
+	<div id="searchbars" class="col-md-12 col-xs-6">
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" /></div>
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="state" ng-model="queryState" /></div>
 		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
 	</div>
-	<div class="col-md-12 select-boxes">
+	<div class="col-md-12 col-xs-6 select-boxes">
 		<select ng-model="parties.model">
 			<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
@@ -24,10 +24,10 @@
 	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
-			<div class="col-md-1 col-xs-2">
+			<div class="col-md-1 col-xs-3">
 				<img ng-src="./images/{{member.photoFilename}}" />
 			</div>
-			<div class="col-md-3 col-xs-12">
+			<div class="col-md-3 col-xs-9">
 				<span class="member-name" ng-if="member.district"><b>Rep. {{member.name}}</b></span>
 				<span class="member-name" ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
 				<span>DC: {{member.contact[0].phone}}</span><br>
