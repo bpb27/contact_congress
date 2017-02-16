@@ -284,14 +284,13 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
 
     $http.get('/data/reps.json').then(function (results) {
         $scope.reps = addDates(results.data, 2018);
-        $scope.matches = $scope.matches.concat(results.data);
-        $scope.displayed = results.data.slice(0, $scope.increment);
+        $scope.matches = $scope.matches.concat($scope.reps);
         $scope.update();
     });
 
     $http.get('/data/sens.json').then(function (results) {
         $scope.sens = addDates(results.data);
-        $scope.matches = $scope.matches.concat(results.data);
+        $scope.matches = $scope.matches.concat($scope.sens);
         $scope.update();
     });
 
