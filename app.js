@@ -5,8 +5,14 @@ app.config(function ($routeProvider, $locationProvider) {
         .when("/", {
             templateUrl: "home.html"
         })
-        .when("/:search", {
+        .when("/:zip", {
             templateUrl: "home.html"
+        })
+        .when("/:filters/:state/:name", {
+            templateUrl: "home.html"
+        })
+        .when("/about", {
+            templateUrl: "about.html"
         })
         .otherwise({
             templateUrl: "home.html"
@@ -16,7 +22,7 @@ app.config(function ($routeProvider, $locationProvider) {
 
 });
 
-app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $http, $timeout) {
+app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope, $http, $routeParams) {
 
     $scope.displayed = [];
     $scope.increment = 20;
@@ -118,6 +124,17 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             { id: "12", name: "Order: Elected by % (desc)" }
         ]
     };
+
+    $scope.generateLink = function () {
+        var base = "http://www.contactingcongress.org/";
+        var message = 'Copy text below (PC: ctrl + c) (Mac: cmd + c)';
+        if ($scope.queryZip.length === 5 && $scope.zips[$scope.queryZip]) {
+            prompt(message, base + $scope.queryZip);
+        } else {
+            var nums = $scope.chambers.model + $scope.parties.model + $scope.houseCommittees.model + $scope.senateCommittees.model + $scope.sorting.model;
+            prompt(message, base + [nums, $scope.queryState || 'n', $scope.queryName || 'n'].join('/'));
+        }
+    }
 
     $scope.more = function () {
         $scope.increment = $scope.increment + 20;
@@ -282,6 +299,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
         $scope.update();
     });
 
+    parseRouteParams();
 
     function addDates(group, reelectionYear) {
         return group.map(function (item) {
@@ -341,6 +359,23 @@ app.controller('mainCtrl', ['$scope', '$http', '$timeout', function ($scope, $ht
             });
         }
         return [str];
+    }
+
+    function parseRouteParams() {
+        if (!$routeParams) return;
+
+        if ($routeParams.zip) {
+            $scope.queryZip = $routeParams.zip;
+        } else if ($routeParams.filters) {
+            var nums = $routeParams.filters
+            $scope.chambers.model = nums[0];
+            $scope.parties.model = nums[1];
+            $scope.houseCommittees.model = nums[2];
+            $scope.senateCommittees.model = nums[3];
+            $scope.sorting.model = nums[4];
+            $scope.queryState = $routeParams.state !== 'n' ? $routeParams.state : '';
+            $scope.queryName = $routeParams.name !== 'n' ? $routeParams.name : '';
+        }
     }
 
 }]);

@@ -21,6 +21,7 @@
 		<select ng-model="sorting.model">
 			<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
+		<button ng-click="generateLink()" class="btn">Link to this search</button>
 	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">

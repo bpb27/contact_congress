@@ -14495,6 +14495,8 @@
   },
   {
     "committees": [
+      "Foreign Affairs",
+      "Oversight and Government Reform"
     ],
     "contact": [
       {
@@ -14532,7 +14534,7 @@
     "linkContact": "https://boyle.house.gov/contact/email",
     "linkMeeting": "https://boyle.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Brendan_F._Boyle",
-    "name": "Brendan F. Boyle",
+    "name": "Brendan Boyle",
     "party": "Democratic",
     "photoFilename": "pennsylvania13.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Brendan_Boyle_House_Portrait.jpg/75px-Brendan_Boyle_House_Portrait.jpg",
@@ -15855,29 +15857,35 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2107 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-3052",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2002"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "2106 A W. Ennis Ave., Ennis, Texas 75119",
+        "fax": "(972) 875-1907",
+        "name": "Ennis Office",
+        "phone": "(972) 875-8488"
+      },
+      {
+        "address": "6001 W. Ronald Reagan Memorial Hwy, #200, Arlington, Texas 76017",
+        "fax": "(817) 548-7029",
+        "name": "Arlington Office",
+        "phone": "(817) 543-1000"
       }
     ],
     "district": "6",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://joebarton.house.gov/contact",
+    "linkMeeting": "http://joebarton.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Barton",
     "name": "Joe Barton",
     "party": "Republican",
     "photoFilename": "texas6.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Joe_Barton_Official.jpg/75px-Joe_Barton_Official.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepJoeBarton",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/repjoebarton",
     "socialYoutube": "",
     "state": "texas",
     "stateDisplay": "Texas",
@@ -15891,30 +15899,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2161 Rayburn House Office Building Washington, D.C. 20515",
+        "fax": "(202) 225-4381",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2571"
       },
       {
-        "address": "",
+        "address": "10000 Memorial Drive, Suite 620, Houston, TX 77024",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Houston Office",
+        "phone": "(713) 682-8828"
       }
     ],
     "district": "7",
-    "linkContact": "",
+    "linkContact": "http://culberson.house.gov/contact/zipauth.htm",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Culberson",
     "name": "John Culberson",
     "party": "Republican",
     "photoFilename": "texas7.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/John_Culberson_official_photo.jpg/75px-John_Culberson_official_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/johnculberson/",
+    "socialInstagram": "https://instagram.com/repjculberson/",
+    "socialTwitter": "http://www.twitter.com/congculberson",
+    "socialYoutube": "http://www.youtube.com/johnculbersontx07",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "56.2",
@@ -15927,30 +15935,37 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1011 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-5524",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4901"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "200 River Point, Ste 304, Conroe, TX 77304",
+        "fax": "(936) 441-5757",
+        "name": "Conroe Office",
+        "phone": "(936) 441-5700"
+      },
+      {
+        "address": "1300 11th Street, Suite 400, Huntsville, TX 77340",
+        "fax": "(936) 439-9546",
+        "name": "Huntsville Office",
+        "phone": "(936) 439-9532"
       }
     ],
     "district": "8",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://kevinbrady.house.gov/contact/",
+    "linkMeeting": "https://kevinbrady.house.gov/constituent-services/scheduling-an-appointment.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Brady",
+    "linkTownhall": "http://kevinbrady.house.gov/contact/townhalls.htm",
     "name": "Kevin Brady",
     "party": "Republican",
     "photoFilename": "texas8.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Official_Congressional_portrait_of_Congressman_Kevin_Brady.jpg/75px-Official_Congressional_portrait_of_Congressman_Kevin_Brady.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/kevinbrady",
+    "socialInstagram": "http://instagram.com/repkevinbrady",
+    "socialTwitter": "http://twitter.com/repkevinbrady",
+    "socialYoutube": "https://www.youtube.com/user/KBrady8",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "100",
@@ -15963,30 +15978,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2347 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-2947",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-7508"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "3003 South Loop West, Suite 460, Houston, TX 77054",
+        "fax": "713-383-9202",
+        "name": "Houston Office",
+        "phone": "713-383-9234"
       }
     ],
     "district": "9",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://algreen.house.gov/contact-me/email-me",
+    "linkMeeting": "http://algreen.house.gov/contact-me/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Al_Green_(politician)",
     "name": "Al Green",
     "party": "Democratic",
     "photoFilename": "texas9.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Al_Green_Official.jpg/75px-Al_Green_Official.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repalgreen",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/#!/RepAlGreen",
+    "socialYoutube": "http://www.youtube.com/RepAlGreen",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "80.6",
@@ -16000,30 +16015,48 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2001 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "202-225-5955",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2401"
       },
       {
-        "address": "",
+        "address": "9009 Mountain Ridge Drive, Austin Building, Suite 230, Austin, TX 78759",
+        "fax": "512-473-0514",
+        "name": "Austin Office",
+        "phone": "512-473-2357"
+      },
+      {
+        "address": "2000 S. Market Street, Suite 303, Brenham, TX 77833",
+        "fax": "979-830-1984",
+        "name": "Brenham Office",
+        "phone": "979-830-8497"
+      },
+      {
+        "address": "1773 Westborough Drive, Suite 223, Katy Commerce Center, Katy, TX 77449",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Katy Office",
+        "phone": "(281) 398-1247"
+      },
+      {
+        "address": "990 Village Square, Suite B, Rosewood Professional Building, Tomball, TX 77375",
+        "fax": "281-255-0034",
+        "name": "Tomball Office",
+        "phone": "281-255-8372"
       }
     ],
     "district": "10",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://mccaul.house.gov/contact/email-me",
+    "linkMeeting": "https://mccaul.house.gov/contact/schedule-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Michael_McCaul",
     "name": "Michael McCaul",
     "party": "Republican",
     "photoFilename": "texas10.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Michael_McCaul_official_photo.jpg/75px-Michael_McCaul_official_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/#!/michaeltmccaul",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepMcCaul",
+    "socialYoutube": "http://www.youtube.com/user/MichaelTMcCaul",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "57.3",
@@ -16038,30 +16071,60 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2430 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-1783",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3605"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "County Annex, 104 W. Sandstone, Llano, TX 78643",
+        "fax": "(325) 247-2676",
+        "name": "Llano Office",
+        "phone": "(325) 247-2826"
+      },
+      {
+        "address": "33 Twohig, Suite 307, San Angelo, TX 76903",
+        "fax": "(325) 659-4014",
+        "name": "San Angelo Office",
+        "phone": "(325) 659-4010"
+      },
+      {
+        "address": "132 Houston St., Granbury, TX 76048",
+        "fax": "(682) 936-2567",
+        "name": "Granbury Office",
+        "phone": "(682) 936-2577"
+      },
+      {
+        "address": "City Hall, 411 W. 8th Street, 5th Floor, Odessa, TX 79761",
+        "fax": "(432) 332-6538",
+        "name": "Odessa Office",
+        "phone": "(432) 331-9667"
+      },
+      {
+        "address": "6 Desta Drive, Suite 2000, Midland, TX 79705",
+        "fax": "(432) 687-0277",
+        "name": "Midland Office",
+        "phone": "(432) 687-2390"
+      },
+      {
+        "address": "Brownwood City Hall, 501 Center Ave., Brownwood, TX 76801",
+        "fax": "(325) 646-2979",
+        "name": "Brownwood Office",
+        "phone": "(325) 646-1950"
       }
     ],
     "district": "11",
-    "linkContact": "",
+    "linkContact": "http://conaway.house.gov/contact/",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Conaway",
     "name": "Mike Conaway",
     "party": "Republican",
     "photoFilename": "texas11.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mike_Conaway_official_congressional_photo.jpg/75px-Mike_Conaway_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/mike.conaway",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/#!/ConawayTX11",
+    "socialYoutube": "http://www.youtube.com/mikeconaway11",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "89.5",
@@ -16074,30 +16137,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1026 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-5683",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5071"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1701 River Run Suite 407, Fort Worth, TX 76107",
+        "fax": "(817) 335-5852",
+        "name": "Fort Worth Office",
+        "phone": "(817) 338-0909"
       }
     ],
     "district": "12",
-    "linkContact": "",
+    "linkContact": "https://kaygranger.house.gov/contact-kay/email-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kay_Granger",
     "name": "Kay Granger",
     "party": "Republican",
     "photoFilename": "texas12.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kay_Granger.jpg/75px-Kay_Granger.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepKayGranger",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepKayGranger",
+    "socialYoutube": "http://www.youtube.com/user/RepKayGranger",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "69.4",
@@ -16110,30 +16173,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2208 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-3486",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3706"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "620 South Taylor Street, Suite 200, Amarillo, Texas 79101",
+        "fax": "(806) 371-7044",
+        "name": "Amarillo Office",
+        "phone": "(806) 371-8844"
+      },
+      {
+        "address": "2525 Kell Blvd., Suite 406, Wichita Falls, Texas 76308",
+        "fax": "(940) 692-0539",
+        "name": "Wichita Falls Office",
+        "phone": "(940) 692-1700"
       }
     ],
     "district": "13",
-    "linkContact": "",
+    "linkContact": "https://thornberry.house.gov/Contact/",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mac_Thornberry",
     "name": "Mac Thornberry",
     "party": "Republican",
     "photoFilename": "texas13.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mac_Thornberry%2C_Official_Portrait%2C_111th_Congress.jpg/75px-Mac_Thornberry%2C_Official_Portrait%2C_111th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repmacthornberry",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/MacTXPress",
+    "socialYoutube": "http://www.youtube.com/RepMacThornberry",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "90.0",
@@ -16147,30 +16216,43 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1708 Longworth House Office Building, Washington, DC 20515",
+        "fax": "202-225-0271",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2831"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "505 Orleans Street, Suite 103, Beaumont, TX 77701",
+        "fax": "409-835-0578",
+        "name": "Beaumont Office",
+        "phone": "409-835-0108"
+      },
+      {
+        "address": "122 West Way, Suite 301, Lake Jackson, TX 77566",
+        "fax": "979-285-0271",
+        "name": "Lake Jackson Office",
+        "phone": "979-285-0231"
+      },
+      {
+        "address": "174 Calder Road, Suite 150, League City, TX 77573",
+        "fax": "(281) 316-0271",
+        "name": "League City Office",
+        "phone": "(281) 316-0231 "
       }
     ],
     "district": "14",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://weber.house.gov/contact/email-me",
+    "linkMeeting": "https://weber.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Randy_Weber",
+    "linkTeletownhall": "https://docs.google.com/forms/d/1YK1ZASfo85ESQ0PsZLFrOTmgdobcX9Y2ys7QKgg6rt8/viewform",
     "name": "Randy Weber",
     "party": "Republican",
     "photoFilename": "texas14.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Randy_Weber_official_congressional_photo.jpg/75px-Randy_Weber_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/TXRandy14",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/TXRandy14",
+    "socialYoutube": "http://www.youtube.com/TXRandy14",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "61.9",
@@ -16183,30 +16265,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "113 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2531"
       },
       {
-        "address": "",
+        "address": "2864 West Trenton Rd, Edinburg, TX 78539",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Edinburg Office",
+        "phone": "956-682-5545"
       }
     ],
     "district": "15",
-    "linkContact": "",
+    "linkContact": "https://gonzalez.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Vicente_Gonz%C3%A1lez_(politician)",
     "name": "Vicente Gonzalez",
     "party": "Democratic",
     "photoFilename": "texas15.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vicente_Gonzalez_115th_congress_photo.jpg/75px-Vicente_Gonzalez_115th_congress_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/USCongressmanVicenteGonzalez",
+    "socialInstagram": "http://instagram.com/repvicentegonzaleztx/",
+    "socialTwitter": "http://twitter.com/RepGonzalez",
+    "socialYoutube": "http://www.youtube.com/channel/UC5H6oYLKQ_xIXO5CG7fh4hw",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "57.3",
@@ -16220,29 +16302,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "1330 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4831"
       },
       {
-        "address": "",
+        "address": "303 N Oregon St Suite 210, El Paso, TX 79901",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "El Paso Office",
+        "phone": "915-541-1400"
       }
     ],
     "district": "16",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://orourke.house.gov/correspondence/",
+    "linkMeeting": "https://orourke.house.gov/meeting-requests/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Beto_O%27Rourke",
+    "linkTownhall": "https://www.facebook.com/pg/BetoORourkeTX16/events/",
     "name": "Beto O'Rourke",
     "party": "Democratic",
     "photoFilename": "texas16.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Beto_O%27Rourke%2C_Official_portrait%2C_113th_Congress.jpg/75px-Beto_O%27Rourke%2C_Official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/BetoORourkeTX16",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/repbetoorourke",
     "socialYoutube": "",
     "state": "texas",
     "stateDisplay": "Texas",
@@ -16256,30 +16339,43 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2440 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-0350",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6105"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "400 Austin Avenue, Suite 302, Waco, TX 76701",
+        "fax": "(254) 732-1755",
+        "name": "Waco Office",
+        "phone": "(254) 732-0748"
+      },
+      {
+        "address": "3000 Briarcrest Drive, Suite 406, Bryan, TX 77802",
+        "fax": "(979) 703-8845",
+        "name": "Bryan Office",
+        "phone": "(979) 703-4037"
+      },
+      {
+        "address": "14205 Burnet Road, Suite 230, Austin, TX 78728",
+        "fax": "(512) 373-3511",
+        "name": "Austin Office",
+        "phone": "(512) 373-3378"
       }
     ],
     "district": "17",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://flores.house.gov/contact/",
+    "linkMeeting": "https://flores.house.gov/constituent-services/schedule-a-meeting-request.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Flores",
+    "linkTownhall": "https://flores.house.gov/constituent-services/town-hall-meetings.htm",
     "name": "Bill Flores",
     "party": "Republican",
     "photoFilename": "texas17.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bill_Flores%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Bill_Flores%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/RepBillFlores",
+    "socialInstagram": "https://instagram.com/repbillflores/",
+    "socialTwitter": "https://twitter.com/RepBillFlores",
+    "socialYoutube": "http://www.youtube.com/RepBillFlores",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "60.8",
@@ -16293,30 +16389,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2187 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-3317",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3816"
       },
       {
-        "address": "",
+        "address": "6719 West Montgomery, Suite 204, Houston, TX 77091",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Acres Office",
+        "phone": "(713) 691-4882"
+      },
+      {
+        "address": "4300 Lyons Ave., Houston, TX 77020",
+        "fax": "",
+        "name": "Fifth Ward Office",
+        "phone": "(713) 227-7740"
+      },
+      {
+        "address": "420 West 19th Street, Houston, TX 77008",
+        "fax": "",
+        "name": "Heights Office",
+        "phone": "(713) 861-4070"
       }
     ],
     "district": "18",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://jacksonlee.house.gov/contact/email-me",
+    "linkMeeting": "https://jacksonlee.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sheila_Jackson_Lee",
     "name": "Sheila Jackson Lee",
     "party": "Democratic",
     "photoFilename": "texas18.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sheila_Jackson-Lee.jpg/75px-Sheila_Jackson-Lee.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/CongresswomanSheilaJacksonLee",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/JacksonLeeTX18",
+    "socialYoutube": "http://www.youtube.com/user/RepJacksonLee",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "73.5",
@@ -16331,30 +16439,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1029 Longworth House Office Building, Washington, DC 20515",
+        "fax": "202.225.9615",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4005"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "500 Chestnut St #819, Abilene, TX 79602",
+        "fax": "(325) 675-5038",
+        "name": "Abilene Office",
+        "phone": "(325) 675-9779"
+      },
+      {
+        "address": "611 University Ave. #220, Lubbock, TX 79401",
+        "fax": "(806) 767-9168",
+        "name": "Lubbock Office",
+        "phone": "(806) 763-1611"
       }
     ],
     "district": "19",
-    "linkContact": "",
+    "linkContact": "https://arrington.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jodey_Arrington",
     "name": "Jodey Arrington",
     "party": "Republican",
     "photoFilename": "texas19.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jodey_Arrington_115th_congress_photo.jpg/75px-Jodey_Arrington_115th_congress_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/JodeyArrington",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepArrington",
+    "socialYoutube": "http://www.youtube.com/republicanconference",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "86.7",
@@ -16369,30 +16483,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1221 Longworth House Office Building, Washington, DC 20515",
+        "fax": "202-225-1915",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-3236"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "727 E. Cesar E. Chavez Blvd, Suite B-128, San Antonio, TX 78206",
+        "fax": "210-979-0737",
+        "name": "San Antonio Office",
+        "phone": "210-348-8216"
       }
     ],
     "district": "20",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://castro.house.gov/contact/email-me",
+    "linkMeeting": "https://castro.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Castro",
     "name": "Joaquin Castro",
     "party": "Democratic",
     "photoFilename": "texas20.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Joaquin_Castro%2C_official_portrait%2C_113th_Congress.jpg/75px-Joaquin_Castro%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/pages/Congressman-Joaquin-Castro/326420614138023?fref=ts",
+    "socialInstagram": "http://instagram.com/joaquincastrotx",
+    "socialTwitter": "http://twitter.com/JoaquinCastrotx",
+    "socialYoutube": "http://www.youtube.com/user/JoaquinCastroTX",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "79.7",
@@ -16407,30 +16521,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2409 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "202-225-8628",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4236"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "2211 South IH-35, Suite 106, Austin, TX 78741",
+        "fax": "512-912-7519",
+        "name": "Austin Office",
+        "phone": "512-912-7508"
+      },
+      {
+        "address": "301 Junction Highway, Suite 346C, Kerrville, TX 78028",
+        "fax": "830-896-0168",
+        "name": "Kerrville Office",
+        "phone": "830-896-0154"
+      },
+      {
+        "address": "1100 NE Loop 410, Suite 640, San Antonio, TX 78209",
+        "fax": "210-821-5947",
+        "name": "San Antonio Office",
+        "phone": "210-821-5024"
       }
     ],
     "district": "21",
-    "linkContact": "",
+    "linkContact": "https://lamarsmith.house.gov/contact/email-lamar",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lamar_S._Smith",
     "name": "Lamar S. Smith",
     "party": "Republican",
     "photoFilename": "texas21.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lamar_S._Smith%2C_official_Congressional_photo_portrait.jpg/75px-Lamar_S._Smith%2C_official_Congressional_photo_portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/LamarSmithTX21",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/LamarSmithTX21",
+    "socialYoutube": "http://www.youtube.com/user/lamarsmithtexas21",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "57.0",
@@ -16443,29 +16569,41 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2133 Rayburn, Washington, DC 20515",
+        "fax": "(202) 225-5241",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5951"
       },
       {
-        "address": "",
+        "address": "22333 Grand Corner Dr., Suite 151, Katy, TX 77494",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Katy Office",
+        "phone": "(281) 889-7134"
+      },
+      {
+        "address": "1920 Country Place Pkwy, Suite 410, Pearland, TX 77584",
+        "fax": "(281) 485-4850",
+        "name": "Pearland Office",
+        "phone": "(281) 485-4855"
+      },
+      {
+        "address": "1650 Highway 6, Suite 150, Sugar Land, TX 77478",
+        "fax": "(281) 494-2649",
+        "name": "Sugar Land Office",
+        "phone": "(281) 494-2690"
       }
     ],
     "district": "22",
-    "linkContact": "",
+    "linkContact": "https://olson.house.gov/contact/email-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pete_Olson",
     "name": "Pete Olson",
     "party": "Republican",
     "photoFilename": "texas22.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pete_Olson_official_congressional_photo.jpg/75px-Pete_Olson_official_congressional_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
+    "socialFacebook": "https://www.facebook.com/pages/Pete-Olson/20718168936",
+    "socialInstagram": "https://www.instagram.com/reppeteolson/",
+    "socialTwitter": "https://twitter.com/reppeteolson",
     "socialYoutube": "",
     "state": "texas",
     "stateDisplay": "Texas",
@@ -16480,30 +16618,54 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "317 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-2237",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4511"
       },
       {
-        "address": "",
+        "address": "1104 West 10th, Del Rio, TX 78840",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Del Rio Office",
+        "phone": "830-422-2040"
+      },
+      {
+        "address": "100 S. Monroe Street, Eagle Pass, TX 78852",
+        "fax": "",
+        "name": "Eagle Pass Office",
+        "phone": "210-784-5023"
+      },
+      {
+        "address": "17721 Rogers Ranch Parkway, Suite 120, San Antonio, TX 78258",
+        "fax": "(210) 927-4903",
+        "name": "San Antonio Northside Office",
+        "phone": "(210) 921-3130"
+      },
+      {
+        "address": "One University Way, Suite 202A, San Antonio, TX 78224",
+        "fax": "",
+        "name": "San Antonio Southside Office",
+        "phone": "(210) 784-5023"
+      },
+      {
+        "address": "124 South Horizon, Socorro, TX 79927",
+        "fax": "",
+        "name": "Socorro Office",
+        "phone": "915-235-6421"
       }
     ],
     "district": "23",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://hurd.house.gov/contact/email",
+    "linkMeeting": "https://hurd.house.gov/contact/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Will_Hurd",
     "name": "Will Hurd",
     "party": "Republican",
     "photoFilename": "texas23.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Will_Hurd_Texas.jpg/75px-Will_Hurd_Texas.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/HurdOnTheHill",
+    "socialInstagram": "https://www.instagram.com/hurdonthehill/?hl=en]",
+    "socialTwitter": "http://twitter.com/hurdonthehill",
+    "socialYoutube": "http://www.youtube.com/channel/UCjWcn2lgGCZbwPs6lKxlziQ",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "48.3",
@@ -16517,30 +16679,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2369 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "202.225.0074",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202.225.6605"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "9901 E. Valley Ranch Pkwy., STE 2060, Irving, TX 75063",
+        "fax": "972.409.9704",
+        "name": "Irving Office",
+        "phone": "972.556.0162"
       }
     ],
     "district": "24",
-    "linkContact": "",
+    "linkContact": "https://marchant.house.gov/contact/",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kenny_Marchant",
     "name": "Kenny Marchant",
     "party": "Republican",
     "photoFilename": "texas24.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kenny_Marchant_Official.jpg/75px-Kenny_Marchant_Official.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepKennyMarchant",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://www.twitter.com/RepKenMarchant",
+    "socialYoutube": "http://www.youtube.com/user/RepKennyMarchant",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "56.2",
@@ -16553,30 +16715,36 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "1323 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-9896"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1005 Congress Avenue, Suite 925, Austin, TX 78701",
+        "fax": "(512) 473-8946",
+        "name": "Austin Office",
+        "phone": "(512) 473-8910"
+      },
+      {
+        "address": "115 South Main Street, Suite 206, Cleburne, TX 76033",
+        "fax": "(817) 774-2576",
+        "name": "Cleburne Office",
+        "phone": "(817) 774-2575"
       }
     ],
     "district": "25",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://williams.house.gov/contact/email-me",
+    "linkMeeting": "https://williams.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Roger_Williams_(U.S._politician)",
     "name": "Roger Williams",
     "party": "Republican",
     "photoFilename": "texas25.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Roger_Williams_official_congressional_photo.jpg/75px-Roger_Williams_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepRogerWilliams",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepRWilliams",
+    "socialYoutube": "http://www.youtube.com/channel/UCBtfmMMQarjtLB9U_pWMOhw",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "58.4",
@@ -16588,30 +16756,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2336 Rayburn House Office Building, Washington, DC 20515 ",
+        "fax": "(202) 225-2919",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-7772"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "2000 S. Stemmons Frwy., Ste.200, Lake Dallas, TX 75065",
+        "fax": "(940) 497-5067",
+        "name": "Lake Dallas Office",
+        "phone": "(940) 497-5031"
       }
     ],
     "district": "26",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://burgess.house.gov/Contact/",
+    "linkMeeting": "http://burgess.house.gov/Services/MeetingRequest.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Michael_C._Burgess",
     "name": "Michael Burgess",
     "party": "Republican",
     "photoFilename": "texas26.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Michael_Burgess_official_photo.jpg/75px-Michael_Burgess_official_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/michaelcburgess/",
+    "socialInstagram": "https://www.instagram.com/repmichaelburgess/",
+    "socialTwitter": "https://twitter.com/michaelcburgess",
+    "socialYoutube": "https://www.youtube.com/user/MichaelCBurgessMD",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "66.4",
@@ -16626,30 +16794,37 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2331 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 226-1134",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-7742"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "101 N. Shoreline Blvd, Suite 300, Corpus Christi, TX 78401",
+        "fax": "(361) 884-2223",
+        "name": "Corpus Christi Office",
+        "phone": "(361) 884-2222"
+      },
+      {
+        "address": "5606 North Navarro Street, Suite 203, Victoria, Texas 77904",
+        "fax": "(361) 894- 6460",
+        "name": "Victoria Office",
+        "phone": "(361) 894-6446 "
       }
     ],
     "district": "27",
-    "linkContact": "",
+    "linkContact": "https://farenthold.house.gov/contact/email.htm",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Blake_Farenthold",
+    "linkTeletownhall": "https://farenthold.house.gov/forms/form/?ID=2721",
     "name": "Blake Farenthold",
     "party": "Republican",
     "photoFilename": "texas27.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Blake_Farenthold_2015.jpg/75px-Blake_Farenthold_2015.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/BlakeFarenthold",
+    "socialInstagram": "http://instagram.com/Farenthold",
+    "socialTwitter": "http://twitter.com/farenthold",
+    "socialYoutube": "http://www.youtube.com/user/BlakeFarenthold",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "61.7",
@@ -16662,30 +16837,48 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2209 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-1641",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-1640"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "602 E. Calton Road, Suite 2, Laredo, TX 78041",
+        "fax": "(956) 725-2647",
+        "name": "Laredo Office",
+        "phone": "(956) 725-0639"
+      },
+      {
+        "address": "117 E. Tom Landry, Mission, TX 78572",
+        "fax": "(956) 424-3936",
+        "name": "Mission Office",
+        "phone": "(956) 424-3942"
+      },
+      {
+        "address": "100 N. F.M. 3167, Rio Grande City, TX 78582",
+        "fax": "(956) 488-0952",
+        "name": "Rio Grande City Office",
+        "phone": "(956) 487-5603"
+      },
+      {
+        "address": "615 E. Houston Street, Suite 563, San Antonio, TX 78205",
+        "fax": "(210) 277-6671",
+        "name": "San Antonio Office",
+        "phone": "(210) 271-2851"
       }
     ],
     "district": "28",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://cuellar.house.gov/Contact/SendMeAnEmail.htm",
+    "linkMeeting": "http://cuellar.house.gov/contact/eventschedulingrequests/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Henry_Cuellar",
     "name": "Henry Cuellar",
     "party": "Democratic",
     "photoFilename": "texas28.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Henry_Cuellar%2C_official_color_photo_portrait.jpg/75px-Henry_Cuellar%2C_official_color_photo_portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/pages/US-Congressman-Henry-Cuellar-TX-28/152569121550",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepCuellar",
+    "socialYoutube": "http://www.youtube.com/user/henrycuellar",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "66.2",
@@ -16698,29 +16891,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2470 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-9903",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-1688"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "11811 East Freeway, Suite 430, Houston, TX 77029-1974",
+        "fax": "(713) 330-0807",
+        "name": "Houston East Office",
+        "phone": "(713) 330-0761"
+      },
+      {
+        "address": "256 North Sam Houston Parkway East, Suite 29, Houston, TX 77060",
+        "fax": "(281) 999-5716",
+        "name": "Houston North Office",
+        "phone": "(281) 999-5879"
       }
     ],
     "district": "29",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://green.house.gov/contact/email",
+    "linkMeeting": "https://green.house.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gene_Green",
+    "linkTeletownhall": "https://green.house.gov/telephone-town-halls",
     "name": "Gene Green",
     "party": "Democratic",
     "photoFilename": "texas29.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gene_Green_113th_Congress.jpg/75px-Gene_Green_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepGeneGreen",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "http://twitter.com/RepGeneGreen",
     "socialYoutube": "",
     "state": "texas",
     "stateDisplay": "Texas",
@@ -16733,30 +16933,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2468 Rayburn Office Building, Washington, DC 20515",
+        "fax": "(202) 226-1477",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-8885"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "3102 Maple Avenue, Suite 600, Dallas, TX 75201",
+        "fax": "(214) 922-7028",
+        "name": "Dallas Office",
+        "phone": "(214) 922-8885"
       }
     ],
     "district": "30",
-    "linkContact": "",
+    "linkContact": "https://ebjohnson.house.gov/contact/email-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Eddie_Bernice_Johnson",
     "name": "Eddie Johnson",
     "party": "Democratic",
     "photoFilename": "texas30.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eddie_Bernice_Johnson_113th_Congress.jpg/75px-Eddie_Bernice_Johnson_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/CongresswomanEBJtx30",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/RepEBJ",
+    "socialYoutube": "http://www.youtube.com/user/RepEddieBJohnson?feature=watch",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "77.9",
