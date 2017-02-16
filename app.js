@@ -5,14 +5,14 @@ app.config(function ($routeProvider, $locationProvider) {
         .when("/", {
             templateUrl: "home.html"
         })
+        .when("/about", {
+            templateUrl: "about.html"
+        })
         .when("/:zip", {
             templateUrl: "home.html"
         })
         .when("/:filters/:state/:name", {
             templateUrl: "home.html"
-        })
-        .when("/about", {
-            templateUrl: "about.html"
         })
         .otherwise({
             templateUrl: "home.html"
