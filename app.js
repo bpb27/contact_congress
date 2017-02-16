@@ -131,7 +131,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
         if ($scope.queryZip.length === 5 && $scope.zips[$scope.queryZip]) {
             prompt(message, base + $scope.queryZip);
         } else {
-            var nums = $scope.chambers.model + $scope.parties.model + $scope.houseCommittees.model + $scope.senateCommittees.model + $scope.sorting.model;
+            var nums = [$scope.chambers.model, $scope.parties.model, $scope.houseCommittees.model, $scope.senateCommittees.model, $scope.sorting.model].join('-');
             prompt(message, base + [nums, $scope.queryState || 'n', $scope.queryName || 'n'].join('/'));
         }
     }
@@ -284,13 +284,14 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
 
     $http.get('/data/reps.json').then(function (results) {
         $scope.reps = addDates(results.data, 2018);
-        $scope.matches = results.data;
+        $scope.matches = $scope.matches.concat(results.data);
         $scope.displayed = results.data.slice(0, $scope.increment);
+        $scope.update();
     });
 
     $http.get('/data/sens.json').then(function (results) {
-        results.data = addDates(results.data);
-        $scope.sens = results.data;
+        $scope.sens = addDates(results.data);
+        $scope.matches = $scope.matches.concat(results.data);
         $scope.update();
     });
 
@@ -367,7 +368,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
         if ($routeParams.zip) {
             $scope.queryZip = $routeParams.zip;
         } else if ($routeParams.filters) {
-            var nums = $routeParams.filters
+            var nums = $routeParams.filters.split('-');
             $scope.chambers.model = nums[0];
             $scope.parties.model = nums[1];
             $scope.houseCommittees.model = nums[2];
