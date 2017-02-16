@@ -615,6 +615,7 @@
   },
   {
     "committees": [
+      "Ways and Means"
     ],
     "contact": [
       {
@@ -1869,6 +1870,7 @@
   },
   {
     "committees": [
+      "Financial Services"
     ],
     "contact": [
       {
@@ -4149,6 +4151,7 @@
   },
   {
     "committees": [
+      "Financial Services"
     ],
     "contact": [
       {
@@ -5171,6 +5174,8 @@
   },
   {
     "committees": [
+      "Agriculture",
+      "Education and the Workforce"
     ],
     "contact": [
       {
@@ -8046,6 +8051,8 @@
   },
   {
     "committees": [
+      "Agriculture",
+      "Rules"
     ],
     "contact": [
       {
@@ -8154,6 +8161,7 @@
   },
   {
     "committees": [
+      "Energy and Commerce"
     ],
     "contact": [
       {
@@ -8316,6 +8324,8 @@
   },
   {
     "committees": [
+      "Financial Services",
+      "Oversight and Government Reform"
     ],
     "contact": [
       {
@@ -8363,6 +8373,8 @@
   },
   {
     "committees": [
+      "Foreign Affairs",
+      "Homeland Security"
     ],
     "contact": [
       {
@@ -8799,6 +8811,8 @@
   },
   {
     "committees": [
+      "Foreign Affairs",
+      "Judiciary"
     ],
     "contact": [
       {
@@ -9913,6 +9927,8 @@
   },
   {
     "committees": [
+      "Armed Services",
+      "Natural Resources"
     ],
     "contact": [
       {
@@ -10407,6 +10423,8 @@
   },
   {
     "committees": [
+      "Armed Services",
+      "Natural Resources"
     ],
     "contact": [
       {
@@ -10726,6 +10744,8 @@
   },
   {
     "committees": [
+      "Homeland Security",
+      "Small Business"
     ],
     "contact": [
       {
@@ -10950,6 +10970,7 @@
   },
   {
     "committees": [
+      "Energy and Commerce"
     ],
     "contact": [
       {
@@ -11094,6 +11115,8 @@
   },
   {
     "committees": [
+      "Armed Services",
+      "Foreign Affairs"
     ],
     "contact": [
       {
@@ -11422,6 +11445,8 @@
   },
   {
     "committees": [
+      "Foreign Affairs",
+      "Homeland Security"
     ],
     "contact": [
       {
@@ -12250,6 +12275,7 @@
   },
   {
     "committees": [
+      "Armed Services"
     ],
     "contact": [
       {
@@ -13108,6 +13134,8 @@
   },
   {
     "committees": [
+      "Science, Space, and Technology",
+      "Small Business"
     ],
     "contact": [
       {
@@ -14179,8 +14207,8 @@
     "district": "6",
     "linkContact": "https://costello.house.gov/contact/email",
     "linkMeeting": "https://costello.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Ryan_Costello",
     "linkTeletownhall": "https://costello.house.gov/contact/telephone-town-hall-district-verification",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Ryan_Costello",
     "name": "Ryan Costello",
     "party": "Republican",
     "photoFilename": "pennsylvania6.jpg",
@@ -14429,8 +14457,8 @@
     "district": "11",
     "linkContact": "http://barletta.house.gov/contact/email-me",
     "linkMeeting": "http://barletta.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Lou_Barletta",
     "linkTeletownhall": "http://barletta.house.gov/contact-lou/tele-town-hall-sign-up",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Lou_Barletta",
     "name": "Lou Barletta",
     "party": "Republican",
     "photoFilename": "pennsylvania11.jpg",
@@ -14550,6 +14578,7 @@
   },
   {
     "committees": [
+      "Energy and Commerce"
     ],
     "contact": [
       {
@@ -14749,6 +14778,7 @@
   },
   {
     "committees": [
+      "Energy and Commerce"
     ],
     "contact": [
       {
@@ -15038,6 +15068,8 @@
   },
   {
     "committees": [
+      "Financial Services",
+      "Small Business"
     ],
     "contact": [
       {
@@ -15475,8 +15507,8 @@
     "district": "6",
     "linkContact": "https://black.house.gov/contact-me/email-me",
     "linkMeeting": "https://black.house.gov/contact-me/schedule-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Diane_Black",
     "linkTownhall": "https://black.house.gov/town-hall-meetings",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Diane_Black",
     "name": "Diane Black",
     "party": "Republican",
     "photoFilename": "tennessee6.jpg",
@@ -15707,8 +15739,8 @@
     "district": "2",
     "linkContact": "https://poe.house.gov/contact-form",
     "linkMeeting": "https://poe.house.gov/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Ted_Poe",
     "linkTeletownhall": "https://poe.house.gov/telephone-town-halls",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Ted_Poe",
     "name": "Ted Poe",
     "party": "Republican",
     "photoFilename": "texas2.jpg",
@@ -15793,8 +15825,8 @@
     "district": "4",
     "linkContact": "https://ratcliffe.house.gov/contact/email",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/John_Ratcliffe_(American_politician)",
     "linkTeletownhall": "https://ratcliffe.house.gov/telephone-town-hall-sign",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/John_Ratcliffe_(American_politician)",
     "name": "John Ratcliffe",
     "party": "Republican",
     "photoFilename": "texas4.jpg",
@@ -15956,8 +15988,8 @@
     "district": "8",
     "linkContact": "https://kevinbrady.house.gov/contact/",
     "linkMeeting": "https://kevinbrady.house.gov/constituent-services/scheduling-an-appointment.htm",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Brady",
     "linkTownhall": "http://kevinbrady.house.gov/contact/townhalls.htm",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Brady",
     "name": "Kevin Brady",
     "party": "Republican",
     "photoFilename": "texas8.jpg",
@@ -16243,8 +16275,8 @@
     "district": "14",
     "linkContact": "https://weber.house.gov/contact/email-me",
     "linkMeeting": "https://weber.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Randy_Weber",
     "linkTeletownhall": "https://docs.google.com/forms/d/1YK1ZASfo85ESQ0PsZLFrOTmgdobcX9Y2ys7QKgg6rt8/viewform",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Randy_Weber",
     "name": "Randy Weber",
     "party": "Republican",
     "photoFilename": "texas14.jpg",
@@ -16317,8 +16349,8 @@
     "district": "16",
     "linkContact": "https://orourke.house.gov/correspondence/",
     "linkMeeting": "https://orourke.house.gov/meeting-requests/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Beto_O%27Rourke",
     "linkTownhall": "https://www.facebook.com/pg/BetoORourkeTX16/events/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Beto_O%27Rourke",
     "name": "Beto O'Rourke",
     "party": "Democratic",
     "photoFilename": "texas16.jpg",
@@ -16366,8 +16398,8 @@
     "district": "17",
     "linkContact": "https://flores.house.gov/contact/",
     "linkMeeting": "https://flores.house.gov/constituent-services/schedule-a-meeting-request.htm",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Flores",
     "linkTownhall": "https://flores.house.gov/constituent-services/town-hall-meetings.htm",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Flores",
     "name": "Bill Flores",
     "party": "Republican",
     "photoFilename": "texas17.jpg",
@@ -16753,6 +16785,7 @@
   },
   {
     "committees": [
+      "Energy and Commerce"
     ],
     "contact": [
       {
@@ -16815,8 +16848,8 @@
     "district": "27",
     "linkContact": "https://farenthold.house.gov/contact/email.htm",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Blake_Farenthold",
     "linkTeletownhall": "https://farenthold.house.gov/forms/form/?ID=2721",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Blake_Farenthold",
     "name": "Blake Farenthold",
     "party": "Republican",
     "photoFilename": "texas27.jpg",
@@ -16912,8 +16945,8 @@
     "district": "29",
     "linkContact": "https://green.house.gov/contact/email",
     "linkMeeting": "https://green.house.gov/contact/scheduling-requests",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Gene_Green",
     "linkTeletownhall": "https://green.house.gov/telephone-town-halls",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Gene_Green",
     "name": "Gene Green",
     "party": "Democratic",
     "photoFilename": "texas29.jpg",
@@ -16930,6 +16963,8 @@
   },
   {
     "committees": [
+      "Science, Space, and Technology",
+      "Transportation and Infrastructure"
     ],
     "contact": [
       {
@@ -17026,8 +17061,8 @@
     "district": "32",
     "linkContact": "https://sessions.house.gov/contact/email",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Pete_Sessions",
     "linkTownhall": "https://sessions.house.gov/services/town-hall-meetings",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Pete_Sessions",
     "name": "Pete Sessions",
     "party": "Republican",
     "photoFilename": "texas32.jpg",
@@ -17087,6 +17122,8 @@
   },
   {
     "committees": [
+      "Agriculture",
+      "Homeland Security"
     ],
     "contact": [
       {
@@ -17306,8 +17343,8 @@
     "district": "2",
     "linkContact": "http://stewart.house.gov/contact/email-me",
     "linkMeeting": "http://stewart.house.gov/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Stewart_(politician)",
     "linkTeletownhall": "http://stewart.house.gov/telephone-townhalls",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Stewart_(politician)",
     "name": "Chris Stewart",
     "party": "Republican",
     "photoFilename": "utah2.jpg",
@@ -17380,8 +17417,8 @@
     "district": "4",
     "linkContact": "https://love.house.gov/email-me/",
     "linkMeeting": "https://love.house.gov/schedule-a-meeting/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mia_Love",
     "linkTeletownhall": "https://vekeo.com/repmialove/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mia_Love",
     "name": "Mia Love",
     "party": "Republican",
     "photoFilename": "utah4.jpg",
@@ -17519,6 +17556,7 @@
   },
   {
     "committees": [
+      "Education and the Workforce"
     ],
     "contact": [
       {
@@ -17880,8 +17918,8 @@
     "district": "11",
     "linkContact": "https://connolly.house.gov/contact/contact-gerry.htm",
     "linkMeeting": "https://connolly.house.gov/forms/meetingrequest",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Gerry_Connolly",
     "linkTeletownhall": "https://connolly.house.gov/forms/form/?ID=1",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Gerry_Connolly",
     "name": "Gerry Connolly",
     "party": "Democratic",
     "photoFilename": "virginia11.jpg",
@@ -18058,8 +18096,8 @@
     "district": "4",
     "linkContact": "https://newhouse.house.gov/contact/email",
     "linkMeeting": "https://newhouse.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Newhouse",
     "linkTeletownhall": "https://newhouse.house.gov/teletownhall-signup",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Newhouse",
     "name": "Dan Newhouse",
     "party": "Republican",
     "photoFilename": "washington4.jpg",
@@ -18287,6 +18325,7 @@
   },
   {
     "committees": [
+      "Financial Services"
     ],
     "contact": [
       {
@@ -18311,8 +18350,8 @@
     "district": "10",
     "linkContact": "http://dennyheck.house.gov/contact/email-me",
     "linkMeeting": "http://dennyheck.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dennis_Heck",
     "linkTeletownhall": "http://dennyheck.house.gov/media-center/telephone-town-halls",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Dennis_Heck",
     "name": "Dennis Heck",
     "party": "Democratic",
     "photoFilename": "washington10.jpg",
@@ -18741,8 +18780,8 @@
     "district": "7",
     "linkContact": "https://duffy.house.gov/contact",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Sean_Duffy",
     "linkTeletownhall": "https://duffy.house.gov/contact/town-hall-sign-up",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Sean_Duffy",
     "name": "Sean Duffy",
     "party": "Republican",
     "photoFilename": "wisconsin7.jpg",
