@@ -44,6 +44,8 @@
 				<span>DC: {{member.contact[0].phone}}</span><br>
 				<span><a class="pointer" ng-click="toggleFilter(member)">All contact info</a></span><br>
 				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span><br ng-if="member.linkMeeting">
+				<span><a ng-if="member.linkTownhall" ng-href="{{member.linkTownhall}}" target="_blank">Townhalls</a></span><br ng-if="member.linkTownhall">
+				<span><a ng-if="member.linkTeletownhall" ng-href="{{member.linkTeletownhall}}" target="_blank">Tele-Townhalls</a></span><br ng-if="member.linkTeletownhall">
 				<span><a ng-href="{{member.linkContact}}" target="_blank">Email office</a></span>
 			</div>
 			<div class="col-md-3 col-xs-12">
@@ -74,7 +76,7 @@
 					</a>
 				</span>
 				<span ng-if="member.socialYoutube" class="fa-stack fa-lg" style="font-size:24px">
-					<a ng-href="{{member.linkWikipedia}}" target="_blank">
+					<a ng-href="{{member.socialYoutube}}" target="_blank">
 						<i class="fa fa-circle fa-stack-2x" style="color:#e62117"></i>
   					<i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
 					</a>

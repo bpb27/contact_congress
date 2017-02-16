@@ -17402,30 +17402,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2303 Rayburn House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4115"
       },
       {
-        "address": "",
+        "address": "128 Lakeside Ave, Suite 235, Burlington, VT 05401",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Burlington Office",
+        "phone": "(802) 652-2450"
       }
     ],
     "district": "1",
-    "linkContact": "",
+    "linkContact": "https://welch.house.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Peter_Welch",
     "name": "Peter Welch",
     "party": "Democratic",
     "photoFilename": "vermont1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Representative_Welch_Official_Portrait.jpg/75px-Representative_Welch_Official_Portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/PeterWelch",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/PeterWelch",
+    "socialYoutube": "http://www.youtube.com/user/RepPeterWelch",
     "state": "vermont",
     "stateDisplay": "Vermont",
     "threshold": "82.5",
@@ -17439,29 +17439,41 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2055 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-4382",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4261"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "6501 Mechanicsville Turnpike, Suite 102, Mechanicsville, VA 23111",
+        "fax": "(804) 730-6597",
+        "name": "Mechanicsville Office",
+        "phone": "(804) 730-6595"
+      },
+      {
+        "address": "95 Dunn Drive, Ste. 201, Stafford, Virginia 22556",
+        "fax": "(540) 659-2737",
+        "name": "Stafford Office",
+        "phone": "(540) 659-2734"
+      },
+      {
+        "address": "508 Church Lane, P.O. Box 3106, Tappahannock, VA 22560",
+        "fax": "(804) 443-0671",
+        "name": "Tappahannock Office",
+        "phone": "(804) 443-0668"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://wittman.house.gov/contact/",
+    "linkMeeting": "http://wittman.house.gov/constituent-services/meeting-request.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rob_Wittman",
     "name": "Rob Wittman",
     "party": "Republican",
     "photoFilename": "virginia1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rob_Wittman_official_congressional_photo.jpg/75px-Rob_Wittman_official_congressional_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
+    "socialFacebook": "https://www.facebook.com/RepRobWittman",
+    "socialInstagram": "https://www.instagram.com/reprobwittman/",
+    "socialTwitter": "https://twitter.com/RobWittman",
     "socialYoutube": "",
     "state": "virginia",
     "stateDisplay": "Virginia",
@@ -17475,29 +17487,29 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "412 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4215"
       },
       {
-        "address": "",
+        "address": "1 Columbus Street, Suite 900, Virginia Beach, VA 23462",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Virginia Beach Office",
+        "phone": "888 217-9979"
       }
     ],
     "district": "2",
-    "linkContact": "",
+    "linkContact": "https://taylor.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Scott_Taylor_(politician)",
     "name": "Scott Taylor",
     "party": "Republican",
     "photoFilename": "virginia2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scott_Taylor_%28politician%29.jpg/75px-Scott_Taylor_%28politician%29.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/scotttaylorvirginia/",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/scotttaylorva?lang=en",
     "socialYoutube": "",
     "state": "virginia",
     "stateDisplay": "Virginia",
@@ -17510,30 +17522,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1201 Longworth House Office Bldg, Washington, DC 20515",
+        "fax": "(202) 225-8354",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-8351"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "2600 Washington Ave., Suite 1010, Newport News, VA 23607",
+        "fax": "(757) 928-6694",
+        "name": "Hampton Roads Office",
+        "phone": "(757) 380-1000"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://bobbyscott.house.gov/contact/email-me",
+    "linkMeeting": "https://bobbyscott.house.gov/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bobby_Scott_(U.S._politician)",
     "name": "Robert Scott",
     "party": "Democratic",
     "photoFilename": "virginia3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BobbyScott.jpg/75px-BobbyScott.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepBobbyScott/",
+    "socialInstagram": "http://instagram.com/repbobbyscott",
+    "socialTwitter": "https://twitter.com/bobbyscott",
+    "socialYoutube": "http://www.youtube.com/repbobbyscott",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "66.7",
@@ -17547,30 +17559,24 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "314 Cannon House Office Building, Washington, DC 20515",
+        "fax": "202-226-1170",
         "name": "Washington DC Office",
-        "phone": ""
-      },
-      {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "phone": "202-225-6365"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://mceachin.house.gov/contact/email",
+    "linkMeeting": "https://mceachin.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Donald_McEachin",
     "name": "Donald McEachin",
     "party": "Democratic",
     "photoFilename": "virginia4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Donald_McEachin_115th_congress_photo.jpg/75px-Donald_McEachin_115th_congress_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepMcEachin",
+    "socialInstagram": "http://instagram.com/repmceachin/",
+    "socialTwitter": "http://twitter.com/RepMcEachin",
+    "socialYoutube": "http://www.youtube.com/channel/UCMoPYHuZ3fZho0ZixZCfiFg",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "57.7",
@@ -17582,30 +17588,36 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "415 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4711"
       },
       {
-        "address": "",
+        "address": "686 Berkmar Circle, 2nd Floor, Charlottesville, VA 22901",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Charlottesville Office",
+        "phone": "434-973-9631"
+      },
+      {
+        "address": "308 Craghead Street, Suite 102D, Danville, VA 24541",
+        "fax": "",
+        "name": "Danville Office",
+        "phone": "434-791-2596"
       }
     ],
     "district": "5",
-    "linkContact": "",
+    "linkContact": "https://tomgarrett.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Thomas_Garrett,_Jr.",
     "name": "Thomas Garrett Jr",
     "party": "Republican",
     "photoFilename": "virginia5.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tom_Garrett_official_congressional_photo.jpg/75px-Tom_Garrett_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/congressman-Tom-Garrett-1835767753333490/",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/Rep_Tom_Garrett",
+    "socialYoutube": "http://www.youtube.com/channel/UC_lWS6tnQPcBPlmD2e99zKw",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "58.2",
@@ -17619,30 +17631,48 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2309 Rayburn HOB, Washington, D.C. 20515",
+        "fax": "(202) 225-9681",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5431"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "70 North Mason Street, Harrisonburg, VA 22802",
+        "fax": "(540) 432-6593",
+        "name": "Harrisonburg Office",
+        "phone": "(540) 432-2391"
+      },
+      {
+        "address": "916 Main Street, Suite 300, Lynchburg, VA 24504",
+        "fax": "(434) 845-8245",
+        "name": "Lynchburg Office",
+        "phone": "(434) 845-8306"
+      },
+      {
+        "address": "10 Franklin Road SE, Suite 540, Roanoke, VA 24011",
+        "fax": "(540) 857-2675",
+        "name": "Roanoke Office",
+        "phone": "(540) 857-2672"
+      },
+      {
+        "address": "117 South Lewis Street, Suite 215, Staunton, VA 24401",
+        "fax": "(540) 885-3930",
+        "name": "Staunton Office",
+        "phone": "(540) 885-3861"
       }
     ],
     "district": "6",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://goodlatte.house.gov/contact",
+    "linkMeeting": "https://goodlatte.house.gov/constituent-services/meeting-request.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Goodlatte",
     "name": "Bob Goodlatte",
     "party": "Republican",
     "photoFilename": "virginia6.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bob_Goodlatte_official_photo.jpg/75px-Bob_Goodlatte_official_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/BobGoodlatte",
+    "socialInstagram": "https://www.instagram.com/bobgoodlatte/",
+    "socialTwitter": "http://www.twitter.com/repgoodlatte",
+    "socialYoutube": "http://www.youtube.com/RepBobGoodlatte",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "66.6",
@@ -17657,29 +17687,35 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1628 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-0011",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2815"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "9104 Courthouse Rd. PO Box 99, Spotsylvania, VA 22553",
+        "fax": "(540) 507-7019",
+        "name": "Spotsylvania Office",
+        "phone": "(540) 507-7216"
+      },
+      {
+        "address": "4201 Dominion Blvd, Suite 110, Glen Allen, VA 23060",
+        "fax": "(804) 747-5308 ",
+        "name": "Glen Allen Office",
+        "phone": "(804) 747-4073"
       }
     ],
     "district": "7",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://brat.house.gov/contact/",
+    "linkMeeting": "http://brat.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dave_Brat",
     "name": "Dave Brat",
     "party": "Republican",
     "photoFilename": "virginia7.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dave_Brat_official_congressional_photo.jpg/75px-Dave_Brat_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepDaveBrat",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "http://www.twitter.com/RepDaveBrat",
     "socialYoutube": "",
     "state": "virginia",
     "stateDisplay": "Virginia",
@@ -17694,30 +17730,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1119 Longworth H.O.B., Washington, DC 20515",
+        "fax": "(202) 225-0017",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4376"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "5285 Shawnee Road, Suite 250, Alexandria, VA 22312",
+        "fax": "(703) 658-5408",
+        "name": "Alexandria Office",
+        "phone": "(703) 658-5403"
       }
     ],
     "district": "8",
-    "linkContact": "",
+    "linkContact": "https://beyer.house.gov/Contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Don_Beyer",
     "name": "Don Beyer",
     "party": "Democratic",
     "photoFilename": "virginia8.jpeg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Don_Beyer%2C_official_114th_Congress_photo_portrait.jpeg/75px-Don_Beyer%2C_official_114th_Congress_photo_portrait.jpeg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repdonbeyer",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/repdonbeyer",
+    "socialYoutube": "http://www.youtube.com/channel/UCPJGVbOVcAVGiBwq8qr_T9w",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "68.4",
@@ -17730,30 +17766,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2202 Rayburn HOB, Washington, D.C. 20515",
+        "fax": "(202) 225-0076",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3861"
       },
       {
-        "address": "",
+        "address": "323 West Main Street, Abingdon, VA 24210",
+        "fax": "(276) 525-1444",
+        "name": "Abingdon Office",
+        "phone": "(276) 525-1405"
+      },
+      {
+        "address": "17 West Main Street, Christiansburg, VA 24073",
+        "fax": "(540) 381-5675",
+        "name": "Christiansburg Office",
+        "phone": "(540) 381-5671"
+      },
+      {
+        "address": "Federal Courthouse, Big Stone Gap, VA 24219",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Big Stone Gap Office",
+        "phone": "(276) 525-1405 "
       }
     ],
     "district": "9",
-    "linkContact": "",
+    "linkContact": "http://morgangriffith.house.gov/Contact/",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Morgan_Griffith",
     "name": "Morgan Griffith",
     "party": "Republican",
     "photoFilename": "virginia9.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Morgan_Griffith%2C_Official_Portrait%2C_112th_Congress_B.jpg/75px-Morgan_Griffith%2C_Official_Portrait%2C_112th_Congress_B.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepMorganGriffith",
+    "socialInstagram": "https://www.instagram.com/hmorgangriffith/",
+    "socialTwitter": "http://twitter.com/RepMGriffith",
+    "socialYoutube": "http://www.youtube.com/RepMorganGriffith",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "68.6",
@@ -17768,30 +17816,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "229 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-0437",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5136"
       },
       {
-        "address": "",
+        "address": "21430 Cedar Drive, Suite 218, Sterling, VA 20164",
+        "fax": "(703) 404-6906",
+        "name": "Sterling Office",
+        "phone": "(703) 404-6903"
+      },
+      {
+        "address": "117 E. Piccadilly Street, Suite 100 D, Winchester, VA 22601",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Winchester Office",
+        "phone": "(540) 773-3600"
       }
     ],
     "district": "10",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://comstock.house.gov/contact/email",
+    "linkMeeting": "https://comstock.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Barbara_Comstock",
     "name": "Barbara Comstock",
     "party": "Republican",
     "photoFilename": "virginia10.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Barbara_Comstock_official_photo%2C_114th_Congress.jpg/75px-Barbara_Comstock_official_photo%2C_114th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepBarbaraComstock",
+    "socialInstagram": "http://instagram.com/repbarbaracomstock/",
+    "socialTwitter": "https://twitter.com/RepComstock",
+    "socialYoutube": "http://www.youtube.com/channel/UC2IBUvBd51zgaE56fPcZeVA",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "52.7",
@@ -17805,30 +17859,37 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2238 Rayburn House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-1492"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "4115 Annandale Road, Suite 103, Annandale, VA 22003",
+        "fax": "(703) 354-1284 ",
+        "name": "Fairfax Office",
+        "phone": "(703) 256-3071"
+      },
+      {
+        "address": "2241-D Tacketts Mill Drive, Woodbridge, VA 22192",
+        "fax": "(571) 408-4708",
+        "name": "Prince William Office",
+        "phone": "(571) 408-4407"
       }
     ],
     "district": "11",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://connolly.house.gov/contact/contact-gerry.htm",
+    "linkMeeting": "https://connolly.house.gov/forms/meetingrequest",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gerry_Connolly",
+    "linkTeletownhall": "https://connolly.house.gov/forms/form/?ID=1",
     "name": "Gerry Connolly",
     "party": "Democratic",
     "photoFilename": "virginia11.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Connolly.jpg/75px-Connolly.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/pages/Congressman-Gerry-Connolly/177164035838",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/GerryConnolly",
+    "socialYoutube": "http://www.youtube.com/repconnolly",
     "state": "virginia",
     "stateDisplay": "Virginia",
     "threshold": "87.9",
@@ -17842,30 +17903,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2442 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 226-1606",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-6311"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "Canyon Park Business Center, 22121 17th Ave SE, Bldg E, Suite 220, Bothell, WA 98021",
+        "fax": "(425) 485-0083",
+        "name": "Bothell Office",
+        "phone": "(425) 485-0085"
+      },
+      {
+        "address": "204 W. Montgomery Street, Mount Vernon, WA 98273",
+        "fax": "(425) 485-0083",
+        "name": "Mount Vernon Office",
+        "phone": "(360) 416-7879"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://delbene.house.gov/contact-me/email-me",
+    "linkMeeting": "https://delbene.house.gov/contact/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Suzan_DelBene",
     "name": "Suzan DelBene",
     "party": "Democratic",
     "photoFilename": "washington1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Suzan_DelBene%2C_official_portrait%2C_112th_Congress.jpg/75px-Suzan_DelBene%2C_official_portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepDelBene",
+    "socialInstagram": "http://instagram.com/repdelbene/",
+    "socialTwitter": "http://twitter.com/RepDelBene",
+    "socialYoutube": "http://www.youtube.com/channel/UCd00b7TpKDZIr-Ujhaktvjg",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "55.4",
@@ -17879,30 +17946,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2113 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-4420",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2605"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "119 North Commercial Street Suite 1350, Bellingham, WA 98225",
+        "fax": "360-733-5144",
+        "name": "Bellingham Office",
+        "phone": "360-733-4500"
+      },
+      {
+        "address": "Wall Street Building, 2930 Wetmore Avenue, Suite 9F, Everett, WA 98201",
+        "fax": "425-252-6606",
+        "name": "Everett Office",
+        "phone": "425-252-3188"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://larsen.house.gov/contact-rick/email-rick",
+    "linkMeeting": "http://larsen.house.gov/contact-rick/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rick_Larsen",
     "name": "Rick Larsen",
     "party": "Democratic",
     "photoFilename": "washington2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rick_Larsen%2C_official_photo_portrait_color.jpg/75px-Rick_Larsen%2C_official_photo_portrait_color.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/pages/Congressman-Rick-Larsen/135654683137079",
+    "socialInstagram": "https://instagram.com/repricklarsen/",
+    "socialTwitter": "https://twitter.com/@RepRickLarsen",
+    "socialYoutube": "http://www.youtube.com/congressmanlarsen",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "64.0",
@@ -17915,30 +17988,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1107 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-3478",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3536"
       },
       {
-        "address": "",
+        "address": "750 Anderson Street, Suite B, Vancouver, WA 98661",
+        "fax": "(360) 695-6197",
+        "name": "Vancouver Office",
+        "phone": "(360) 695-6292"
+      },
+      {
+        "address": "350 N. Market Blvd, Chehalis, WA 98532",
         "fax": "",
-        "name": "Office",
+        "name": "Chehalis Office",
         "phone": ""
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://herrerabeutler.house.gov/contact/",
+    "linkMeeting": "https://herrerabeutler.house.gov/contact/meetingrequest.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jaime_Herrera_Beutler",
     "name": "Jaime Herrera Beutler",
     "party": "Republican",
     "photoFilename": "washington3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jaime_Herrera_Beutler%2C_official_portrait%2C_112th_Congress.jpg/75px-Jaime_Herrera_Beutler%2C_official_portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/herrerabeutler",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/herrerabeutler",
+    "socialYoutube": "http://www.youtube.com/user/RepHerreraBeutler",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "61.8",
@@ -17952,30 +18031,43 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1318 Longworth House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-3251",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5816"
       },
       {
-        "address": "",
+        "address": "402 E. Yakima Ave, Suite #445, Yakima, WA 98901",
+        "fax": "(509) 452-3438",
+        "name": "Yakima Office",
+        "phone": "(509) 452-3243"
+      },
+      {
+        "address": "3100 George Washington Way #135, Richland, WA 99354",
+        "fax": "(509) 713-7377",
+        "name": "Richland Office",
+        "phone": "(509) 713-7374"
+      },
+      {
+        "address": "P.O. Box 823, Twisp, WA 98856",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Okanogan and Douglas County Office",
+        "phone": "(509) 433-7760"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://newhouse.house.gov/contact/email",
+    "linkMeeting": "https://newhouse.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Newhouse",
+    "linkTeletownhall": "https://newhouse.house.gov/teletownhall-signup",
     "name": "Dan Newhouse",
     "party": "Republican",
     "photoFilename": "washington4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dan_Newhouse_official_congressional_photo.jpg/75px-Dan_Newhouse_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepNewhouse",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepNewhouse",
+    "socialYoutube": "http://www.youtube.com/channel/UCllbsv_aoIaPS6W3aSonZlw",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "57.6",
@@ -17988,29 +18080,41 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1314 Longworth House Office Building, Washington, D.C. 20515",
+        "fax": "202-225-3392",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2006"
       },
       {
-        "address": "",
+        "address": "555 South Main Street, Colville, WA 99114",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Colville Office",
+        "phone": "509-684-3481"
+      },
+      {
+        "address": "10 North Post Street, Suite 625 Spokane, WA 99201",
+        "fax": "",
+        "name": "Spokane Office",
+        "phone": "509-353-2374"
+      },
+      {
+        "address": "26 E. Main Street, Suite 2, Walla Walla, WA 99362",
+        "fax": "",
+        "name": "Walla Walla Office",
+        "phone": "509-529-9358"
       }
     ],
     "district": "5",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://mcmorris.house.gov/contact/",
+    "linkMeeting": "https://mcmorris.house.gov/scheduling-a-meeting-with-cathy-5th-district/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Cathy_McMorris_Rodgers",
     "name": "Cathy McMorris Rodgers",
     "party": "Republican",
     "photoFilename": "washington5.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cathy_McMorris_Rodgers%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Cathy_McMorris_Rodgers%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
+    "socialFacebook": "http://www.facebook.com/mcmorrisrodgers",
+    "socialInstagram": "http://www.instagram.com/cathymcmorris",
+    "socialTwitter": "http://www.twitter.com/cathymcmorris",
     "socialYoutube": "",
     "state": "washington",
     "stateDisplay": "Washington",
@@ -18024,29 +18128,41 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "1520 Longworth House Office Bldg., Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5916"
       },
       {
-        "address": "",
+        "address": "950 Pacific Avenue, Suite 1230, Tacoma, WA 98402",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Tacoma Office",
+        "phone": "(253) 272-3515"
+      },
+      {
+        "address": "345 6th Street, Suite 500, Bremerton, WA 98337",
+        "fax": "",
+        "name": "Bremerton Office",
+        "phone": "(360) 373-9725"
+      },
+      {
+        "address": "332 E 5th St, Port Angeles, WA 98362",
+        "fax": "",
+        "name": "Port Angeles Office",
+        "phone": "(360) 797-3623"
       }
     ],
     "district": "6",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://kilmer.house.gov/contact/email-me",
+    "linkMeeting": "http://kilmer.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Derek_Kilmer",
     "name": "Derek Kilmer",
     "party": "Democratic",
     "photoFilename": "washington6.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Derek_Kilmer_113th_Congress.jpg/75px-Derek_Kilmer_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/derek.kilmer/",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/repderekkilmer?lang=en",
     "socialYoutube": "",
     "state": "washington",
     "stateDisplay": "Washington",
@@ -18061,30 +18177,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "319 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-3106"
       },
       {
-        "address": "",
+        "address": "1904 3rd Ave., Suite 510, Seattle, WA 98101",
         "fax": "",
-        "name": "Office",
+        "name": "Seattle Office",
         "phone": ""
       }
     ],
     "district": "7",
-    "linkContact": "",
+    "linkContact": "https://jayapal.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pramila_Jayapal",
     "name": "Pramila Jayapal",
     "party": "Democratic",
     "photoFilename": "washington7.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pramila_Jayapal_115th_Congress_photo.jpg/75px-Pramila_Jayapal_115th_Congress_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepJayapal/",
+    "socialInstagram": "http://instagram.com/repjayapal",
+    "socialTwitter": "http://twitter.com/RepJayapal",
+    "socialYoutube": "http://www.youtube.com/channel/UCmyD0_-2Oowkfwc_Raghclw",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "56.0",
@@ -18097,30 +18213,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1127 Longworth HOB, Washington, DC 20515",
+        "fax": "(202) 225-4282",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-7761"
       },
       {
-        "address": "",
+        "address": "5 South Wenatchee Ave, Suite 315, Wenatchee, WA 98801",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Wenatchee Office",
+        "phone": "(509)885-6615"
+      },
+      {
+        "address": "22605 SE 56th Street Suite 130, Issaquah, WA 98029",
+        "fax": "(425) 270-3589",
+        "name": "Issaquah Office",
+        "phone": "(425) 677-7414"
       }
     ],
     "district": "8",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://reichert.house.gov/contact-me/email-me",
+    "linkMeeting": "http://reichert.house.gov/contact-me/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dave_Reichert",
     "name": "Dave Reichert",
     "party": "Republican",
     "photoFilename": "washington8.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dave_Reichert%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Dave_Reichert%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/repdavereichert",
+    "socialInstagram": "https://instagram.com/repdavereichert/",
+    "socialTwitter": "https://twitter.com/davereichert",
+    "socialYoutube": "http://www.youtube.com/repdavereichert",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "60.2",
@@ -18133,30 +18255,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2264 Rayburn House Office Bldg., Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-8901"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "101 Evergreen Building, 15 S. Grady Way, Renton, WA 98057",
+        "fax": "(425) 793-5181",
+        "name": "Renton Office",
+        "phone": "(425) 793-5180"
       }
     ],
     "district": "9",
-    "linkContact": "",
+    "linkContact": "https://adamsmith.house.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Adam_Smith_(politician)",
     "name": "Adam Smith",
     "party": "Democratic",
     "photoFilename": "washington9.JPG",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Profile_adam_smith.JPG/75px-Profile_adam_smith.JPG",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepAdamSmith",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepAdamSmith",
+    "socialYoutube": "http://www.youtube.com/Congressmanadamsmith",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "72.9",
@@ -18168,30 +18290,37 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "425 Cannon House Office Building, Washington, DC 20515",
+        "fax": "202-225-0129",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-9740"
       },
       {
-        "address": "",
+        "address": "6000 Main Street SW, Suite 3B, Lakewood, WA 98499",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Lakewood Office",
+        "phone": "253-533-8332"
+      },
+      {
+        "address": "420 College Street SE, Lacey, WA 98503",
+        "fax": "",
+        "name": "Lacey Office",
+        "phone": "360-459-8514"
       }
     ],
     "district": "10",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://dennyheck.house.gov/contact/email-me",
+    "linkMeeting": "http://dennyheck.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dennis_Heck",
+    "linkTeletownhall": "http://dennyheck.house.gov/media-center/telephone-town-halls",
     "name": "Dennis Heck",
     "party": "Democratic",
     "photoFilename": "washington10.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Denny_Heck%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Denny_Heck%2C_Official_Portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/CongressmanDennyHeck",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepDennyHeck",
+    "socialYoutube": "http://www.youtube.com/user/RepDennyHeck",
     "state": "washington",
     "stateDisplay": "Washington",
     "threshold": "58.7",
@@ -18204,30 +18333,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2239 Rayburn HOB, Washington, DC 20515",
+        "fax": "(202) 225-7564",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4172"
       },
       {
-        "address": "",
+        "address": "709 Beechurst Ave., Suite 29, Morgantown, WV 26505",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Morgantown Office",
+        "phone": "304.284.8506"
+      },
+      {
+        "address": "Horne Building 1100 Main Street, Suite 101, Wheeling, WV 26003",
+        "fax": "304-232-3813",
+        "name": "Wheeling Office",
+        "phone": "(304) 232-3801"
+      },
+      {
+        "address": "408 Market Street, Parkersburg, WV 26101",
+        "fax": "",
+        "name": "Parkersburg Office",
+        "phone": "(304) 422-5972"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://mckinley.house.gov/email-me/",
+    "linkMeeting": "https://mckinley.house.gov/schedule-a-meeting1/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/David_McKinley",
     "name": "David McKinley",
     "party": "Republican",
     "photoFilename": "west_virginia1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/David_McKinley_Official.jpg/75px-David_McKinley_Official.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepMcKinley",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/#!/RepMcKinley",
+    "socialYoutube": "http://www.youtube.com/user/RepDavidMcKinley?feature=guide",
     "state": "west_virginia",
     "stateDisplay": "West Virginia",
     "threshold": "69.0",
@@ -18240,30 +18381,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1232 Longworth House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-7856",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2711"
       },
       {
-        "address": "",
+        "address": "405 Capitol Street, Suite 514, Charleston, WV 25301",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Charleston Office",
+        "phone": "(304) 925-5964"
+      },
+      {
+        "address": "300 Foxcroft Avenue, Suite 102, Martinsburg, WV 25401",
+        "fax": "",
+        "name": "Martinsburg Office",
+        "phone": "(304) 264-8810"
       }
     ],
     "district": "2",
-    "linkContact": "",
+    "linkContact": "https://mooney.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Alex_Mooney",
     "name": "Alex Mooney",
     "party": "Republican",
     "photoFilename": "west_virginia2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alex_Mooney.jpg/75px-Alex_Mooney.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/CongressmanAlexMooney",
+    "socialInstagram": "http://instagram.com/repalexmooney/",
+    "socialTwitter": "http://twitter.com/RepAlexMooney",
+    "socialYoutube": "http://www.youtube.com/channel/UCw9CGkF4Re3areluI43TGyA",
     "state": "west_virginia",
     "stateDisplay": "West Virginia",
     "threshold": "58.2",
@@ -18276,30 +18423,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1609 Longworth House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-9061",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3452"
       },
       {
-        "address": "",
+        "address": "307 Prince St., Beckley, WV 25801",
+        "fax": "(304) 250-6179",
+        "name": "Beckley Office",
+        "phone": "(304) 250-6177"
+      },
+      {
+        "address": "601 Federal St. Suite 1003, Bluefield, WV 24701",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Bluefield Office",
+        "phone": "(304) 325-6800"
+      },
+      {
+        "address": "845 Fifth Ave., Suite 314, Huntington, WV 25701",
+        "fax": "(304) 529-5716",
+        "name": "Huntington Office",
+        "phone": "(304) 522-2201"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://evanjenkins.house.gov/contact/email",
+    "linkMeeting": "https://evanjenkins.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Evan_Jenkins_(politician)",
     "name": "Evan Jenkins",
     "party": "Republican",
     "photoFilename": "west_virginia3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Evan_Jenkins_official_congressional_photo.jpg/75px-Evan_Jenkins_official_congressional_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepEvanJenkins",
+    "socialInstagram": "http://instagram.com/RepEvanJenkins",
+    "socialTwitter": "http://twitter.com/RepEvanJenkins",
+    "socialYoutube": "http://www.youtube.com/channel/UCSy2mmlbZCv0p07KOw8-m7Q",
     "state": "west_virginia",
     "stateDisplay": "West Virginia",
     "threshold": "67.9",
@@ -18311,30 +18470,42 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1233 Longworth House Office Bldg, Washington, DC 20515",
+        "fax": "(202) 225-3393",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3031"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "20 South Main Street, Suite 10, Janesville, WI 53545",
+        "fax": "(608) 752-4711",
+        "name": "Janesville Office",
+        "phone": "(608) 752-4050"
+      },
+      {
+        "address": "5031 7th Avenue, Kenosha, WI 53140",
+        "fax": "(262) 654-2156",
+        "name": "Kenosha Office",
+        "phone": "(262) 654-1901"
+      },
+      {
+        "address": "216 6th Street, Racine, WI 53403",
+        "fax": "(262) 637-5689",
+        "name": "Racine Office",
+        "phone": "(262) 637-0510"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://paulryan.house.gov/Contact/Email.htm",
+    "linkMeeting": "https://paulryan.house.gov/Contact/Scheduling.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Paul_Ryan",
     "name": "Paul Ryan",
     "party": "Republican",
     "photoFilename": "wisconsin1.png",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Paul_Ryan--113th_Congress--.png/75px-Paul_Ryan--113th_Congress--.png",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://facebook.com/speakerryan",
+    "socialInstagram": "https://instagram.com/SpeakerRyan",
+    "socialTwitter": "https://twitter.com/SpeakerRyan",
+    "socialYoutube": "https://youtube.com/SpeakerRyan",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "65.0",
@@ -18347,30 +18518,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1421 Longworth House Office Building, Washington, DC 20515",
+        "fax": "202-225-6942",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2906"
       },
       {
-        "address": "",
+        "address": "100 State Street, 3rd floor, Beloit, WI 53511",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Beloit Office",
+        "phone": "(608) 365-8001"
+      },
+      {
+        "address": "10 East Doty Street, Suite 405, Madison, WI 53703",
+        "fax": "608-258-0377",
+        "name": "Madison Office",
+        "phone": "608-258-9800"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://pocan.house.gov/contact/email-me",
+    "linkMeeting": "https://pocan.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_Pocan",
     "name": "Mark Pocan",
     "party": "Democratic",
     "photoFilename": "wisconsin2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mark_Pocan%2C_official_portrait%2C_113th_Congress.jpg/75px-Mark_Pocan%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/repmarkpocan",
+    "socialInstagram": "http://instagram.com/repmarkpocan",
+    "socialTwitter": "https://twitter.com/repmarkpocan",
+    "socialYoutube": "http://www.youtube.com/channel/UCz5b47WER_u3dUGV_Zi70dQ?feature=plcp",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "68.7",
@@ -18383,30 +18560,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1502 Longworth House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-5739",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5506"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "131 S. Barstow St. Suite 301, Eau Claire, WI 54701",
+        "fax": "(715) 831-9272",
+        "name": "Eau Claire Office",
+        "phone": "(715) 831-9214"
+      },
+      {
+        "address": "205 Fifth Avenue S., Suite 400, La Crosse, WI 54601",
+        "fax": "(608) 782-4588",
+        "name": "La Crosse Office",
+        "phone": "(608) 782-2558"
       }
     ],
     "district": "3",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://kind.house.gov/contact/email",
+    "linkMeeting": "https://kind.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Kind",
     "name": "Ron Kind",
     "party": "Democratic",
     "photoFilename": "wisconsin3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ron_kind_portrait.jpg/75px-Ron_kind_portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repronkind",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepRonKind",
+    "socialYoutube": "http://www.youtube.com/user/RepRonKind",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "98.9",
@@ -18419,30 +18602,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2252 Rayburn HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4572"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "316 N Milwaukee St STE 406, Milwaukee, WI 53202",
+        "fax": "(414) 297-1086",
+        "name": "Milwaukee Office",
+        "phone": "(414) 297-1140"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://gwenmoore.house.gov/index.cfm?sectionid=58",
+    "linkMeeting": "https://gwenmoore.house.gov/schedule-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gwen_Moore",
     "name": "Gwen Moore",
     "party": "Democratic",
     "photoFilename": "wisconsin4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GSM_Official_Headshot.jpg/75px-GSM_Official_Headshot.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/GwenSMoore",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepGwenMoore",
+    "socialYoutube": "http://www.youtube.com/user/RepGwenMoore",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "76.7",
@@ -18456,30 +18639,31 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2449 Rayburn HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-5101"
       },
       {
-        "address": "",
+        "address": "120 Bishops Way, #154, Brookfield, WI 53005",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Brookfield Office",
+        "phone": "(262) 784-1111"
       }
     ],
     "district": "5",
-    "linkContact": "",
+    "linkContact": "http://sensenbrenner.house.gov/Contact/Email.htm",
     "linkMeeting": "",
+    "linkTownhall": "http://sensenbrenner.house.gov/contact/default.aspx",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Sensenbrenner",
     "name": "Jim Sensenbrenner",
     "party": "Republican",
     "photoFilename": "wisconsin5.jpeg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sensibrenner.jpeg/75px-Sensibrenner.jpeg",
-    "socialFacebook": "",
+    "socialFacebook": "https://www.facebook.com/RepSensenbrenner",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/JimPressOffice",
+    "socialYoutube": "https://www.youtube.com/user/RepSensenbrenner",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "66.7",
@@ -18494,30 +18678,30 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1217 Longworth H.O.B., Washington, DC 20515",
+        "fax": "(202) 225-2356",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-2476"
       },
       {
-        "address": "",
+        "address": "24 West Pioneer Rd., Fond du Lac, WI 54935",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Fond du Lac Office",
+        "phone": "(920) 907-0624"
       }
     ],
     "district": "6",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://grothman.house.gov/Contact",
+    "linkMeeting": "https://grothman.house.gov/constituent-services/meetings-and-events.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Glenn_Grothman",
     "name": "Glenn Grothman",
     "party": "Republican",
     "photoFilename": "wisconsin6.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Glenn_Grothman_official_congressional_photo.jpg/75px-Glenn_Grothman_official_congressional_photo.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/#!/RepGrothman",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/@RepGrothman",
+    "socialYoutube": "https://www.youtube.com/channel/UCui4k83Cot4aeVW_8T33fgg",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "57.2",
@@ -18530,30 +18714,43 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2330 Rayburn HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "phone": "(202) 225-3365"
+      },
+      {
+        "address": "15954 Rivers Edge Drive, Suite 206, Hayward, WI 54843",
+        "fax": "",
+        "name": "Hayward Office",
         "phone": ""
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "502 2nd St., Suite 202, Hudson, WI 54016",
+        "fax": "715-808-8167",
+        "name": "Hudson Office",
+        "phone": "715-808-8160"
+      },
+      {
+        "address": "208 Grand Avenue, Wausau, WI 54403",
+        "fax": "715-298-9348",
+        "name": "Wausau Office",
+        "phone": "715-298-9344"
       }
     ],
     "district": "7",
-    "linkContact": "",
+    "linkContact": "https://duffy.house.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sean_Duffy",
+    "linkTeletownhall": "https://duffy.house.gov/contact/town-hall-sign-up",
     "name": "Sean Duffy",
     "party": "Republican",
     "photoFilename": "wisconsin7.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sean_Duffy%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Sean_Duffy%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/RepSeanDuffy",
+    "socialInstagram": "http://instagram.com/repseanduffy",
+    "socialTwitter": "https://twitter.com/RepSeanDuffy",
+    "socialYoutube": "http://www.youtube.com/RepSeanDuffy",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "61.7",
@@ -18567,30 +18764,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "1007 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-5665"
       },
       {
-        "address": "",
+        "address": "333 W. College Ave, Appleton, WI 54911",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Appleton Office",
+        "phone": "920-380-0061"
       }
     ],
     "district": "8",
-    "linkContact": "",
+    "linkContact": "https://gallagher.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Gallagher_(Wisconsin_politician)",
     "name": "Mike Gallagher",
     "party": "Republican",
     "photoFilename": "wisconsin8.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mike_Gallagher_US_House_freshman_portrait.jpg/75px-Mike_Gallagher_US_House_freshman_portrait.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepMikeGallagher/",
+    "socialInstagram": "http://instagram.com/housegop/",
+    "socialTwitter": "http://twitter.com/RepGallagher",
+    "socialYoutube": "http://www.youtube.com/republicanconference",
     "state": "wisconsin",
     "stateDisplay": "Wisconsin",
     "threshold": "62.7",
@@ -18605,29 +18802,41 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "416 Cannon House Office Building, Washington, DC 20515",
+        "fax": "202-225-3057",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-2311"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "PO Box 44003 100 East B Street, Room 4003, Casper, WY 82602",
+        "fax": "307-261-6597",
+        "name": "Casper Office",
+        "phone": "307-261-6595"
+      },
+      {
+        "address": "2120 Capitol Ave, Ste. 8005, Cheyenne, WY 82001",
+        "fax": "307-772-2597",
+        "name": "Cheyenne Office",
+        "phone": "307-772-2595"
+      },
+      {
+        "address": "45 East Loucks St., Sheridan, WY 82801",
+        "fax": "307-673-4982",
+        "name": "Sheridan Office",
+        "phone": "307-673-4608"
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://cheney.house.gov/contact/email",
+    "linkMeeting": "https://cheney.house.gov/contact/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Liz_Cheney",
     "name": "Liz Cheney",
     "party": "Republican",
     "photoFilename": "wyoming1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Liz_Cheney_official_portrait.jpg/75px-Liz_Cheney_official_portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/replizcheney/",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "http://twitter.com/RepLizCheney",
     "socialYoutube": "",
     "state": "wyoming",
     "stateDisplay": "Wyoming",
