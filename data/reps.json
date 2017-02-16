@@ -16969,30 +16969,36 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2110 Rayburn H.O.B., Washington, D.C. 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3864"
       },
       {
-        "address": "",
+        "address": "1717 North IH 35, Suite 303, Round Rock, TX 78664",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Round Rock Office",
+        "phone": "(512) 246-1600"
+      },
+      {
+        "address": "6544B S. General Bruce Drive, Temple, TX 76502",
+        "fax": "",
+        "name": "Temple Office",
+        "phone": "(254) 933-1392"
       }
     ],
     "district": "31",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://carter.house.gov/email-john2/",
+    "linkMeeting": "https://carter.house.gov/request-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Carter_(Texas)",
     "name": "John Carter",
     "party": "Republican",
     "photoFilename": "texas31.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rep._John_Carter_%28RTX%29.jpg/75px-Rep._John_Carter_%28RTX%29.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/judgecarter",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://www.twitter.com/judgecarter",
+    "socialYoutube": "http://www.youtube.com/user/repjohncarter",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "58.4",
@@ -17005,30 +17011,31 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2233 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "202.225.5878",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202.225.2231"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "Park Central VII 12750 Merit Drive, Suite 1434, Dallas, TX 75251-1229",
+        "fax": "972.392.0615",
+        "name": "Dallas Office",
+        "phone": "972.392.0505"
       }
     ],
     "district": "32",
-    "linkContact": "",
+    "linkContact": "https://sessions.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pete_Sessions",
+    "linkTownhall": "https://sessions.house.gov/services/town-hall-meetings",
     "name": "Pete Sessions",
     "party": "Republican",
     "photoFilename": "texas32.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pete_Sessions.jpg/75px-Pete_Sessions.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/petesessions",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/petesessions",
+    "socialYoutube": "http://www.youtube.com/user/PeteSessions",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "71.1",
@@ -17042,30 +17049,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1519 Longworth, Washington, DC 20515",
+        "fax": "(202) 225-9702",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-9897"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "JP Morgan Chase Building, 1881 Sylvan Ave., Ste. 108, Dallas, TX 75208",
+        "fax": "(214) 741-2026",
+        "name": "Dallas Office",
+        "phone": "(214) 741-1387"
+      },
+      {
+        "address": "6707 Brentwood Stair Rd., Suite 200, Fort Worth, TX 76112",
+        "fax": "(817) 920-9324",
+        "name": "Fort Worth Office",
+        "phone": "(817) 920-9086"
       }
     ],
     "district": "33",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://veasey.house.gov/contact/email-me",
+    "linkMeeting": "https://veasey.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Marc_Veasey",
     "name": "Marc Veasey",
     "party": "Democratic",
     "photoFilename": "texas33.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Marc_Veasey%2C_Official_portrait%2C_113th_Congress.jpg/75px-Marc_Veasey%2C_Official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/CongressmanMarcVeasey",
+    "socialInstagram": "http://instagram.com/repveasey",
+    "socialTwitter": "https://twitter.com/@RepVeasey",
+    "socialYoutube": "http://www.youtube.com/marcveasey",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "73.7",
@@ -17077,30 +17090,48 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "437 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-9770",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-9901"
       },
       {
-        "address": "",
+        "address": "500 East Main, Alice, TX 78332",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Alice Office",
+        "phone": "(361) 230-9776"
+      },
+      {
+        "address": "333 Ebony Avenue, Brownsville, TX 78520",
+        "fax": "",
+        "name": "Brownsville Office",
+        "phone": "(956) 544-8352"
+      },
+      {
+        "address": "1390 W. Expressway 83, San Benito, TX 78586",
+        "fax": "(956) 276-4603",
+        "name": "San Benito Office",
+        "phone": "(956) 276-4497"
+      },
+      {
+        "address": "500 South Kansas Avenue, Weslaco, TX 78596",
+        "fax": "(956) 520-8277",
+        "name": "Weslaco Office",
+        "phone": "(956) 520-8273"
       }
     ],
     "district": "34",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://vela.house.gov/contact",
+    "linkMeeting": "https://vela.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Filemon_Vela,_Jr.",
     "name": "Filemon Vela Jr",
     "party": "Democratic",
     "photoFilename": "texas34.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Filemon_Vela%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Filemon_Vela%2C_Official_Portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/UsCongressmanFilemonVela",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/repfilemonvela",
+    "socialYoutube": "http://www.youtube.com/user/RepFilemonVela",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "62.7",
@@ -17113,30 +17144,36 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2307 Rayburn House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-4865"
       },
       {
-        "address": "",
+        "address": "217 W. Travis St., San Antonio, TX 78205",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "San Antonio Office",
+        "phone": "(210) 704-1080"
+      },
+      {
+        "address": "300 East 8th St, Suite 763, Austin, TX 78701",
+        "fax": "",
+        "name": "Austin Office",
+        "phone": "(512) 916-5921"
       }
     ],
     "district": "35",
-    "linkContact": "",
+    "linkContact": "https://doggett.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lloyd_Doggett",
     "name": "Lloyd Doggett",
     "party": "Democratic",
     "photoFilename": "texas35.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lloyd_Doggett_113th_Congress.jpg/75px-Lloyd_Doggett_113th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/lloyddoggett",
+    "socialInstagram": "https://www.instagram.com/replloyddoggett",
+    "socialTwitter": "http://twitter.com/RepLloydDoggett",
+    "socialYoutube": "http://www.youtube.com/user/doggett",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "63.1",
@@ -17150,30 +17187,48 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "316 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 226-0396",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-1555"
+      },
+      {
+        "address": "203 Ivy Avenue, Suite 600, Deer Park, TX 77536",
+        "fax": "(832) 780-0964",
+        "name": "Deer Park Office",
+        "phone": "(832) 780-0966"
+      },
+      {
+        "address": "420 Green Avenue, Orange, TX 77630",
+        "fax": "(409) 886-9918",
+        "name": "Orange Office",
+        "phone": "(409) 883-8075"
+      },
+      {
+        "address": "100 W. Bluff Drive, Woodville, TX 75979",
+        "fax": "",
+        "name": "Woodville Office",
+        "phone": "(844) 303-8934"
       },
       {
         "address": "",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Cleveland Satellite Office",
+        "phone": "(844) 303-8934"
       }
     ],
     "district": "36",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://babin.house.gov/Contact",
+    "linkMeeting": "https://babin.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Brian_Babin",
     "name": "Brian Babin",
     "party": "Republican",
     "photoFilename": "texas36.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Brian_Babin_official_congressional_photo_2.jpg/75px-Brian_Babin_official_congressional_photo_2.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/RepBrianBabin",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepBrianBabin",
+    "socialYoutube": "http://www.youtube.com/channel/UCPVEZgw-VbDRbLV1MRGVQNQ",
     "state": "texas",
     "stateDisplay": "Texas",
     "threshold": "88.6",
@@ -17187,30 +17242,36 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "123 Cannon Building, Washington, DC 20515",
+        "fax": "202-225-5857",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-0453"
       },
       {
-        "address": "",
+        "address": "1017 Federal Building, 324 25th St, Ogden, UT 84401",
+        "fax": "801-625-0124",
+        "name": "Ogden Office",
+        "phone": "801-625-0107"
+      },
+      {
+        "address": "6 N Main St, Brigham City, UT 84302",
         "fax": "",
-        "name": "Office",
+        "name": "Brigham City Office",
         "phone": ""
       }
     ],
     "district": "1",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://robbishop.house.gov/Contact/ZipAuth.htm",
+    "linkMeeting": "https://robbishop.house.gov/Contact/MeetingRequest.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rob_Bishop",
     "name": "Rob Bishop",
     "party": "Republican",
     "photoFilename": "utah1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rob_Bishop_Official_%28Utah_politician%29.jpg/75px-Rob_Bishop_Official_%28Utah_politician%29.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/pages/Harold-Rogers/6722039085",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/#!/RepHalRogers",
+    "socialYoutube": "http://www.youtube.com/RepHalRogers",
     "state": "utah",
     "stateDisplay": "Utah",
     "threshold": "65.9",
@@ -17224,30 +17285,37 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "323 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-9730"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "420 East South Temple #390, Salt Lake City, UT 84111",
+        "fax": "801-364-5551",
+        "name": "Salt Lake City Office",
+        "phone": "801-364-5550"
+      },
+      {
+        "address": "253 West St. George Boulevard, Suite 100, St. George, UT 84770",
+        "fax": "435-627-1911",
+        "name": "St. George Office",
+        "phone": "435-627-1500"
       }
     ],
     "district": "2",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "http://stewart.house.gov/contact/email-me",
+    "linkMeeting": "http://stewart.house.gov/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Stewart_(politician)",
+    "linkTeletownhall": "http://stewart.house.gov/telephone-townhalls",
     "name": "Chris Stewart",
     "party": "Republican",
     "photoFilename": "utah2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Chris_Stewart_official_photo.jpg/75px-Chris_Stewart_official_photo.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "http://www.facebook.com/RepChrisStewart",
+    "socialInstagram": "http://instagram.com/repChrisStewart",
+    "socialTwitter": "http://twitter.com/repchrisstewart",
+    "socialYoutube": "http://www.youtube.com/repchrisstewart",
     "state": "utah",
     "stateDisplay": "Utah",
     "threshold": "61.6",
@@ -17261,30 +17329,30 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "2236 Rayburn House, Office Building, Washington, DC 20515 ",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-7751"
       },
       {
-        "address": "",
+        "address": "51 S University Ave., Suite 318, Provo, UT 84601",
         "fax": "",
-        "name": "Office",
-        "phone": ""
+        "name": "Provo Office",
+        "phone": "(801) 851-2500"
       }
     ],
     "district": "3",
-    "linkContact": "",
+    "linkContact": "http://chaffetz.house.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jason_Chaffetz",
     "name": "Jason Chaffetz",
     "party": "Republican",
     "photoFilename": "utah3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jason_Chaffetz%2C_official_portrait%2C_111th_Congress.jpg/75px-Jason_Chaffetz%2C_official_portrait%2C_111th_Congress.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialFacebook": "https://www.facebook.com/CongressmanJasonChaffetz",
+    "socialInstagram": "https://instagram.com/jasoninthehouse",
+    "socialTwitter": "https://twitter.com/Jasoninthehouse",
+    "socialYoutube": "https://www.youtube.com/user/JasonChaffetz",
     "state": "utah",
     "stateDisplay": "Utah",
     "threshold": "73.5",
@@ -17297,30 +17365,31 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "217 Cannon House Office Building, Washington, DC 20515",
+        "fax": "(202) 225-5638",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "(202) 225-3011"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "9067 South 1300 West Suite 101, West Jordan, UT 84088",
+        "fax": "801-987-8631",
+        "name": "West Jordan Office",
+        "phone": "801-996-8729"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://love.house.gov/email-me/",
+    "linkMeeting": "https://love.house.gov/schedule-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mia_Love",
+    "linkTeletownhall": "https://vekeo.com/repmialove/",
     "name": "Mia Love",
     "party": "Republican",
     "photoFilename": "utah4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mia_Love_official_portrait.jpg/75px-Mia_Love_official_portrait.jpg",
-    "socialFacebook": "",
+    "socialFacebook": "http://www.facebook.com/repmialove?ref=hl",
     "socialInstagram": "",
-    "socialTwitter": "",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/@RepMiaLove",
+    "socialYoutube": "https://www.youtube.com/channel/UCqHVv1qerDPYaH9NbyWyxtg",
     "state": "utah",
     "stateDisplay": "Utah",
     "threshold": "53.8",
