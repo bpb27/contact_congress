@@ -5,7 +5,8 @@ body {
 
 ol {
 	height: 96vh;
-	overflow: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
 }
 
 ol li {
@@ -16,7 +17,7 @@ ol li {
 select {
   font-family: sans-serif;
 	height: 30px;
-	width: 170px;
+	width: 180px;
   margin-right: 10px;
 }
 
@@ -65,7 +66,6 @@ select {
   background: #1da1f2;
   color: white;
   height: 20px;
-  padding-top: 3px;
 }
 
 #links {
@@ -75,7 +75,7 @@ select {
 	right: 20px;
 }
 
-#links span {
+#links .spacer {
 	margin: 0 10px;
 }
 
@@ -87,7 +87,8 @@ select {
 
 .select-boxes {
   text-align: center;
-  padding: 30px 0;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
 
 .row img {
@@ -127,6 +128,9 @@ select {
 		}
 		.select-boxes {
 			padding: 0;
+		}
+		.social-links {
+			padding-top: 10px;
 		}
 }
 
