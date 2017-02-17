@@ -1,5 +1,5 @@
 body {
-	font-family: 'Lora', sans-serif;
+	font-family: 'Mukta Vaani', sans-serif;
 	padding-bottom: 50px;
 }
 
@@ -15,7 +15,7 @@ ol li {
 }
 
 select {
-  font-family: sans-serif;
+  /*font-family: sans-serif;*/
 	height: 30px;
 	width: 180px;
   margin-right: 10px;
@@ -101,6 +101,34 @@ select {
 
 .social-links, .contact-info {
 	z-index: 2;
+}
+
+.social-links span.fa-stack.fa-lg {
+	font-size:24px
+}
+
+.social-links .twitter-btn .fa-circle{
+	color: #1da1f2;
+}
+
+.social-links .facebook-btn .fa-circle{
+	color: #4267b2;
+}
+
+.social-links .instagram-btn .fa-circle{
+	color: #262626;
+}
+
+.social-links .youtube-btn .fa-circle{
+	color: #e62117;
+}
+
+.social-links .wikipedia-btn .fa-circle{
+	color: #f6f6f6;
+}
+
+.social-links .fa-circle:hover {
+	color: green;
 }
 
 .social-links a {
