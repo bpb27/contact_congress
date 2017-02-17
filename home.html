@@ -52,7 +52,8 @@
 				<span><b>State: </b>{{member.stateDisplay}}</span><br>
 				<span><b>Party: </b>{{member.party}}</span><br>
 				<span ng-if="member.district"><b>District: </b>{{member.district}}</span><br ng-if="member.district">
-				<span><b>First elected:</b> {{member.elected}}<span><br>
+				<span ng-if="!member.note"><b>First elected:</b> {{member.elected}}</span><br ng-if="!member.note">
+				<span ng-if="member.note"><b>Note:</b> {{member.note}}</span><br ng-if="member.note">
 				<span><b>Reelection:</b> {{member.reelection}}</span><br>
 				<span><b>Last election:</b> {{member.threshold}}% of vote<span>
 			</div>

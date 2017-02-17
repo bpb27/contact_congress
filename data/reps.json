@@ -2295,7 +2295,7 @@
       {
         "address": "1600 Rosecrans Avenue, 4th Floor, Manhattan Beach, CA 90266",
         "fax": "",
-        "name": "Los Angeles Office",
+        "name": "Manhattan Beach Office",
         "phone": "(310) 321-7664"
       }
     ],
@@ -2333,15 +2333,18 @@
     "linkMeeting": "",
     "linkWikipedia": "",
     "name": "Vacant Seat",
+    "note": "Vacated by Xavier Becerra, election 4/4/17",
     "party": "NA",
+    "photoFilename": "blank.png",
     "photoUrl": "",
     "socialFacebook": "",
     "socialInstagram": "",
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "california",
+    "stateDisplay": "California",
     "threshold": 0,
-    "yearElected": "NA",
+    "yearElected": "2017",
     "yearReelection": "2018"
   },
   {
@@ -2941,7 +2944,7 @@
       {
         "address": "41000 Main St., Temecula, CA 92590",
         "fax": "",
-        "name": "El Cajon Office",
+        "name": "Temecula Office",
         "phone": "(951) 695-5108"
       }
     ],
@@ -2949,7 +2952,7 @@
     "linkContact": "https://hunter.house.gov/contact-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Duncan_D._Hunter",
-    "name": "Duncan D. Hunter",
+    "name": "Duncan Hunter",
     "party": "Republican",
     "photoFilename": "california50.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Duncan_D._Hunter%2C_official_photo_portrait%2C_111th_Congress.jpg/75px-Duncan_D._Hunter%2C_official_photo_portrait%2C_111th_Congress.jpg",
@@ -3092,7 +3095,7 @@
       {
         "address": "600 Grant Street, Suite 202, Denver, CO 80203",
         "fax": "(303) 844-4996",
-        "name": "Washington DC Office",
+        "name": "Denver Office",
         "phone": "(303) 844-4988"
       }
     ],
@@ -3198,7 +3201,7 @@
     "photoFilename": "colorado3.JPG",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Scott_Tipton%2C_Official_Portrait%2C_112th_Congress.JPG/75px-Scott_Tipton%2C_Official_Portrait%2C_112th_Congress.JPG",
     "socialFacebook": "https://www.facebook.com/CongressmanScottTipton",
-    "socialInstagram": "https://www.youtube.com/user/RepScottTipton",
+    "socialInstagram": "",
     "socialTwitter": "https://twitter.com/RepTipton",
     "socialYoutube": "https://www.youtube.com/user/RepScottTipton",
     "state": "colorado",
@@ -3388,7 +3391,7 @@
     "linkContact": "https://larson.house.gov/contact",
     "linkMeeting": "https://larson.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_B._Larson",
-    "name": "John B. Larson",
+    "name": "John Larson",
     "party": "Democratic",
     "photoFilename": "connecticut1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/John_B_Larson%2C_Official_Portrait%2C_circa_111_-_112th_Congress.jpg/75px-John_B_Larson%2C_Official_Portrait%2C_circa_111_-_112th_Congress.jpg",
@@ -3453,7 +3456,7 @@
       {
         "address": "2413 Rayburn House Office Building, Washington, DC 20515",
         "fax": "(202) 225-4890",
-        "name": "Washington DC",
+        "name": "Washington DC Office",
         "phone": "(202) 225-3661"
       },
       {
@@ -4121,13 +4124,13 @@
       {
         "address": "2052 Rayburn House Office Building, Washington, DC 20515",
         "fax": "(202) 225-5652",
-        "name": "Washington DC",
+        "name": "Washington DC Office",
         "phone": "(202) 225-3376"
       },
       {
         "address": "4144 N. Armenia Ave., Suite 300, Tampa, FL 33607",
         "fax": "(813) 871-2864",
-        "name": "Tampa DC",
+        "name": "Tampa Office",
         "phone": "(813) 871-2817"
       }
     ],
@@ -4169,8 +4172,14 @@
       {
         "address": "170 Fitzgerald Rd., Ste. 1, Lakeland, FL 33813",
         "fax": "(863) 648-0749",
-        "name": "Hillsborough County Office",
+        "name": "Polk County Office",
         "phone": "(863) 644-8215"
+      },
+      {
+        "address": "685 W. Montrose Street, Clermont, FL 34711",
+        "fax": "(863) 648-0749",
+        "name": "Lake County Office",
+        "phone": "(352) 727-2248"
       }
     ],
     "district": "15",
@@ -4260,7 +4269,7 @@
       {
         "address": "4507 George Blvd, Sebring, FL 33875",
         "fax": "(863) 402-9084",
-        "name": "Punta Gorda Office",
+        "name": "Sebring Office",
         "phone": "(863) 402-9082"
       }
     ],
@@ -4561,7 +4570,7 @@
       {
         "address": "Miramar City Hall, 2300 Civic Center, Miramar, FL 33025",
         "fax": "",
-        "name": "Miami Gardens Office",
+        "name": "Miramar Office",
         "phone": "(954) 602-4357"
       },
       {
@@ -4610,7 +4619,7 @@
       {
         "address": "4715 Golden Gate Parkway, Suite 1, Naples, FL 34116",
         "fax": "(239) 348-3569",
-        "name": "Southeast Florida Office",
+        "name": "Southwest Florida Office",
         "phone": "(239) 348-1620"
       }
     ],
@@ -5213,7 +5222,7 @@
     "linkContact": "http://allen.house.gov/contact/email/",
     "linkMeeting": "http://allen.house.gov/forms/meetingrequest",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rick_W._Allen",
-    "name": "Rick W. Allen",
+    "name": "Rick Allen",
     "party": "Republican",
     "photoFilename": "georgia12.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rick_Allen_Official_Photo%2C_114th_Congress.jpg/75px-Rick_Allen_Official_Photo%2C_114th_Congress.jpg",
@@ -5771,7 +5780,7 @@
     "linkContact": "https://davis.house.gov/contact-me1/",
     "linkMeeting": "https://davis.house.gov/schedule-a-meeting1/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Danny_K._Davis",
-    "name": "Danny K. Davis",
+    "name": "Danny Davis",
     "party": "Democratic",
     "photoFilename": "illinois7.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/DannyKDavis113th.jpg/75px-DannyKDavis113th.jpg",
@@ -7032,15 +7041,18 @@
     "linkMeeting": "",
     "linkWikipedia": "",
     "name": "Vacant Seat",
+    "note": "Vacated by Mike Pompeo, election 4/11/17",
     "party": "NA",
+    "photoFilename": "blank.png",
     "photoUrl": "",
     "socialFacebook": "",
     "socialInstagram": "",
     "socialTwitter": "",
     "socialYoutube": "",
     "state": "kansas",
+    "stateDisplay": "Kansas",
     "threshold": 0,
-    "yearElected": "NA",
+    "yearElected": "2017",
     "yearReelection": "2018"
   },
   {
@@ -7437,7 +7449,7 @@
     "linkWikipedia": "https://en.wikipedia.org/wiki/Clay_Higgins",
     "name": "Clay Higgins",
     "party": "Republican",
-    "photoFilename": "louisiana3.png",
+    "photoFilename": "louisiana3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/75px-Seal_of_the_United_States_House_of_Representatives.svg.png",
     "socialFacebook": "http://facebook.com/captclayhiggins",
     "socialInstagram": "",
@@ -7474,7 +7486,8 @@
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)",
     "name": "Mike Johnson",
     "party": "Republican",
-    "photoUrl": "",
+    "photoFilename": "louisiana4.jpeg",
+    "photoUrl": "http://www.pelicanpostonline.com/wp-content/uploads/2015/04/Mike-Johnson-a-Hitler-youth-haircut-and-horned-rim-glasses.jpg",
     "socialFacebook": "https://www.facebook.com/RepMikeJohnsonla04/",
     "socialInstagram": "",
     "socialTwitter": "https://twitter.com/repmikejohnson?lang=en",
@@ -7566,6 +7579,7 @@
     "linkWikipedia": "https://en.wikipedia.org/wiki/Garret_Graves",
     "name": "Garret Graves",
     "party": "Republican",
+    "photoFilename": "louisiana6.jpg",
     "photoUrl": "",
     "socialFacebook": "http://www.facebook.com/CongressmanGarretGraves",
     "socialInstagram": "http://instagram.com/instagravesla/",
@@ -7823,7 +7837,7 @@
     "linkContact": "https://anthonybrown.house.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Anthony_G._Brown",
-    "name": "Anthony G. Brown",
+    "name": "Anthony Brown",
     "party": "Democratic",
     "photoFilename": "maryland4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Anthony_G._Brown_Official_State_Photo.jpg/75px-Anthony_G._Brown_Official_State_Photo.jpg",
@@ -8357,7 +8371,7 @@
     "linkContact": "http://lynch.house.gov/contact-me/email-me",
     "linkMeeting": "http://lynch.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Stephen_F._Lynch",
-    "name": "Stephen F. Lynch",
+    "name": "Stephen Lynch",
     "party": "Democratic",
     "photoFilename": "massachusetts8.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stephen_F._Lynch%2C_2008_cropped.jpg/75px-Stephen_F._Lynch%2C_2008_cropped.jpg",
@@ -9911,7 +9925,7 @@
     "linkContact": "https://jasonsmith.house.gov/contact/email-jason",
     "linkMeeting": "https://jasonsmith.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jason_T._Smith",
-    "name": "Jason T. Smith",
+    "name": "Jason Smith",
     "party": "Republican",
     "photoFilename": "missouri8.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jason_T._Smith%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Jason_T._Smith%2C_Official_Portrait%2C_113th_Congress.jpg",
@@ -10630,9 +10644,9 @@
     "photoFilename": "new_jersey7.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leonard_Lance_official_congressional_photo.jpg/75px-Leonard_Lance_official_congressional_photo.jpg",
     "socialFacebook": "http://www.facebook.com/CongressmanLance?v=wall&ref=ts",
-    "socialInstagram": "http://www.youtube.com/user/CongressmanLance",
+    "socialInstagram": "",
     "socialTwitter": "https://twitter.com/RepLanceNJ7",
-    "socialYoutube": "",
+    "socialYoutube": "http://www.youtube.com/user/CongressmanLance",
     "state": "new_jersey",
     "stateDisplay": "New Jersey",
     "threshold": "54.1",
@@ -11298,7 +11312,7 @@
       {
         "address": "16 Court St., Suite 1006, Brooklyn, NY 11241",
         "fax": "",
-        "name": "Brooklyn Office",
+        "name": "Southwest Brooklyn Office",
         "phone": "(718) 222-5819"
       }
     ],
@@ -11853,7 +11867,7 @@
       {
         "address": "61 Church Street, Room 309, Amsterdam, NY 12010",
         "fax": "(518) 843-8874",
-        "name": "Schenectady Office",
+        "name": "Amsterdam Office",
         "phone": "(518) 843-3400"
       }
     ],
@@ -12223,7 +12237,7 @@
     "linkContact": "https://butterfield.house.gov/contact/email-me",
     "linkMeeting": "https://butterfield.house.gov/schedule",
     "linkWikipedia": "https://en.wikipedia.org/wiki/G._K._Butterfield",
-    "name": "G. K. Butterfield",
+    "name": "GK Butterfield",
     "party": "Democratic",
     "photoFilename": "north_carolina1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/G.K._Butterfield%2C_Official_portrait%2C_114th_Congress.jpg/75px-G.K._Butterfield%2C_Official_portrait%2C_114th_Congress.jpg",
@@ -14804,7 +14818,7 @@
     "linkContact": "https://murphy.house.gov/contact-me/",
     "linkMeeting": "https://murphy.house.gov/schedule-a-meeting/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Timothy_F._Murphy",
-    "name": "Timothy F. Murphy",
+    "name": "Timothy Murphy",
     "party": "Republican",
     "photoFilename": "pennsylvania18.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/113th_Congress_Official_Photo_of_Rep._Tim_Murphy.jpg/75px-113th_Congress_Official_Photo_of_Rep._Tim_Murphy.jpg",
@@ -15469,7 +15483,7 @@
     "party": "Democratic",
     "photoFilename": "tennessee5.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jim_Cooper_113th_Congress.jpg/75px-Jim_Cooper_113th_Congress.jpg",
-    "socialFacebook": "https://twitter.com/repjimcooper",
+    "socialFacebook": "http://www.facebook.com/JimCooper",
     "socialInstagram": "https://instagram.com/repjimcooper#",
     "socialTwitter": "https://twitter.com/repjimcooper",
     "socialYoutube": "http://www.youtube.com/RepJimCooper",
@@ -16581,7 +16595,7 @@
     "linkContact": "https://lamarsmith.house.gov/contact/email-lamar",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lamar_S._Smith",
-    "name": "Lamar S. Smith",
+    "name": "Lamar Smith",
     "party": "Republican",
     "photoFilename": "texas21.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lamar_S._Smith%2C_official_Congressional_photo_portrait.jpg/75px-Lamar_S._Smith%2C_official_Congressional_photo_portrait.jpg",
@@ -18824,7 +18838,7 @@
     "photoFilename": "wisconsin8.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mike_Gallagher_US_House_freshman_portrait.jpg/75px-Mike_Gallagher_US_House_freshman_portrait.jpg",
     "socialFacebook": "http://www.facebook.com/RepMikeGallagher/",
-    "socialInstagram": "http://instagram.com/housegop/",
+    "socialInstagram": "",
     "socialTwitter": "http://twitter.com/RepGallagher",
     "socialYoutube": "http://www.youtube.com/republicanconference",
     "state": "wisconsin",
