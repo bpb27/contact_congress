@@ -48,10 +48,11 @@ select {
 #suggestion {
   text-align: center;
   background: #c5dbf9;
+	padding: 5px;
 }
 
 #topline-links {
-	margin-top: 5px;
+	margin-top: 8px;
 }
 
 #facebook-share {
@@ -150,7 +151,7 @@ select {
 }
 
 .odd-contact {
-	background: #cdcdcd;
+  background: #efefef;
 }
 
 @media only screen and (max-width: 768px) {
