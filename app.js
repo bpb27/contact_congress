@@ -32,6 +32,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
     $scope.queryZip = '';
     $scope.reps = [];
     $scope.sens - [];
+    $scope.showOffices = true;
     $scope.zips = [];
 
     $scope.chambers = {
@@ -148,6 +149,10 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
 
     $scope.toggleFilter = function (item) {
         item.toggle = !item.toggle;
+    };
+
+    $scope.toggleShowOffices = function () {
+        $scope.showOffices = !$scope.showOffices;
     };
 
     $scope.update = function (noReset) {

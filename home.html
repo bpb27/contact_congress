@@ -32,6 +32,10 @@
 		<select ng-model="sorting.model">
 			<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
+		<button class="btn" ng-click="toggleShowOffices()">
+			<span ng-if="showOffices">Hide offices</span>
+			<span ng-if="!showOffices">Show offices</span>
+		</button>
 	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
@@ -42,7 +46,6 @@
 				<span class="member-name" ng-if="member.district"><b>Rep. {{member.name}}</b></span>
 				<span class="member-name" ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
 				<span>DC: {{member.contact[0].phone}}</span><br>
-				<span><a class="pointer" ng-click="toggleFilter(member)">All contact info</a></span><br>
 				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span><br ng-if="member.linkMeeting">
 				<span><a ng-if="member.linkTownhall" ng-href="{{member.linkTownhall}}" target="_blank">Townhalls</a></span><br ng-if="member.linkTownhall">
 				<span><a ng-if="member.linkTeletownhall" ng-href="{{member.linkTeletownhall}}" target="_blank">Tele-Townhalls</a></span><br ng-if="member.linkTeletownhall">
@@ -89,8 +92,8 @@
 					</a>
 				</span>
 			</div>
-			<div class="col-md-12 col-xs-12 full-contact" ng-hide="!member.toggle">
-				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'">
+			<div class="col-md-12 col-xs-12 full-contact">
+				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'" ng-show="showOffices">
 					<div class="col-md-2 col-xs-12"><b>{{contact.name}}</b></div>
 					<div class="col-md-2 col-xs-12">{{contact.phone}}</div>
 					<div class="col-md-6 col-xs-12">{{contact.address}}</div>

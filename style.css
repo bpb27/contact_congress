@@ -15,8 +15,7 @@ ol li {
 }
 
 select {
-  /*font-family: sans-serif;*/
-	height: 30px;
+	height: 33px;
 	width: 180px;
   margin-right: 10px;
 }
@@ -91,6 +90,10 @@ select {
 	padding-bottom: 50px;
 }
 
+.select-boxes .btn {
+	 width: 95px;
+}
+
 .row img {
 	width: 100%;
 }
@@ -154,7 +157,18 @@ select {
 		.sh {
 			display: none;
 		}
+		select {
+			font-size: 12px;
+			height: 23px;
+			margin-right: 0;
+		}
 		.select-boxes {
+			padding: 0;
+		}
+		.select-boxes .btn {
+			width: 180px;
+			height: 23px;
+			font-size: 12px;
 			padding: 0;
 		}
 		.social-links {
