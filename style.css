@@ -156,7 +156,9 @@ select {
 
 @media only screen and (max-width: 768px) {
 		#total {
-			margin-top: 40px;
+			margin-top: 25px;
+			margin-bottom: 10px;
+			font-size: 1.5em;
 		}
 		ol {
 			padding-top: 30px;
@@ -170,12 +172,13 @@ select {
 			font-size: 12px;
 			height: 23px;
 			margin-right: 0;
+			width: 100%;
 		}
 		.select-boxes {
 			padding: 0;
 		}
 		.select-boxes .btn {
-			width: 180px;
+			width: 100%;
 			height: 23px;
 			font-size: 12px;
 			padding: 0;
