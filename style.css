@@ -45,11 +45,18 @@ select {
   color: white;
 }
 
+#suggestion {
+  text-align: center;
+  background: #fd8585;
+}
+
+#topline-links {
+	margin-top: 5px;
+}
+
 #facebook-share {
 	position: absolute;
 	z-index: 2;
-	top: 50px;
-	left: 5px;
 }
 
 #facebook-share iframe {
@@ -70,8 +77,7 @@ select {
 #links {
 	position: absolute;
 	z-index: 2;
-	top: 50px;
-	right: 20px;
+	right: 0;
 }
 
 #links .spacer {

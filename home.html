@@ -1,14 +1,16 @@
 <div ng-controller="mainCtrl">
-	<div id="facebook-share">
-		<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.contactingcongress.org&width=106&layout=button_count&action=like&size=small&show_faces=true&share=true&height=46&appId=1748104988834383" width="106" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-		<button ng-click="generateLink()">Link to this search</button>
-	</div>
-	<div id="links">
-		<span class="sh">
-			<a href="/about">Help us keep this accurate</a>
-			<span class="spacer"> | </span>
-		</span>
-		<a href="/about">About</a>
+	<div id="topline-links" class="col-md-12">
+		<div id="facebook-share">
+			<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.contactingcongress.org&width=106&layout=button_count&action=like&size=small&show_faces=true&share=true&height=46&appId=1748104988834383" width="106" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+			<button ng-click="generateLink()">Link to this search</button>
+		</div>
+		<div id="links">
+			<span class="sh">
+				<a href="/about">Help us keep this accurate</a>
+				<span class="spacer"> | </span>
+			</span>
+			<a href="/about">About</a>
+		</div>
 	</div>
 	<div id="total" class="col-md-12">{{matches.length}} members <span class="sh">of Congress</span></div>
 	<div id="searchbars" class="col-md-12 col-xs-6">
