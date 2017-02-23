@@ -154,7 +154,7 @@ select {
   background: #efefef;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 800px) {
 		#total {
 			margin-top: 25px;
 			margin-bottom: 10px;
@@ -167,6 +167,9 @@ select {
 		}
 		.sh {
 			display: none;
+		}
+		.input-group-lg {
+			padding: 0;
 		}
 		select {
 			font-size: 12px;
