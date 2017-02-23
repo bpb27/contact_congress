@@ -47,7 +47,7 @@ select {
 
 #suggestion {
   text-align: center;
-  background: #fd8585;
+  background: #c5dbf9;
 }
 
 #topline-links {
@@ -57,6 +57,7 @@ select {
 #facebook-share {
 	position: absolute;
 	z-index: 2;
+	left: 0;
 }
 
 #facebook-share iframe {
