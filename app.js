@@ -309,6 +309,10 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
         $scope.update();
     });
 
+    if ($window.innerWidth < 850) {
+        $scope.showOffices = false;
+    }
+
     angular.element($window).bind('resize', function (something) {
         if (window.innerWidth < 850) {
             $scope.showOffices = false;

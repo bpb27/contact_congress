@@ -151,7 +151,8 @@ select {
 			margin-top: 40px;
 		}
 		ol {
-			padding-top: 15px;
+			padding-top: 30px;
+			padding-left: 22px;
 			display: inline-block;
 		}
 		.sh {
