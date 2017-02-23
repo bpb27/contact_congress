@@ -132,7 +132,12 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
             prompt(message, base + $scope.queryZip);
         } else {
             var nums = [$scope.chambers.model, $scope.parties.model, $scope.houseCommittees.model, $scope.senateCommittees.model, $scope.sorting.model].join('-');
-            prompt(message, base + [nums, $scope.queryState || 'n', $scope.queryName || 'n'].join('/'));
+            var link = base + [nums, $scope.queryState || 'n', $scope.queryName || 'n'].join('/');
+            if (link === 'http://www.contactingcongress.org/1-1-1-1-1/n/n') {
+                prompt(message, base);
+            } else {
+                prompt(message, link);
+            }
         }
     }
 

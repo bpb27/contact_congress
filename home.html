@@ -91,9 +91,10 @@
 			</div>
 			<div class="col-md-12 col-xs-12 full-contact" ng-hide="!member.toggle">
 				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'">
-					<div class="col-md-2 col-xs-6"><b>{{contact.name}}</b></div>
-					<div class="col-md-2 col-xs-6">{{contact.phone}}</div>
-					<div class="col-md-8 col-xs-12">{{contact.address}}</div>
+					<div class="col-md-2 col-xs-12"><b>{{contact.name}}</b></div>
+					<div class="col-md-2 col-xs-12">{{contact.phone}}</div>
+					<div class="col-md-6 col-xs-12">{{contact.address}}</div>
+					<div class="col-md-2 col-xs-12"><span ng-if="contact.fax">Fax: {{contact.fax}}</span></div>
 				</div>
 			</div>
 		</li>
