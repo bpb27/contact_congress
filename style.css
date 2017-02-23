@@ -58,7 +58,7 @@ select {
 #facebook-share {
 	position: absolute;
 	z-index: 2;
-	left: 0;
+	right: 0;
 }
 
 #facebook-share iframe {
@@ -71,7 +71,7 @@ select {
 	font-size: 10px;
   border-radius: 4px;
   border: none;
-  background: #1da1f2;
+  background: #4080ff;
   color: white;
   height: 20px;
 }
@@ -79,7 +79,7 @@ select {
 #links {
 	position: absolute;
 	z-index: 2;
-	right: 0;
+	left: 0;
 }
 
 #links .spacer {
@@ -197,4 +197,8 @@ select {
 #about .liner {
 	line-height: 35px;
   margin-bottom: 50px;
+}
+
+#about .about-question {
+	margin-top: 20px;
 }
