@@ -22,7 +22,7 @@ app.config(function ($routeProvider, $locationProvider) {
 
 });
 
-app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope, $http, $routeParams) {
+app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', function ($scope, $http, $routeParams, $window) {
 
     $scope.displayed = [];
     $scope.increment = 20;
@@ -307,6 +307,13 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', function ($scope,
     $http.get('/data/zips.json').then(function (results) {
         $scope.zips = results.data;
         $scope.update();
+    });
+
+    angular.element($window).bind('resize', function (something) {
+        if (window.innerWidth < 850) {
+            $scope.showOffices = false;
+            $scope.$apply();
+        }
     });
 
     parseRouteParams();
