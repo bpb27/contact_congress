@@ -38,7 +38,7 @@
 			<div class="col-md-3 col-xs-9">
 				<span class="member-name" ng-if="member.district"><b>Rep. {{member.name}}</b></span>
 				<span class="member-name" ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
-				<span>DC: {{member.contact[0].phone}}</span><br>
+				<span><a href="tel:{{member.contact[0].phone}}">DC: {{member.contact[0].phone}}</a></span><br>
 				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span><br ng-if="member.linkMeeting">
 				<span><a ng-if="member.linkTownhall" ng-href="{{member.linkTownhall}}" target="_blank">Townhalls</a></span><br ng-if="member.linkTownhall">
 				<span><a ng-if="member.linkTeletownhall" ng-href="{{member.linkTeletownhall}}" target="_blank">Tele-Townhalls</a></span><br ng-if="member.linkTeletownhall">
@@ -88,7 +88,7 @@
 			<div class="col-md-12 col-xs-12 full-contact">
 				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'" ng-show="showOffices">
 					<div class="col-md-2 col-xs-12"><b>{{contact.name}}</b></div>
-					<div class="col-md-2 col-xs-12">{{contact.phone}}</div>
+					<div class="col-md-2 col-xs-12"><a href="tel:{{contact.phone}}">{{contact.phone}}</a></div>
 					<div class="col-md-6 col-xs-12">{{contact.address}}</div>
 					<div class="col-md-2 col-xs-12"><span ng-if="contact.fax">Fax: {{contact.fax}}</span></div>
 				</div>
