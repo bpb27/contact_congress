@@ -28,9 +28,27 @@
 		<script src="app.js"></script>
 	</head>
 	<body ng-app="myApp">
-		<div id="banner">
-			<a href="/">Contacting Congress</a><span class="sh"> - be an active participant in your democracy</span>
-		</div>
+		<nav class="navbar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/"><span>Contacting</span> Congress</a>
+					<p class="navbar-text">be an active participant in your democracy</p>
+				</div>
+				<div class="collapse navbar-collapse" id="navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="/about">Help us keep this accurate</a></li>
+						<li><a href="/about">About</a></li>
+						<li><a><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.contactingcongress.org&width=106&layout=button_count&action=like&size=small&show_faces=true&share=true&height=46&appId=1748104988834383" width="106" height="25" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+		</nav>
 		<div id="suggestion" class="sh">Republican Sen. Susan Collins said she is open to a subpoena of Trump's taxes - call and voice your opinion</div>
 		<div ng-view class="view-frame container-fluid"></div>
 	</body>

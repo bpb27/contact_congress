@@ -28,62 +28,32 @@ select {
 	text-align: center;
 }
 
-#logo-img {
-	display: none;
+.spacer {
+	margin: 0 10px;
 }
 
-#banner {
-	text-align: center;
-  background: #6b6566;
-  color: white;
-  padding: 10px 0;
-  font-size: 17px;
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
 }
 
-#banner a {
-	text-decoration: underline;
-  color: white;
+.navbar .navbar-nav>li>a {
+	max-height: 45px;
+	color: white;
+}
+
+.navbar-header .navbar-brand {
+	color: white;
+}
+
+.navbar-header .navbar-brand span {
+	color: #ff6060;
 }
 
 #suggestion {
   text-align: center;
-  background: #c5dbf9;
+  background: #e4f0ff;
 	padding: 5px;
-}
-
-#topline-links {
-	margin-top: 8px;
-}
-
-#facebook-share {
-	position: absolute;
-	z-index: 2;
-	right: 0;
-}
-
-#facebook-share iframe {
-	display: inline-block;
-}
-
-#facebook-share button {
-	display: inline-block;
-  vertical-align: top;
-	font-size: 10px;
-  border-radius: 4px;
-  border: none;
-  background: #4080ff;
-  color: white;
-  height: 20px;
-}
-
-#links {
-	position: absolute;
-	z-index: 2;
-	left: 0;
-}
-
-#links .spacer {
-	margin: 0 10px;
 }
 
 #total {
@@ -154,38 +124,54 @@ select {
   background: #efefef;
 }
 
+@media only screen and (max-width: 930px) {
+
+	.navbar-header .navbar-text {
+		display: none;
+	}
+
+}
+
 @media only screen and (max-width: 800px) {
+
 		#total {
-			margin-top: 25px;
+			margin-top: 10px;
 			margin-bottom: 10px;
 			font-size: 1.5em;
 		}
+
 		ol {
 			padding-top: 30px;
 			padding-left: 22px;
 			display: inline-block;
 		}
-		.sh {
-			display: none;
-		}
-		.input-group-lg {
-			padding: 0;
-		}
+
 		select {
 			font-size: 12px;
 			height: 23px;
 			margin-right: 0;
 			width: 100%;
 		}
+
+		.sh {
+			display: none;
+		}
+
+		.input-group-lg {
+			padding: 0;
+		}
+
 		.select-boxes {
 			padding: 0;
 		}
+
 		.select-boxes .btn {
 			width: 100%;
 			height: 23px;
 			font-size: 12px;
 			padding: 0;
 		}
+
 		.social-links {
 			padding-top: 10px;
 		}
