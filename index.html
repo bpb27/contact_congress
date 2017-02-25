@@ -42,14 +42,32 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="/about">Help us keep this accurate</a></li>
-						<li><a href="/about">About</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Issues <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">1) Tell Republican representatives your opinion on the repeal and replacement of the ACA</a></li>
+								<li><a href="#">2) Republican Sen. Susan Collins said she is open to a subpoena of Trump's taxes - voice your support</a></li>
+								<li><a href="#">3) Republican Rep. Matt Gaetz said Trump should release his tax returns - voice your support</a></li>
+								<li><a href="#">4) Republican Rep. Darrell Issa said we need a special prosecutor to investigate Russian involvement - voice your support</a></li>
+								<li><a href="#">5) Republican Senators John McCain, Lindsey Graham, and Pat Roberts advocated to investigate Russian involvement - voice your support</a></li>
+								<li><a href="#">6) Tell the Senate Intelligence Committee to investigate Russian involvement</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Help us keep this accurate <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="/about">About</a></li>
+								<li><a href="/about">Accuracy</a></li>
+								<li><a href="/about">FAQs</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a>contactingcongress@gmail.com</a></li>
+							</ul>
+						</li>
 						<li><a><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.contactingcongress.org&width=106&layout=button_count&action=like&size=small&show_faces=true&share=true&height=46&appId=1748104988834383" width="106" height="25" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
 		</nav>
-		<div id="suggestion" class="sh">Republican Sen. Susan Collins said she is open to a subpoena of Trump's taxes - call and voice your opinion</div>
 		<div ng-view class="view-frame container-fluid"></div>
 	</body>
 </html>
