@@ -1,6 +1,7 @@
 body {
 	font-family: 'Mukta Vaani', sans-serif;
 	padding-bottom: 50px;
+	background: #fcfcff;
 }
 
 ol {
@@ -35,6 +36,8 @@ select {
 .navbar {
 	margin-bottom: 0;
 	border-radius: 0;
+	background-color: #020a3b;
+	border: #020a3b;
 }
 
 .navbar .navbar-nav>li>a {
@@ -193,4 +196,23 @@ select {
 
 #about .about-question {
 	margin-top: 20px;
+}
+
+.row.ng-move,
+.row.ng-enter,
+.row.ng-leave {
+  -webkit-transition:all linear 0.3s;
+  transition:all linear 0.3s;
+}
+
+.row.ng-leave.ng-leave-active,
+.row.ng-move,
+.row.ng-enter {
+  opacity:0;
+}
+
+.row.ng-leave,
+.row.ng-move.ng-move-active,
+.row.ng-enter.ng-enter-active {
+  opacity:1;
 }
