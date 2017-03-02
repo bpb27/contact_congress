@@ -36,13 +36,12 @@ select {
 .navbar {
 	margin-bottom: 0;
 	border-radius: 0;
-	background-color: #020a3b;
-	border: #020a3b;
+	border-bottom: 3px solid red;
+	background: #424343;
 }
 
 .navbar .navbar-nav>li>a {
 	max-height: 45px;
-	color: white;
 }
 
 .navbar-header .navbar-brand {
@@ -61,14 +60,13 @@ select {
 
 #total {
 	text-align: center;
-  font-size: 30px;
-	margin: 20px 0;
+	font-size: 30px;
 }
 
 .select-boxes {
   text-align: center;
-	padding-top: 20px;
-	padding-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 40px;
 }
 
 .select-boxes .btn {
@@ -87,8 +85,12 @@ select {
 	z-index: 2;
 }
 
+.social-links .fa-circle {
+	transition: color 0.5s linear;
+}
+
 .social-links span.fa-stack.fa-lg {
-	font-size:24px
+	font-size: 24px
 }
 
 .social-links .twitter-btn .fa-circle{
@@ -111,12 +113,12 @@ select {
 	color: #f6f6f6;
 }
 
-.social-links .fa-circle:hover {
-	color: green;
-}
-
 .social-links a {
 	margin-right: 5px;
+}
+
+.social-links .fa-stack.fa-lg:hover .fa-circle {
+	color: #afafaf;
 }
 
 .full-contact {
@@ -177,6 +179,11 @@ select {
 
 		.social-links {
 			padding-top: 10px;
+			text-align: center;
+		}
+
+		.social-links span.fa-stack.fa-lg {
+			font-size: 20px
 		}
 }
 
