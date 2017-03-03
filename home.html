@@ -38,16 +38,16 @@
 			<div class="col-md-3 col-sm-3 col-xs-9">
 				<span class="member-name" ng-if="member.district"><b>Rep. {{member.name}}</b></span>
 				<span class="member-name" ng-if="!member.district"><b>Sen. {{member.name}}</b></span><br>
-				<span>DC: <a href="tel:{{member.contact[0].phone}}">{{member.contact[0].phone}}</a></span><br>
+				<span><b>State: </b>{{member.stateDisplay}}</span><br>
+				<span ng-if="member.district"><b>District: </b>{{member.district}}</span><br ng-if="member.district">
+				<span><a href="tel:{{member.contact[0].phone}}">{{member.contact[0].phone}}</a></span><br>
 				<span><a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">Request a meeting</a></span><br ng-if="member.linkMeeting">
 				<span><a ng-if="member.linkTownhall" ng-href="{{member.linkTownhall}}" target="_blank">Townhalls</a></span><br ng-if="member.linkTownhall">
 				<span><a ng-if="member.linkTeletownhall" ng-href="{{member.linkTeletownhall}}" target="_blank">Tele-Townhalls</a></span><br ng-if="member.linkTeletownhall">
 				<span><a ng-href="{{member.linkContact}}" target="_blank">Email office</a></span>
 			</div>
 			<div class="col-md-3 col-sm-3 col-xs-12">
-				<span><b>State: </b>{{member.stateDisplay}}</span><br>
 				<span><b>Party: </b>{{member.party}}</span><br>
-				<span ng-if="member.district"><b>District: </b>{{member.district}}</span><br ng-if="member.district">
 				<span>
 					<b>Last election:</b>
 					<a ng-if="member.district" target="_blank" href="http://bit.ly/2lHWni3">{{member.votePersonal}}%</a>
