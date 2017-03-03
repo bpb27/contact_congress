@@ -1,7 +1,6 @@
 <div ng-controller="mainCtrl">
 	<div id="total" class="col-md-12">
-		<a ng-if="matches.length != 535" ng-click="generateLink()" title="link to this search" class="pointer">{{matches.length}} member<span ng-if="matches.length != 1">s</span></a>
-		<span ng-if="matches.length == 535">{{matches.length}} members </span>
+		<a ng-click="generateLink()" title="link to this search" class="pointer">{{matches.length}} member<span ng-if="matches.length != 1">s</span></a>
 		<span class="sh">of Congress</span>
 	</div>
 	<div id="searchbars" class="col-md-12 col-xs-6">

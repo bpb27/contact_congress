@@ -154,7 +154,11 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
         } else {
             var nums = [$scope.chambers.model, $scope.parties.model, $scope.houseCommittees.model, $scope.senateCommittees.model, $scope.sorting.model].join('-');
             var link = base + [nums, $scope.queryState || 'n', $scope.queryName || 'n'].join('/');
-            prompt(message, link);
+            if (link === 'http://www.contactingcongress.org/1-1-1-1-1/n/n') {
+                prompt(message, 'http://www.contactingcongress.org/');
+            } else {
+                prompt(message, link);
+            }
         }
     }
 
