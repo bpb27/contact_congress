@@ -126,7 +126,9 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
             { id: "13", name: "Order: Trump vote % (asc)" },
             { id: "14", name: "Order: Trump vote % (desc)" },
             { id: "15", name: "Order: Clinton vote % (asc)" },
-            { id: "16", name: "Order: Clinton vote % (desc)" }
+            { id: "16", name: "Order: Clinton vote % (desc)" },
+            { id: "17", name: "Order: ACA enrollees % (asc)" },
+            { id: "18", name: "Order: ACA enrollees % (desc)" }
         ]
     };
 
@@ -274,7 +276,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
                         return 0;
                     }
                 }
-                if (["11", "12", "13", "14", "15", "16"].indexOf(sortId) !== -1) {
+                if (["11", "12", "13", "14", "15", "16", "17", "18"].indexOf(sortId) !== -1) {
                     var prop = 'votePersonal';
 
                     if (sortId === '13' || sortId === '14') {
@@ -282,6 +284,9 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
                     }
                     if (sortId === '15' || sortId === '16') {
                         prop = 'voteClinton';
+                    }
+                    if (sortId === '17' || sortId === '18') {
+                        prop = 'numbersAca';
                     }
 
                     if (parseInt(a[prop]) < parseInt(b[prop])) {

@@ -1,0 +1,1746 @@
+[
+  {
+    "district": "AL-1",
+    "number": "29,200"
+  },
+  {
+    "district": "AL-2",
+    "number": "20,600"
+  },
+  {
+    "district": "AL-3",
+    "number": "21,000"
+  },
+  {
+    "district": "AL-4",
+    "number": "23,300"
+  },
+  {
+    "district": "AL-5",
+    "number": "25,400"
+  },
+  {
+    "district": "AL-6",
+    "number": "23,800"
+  },
+  {
+    "district": "AL-7",
+    "number": "22,300"
+  },
+  {
+    "district": "AK-1",
+    "number": "18,000"
+  },
+  {
+    "district": "AZ-1",
+    "number": "16,100"
+  },
+  {
+    "district": "AZ-2",
+    "number": "19,100"
+  },
+  {
+    "district": "AZ-3",
+    "number": "19,800"
+  },
+  {
+    "district": "AZ-4",
+    "number": "20,700"
+  },
+  {
+    "district": "AZ-5",
+    "number": "20,800"
+  },
+  {
+    "district": "AZ-6",
+    "number": "20,800"
+  },
+  {
+    "district": "AZ-7",
+    "number": "20,800"
+  },
+  {
+    "district": "AZ-8",
+    "number": "20,800"
+  },
+  {
+    "district": "AZ-9",
+    "number": "20,800"
+  },
+  {
+    "district": "AR-1",
+    "number": "15,000"
+  },
+  {
+    "district": "AR-2",
+    "number": "16,000"
+  },
+  {
+    "district": "AR-3",
+    "number": "17,900"
+  },
+  {
+    "district": "AR-4",
+    "number": "14,500"
+  },
+  {
+    "district": "CA-1",
+    "number": "24,900"
+  },
+  {
+    "district": "CA-2",
+    "number": "26,800"
+  },
+  {
+    "district": "CA-3",
+    "number": "21,100"
+  },
+  {
+    "district": "CA-4",
+    "number": "26,900"
+  },
+  {
+    "district": "CA-5",
+    "number": "25,400"
+  },
+  {
+    "district": "CA-6",
+    "number": "23,600"
+  },
+  {
+    "district": "CA-7",
+    "number": "23,800"
+  },
+  {
+    "district": "CA-8",
+    "number": "23,700"
+  },
+  {
+    "district": "CA-9",
+    "number": "23,800"
+  },
+  {
+    "district": "CA-10",
+    "number": "23,600"
+  },
+  {
+    "district": "CA-11",
+    "number": "24,400"
+  },
+  {
+    "district": "CA-12",
+    "number": "28,800"
+  },
+  {
+    "district": "CA-13",
+    "number": "28,500"
+  },
+  {
+    "district": "CA-14",
+    "number": "23,100"
+  },
+  {
+    "district": "CA-15",
+    "number": "28,100"
+  },
+  {
+    "district": "CA-16",
+    "number": "21,700"
+  },
+  {
+    "district": "CA-17",
+    "number": "25,000"
+  },
+  {
+    "district": "CA-18",
+    "number": "24,200"
+  },
+  {
+    "district": "CA-19",
+    "number": "23,800"
+  },
+  {
+    "district": "CA-20",
+    "number": "26,700"
+  },
+  {
+    "district": "CA-21",
+    "number": "18,000"
+  },
+  {
+    "district": "CA-22",
+    "number": "19,700"
+  },
+  {
+    "district": "CA-23",
+    "number": "19,300"
+  },
+  {
+    "district": "CA-24",
+    "number": "27,500"
+  },
+  {
+    "district": "CA-25",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-26",
+    "number": "28,800"
+  },
+  {
+    "district": "CA-27",
+    "number": "28,700"
+  },
+  {
+    "district": "CA-28",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-29",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-30",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-31",
+    "number": "23,400"
+  },
+  {
+    "district": "CA-32",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-33",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-34",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-35",
+    "number": "24,600"
+  },
+  {
+    "district": "CA-36",
+    "number": "25,200"
+  },
+  {
+    "district": "CA-37",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-38",
+    "number": "29,000"
+  },
+  {
+    "district": "CA-39",
+    "number": "29,100"
+  },
+  {
+    "district": "CA-40",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-41",
+    "number": "25,200"
+  },
+  {
+    "district": "CA-42",
+    "number": "25,200"
+  },
+  {
+    "district": "CA-43",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-44",
+    "number": "28,900"
+  },
+  {
+    "district": "CA-45",
+    "number": "30,200"
+  },
+  {
+    "district": "CA-46",
+    "number": "30,200"
+  },
+  {
+    "district": "CA-47",
+    "number": "29,400"
+  },
+  {
+    "district": "CA-48",
+    "number": "30,200"
+  },
+  {
+    "district": "CA-49",
+    "number": "30,100"
+  },
+  {
+    "district": "CA-50",
+    "number": "29,500"
+  },
+  {
+    "district": "CA-51",
+    "number": "36,000"
+  },
+  {
+    "district": "CA-52",
+    "number": "30,100"
+  },
+  {
+    "district": "CA-53",
+    "number": "30,100"
+  },
+  {
+    "district": "CO-1",
+    "number": "16,800"
+  },
+  {
+    "district": "CO-2",
+    "number": "20,600"
+  },
+  {
+    "district": "CO-3",
+    "number": "18,700"
+  },
+  {
+    "district": "CO-4",
+    "number": "14,500"
+  },
+  {
+    "district": "CO-5",
+    "number": "10,500"
+  },
+  {
+    "district": "CO-6",
+    "number": "14,000"
+  },
+  {
+    "district": "CO-7",
+    "number": "13,300"
+  },
+  {
+    "district": "CT-1",
+    "number": "20,600"
+  },
+  {
+    "district": "CT-2",
+    "number": "20,600"
+  },
+  {
+    "district": "CT-3",
+    "number": "20,600"
+  },
+  {
+    "district": "CT-4",
+    "number": "20,600"
+  },
+  {
+    "district": "CT-5",
+    "number": "20,600"
+  },
+  {
+    "district": "DE-1",
+    "number": "25,400"
+  },
+  {
+    "district": "DC-1",
+    "number": "17,700"
+  },
+  {
+    "district": "FL-1",
+    "number": "31,100"
+  },
+  {
+    "district": "FL-2",
+    "number": "29,400"
+  },
+  {
+    "district": "FL-3",
+    "number": "33,100"
+  },
+  {
+    "district": "FL-4",
+    "number": "38,700"
+  },
+  {
+    "district": "FL-5",
+    "number": "50,000"
+  },
+  {
+    "district": "FL-6",
+    "number": "46,100"
+  },
+  {
+    "district": "FL-7",
+    "number": "55,800"
+  },
+  {
+    "district": "FL-8",
+    "number": "43,700"
+  },
+  {
+    "district": "FL-9",
+    "number": "68,000"
+  },
+  {
+    "district": "FL-10",
+    "number": "52,600"
+  },
+  {
+    "district": "FL-11",
+    "number": "40,300"
+  },
+  {
+    "district": "FL-12",
+    "number": "43,000"
+  },
+  {
+    "district": "FL-13",
+    "number": "44,200"
+  },
+  {
+    "district": "FL-14",
+    "number": "42,100"
+  },
+  {
+    "district": "FL-15",
+    "number": "38,900"
+  },
+  {
+    "district": "FL-16",
+    "number": "43,400"
+  },
+  {
+    "district": "FL-17",
+    "number": "37,900"
+  },
+  {
+    "district": "FL-18",
+    "number": "60,000"
+  },
+  {
+    "district": "FL-19",
+    "number": "50,300"
+  },
+  {
+    "district": "FL-20",
+    "number": "78,500"
+  },
+  {
+    "district": "FL-21",
+    "number": "75,200"
+  },
+  {
+    "district": "FL-22",
+    "number": "75,800"
+  },
+  {
+    "district": "FL-23",
+    "number": "87,500"
+  },
+  {
+    "district": "FL-24",
+    "number": "94,100"
+  },
+  {
+    "district": "FL-25",
+    "number": "83,300"
+  },
+  {
+    "district": "FL-26",
+    "number": "92,500"
+  },
+  {
+    "district": "FL-27",
+    "number": "96,300"
+  },
+  {
+    "district": "GA-1",
+    "number": "32,100"
+  },
+  {
+    "district": "GA-2",
+    "number": "22,500"
+  },
+  {
+    "district": "GA-3",
+    "number": "28,900"
+  },
+  {
+    "district": "GA-4",
+    "number": "45,700"
+  },
+  {
+    "district": "GA-5",
+    "number": "40,800"
+  },
+  {
+    "district": "GA-6",
+    "number": "40,600"
+  },
+  {
+    "district": "GA-7",
+    "number": "53,600"
+  },
+  {
+    "district": "GA-8",
+    "number": "20,900"
+  },
+  {
+    "district": "GA-9",
+    "number": "30,300"
+  },
+  {
+    "district": "GA-10",
+    "number": "29,200"
+  },
+  {
+    "district": "GA-11",
+    "number": "38,400"
+  },
+  {
+    "district": "GA-12",
+    "number": "28,100"
+  },
+  {
+    "district": "GA-13",
+    "number": "41,500"
+  },
+  {
+    "district": "GA-14",
+    "number": "25,500"
+  },
+  {
+    "district": "HI-1",
+    "number": "5,200"
+  },
+  {
+    "district": "HI-2",
+    "number": "8,100"
+  },
+  {
+    "district": "ID-1",
+    "number": "47,200"
+  },
+  {
+    "district": "ID-2",
+    "number": "47,100"
+  },
+  {
+    "district": "IL-1",
+    "number": "19,400"
+  },
+  {
+    "district": "IL-2",
+    "number": "18,400"
+  },
+  {
+    "district": "IL-3",
+    "number": "19,400"
+  },
+  {
+    "district": "IL-4",
+    "number": "19,500"
+  },
+  {
+    "district": "IL-5",
+    "number": "19,900"
+  },
+  {
+    "district": "IL-6",
+    "number": "22,600"
+  },
+  {
+    "district": "IL-7",
+    "number": "19,500"
+  },
+  {
+    "district": "IL-8",
+    "number": "21,100"
+  },
+  {
+    "district": "IL-9",
+    "number": "19,500"
+  },
+  {
+    "district": "IL-10",
+    "number": "21,200"
+  },
+  {
+    "district": "IL-11",
+    "number": "20,200"
+  },
+  {
+    "district": "IL-12",
+    "number": "14,500"
+  },
+  {
+    "district": "IL-13",
+    "number": "14,300"
+  },
+  {
+    "district": "IL-14",
+    "number": "20,900"
+  },
+  {
+    "district": "IL-15",
+    "number": "16,800"
+  },
+  {
+    "district": "IL-16",
+    "number": "17,200"
+  },
+  {
+    "district": "IL-17",
+    "number": "16,300"
+  },
+  {
+    "district": "IL-18",
+    "number": "14,400"
+  },
+  {
+    "district": "IN-1",
+    "number": "17,500"
+  },
+  {
+    "district": "IN-2",
+    "number": "18,900"
+  },
+  {
+    "district": "IN-3",
+    "number": "17,700"
+  },
+  {
+    "district": "IN-4",
+    "number": "17,800"
+  },
+  {
+    "district": "IN-5",
+    "number": "22,100"
+  },
+  {
+    "district": "IN-6",
+    "number": "16,900"
+  },
+  {
+    "district": "IN-7",
+    "number": "20,400"
+  },
+  {
+    "district": "IN-8",
+    "number": "18,700"
+  },
+  {
+    "district": "IN-9",
+    "number": "18,800"
+  },
+  {
+    "district": "IA-1",
+    "number": "11,900"
+  },
+  {
+    "district": "IA-2",
+    "number": "12,000"
+  },
+  {
+    "district": "IA-3",
+    "number": "13,700"
+  },
+  {
+    "district": "IA-4",
+    "number": "11,400"
+  },
+  {
+    "district": "KS-1",
+    "number": "19,300"
+  },
+  {
+    "district": "KS-2",
+    "number": "20,800"
+  },
+  {
+    "district": "KS-3",
+    "number": "28,700"
+  },
+  {
+    "district": "KS-4",
+    "number": "20,700"
+  },
+  {
+    "district": "KY-1",
+    "number": "12,200"
+  },
+  {
+    "district": "KY-2",
+    "number": "12,600"
+  },
+  {
+    "district": "KY-3",
+    "number": "12,400"
+  },
+  {
+    "district": "KY-4",
+    "number": "12,700"
+  },
+  {
+    "district": "KY-5",
+    "number": "12,000"
+  },
+  {
+    "district": "KY-6",
+    "number": "12,700"
+  },
+  {
+    "district": "LA-1",
+    "number": "36,300"
+  },
+  {
+    "district": "LA-2",
+    "number": "39,300"
+  },
+  {
+    "district": "LA-3",
+    "number": "26,900"
+  },
+  {
+    "district": "LA-4",
+    "number": "24,900"
+  },
+  {
+    "district": "LA-5",
+    "number": "28,000"
+  },
+  {
+    "district": "LA-6",
+    "number": "28,900"
+  },
+  {
+    "district": "ME-1",
+    "number": "39,200"
+  },
+  {
+    "district": "ME-2",
+    "number": "36,000"
+  },
+  {
+    "district": "MD-1",
+    "number": "15,800"
+  },
+  {
+    "district": "MD-2",
+    "number": "16,100"
+  },
+  {
+    "district": "MD-3",
+    "number": "16,700"
+  },
+  {
+    "district": "MD-4",
+    "number": "16,400"
+  },
+  {
+    "district": "MD-5",
+    "number": "13,800"
+  },
+  {
+    "district": "MD-6",
+    "number": "19,600"
+  },
+  {
+    "district": "MD-7",
+    "number": "15,500"
+  },
+  {
+    "district": "MD-8",
+    "number": "21,400"
+  },
+  {
+    "district": "MA-1",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-2",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-3",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-4",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-5",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-6",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-7",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-8",
+    "number": "23,000"
+  },
+  {
+    "district": "MA-9",
+    "number": "23,000"
+  },
+  {
+    "district": "MI-1",
+    "number": "30,900"
+  },
+  {
+    "district": "MI-2",
+    "number": "21,900"
+  },
+  {
+    "district": "MI-3",
+    "number": "20,500"
+  },
+  {
+    "district": "MI-4",
+    "number": "19,500"
+  },
+  {
+    "district": "MI-5",
+    "number": "17,200"
+  },
+  {
+    "district": "MI-6",
+    "number": "22,700"
+  },
+  {
+    "district": "MI-7",
+    "number": "19,600"
+  },
+  {
+    "district": "MI-8",
+    "number": "24,000"
+  },
+  {
+    "district": "MI-9",
+    "number": "28,200"
+  },
+  {
+    "district": "MI-10",
+    "number": "26,700"
+  },
+  {
+    "district": "MI-11",
+    "number": "24,300"
+  },
+  {
+    "district": "MI-12",
+    "number": "19,500"
+  },
+  {
+    "district": "MI-13",
+    "number": "16,400"
+  },
+  {
+    "district": "MI-14",
+    "number": "21,700"
+  },
+  {
+    "district": "MN-1",
+    "number": "17,900"
+  },
+  {
+    "district": "MN-2",
+    "number": "17,300"
+  },
+  {
+    "district": "MN-3",
+    "number": "17,200"
+  },
+  {
+    "district": "MN-4",
+    "number": "17,200"
+  },
+  {
+    "district": "MN-5",
+    "number": "17,200"
+  },
+  {
+    "district": "MN-6",
+    "number": "17,200"
+  },
+  {
+    "district": "MN-7",
+    "number": "18,300"
+  },
+  {
+    "district": "MN-8",
+    "number": "19,200"
+  },
+  {
+    "district": "MS-1",
+    "number": "17,100"
+  },
+  {
+    "district": "MS-2",
+    "number": "24,200"
+  },
+  {
+    "district": "MS-3",
+    "number": "19,900"
+  },
+  {
+    "district": "MS-4",
+    "number": "16,600"
+  },
+  {
+    "district": "MO-1",
+    "number": "37,700"
+  },
+  {
+    "district": "MO-2",
+    "number": "34,600"
+  },
+  {
+    "district": "MO-3",
+    "number": "28,100"
+  },
+  {
+    "district": "MO-4",
+    "number": "29,200"
+  },
+  {
+    "district": "MO-5",
+    "number": "32,200"
+  },
+  {
+    "district": "MO-6",
+    "number": "28,300"
+  },
+  {
+    "district": "MO-7",
+    "number": "36,100"
+  },
+  {
+    "district": "MO-8",
+    "number": "25,800"
+  },
+  {
+    "district": "MT-1",
+    "number": "51,800"
+  },
+  {
+    "district": "NE-1",
+    "number": "24,500"
+  },
+  {
+    "district": "NE-2",
+    "number": "22,600"
+  },
+  {
+    "district": "NE-3",
+    "number": "33,000"
+  },
+  {
+    "district": "NV-1",
+    "number": "19,300"
+  },
+  {
+    "district": "NV-2",
+    "number": "22,500"
+  },
+  {
+    "district": "NV-3",
+    "number": "19,300"
+  },
+  {
+    "district": "NV-4",
+    "number": "18,700"
+  },
+  {
+    "district": "NH-1",
+    "number": "25,900"
+  },
+  {
+    "district": "NH-2",
+    "number": "23,300"
+  },
+  {
+    "district": "NJ-1",
+    "number": "19,300"
+  },
+  {
+    "district": "NJ-2",
+    "number": "20,100"
+  },
+  {
+    "district": "NJ-3",
+    "number": "19,100"
+  },
+  {
+    "district": "NJ-4",
+    "number": "20,600"
+  },
+  {
+    "district": "NJ-5",
+    "number": "24,400"
+  },
+  {
+    "district": "NJ-6",
+    "number": "21,800"
+  },
+  {
+    "district": "NJ-7",
+    "number": "20,600"
+  },
+  {
+    "district": "NJ-8",
+    "number": "20,900"
+  },
+  {
+    "district": "NJ-9",
+    "number": "23,600"
+  },
+  {
+    "district": "NJ-10",
+    "number": "19,400"
+  },
+  {
+    "district": "NJ-11",
+    "number": "20,000"
+  },
+  {
+    "district": "NJ-12",
+    "number": "19,600"
+  },
+  {
+    "district": "NM-1",
+    "number": "16,300"
+  },
+  {
+    "district": "NM-2",
+    "number": "15,100"
+  },
+  {
+    "district": "NM-3",
+    "number": "16,100"
+  },
+  {
+    "district": "NY-1",
+    "number": "23,100"
+  },
+  {
+    "district": "NY-2",
+    "number": "22,800"
+  },
+  {
+    "district": "NY-3",
+    "number": "24,900"
+  },
+  {
+    "district": "NY-4",
+    "number": "22,200"
+  },
+  {
+    "district": "NY-5",
+    "number": "35,000"
+  },
+  {
+    "district": "NY-6",
+    "number": "36,600"
+  },
+  {
+    "district": "NY-7",
+    "number": "31,400"
+  },
+  {
+    "district": "NY-8",
+    "number": "32,100"
+  },
+  {
+    "district": "NY-9",
+    "number": "31,800"
+  },
+  {
+    "district": "NY-10",
+    "number": "26,700"
+  },
+  {
+    "district": "NY-11",
+    "number": "22,200"
+  },
+  {
+    "district": "NY-12",
+    "number": "26,100"
+  },
+  {
+    "district": "NY-13",
+    "number": "23,800"
+  },
+  {
+    "district": "NY-14",
+    "number": "33,000"
+  },
+  {
+    "district": "NY-15",
+    "number": "25,600"
+  },
+  {
+    "district": "NY-16",
+    "number": "21,900"
+  },
+  {
+    "district": "NY-17",
+    "number": "20,600"
+  },
+  {
+    "district": "NY-18",
+    "number": "16,800"
+  },
+  {
+    "district": "NY-19",
+    "number": "16,500"
+  },
+  {
+    "district": "NY-20",
+    "number": "13,300"
+  },
+  {
+    "district": "NY-21",
+    "number": "14,400"
+  },
+  {
+    "district": "NY-22",
+    "number": "13,100"
+  },
+  {
+    "district": "NY-23",
+    "number": "14,400"
+  },
+  {
+    "district": "NY-24",
+    "number": "13,500"
+  },
+  {
+    "district": "NY-25",
+    "number": "14,900"
+  },
+  {
+    "district": "NY-26",
+    "number": "12,900"
+  },
+  {
+    "district": "NY-27",
+    "number": "13,900"
+  },
+  {
+    "district": "NC-1",
+    "number": "34,000"
+  },
+  {
+    "district": "NC-2",
+    "number": "35,500"
+  },
+  {
+    "district": "NC-3",
+    "number": "39,200"
+  },
+  {
+    "district": "NC-4",
+    "number": "40,200"
+  },
+  {
+    "district": "NC-5",
+    "number": "40,700"
+  },
+  {
+    "district": "NC-6",
+    "number": "40,500"
+  },
+  {
+    "district": "NC-7",
+    "number": "41,500"
+  },
+  {
+    "district": "NC-8",
+    "number": "40,900"
+  },
+  {
+    "district": "NC-9",
+    "number": "54,500"
+  },
+  {
+    "district": "NC-10",
+    "number": "42,000"
+  },
+  {
+    "district": "NC-11",
+    "number": "44,200"
+  },
+  {
+    "district": "NC-12",
+    "number": "50,400"
+  },
+  {
+    "district": "NC-13",
+    "number": "41,700"
+  },
+  {
+    "district": "ND-1",
+    "number": "20,500"
+  },
+  {
+    "district": "OH-1",
+    "number": "14,900"
+  },
+  {
+    "district": "OH-2",
+    "number": "14,200"
+  },
+  {
+    "district": "OH-3",
+    "number": "14,200"
+  },
+  {
+    "district": "OH-4",
+    "number": "10,700"
+  },
+  {
+    "district": "OH-5",
+    "number": "11,600"
+  },
+  {
+    "district": "OH-6",
+    "number": "12,100"
+  },
+  {
+    "district": "OH-7",
+    "number": "13,100"
+  },
+  {
+    "district": "OH-8",
+    "number": "12,900"
+  },
+  {
+    "district": "OH-9",
+    "number": "12,600"
+  },
+  {
+    "district": "OH-10",
+    "number": "12,800"
+  },
+  {
+    "district": "OH-11",
+    "number": "13,400"
+  },
+  {
+    "district": "OH-12",
+    "number": "13,400"
+  },
+  {
+    "district": "OH-13",
+    "number": "14,300"
+  },
+  {
+    "district": "OH-14",
+    "number": "15,500"
+  },
+  {
+    "district": "OH-15",
+    "number": "12,500"
+  },
+  {
+    "district": "OH-16",
+    "number": "13,700"
+  },
+  {
+    "district": "OK-1",
+    "number": "27,800"
+  },
+  {
+    "district": "OK-2",
+    "number": "22,200"
+  },
+  {
+    "district": "OK-3",
+    "number": "24,600"
+  },
+  {
+    "district": "OK-4",
+    "number": "25,300"
+  },
+  {
+    "district": "OK-5",
+    "number": "30,400"
+  },
+  {
+    "district": "OR-1",
+    "number": "24,100"
+  },
+  {
+    "district": "OR-2",
+    "number": "29,500"
+  },
+  {
+    "district": "OR-3",
+    "number": "31,900"
+  },
+  {
+    "district": "OR-4",
+    "number": "22,700"
+  },
+  {
+    "district": "OR-5",
+    "number": "22,900"
+  },
+  {
+    "district": "PA-1",
+    "number": "26,500"
+  },
+  {
+    "district": "PA-2",
+    "number": "26,100"
+  },
+  {
+    "district": "PA-3",
+    "number": "16,500"
+  },
+  {
+    "district": "PA-4",
+    "number": "21,600"
+  },
+  {
+    "district": "PA-5",
+    "number": "16,100"
+  },
+  {
+    "district": "PA-6",
+    "number": "26,300"
+  },
+  {
+    "district": "PA-7",
+    "number": "28,100"
+  },
+  {
+    "district": "PA-8",
+    "number": "33,100"
+  },
+  {
+    "district": "PA-9",
+    "number": "18,000"
+  },
+  {
+    "district": "PA-10",
+    "number": "22,000"
+  },
+  {
+    "district": "PA-11",
+    "number": "19,800"
+  },
+  {
+    "district": "PA-12",
+    "number": "20,000"
+  },
+  {
+    "district": "PA-13",
+    "number": "28,300"
+  },
+  {
+    "district": "PA-14",
+    "number": "21,400"
+  },
+  {
+    "district": "PA-15",
+    "number": "22,600"
+  },
+  {
+    "district": "PA-16",
+    "number": "22,900"
+  },
+  {
+    "district": "PA-17",
+    "number": "22,400"
+  },
+  {
+    "district": "PA-18",
+    "number": "20,600"
+  },
+  {
+    "district": "RI-1",
+    "number": "17,800"
+  },
+  {
+    "district": "RI-2",
+    "number": "17,800"
+  },
+  {
+    "district": "SC-1",
+    "number": "32,700"
+  },
+  {
+    "district": "SC-2",
+    "number": "25,000"
+  },
+  {
+    "district": "SC-3",
+    "number": "25,300"
+  },
+  {
+    "district": "SC-4",
+    "number": "31,100"
+  },
+  {
+    "district": "SC-5",
+    "number": "26,600"
+  },
+  {
+    "district": "SC-6",
+    "number": "28,700"
+  },
+  {
+    "district": "SC-7",
+    "number": "35,500"
+  },
+  {
+    "district": "SD-1",
+    "number": "24,600"
+  },
+  {
+    "district": "TN-1",
+    "number": "25,700"
+  },
+  {
+    "district": "TN-2",
+    "number": "26,300"
+  },
+  {
+    "district": "TN-3",
+    "number": "24,300"
+  },
+  {
+    "district": "TN-4",
+    "number": "22,900"
+  },
+  {
+    "district": "TN-5",
+    "number": "33,600"
+  },
+  {
+    "district": "TN-6",
+    "number": "24,800"
+  },
+  {
+    "district": "TN-7",
+    "number": "24,700"
+  },
+  {
+    "district": "TN-8",
+    "number": "23,300"
+  },
+  {
+    "district": "TN-9",
+    "number": "26,100"
+  },
+  {
+    "district": "TX-1",
+    "number": "23,100"
+  },
+  {
+    "district": "TX-2",
+    "number": "34,200"
+  },
+  {
+    "district": "TX-3",
+    "number": "37,000"
+  },
+  {
+    "district": "TX-4",
+    "number": "22,900"
+  },
+  {
+    "district": "TX-5",
+    "number": "27,800"
+  },
+  {
+    "district": "TX-6",
+    "number": "31,000"
+  },
+  {
+    "district": "TX-7",
+    "number": "34,200"
+  },
+  {
+    "district": "TX-8",
+    "number": "26,700"
+  },
+  {
+    "district": "TX-9",
+    "number": "37,000"
+  },
+  {
+    "district": "TX-10",
+    "number": "34,500"
+  },
+  {
+    "district": "TX-11",
+    "number": "21,900"
+  },
+  {
+    "district": "TX-12",
+    "number": "31,700"
+  },
+  {
+    "district": "TX-13",
+    "number": "17,800"
+  },
+  {
+    "district": "TX-14",
+    "number": "24,400"
+  },
+  {
+    "district": "TX-15",
+    "number": "27,000"
+  },
+  {
+    "district": "TX-16",
+    "number": "45,900"
+  },
+  {
+    "district": "TX-17",
+    "number": "23,300"
+  },
+  {
+    "district": "TX-18",
+    "number": "34,200"
+  },
+  {
+    "district": "TX-19",
+    "number": "18,800"
+  },
+  {
+    "district": "TX-20",
+    "number": "31,600"
+  },
+  {
+    "district": "TX-21",
+    "number": "34,000"
+  },
+  {
+    "district": "TX-22",
+    "number": "40,500"
+  },
+  {
+    "district": "TX-23",
+    "number": "31,800"
+  },
+  {
+    "district": "TX-24",
+    "number": "32,900"
+  },
+  {
+    "district": "TX-25",
+    "number": "30,000"
+  },
+  {
+    "district": "TX-26",
+    "number": "33,900"
+  },
+  {
+    "district": "TX-27",
+    "number": "22,600"
+  },
+  {
+    "district": "TX-28",
+    "number": "32,400"
+  },
+  {
+    "district": "TX-29",
+    "number": "34,200"
+  },
+  {
+    "district": "TX-30",
+    "number": "32,700"
+  },
+  {
+    "district": "TX-31",
+    "number": "27,600"
+  },
+  {
+    "district": "TX-32",
+    "number": "33,000"
+  },
+  {
+    "district": "TX-33",
+    "number": "32,600"
+  },
+  {
+    "district": "TX-34",
+    "number": "27,300"
+  },
+  {
+    "district": "TX-35",
+    "number": "34,800"
+  },
+  {
+    "district": "TX-36",
+    "number": "27,100"
+  },
+  {
+    "district": "UT-1",
+    "number": "36,100"
+  },
+  {
+    "district": "UT-2",
+    "number": "42,000"
+  },
+  {
+    "district": "UT-3",
+    "number": "44,800"
+  },
+  {
+    "district": "UT-4",
+    "number": "41,600"
+  },
+  {
+    "district": "VT-1",
+    "number": "27,900"
+  },
+  {
+    "district": "VA-1",
+    "number": "32,300"
+  },
+  {
+    "district": "VA-2",
+    "number": "29,400"
+  },
+  {
+    "district": "VA-3",
+    "number": "32,500"
+  },
+  {
+    "district": "VA-4",
+    "number": "28,800"
+  },
+  {
+    "district": "VA-5",
+    "number": "34,900"
+  },
+  {
+    "district": "VA-6",
+    "number": "31,000"
+  },
+  {
+    "district": "VA-7",
+    "number": "38,100"
+  },
+  {
+    "district": "VA-8",
+    "number": "40,800"
+  },
+  {
+    "district": "VA-9",
+    "number": "26,400"
+  },
+  {
+    "district": "VA-10",
+    "number": "40,100"
+  },
+  {
+    "district": "VA-11",
+    "number": "44,400"
+  },
+  {
+    "district": "WA-1",
+    "number": "17,700"
+  },
+  {
+    "district": "WA-2",
+    "number": "17,300"
+  },
+  {
+    "district": "WA-3",
+    "number": "16,400"
+  },
+  {
+    "district": "WA-4",
+    "number": "11,300"
+  },
+  {
+    "district": "WA-5",
+    "number": "14,500"
+  },
+  {
+    "district": "WA-6",
+    "number": "14,400"
+  },
+  {
+    "district": "WA-7",
+    "number": "18,500"
+  },
+  {
+    "district": "WA-8",
+    "number": "17,100"
+  },
+  {
+    "district": "WA-9",
+    "number": "18,500"
+  },
+  {
+    "district": "WA-10",
+    "number": "12,400"
+  },
+  {
+    "district": "WV-1",
+    "number": "11,200"
+  },
+  {
+    "district": "WV-2",
+    "number": "11,800"
+  },
+  {
+    "district": "WV-3",
+    "number": "10,200"
+  },
+  {
+    "district": "WI-1",
+    "number": "25,800"
+  },
+  {
+    "district": "WI-2",
+    "number": "23,400"
+  },
+  {
+    "district": "WI-3",
+    "number": "28,400"
+  },
+  {
+    "district": "WI-4",
+    "number": "26,900"
+  },
+  {
+    "district": "WI-5",
+    "number": "25,900"
+  },
+  {
+    "district": "WI-6",
+    "number": "26,600"
+  },
+  {
+    "district": "WI-7",
+    "number": "36,000"
+  },
+  {
+    "district": "WI-8",
+    "number": "31,200"
+  },
+  {
+    "district": "WY-1",
+    "number": "22,100"
+  }
+]
