@@ -26,8 +26,8 @@
 			<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 		</select>
 		<button class="btn" ng-click="toggleShowOffices()">
-			<span ng-if="showOffices">Hide offices</span>
-			<span ng-if="!showOffices">Show offices</span>
+			<span ng-if="showOffices">Hide offices & comms</span>
+			<span ng-if="!showOffices">Show offices & comms</span>
 		</button>
 	</div>
 	<ol when-scrolled="more()">
@@ -86,6 +86,14 @@
 				</span>
 			</div>
 			<div class="col-md-12 col-sm-12 col-xs-12 full-contact">
+				<div class="row committees" ng-show="showOffices">
+					<div class="col-md-2"><b>Committees</b></div>
+					<div class="col-md-10">
+						<span class="committee pointer" ng-repeat="committee in member.committees track by $index" ng-click="chooseCommittee(committee, member)">
+							{{committee}}<span ng-if="$index != member.committees.length - 1">, </span>
+						</span>
+					</div>
+				</div>
 				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'" ng-show="showOffices">
 					<div class="col-md-2 col-xs-12"><b>{{contact.name}}</b></div>
 					<div class="col-md-2 col-xs-12"><a href="tel:{{contact.phone}}">{{contact.phone}}</a></div>

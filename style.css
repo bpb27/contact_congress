@@ -52,12 +52,6 @@ select {
 	color: #ff6060;
 }
 
-#suggestion {
-  text-align: center;
-  background: #e4f0ff;
-	padding: 5px;
-}
-
 #total {
 	text-align: center;
 	font-size: 30px;
@@ -70,7 +64,7 @@ select {
 }
 
 .select-boxes .btn {
-	 width: 95px;
+	 width: 160px;
 }
 
 .row img {
@@ -119,6 +113,15 @@ select {
 
 .social-links .fa-stack.fa-lg:hover .fa-circle {
 	color: #afafaf;
+}
+
+.committees {
+  background: silver;
+}
+
+.committee:hover {
+	color: #4267b2;
+	text-decoration: underline;
 }
 
 .full-contact {

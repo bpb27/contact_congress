@@ -126,6 +126,20 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
         ]
     };
 
+    $scope.chooseCommittee = function (committee, member) {
+        if (member.district) {
+            var choice = $scope.houseCommittees.availableOptions.filter(function (c) {
+                return c.name === committee;
+            })[0].id;
+            $scope.houseCommittees.model = $scope.houseCommittees.model === choice ? "1" : choice;
+        } else {
+            var choice = $scope.senateCommittees.availableOptions.filter(function (c) {
+                return c.name === committee;
+            })[0].id;
+            $scope.senateCommittees.model = $scope.senateCommittees.model === choice ? "1" : choice;
+        }
+    }
+
     $scope.generateLink = function () {
         var base = "http://www.contactingcongress.org/";
         var message = 'Copy text below (PC: ctrl + c) (Mac: cmd + c)';
