@@ -1,0 +1,352 @@
+[
+  {
+    "state": "Alabama",
+    "clinton": 34.4,
+    "trump": 62.1,
+    "johnson": 2.1,
+    "stein": 0.4
+  },
+  {
+    "state": "Alaska",
+    "clinton": 36.5,
+    "trump": 51.3,
+    "johnson": 5.9,
+    "stein": 1.8
+  },
+  {
+    "state": "Arizona",
+    "clinton": 45.1,
+    "trump": 48.7,
+    "johnson": 4.1,
+    "stein": 1.3
+  },
+  {
+    "state": "Arkansas",
+    "clinton": 33.6,
+    "trump": 60.6,
+    "johnson": 2.6,
+    "stein": 0.8
+  },
+  {
+    "state": "California",
+    "clinton": 61.7,
+    "trump": 31.6,
+    "johnson": 3.4,
+    "stein": 2
+  },
+  {
+    "state": "Colorado",
+    "clinton": 48.2,
+    "trump": 43.3,
+    "johnson": 5.2,
+    "stein": 1.4
+  },
+  {
+    "state": "Connecticut",
+    "clinton": 54.6,
+    "trump": 40.9,
+    "johnson": 3,
+    "stein": 1.4
+  },
+  {
+    "state": "Delaware",
+    "clinton": 53.2,
+    "trump": 41.8,
+    "johnson": 3.3,
+    "stein": 1.4
+  },
+  {
+    "state": "Florida",
+    "clinton": 47.8,
+    "trump": 49,
+    "johnson": 2.2,
+    "stein": 0.7
+  },
+  {
+    "state": "Georgia",
+    "clinton": 45.6,
+    "trump": 50.8,
+    "johnson": 3,
+    "stein": 0.2
+  },
+  {
+    "state": "Hawaii",
+    "clinton": 62.2,
+    "trump": 30,
+    "johnson": 3.7,
+    "stein": 3
+  },
+  {
+    "state": "Idaho",
+    "clinton": 27.5,
+    "trump": 59.3,
+    "johnson": 4.1,
+    "stein": 1.2
+  },
+  {
+    "state": "Illinois",
+    "clinton": 55.8,
+    "trump": 38.8,
+    "johnson": 3.8,
+    "stein": 1.4
+  },
+  {
+    "state": "Indiana",
+    "clinton": 37.9,
+    "trump": 56.8,
+    "johnson": 4.9,
+    "stein": 0.3
+  },
+  {
+    "state": "Iowa",
+    "clinton": 41.7,
+    "trump": 51.1,
+    "johnson": 3.8,
+    "stein": 0.7
+  },
+  {
+    "state": "Kansas",
+    "clinton": 36,
+    "trump": 56.6,
+    "johnson": 4.7,
+    "stein": 2
+  },
+  {
+    "state": "Kentucky",
+    "clinton": 32.7,
+    "trump": 62.5,
+    "johnson": 2.8,
+    "stein": 0.7
+  },
+  {
+    "state": "Louisiana",
+    "clinton": 38.5,
+    "trump": 58.1,
+    "johnson": 1.9,
+    "stein": 0.7
+  },
+  {
+    "state": "Maine",
+    "clinton": 47.8,
+    "trump": 44.9,
+    "johnson": 5.1,
+    "stein": 1.9
+  },
+  {
+    "state": "Maryland",
+    "clinton": 60.3,
+    "trump": 33.9,
+    "johnson": 2.9,
+    "stein": 1.3
+  },
+  {
+    "state": "Massachusetts",
+    "clinton": 60,
+    "trump": 32.8,
+    "johnson": 4.2,
+    "stein": 1.4
+  },
+  {
+    "state": "Michigan",
+    "clinton": 47.3,
+    "trump": 47.5,
+    "johnson": 3.6,
+    "stein": 1.1
+  },
+  {
+    "state": "Minnesota",
+    "clinton": 46.4,
+    "trump": 44.9,
+    "johnson": 3.8,
+    "stein": 1.3
+  },
+  {
+    "state": "Mississippi",
+    "clinton": 40.1,
+    "trump": 57.9,
+    "johnson": 1.2,
+    "stein": 0.3
+  },
+  {
+    "state": "Missouri",
+    "clinton": 38.1,
+    "trump": 56.8,
+    "johnson": 3.5,
+    "stein": 0.9
+  },
+  {
+    "state": "Montana",
+    "clinton": 35.8,
+    "trump": 56.2,
+    "johnson": 5.6,
+    "stein": 1.6
+  },
+  {
+    "state": "Nebraska",
+    "clinton": 33.7,
+    "trump": 58.8,
+    "johnson": 4.6,
+    "stein": 1
+  },
+  {
+    "state": "Nevada",
+    "clinton": 47.9,
+    "trump": 45.5,
+    "johnson": 3.3,
+    "stein": 0
+  },
+  {
+    "state": "New Hampshire",
+    "clinton": 47,
+    "trump": 46.6,
+    "johnson": 4.2,
+    "stein": 0.9
+  },
+  {
+    "state": "New Jersey",
+    "clinton": 55,
+    "trump": 41,
+    "johnson": 1.9,
+    "stein": 1
+  },
+  {
+    "state": "New Mexico",
+    "clinton": 48.3,
+    "trump": 40,
+    "johnson": 9.3,
+    "stein": 1.2
+  },
+  {
+    "state": "New York",
+    "clinton": 58.4,
+    "trump": 36.1,
+    "johnson": 2.3,
+    "stein": 1.4
+  },
+  {
+    "state": "North Carolina",
+    "clinton": 46.2,
+    "trump": 49.8,
+    "johnson": 2.7,
+    "stein": 0.3
+  },
+  {
+    "state": "North Dakota",
+    "clinton": 27.2,
+    "trump": 63,
+    "johnson": 6.2,
+    "stein": 1.1
+  },
+  {
+    "state": "Ohio",
+    "clinton": 43.6,
+    "trump": 51.7,
+    "johnson": 3.2,
+    "stein": 0.8
+  },
+  {
+    "state": "Oklahoma",
+    "clinton": 28.9,
+    "trump": 65.3,
+    "johnson": 5.8,
+    "stein": 0
+  },
+  {
+    "state": "Oregon",
+    "clinton": 50.1,
+    "trump": 39.1,
+    "johnson": 4.7,
+    "stein": 2.5
+  },
+  {
+    "state": "Pennsylvania",
+    "clinton": 47.9,
+    "trump": 48.6,
+    "johnson": 2.4,
+    "stein": 0.8
+  },
+  {
+    "state": "Rhode Island",
+    "clinton": 54.4,
+    "trump": 38.9,
+    "johnson": 3.2,
+    "stein": 1.3
+  },
+  {
+    "state": "South Carolina",
+    "clinton": 40.7,
+    "trump": 54.9,
+    "johnson": 2.3,
+    "stein": 0.6
+  },
+  {
+    "state": "South Dakota",
+    "clinton": 31.7,
+    "trump": 61.5,
+    "johnson": 5.6,
+    "stein": 0
+  },
+  {
+    "state": "Tennessee",
+    "clinton": 34.7,
+    "trump": 60.7,
+    "johnson": 2.8,
+    "stein": 0.6
+  },
+  {
+    "state": "Texas",
+    "clinton": 43.2,
+    "trump": 52.2,
+    "johnson": 3.2,
+    "stein": 0.8
+  },
+  {
+    "state": "Utah",
+    "clinton": 27.5,
+    "trump": 45.5,
+    "johnson": 3.5,
+    "stein": 0.8
+  },
+  {
+    "state": "Vermont",
+    "clinton": 55.7,
+    "trump": 29.8,
+    "johnson": 3.1,
+    "stein": 2.1
+  },
+  {
+    "state": "Virginia",
+    "clinton": 49.8,
+    "trump": 44.4,
+    "johnson": 3,
+    "stein": 0.7
+  },
+  {
+    "state": "Washington",
+    "clinton": 54.3,
+    "trump": 38.1,
+    "johnson": 5,
+    "stein": 1.8
+  },
+  {
+    "state": "West Virginia",
+    "clinton": 26.5,
+    "trump": 68.6,
+    "johnson": 3.2,
+    "stein": 1.1
+  },
+  {
+    "state": "Wisconsin",
+    "clinton": 46.5,
+    "trump": 47.2,
+    "johnson": 3.6,
+    "stein": 1
+  },
+  {
+    "state": "Wyoming",
+    "clinton": 21.6,
+    "trump": 67.4,
+    "johnson": 5.1,
+    "stein": 1
+  }
+]

@@ -122,7 +122,11 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
             { id: "9", name: "Order: Reelection year (asc)" },
             { id: "10", name: "Order: Reelection year (desc)" },
             { id: "11", name: "Order: Elected by % (asc)" },
-            { id: "12", name: "Order: Elected by % (desc)" }
+            { id: "12", name: "Order: Elected by % (desc)" },
+            { id: "13", name: "Order: Trump vote % (asc)" },
+            { id: "14", name: "Order: Trump vote % (desc)" },
+            { id: "15", name: "Order: Clinton vote % (asc)" },
+            { id: "16", name: "Order: Clinton vote % (desc)" }
         ]
     };
 
@@ -270,10 +274,19 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
                         return 0;
                     }
                 }
-                if (sortId === "11" || sortId === "12") {
-                    if (parseInt(a.threshold) < parseInt(b.threshold)) {
+                if (["11", "12", "13", "14", "15", "16"].indexOf(sortId) !== -1) {
+                    var prop = 'votePersonal';
+
+                    if (sortId === '13' || sortId === '14') {
+                        prop = 'voteTrump';
+                    }
+                    if (sortId === '15' || sortId === '16') {
+                        prop = 'voteClinton';
+                    }
+
+                    if (parseInt(a[prop]) < parseInt(b[prop])) {
                         return -1;
-                    } else if (parseInt(a.threshold) > parseInt(b.threshold)) {
+                    } else if (parseInt(a[prop]) > parseInt(b[prop])) {
                         return 1;
                     } else {
                         return 0;
