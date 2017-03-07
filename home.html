@@ -29,6 +29,9 @@
 			<span ng-if="!showOffices">Show offices & comms</span>
 		</button>
 	</div>
+	<div id="zipwarning" class="col-md-12 col-sm-12 col-xs-12" ng-if="zipMatch && displayed.length > 3">
+		Reps often share zip codes. For more specificity, go <a href="http://ziplook.house.gov/htbin/findrep?ZIP={{queryZip}}&Submit=FIND+YOUR+REP+BY+ZIP" target="_blank">here</a>.
+	</div>
 	<ol when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
 			<div class="col-md-1 col-sm-2 col-xs-3">

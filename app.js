@@ -34,6 +34,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
     $scope.sens - [];
     $scope.showOffices = true;
     $scope.zips = [];
+    $scope.zipMatch = false;
 
     $scope.chambers = {
         model: "1",
@@ -181,6 +182,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
             $scope.increment = 20;
         }
 
+        $scope.zipMatch = false;
         var reps = $scope.reps ? $scope.reps.slice() : [];
         var sens = $scope.sens ? $scope.sens.slice() : [];
 
@@ -226,6 +228,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
 
         if ($scope.queryZip.length === 5 && $scope.zips[$scope.queryZip]) {
             $scope.matches = findByDistrict(parseDistricts($scope.zips[$scope.queryZip]), reps, sens);
+            $scope.zipMatch = true;
         } else if ($scope.queryName && $scope.queryState) {
             $scope.matches = findByState($scope.queryState, findByName($scope.queryName, reps, sens));
         } else if ($scope.queryName) {

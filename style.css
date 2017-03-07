@@ -67,6 +67,11 @@ select {
 	 width: 160px;
 }
 
+#zipwarning {
+	text-align: center;
+	padding: 20px 0;
+}
+
 .row img {
 	width: 100%;
 }
