@@ -65,70 +65,35 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Agriculture, Nutrition and Forestry",
-      "Armed Services",
-      "Budget",
-      "Energy and Natural Resources",
-      "Environment and Public Works"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "326 Russell Senate Office Building, Washington, DC 20510",
-        "fax": "202-224-3149",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-224-4124"
-      },
-      {
-        "address": "1800 5th Avenue North, 341 Vance Federal Building, Birmingham, AL 35203",
-        "fax": "205-731-0221",
-        "name": "Birmingham Office",
-        "phone": "205-731-1500"
-      },
-      {
-        "address": "200 Clinton Avenue NW, Regions Center, Suite 802, Huntsville, AL 35801",
-        "fax": "256-533-0745",
-        "name": "Huntsville Office",
-        "phone": "256-533-0979"
-      },
-      {
-        "address": "41 West I-65 Service Road North, BB&T, Suite 2300-A, Mobile, AL 36608",
-        "fax": "251-414-5845",
-        "name": "Mobile Office",
-        "phone": "251-414-3083"
-      },
-      {
-        "address": "1 Church Street, Suite 500B, Montgomery, AL 36104 ",
-        "fax": "334-293-9349",
-        "name": "Montgomery Office",
-        "phone": "334-230-0698"
-      },
-      {
-        "address": "100 West Troy Street, Suite 302, Dothan, AL 36303 ",
-        "fax": "334-792-4928",
-        "name": "Wiregrass Office",
-        "phone": "334-792-4924"
+        "phone": ""
       }
     ],
-    "linkContact": "http://www.sessions.senate.gov/public/index.cfm/contact-me-redir",
-    "linkMeeting": "http://www.sessions.senate.gov/public/index.cfm/scheduling-requests",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Sessions",
-    "name": "Jeff Sessions",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Luther_Strange",
+    "name": "Luther Strange",
     "numbersAca": 165600,
     "party": "Republican",
     "photoFilename": "alabama_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jeff_Sessions_official_portrait.jpg/95px-Jeff_Sessions_official_portrait.jpg",
-    "socialFacebook": "http://www.facebook.com/jeffsessions",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/SenStrange.jpg",
+    "socialFacebook": "https://www.facebook.com/lutherstrange",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/senatorsessions",
-    "socialYoutube": "http://www.youtube.com/SenatorSessions",
+    "socialTwitter": "https://twitter.com/senatorstrange?lang=en",
+    "socialTwitter2": "https://twitter.com/lutherstrange",
+    "socialYoutube": "",
     "state": "alabama",
     "stateAbbreviation": "AL",
     "stateDisplay": "Alabama",
     "voteClinton": 34.4,
-    "votePersonal": 100,
+    "votePersonal": 0,
     "voteTrump": 62.1,
-    "yearElected": "1997",
+    "yearElected": "2017",
     "yearReelection": "2020"
   },
   {

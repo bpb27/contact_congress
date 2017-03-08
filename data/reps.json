@@ -2534,8 +2534,7 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-    ],
+    "committees": [],
     "contact": [
       {
         "address": "",
@@ -5405,43 +5404,36 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-      "Budget",
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1211 Longworth HOB, Washington DC 20515",
-        "fax": "202-225-4656",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-225-4501"
-      },
-      {
-        "address": "85-C Mill Street, Suite 300, Roswell, GA 30075",
-        "fax": "770-998-0050",
-        "name": "Roswell Office",
-        "phone": "770-998-0049"
+        "phone": ""
       }
     ],
     "district": "6",
-    "linkContact": "https://tomprice.house.gov/contact-information",
+    "linkContact": "",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Price_(U.S._politician)",
-    "name": "Tom Price",
+    "linkWikipedia": "",
+    "name": "Vacant Seat",
+    "note": "Vacated by Tom Price, election 4/18/17",
     "numbersAca": 40600,
-    "party": "Republican",
+    "party": "NA",
+    "photoFilename": "blank.png",
     "photoUrl": "",
-    "socialFacebook": "https://www.facebook.com/reptomprice",
+    "socialFacebook": "",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/reptomprice",
-    "socialYoutube": "https://www.youtube.com/user/RepTomPrice",
+    "socialTwitter": "",
+    "socialYoutube": "",
     "state": "georgia",
     "stateAbbreviation": "GA-6",
     "stateDisplay": "Georgia",
     "voteClinton": 46.8,
-    "votePersonal": 61.7,
+    "votePersonal": 0,
     "voteTrump": 48.3,
-    "yearElected": "2005",
+    "yearElected": "2017",
     "yearReelection": "2018"
   },
   {
@@ -7690,8 +7682,7 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-    ],
+    "committees": [],
     "contact": [
       {
         "address": "",
@@ -10868,62 +10859,36 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Natural Resources"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1419 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-225-5687",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-225-3211"
-      },
-      {
-        "address": "222 North 32nd Street, Suite 900, Billings, MT 59101",
-        "fax": "406-702-1182",
-        "name": "Billings Office",
-        "phone": "406-969-1736"
-      },
-      {
-        "address": "710 Central Ave, Great Falls, MT 59401",
-        "fax": "406-952-1211",
-        "name": "Great Falls Office",
-        "phone": "406-952-1210"
-      },
-      {
-        "address": "910 N. Last Chance Gulch, Suite B, Helena, MT 59601",
-        "fax": "406-502-1436",
-        "name": "Helena Office",
-        "phone": "406-502-1435"
-      },
-      {
-        "address": "1008 South Avenue, Suite 2, Missoula, MT 59801",
-        "fax": "406-540-4371",
-        "name": "Missoula Office",
-        "phone": "406-540-4370"
+        "phone": ""
       }
     ],
     "district": "1",
-    "linkContact": "https://zinke.house.gov/contact/email",
-    "linkMeeting": "https://zinke.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Ryan_Zinke",
-    "name": "Ryan Zinke",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "",
+    "name": "Vacant Seat",
+    "note": "Vacated by Ryan Zinke, election date not yet determined",
     "numbersAca": 51800,
-    "party": "Republican",
-    "photoFilename": "montana1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ryan_Zinke_official_congressional_photo.jpg/75px-Ryan_Zinke_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanRyanZinke",
+    "party": "NA",
+    "photoFilename": "blank.png",
+    "photoUrl": "",
+    "socialFacebook": "",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepRyanZinke",
-    "socialYoutube": "http://www.youtube.com/channel/UCBKZXK7VNIQWnKsYQt8GWjA",
+    "socialTwitter": "",
+    "socialYoutube": "",
     "state": "montana",
     "stateAbbreviation": "MT-1",
     "stateDisplay": "Montana",
     "voteClinton": 35.9,
-    "votePersonal": 56.2,
+    "votePersonal": 0,
     "voteTrump": 56.5,
-    "yearElected": "2015",
+    "yearElected": "2017",
     "yearReelection": "2018"
   },
   {
@@ -16474,56 +16439,36 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-      "Financial Services",
-      "Small Business"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2419 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-0464",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-225-5501"
-      },
-      {
-        "address": "110 Railroad Avenue, Gaffney, SC 29340",
-        "fax": "864-206-6005",
-        "name": "Gaffney Office",
-        "phone": "864-206-6004"
-      },
-      {
-        "address": "1456 Ebenezer Rd., Rock Hill, SC 29732",
-        "fax": "803-327-4330",
-        "name": "Rock Hill Office",
-        "phone": "803-327-1114"
-      },
-      {
-        "address": "531-A Oxford Drive, Sumter, SC 29150",
-        "fax": "803-774-0188",
-        "name": "Sumter Office",
-        "phone": "803-774-0186"
+        "phone": ""
       }
     ],
     "district": "5",
-    "linkContact": "https://mulvaney.house.gov/contact/email",
-    "linkMeeting": "https://mulvaney.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mick_Mulvaney",
-    "name": "Mick Mulvaney",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "",
+    "name": "Vacant Seat",
+    "note": "Vacated by Mike Mulvaney, election date not yet determined",
     "numbersAca": 26600,
-    "party": "Republican",
-    "photoFilename": "south_carolina5.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mick_Mulvaney%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Mick_Mulvaney%2C_Official_Portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/MulvaneySC5",
+    "party": "NA",
+    "photoFilename": "blank.png",
+    "photoUrl": "",
+    "socialFacebook": "",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepMickMulvaney",
-    "socialYoutube": "http://www.youtube.com/user/RepMickMulvaney",
+    "socialTwitter": "",
+    "socialYoutube": "",
     "state": "south_carolina",
     "stateAbbreviation": "SC-5",
     "stateDisplay": "South Carolina",
     "voteClinton": 38.8,
-    "votePersonal": 59.2,
+    "votePersonal": 0,
     "voteTrump": 57.3,
-    "yearElected": "2011",
+    "yearElected": "2017",
     "yearReelection": "2018"
   },
   {

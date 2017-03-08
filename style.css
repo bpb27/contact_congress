@@ -88,6 +88,10 @@ body {
 	color: #1da1f2;
 }
 
+.social-links .twitter-btn2 .fa-circle{
+	color: #d9534f;
+}
+
 .social-links .facebook-btn .fa-circle{
 	color: #4267b2;
 }
