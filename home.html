@@ -42,7 +42,7 @@
 		</div>
 	</div>
 	<div id="zipwarning" class="col-md-12 col-sm-12 col-xs-12" ng-if="zipMatch && displayed.length > 3">
-		Reps often share zip codes. For more specificity, go to our <a href="/local">local reps page</a>.
+		Reps often share zip codes. For more specificity, go to our <a ng-href="/local/{{queryZip}}/{{zipMatchState}}">local reps page</a>.
 	</div>
 	<ol id="main-list" when-scrolled="more()">
 		<li class="row" ng-repeat="member in displayed">
