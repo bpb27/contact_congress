@@ -36,6 +36,7 @@ app.controller('localCtrl', ['$scope', '$http', '$routeParams', function ($scope
     $scope.queryCity = '';
     $scope.queryZip = '';
     $scope.status = 'neutral';
+    $scope.statusText = 'Check';
     $scope.titles = [];
     $scope.titleShowing = '';
 
@@ -96,6 +97,7 @@ app.controller('localCtrl', ['$scope', '$http', '$routeParams', function ($scope
     };
 
     $scope.check = function () {
+        $scope.statusText = 'Checking';
         var base = 'https://contactingcongress.herokuapp.com/localRep/';
         var state = $scope.state.availableOptions.filter(function (item) {
             return item.id === $scope.state.model;
@@ -103,11 +105,13 @@ app.controller('localCtrl', ['$scope', '$http', '$routeParams', function ($scope
         var param = base + encodeURI([$scope.queryStreet, $scope.queryCity, state, $scope.queryZip].join(' '));
         $http.get(param).then(function (results) {
             $scope.status = 'success';
+            $scope.statusText = 'Check';
             $scope.all = parseData(results.data);
             $scope.displayed = $scope.all.slice(0);
             $scope.titles = gatherTitles($scope.displayed);
         }, function (error) {
             $scope.status = 'failure';
+            $scope.statusText = 'Check';
         });
     }
 

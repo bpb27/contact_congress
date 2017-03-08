@@ -16,7 +16,7 @@
     </div>
     <div class="col-md-2 input-group-lg">
       <button ng-class="['btn', 'form-control', status]" ng-click="check()">
-        Check <span ng-if="status == 'success'">✓</span><span ng-if="status == 'failure'">X</span>
+        {{statusText}} <span ng-if="status == 'success'">✓</span><span ng-if="status == 'failure'">X</span>
       </button>
     </div>
   </div>
