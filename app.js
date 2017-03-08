@@ -8,6 +8,9 @@ app.config(function ($routeProvider, $locationProvider) {
         .when("/about", {
             templateUrl: "about.html"
         })
+        .when("/local", {
+            templateUrl: "local.html"
+        })
         .when("/:zip", {
             templateUrl: "home.html"
         })
@@ -21,6 +24,166 @@ app.config(function ($routeProvider, $locationProvider) {
     $locationProvider.html5Mode(true).hashPrefix('!');
 
 });
+
+app.controller('localCtrl', ['$scope', '$http', function ($scope, $http) {
+
+    $scope.all = [];
+    $scope.displayed = [];
+    $scope.queryStreet = '';
+    $scope.queryCity = '';
+    $scope.queryZip = '';
+    $scope.status = 'neutral';
+    $scope.titles = [];
+    $scope.titleShowing = '';
+
+    $scope.check = function () {
+        var base = 'https://contactingcongress.herokuapp.com/localRep/';
+        var state = $scope.state.availableOptions.filter(function (item) {
+            return item.id === $scope.state.model;
+        })[0].name;
+        var param = base + encodeURI([$scope.queryStreet, $scope.queryCity, state, $scope.queryZip].join(' '));
+        $http.get(param).then(function (results) {
+            $scope.status = 'success';
+            $scope.all = parseData(results.data);
+            $scope.displayed = $scope.all.slice(0);
+            $scope.titles = gatherTitles($scope.displayed);
+        }, function (error) {
+            $scope.status = 'failure';
+        });
+    }
+
+    $scope.showOnly = function (title) {
+        if ($scope.titleShowing === title) {
+            $scope.titleShowing = '';
+            $scope.displayed = $scope.all.slice(0);
+        } else {
+            $scope.displayed = $scope.all.filter(function (item) {
+                return item.title === title;
+            });
+            $scope.titleShowing = title;
+        }
+    }
+
+    function parseData(data) {
+        var transformed = data.offices.map(function (item) {
+            try {
+                var official = data.officials[item['officialIndices'][0]];
+                var props = Object.keys(official);
+                item['title'] = item['name'];
+                props.forEach(function (prop) {
+                    item[prop] = official[prop];
+                });
+                return item;
+            } catch (e) {
+                console.log(e, item);
+            }
+        }).filter(function (item) {
+            if (item) {
+                var excluded = [
+                  'United States Senate',
+                  'President of the United States',
+                  'Vice-President of the United States'
+                ];
+                if (excluded.indexOf(item.title) === -1) {
+                    return item;
+                }
+            }
+        }).map(function (item) {
+            if (item.channels && item.channels.length) {
+                item['socialFacebook'] = findSocial(item.channels, 'Facebook');
+                item['socialInstagram'] = findSocial(item.channels, 'Instagram');
+                item['socialTwitter'] = findSocial(item.channels, 'Twitter');
+                item['socialYoutube'] = findSocial(item.channels, 'YouTube');
+            }
+            if (item.address && item.address.length) {
+                var o = item.address[0];
+                if (o.line2) {
+                    item.address = o.line1.replace(',', '') + ', ' + o.line2 + ', ' + o.city + ', ' + o.state + ' ' + o.zip;
+                } else {
+                    item.address = o.line1.replace(',', '') + ', ' + o.city + ', ' + o.state + ' ' + o.zip;
+                }
+            }
+            if (item.phones && item.phones.length) {
+                var phone = item.phones[0];
+                item['phone'] = phone.replace(')', '').replace('(', '').replace(' ', '-');
+            }
+            return item;
+        })
+        console.log(transformed);
+        return transformed;
+    }
+
+    function findSocial(list, target) {
+        var result = list.filter(function (item) {
+            return item.type.toLowerCase() === target.toLowerCase();
+        })[0];
+        return result ? result.id : '';
+    }
+
+    function gatherTitles(list) {
+        return list.filter(function (item) {
+            return item.title;
+        }).map(function (item) {
+            return { 'name': item.title };
+        });
+    }
+
+    $scope.state = {
+        model: "5",
+        availableOptions: [
+            { id: "1", name: "AL" },
+            { id: "2", name: "AK" },
+            { id: "3", name: "AZ" },
+            { id: "4", name: "AR" },
+            { id: "5", name: "CA" },
+            { id: "6", name: "CO" },
+            { id: "7", name: "CT" },
+            { id: "8", name: "DE" },
+            { id: "9", name: "FL" },
+            { id: "10", name: "GA" },
+            { id: "11", name: "HI" },
+            { id: "12", name: "ID" },
+            { id: "13", name: "IL" },
+            { id: "14", name: "IN" },
+            { id: "15", name: "IA" },
+            { id: "16", name: "KS" },
+            { id: "17", name: "KY" },
+            { id: "18", name: "LA" },
+            { id: "19", name: "ME" },
+            { id: "20", name: "MD" },
+            { id: "21", name: "MA" },
+            { id: "22", name: "MI" },
+            { id: "23", name: "MN" },
+            { id: "24", name: "MS" },
+            { id: "25", name: "MO" },
+            { id: "26", name: "MT" },
+            { id: "27", name: "NE" },
+            { id: "28", name: "NV" },
+            { id: "29", name: "NH" },
+            { id: "30", name: "NJ" },
+            { id: "31", name: "NM" },
+            { id: "32", name: "NY" },
+            { id: "33", name: "NC" },
+            { id: "34", name: "ND" },
+            { id: "35", name: "OH" },
+            { id: "36", name: "OK" },
+            { id: "37", name: "OR" },
+            { id: "38", name: "PA" },
+            { id: "39", name: "RI" },
+            { id: "40", name: "SC" },
+            { id: "41", name: "SD" },
+            { id: "42", name: "TN" },
+            { id: "43", name: "TX" },
+            { id: "44", name: "UT" },
+            { id: "45", name: "VT" },
+            { id: "46", name: "VA" },
+            { id: "47", name: "WA" },
+            { id: "48", name: "WV" },
+            { id: "49", name: "WI" },
+            { id: "50", name: "WY" }
+        ]
+    };
+}]);
 
 app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', function ($scope, $http, $routeParams, $window) {
 

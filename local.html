@@ -1,0 +1,65 @@
+<div id="local" class="container" ng-controller="localCtrl">
+  <div id="searchbars" class="col-md-12">
+    <div class="col-md-3 input-group-lg">
+      <input type="text" class="form-control" placeholder="123 Main St." ng-model="queryStreet" />
+    </div>
+    <div class="col-md-3 input-group-lg">
+      <input type="text" class="form-control" placeholder="Los Angeles" ng-model="queryCity" />
+    </div>
+    <div class="col-md-2 input-group-lg">
+      <select ng-model="state.model" class="form-control">
+        <option ng-repeat="option in state.availableOptions" value="{{option.id}}">{{option.name}}</option>
+      </select>
+    </div>
+    <div class="col-md-2 input-group-lg">
+      <input type="text" class="form-control" placeholder="90210" ng-model="queryZip" />
+    </div>
+    <div class="col-md-2 input-group-lg">
+      <button ng-class="['btn', 'form-control', status]" ng-click="check()">
+        Check <span ng-if="status == 'success'">✓</span><span ng-if="status == 'failure'">X</span>
+      </button>
+    </div>
+  </div>
+  <div class="col-md-8 col-xs-12">
+    <div ng-repeat="member in displayed" class="row local-member" ng-class-odd="'odd-local-member'">
+      <div class="local-info">
+        <div><b>{{member.title}}:</b> {{member.name}}</div>
+        <div ng-if="member.party"><b>Party:</b> {{member.party}}</div>
+        <div ng-if="member.phone"><b>Phone:</b> <a ng-href="tel:{{member.phone}}">{{member.phone}}</a></div>
+        <div ng-if="member.address"><b>Address:</b> {{member.address}}</div>
+      </div>
+      <div class="social-links">
+        <span ng-if="member.socialTwitter" class="fa-stack fa-lg twitter-btn">
+          <a ng-href="https://twitter.com/{{member.socialTwitter}}" target="_blank">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+          </a>
+        </span>
+        <span ng-if="member.socialFacebook" class="fa-stack fa-lg facebook-btn">
+          <a ng-href="https://www.facebook.com/{{member.socialFacebook}}" target="_blank">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+          </a>
+        </span>
+        <span ng-if="member.socialInstagram" class="fa-stack fa-lg instagram-btn">
+          <a ng-href="https://www.instagram.com/{{member.socialInstagram}}" target="_blank">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+          </a>
+        </span>
+        <span ng-if="member.socialYoutube" class="fa-stack fa-lg youtube-btn">
+          <a ng-href="https://www.youtube.com/{{member.socialYoutube}}" target="_blank">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div id="titles" class="col-md-4 col-xs-0">
+    <div ng-repeat="title in titles" class="row pointer" ng-click="showOnly(title.name)">
+      <span ng-if="titleShowing == title.name"><b>{{title.name}}</b></span>
+      <span ng-if="titleShowing != title.name">{{title.name}}</span>
+    </div>
+  </div>
+</div>

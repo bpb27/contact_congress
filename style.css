@@ -4,17 +4,6 @@ body {
 	background: #fcfcff;
 }
 
-ol {
-	height: 96vh;
-	overflow-y: auto;
-	overflow-x: hidden;
-}
-
-ol li {
-	 list-style: none;
-	 margin-bottom: 30px;
-}
-
 .pointer {
 	cursor: pointer;
 }
@@ -62,6 +51,17 @@ ol li {
 #zipwarning {
 	text-align: center;
 	padding: 20px 0;
+}
+
+#main-list {
+	height: 96vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+#main-list li {
+	 list-style: none;
+	 margin-bottom: 30px;
 }
 
 .row img {
@@ -133,6 +133,15 @@ ol li {
   background: #efefef;
 }
 
+@media only screen and (max-width: 1000px) {
+
+	#local #titles.col-xs-0 {
+		border-left: none;
+		display: none;
+	}
+
+}
+
 @media only screen and (max-width: 930px) {
 
 	.navbar-header .navbar-text {
@@ -180,13 +189,25 @@ ol li {
 			height: 30px;
 		}
 
-		.social-links {
+		#main-list .social-links {
 			padding-top: 10px;
 			text-align: center;
 		}
 
 		.social-links span.fa-stack.fa-lg {
 			font-size: 20px
+		}
+
+		#local #searchbars input.form-control, #local #searchbars select.form-control {
+			height: 34px;
+		}
+
+		#local .local-member {
+			font-size: 1em;
+		}
+
+		#local .row.local-member .local-info {
+			width: 86%;
 		}
 }
 
@@ -206,6 +227,76 @@ ol li {
 
 #about .about-question {
 	margin-top: 20px;
+}
+
+#local {
+	padding-top: 20px;
+}
+
+#local #searchbars {
+	margin-bottom: 30px;
+}
+
+#local button.neutral {
+	color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+#local button.success {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+}
+
+#local button.failure {
+	color: #fff;
+	background-color: #d9534f;
+	border-color: #d43f3a;
+}
+
+#local button span {
+	padding-left: 5px;
+}
+
+#local .social-links span.fa-stack.fa-lg {
+	font-size: 16px;
+	margin-right: 10px;
+}
+
+.local-member {
+	font-size: 1.2em;
+	padding: 10px;
+}
+
+.local-member.odd-local-member {
+  background: #f1f1f1;
+}
+
+#local .local-info {
+	display: inline-block;
+	width: 90%;
+	z-index: 10;
+}
+
+#local .social-links {
+	display: inline-block;
+	width: 30px;
+	vertical-align: top;
+	z-index: 10;
+}
+
+#titles {
+	border-left: 1px solid;
+}
+
+#titles .row {
+	padding-left: 5px;
+}
+
+#titles .row:hover {
+  color: #4267b2;
+  text-decoration: underline;
 }
 
 .row.ng-move,
