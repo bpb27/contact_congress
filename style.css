@@ -202,7 +202,7 @@ body {
 			padding: 5px 0;
 		}
 
-		#local #searchbars input.form-control, #local #searchbars select.form-control {
+		#local #searchbars input.form-control {
 			height: 34px;
 		}
 
