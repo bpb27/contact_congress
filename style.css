@@ -35,6 +35,10 @@ body {
 	color: #ff6060;
 }
 
+form .btn {
+	background: #4267b2;
+}
+
 .select-boxes {
 	margin: 10px 0 30px 0;
 }
@@ -146,7 +150,7 @@ body {
 
 }
 
-@media only screen and (max-width: 930px) {
+@media only screen and (max-width: 960px) {
 
 	.navbar-header .navbar-text {
 		display: none;
