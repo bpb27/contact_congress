@@ -113,7 +113,7 @@ app.controller('localCtrl', ['$scope', '$http', '$routeParams', function ($scope
 
     $scope.findState = function (abbr) {
         return $scope.state.availableOptions.filter(function (item) {
-            return item.name = abbr;
+            return item.name === abbr;
         })[0];
     }
 
