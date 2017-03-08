@@ -57,7 +57,7 @@
     </div>
   </div>
   <div id="titles" class="col-md-4 col-xs-0">
-    <div ng-repeat="title in titles" class="row pointer" ng-click="showOnly(title.name)">
+    <div ng-repeat="title in titles | orderBy : 'name'" class="row pointer" ng-click="showOnly(title.name)">
       <span ng-if="titleShowing == title.name"><b>{{title.name}}</b></span>
       <span ng-if="titleShowing != title.name">{{title.name}}</span>
     </div>
