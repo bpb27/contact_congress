@@ -198,6 +198,10 @@ body {
 			font-size: 20px
 		}
 
+		#zipwarning {
+			padding: 5px 0;
+		}
+
 		#local #searchbars input.form-control, #local #searchbars select.form-control {
 			height: 34px;
 		}
