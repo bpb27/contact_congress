@@ -225,6 +225,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
     $scope.reps = [];
     $scope.sens - [];
     $scope.showOffices = true;
+    $scope.sortAsc = true;
     $scope.zips = [];
     $scope.zipMatch = false;
     $scope.zipMatchState = '';
@@ -305,24 +306,15 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
     $scope.sorting = {
         model: "1",
         availableOptions: [
-            { id: "1", name: "Order: State (asc)" },
-            { id: "2", name: "Order: State (desc)" },
-            { id: "3", name: "Order: First name (asc)" },
-            { id: "4", name: "Order: First name (desc)" },
-            { id: "5", name: "Order: Last name (asc)" },
-            { id: "6", name: "Order: Last name (desc)" },
-            { id: "7", name: "Order: Year first elected (asc)" },
-            { id: "8", name: "Order: Year first elected (desc)" },
-            { id: "9", name: "Order: Reelection year (asc)" },
-            { id: "10", name: "Order: Reelection year (desc)" },
-            { id: "11", name: "Order: Elected by % (asc)" },
-            { id: "12", name: "Order: Elected by % (desc)" },
-            { id: "13", name: "Order: Trump vote % (asc)" },
-            { id: "14", name: "Order: Trump vote % (desc)" },
-            { id: "15", name: "Order: Clinton vote % (asc)" },
-            { id: "16", name: "Order: Clinton vote % (desc)" },
-            { id: "17", name: "Order: ACA enrollees % (asc)" },
-            { id: "18", name: "Order: ACA enrollees % (desc)" }
+            { id: "1", name: "Order by State" },
+            { id: "2", name: "Order by First name" },
+            { id: "3", name: "Order by Last name" },
+            { id: "4", name: "Order by Year first elected" },
+            { id: "5", name: "Order by Reelection year" },
+            { id: "6", name: "Order by Elected by %" },
+            { id: "7", name: "Order by Trump vote %" },
+            { id: "8", name: "Order by Clinton vote %" },
+            { id: "9", name: "Order by ACA enrollees" },
         ]
     };
 
@@ -455,77 +447,11 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
         }
 
         var sortId = $scope.sorting.model;
-        var reverse = $scope.sorting.availableOptions.filter(function (item) {
-            return item.id === sortId;
-        })[0].name.indexOf('desc') !== -1;
+        var sortedMatches = $scope.matches.sort(function (a, b) {
+            return sortingRules(sortId, a, b);
+        });
 
-        if (sortId !== "1" && sortId !== "2") {
-            var sortId = $scope.sorting.model;
-            var sortedMatches = $scope.matches.sort(function (a, b) {
-                if (sortId === "3" || sortId === "4") {
-                    if (a.name.split(' ')[0].toLowerCase().trim() < b.name.split(' ')[0].toLowerCase().trim()) {
-                        return -1;
-                    } else if (a.name.split(' ')[0].toLowerCase().trim() > b.name.split(' ')[0].toLowerCase().trim()) {
-                        return 1;
-                    } else {
-                        return 0;
-                    }
-                }
-                if (sortId === "5" || sortId === "6") {
-                    if (lastName(a.name) < lastName(b.name)) {
-                        return -1;
-                    } else if (lastName(a.name) > lastName(b.name)) {
-                        return 1;
-                    } else {
-                        return 0;
-                    }
-                }
-                if (sortId === "7" || sortId === "8") {
-                    if (parseInt(a.yearElected.replace('*', '')) < parseInt(b.yearElected.replace('*', ''))) {
-                        return -1;
-                    } else if (parseInt(a.yearElected.replace('*', '')) > parseInt(b.yearElected.replace('*', ''))) {
-                        return 1;
-                    } else {
-                        return 0
-                    }
-                }
-                if (sortId === "9" || sortId === "10") {
-                    if (parseInt(a.yearReelection.replace('*', '')) < parseInt(b.yearReelection.replace('*', ''))) {
-                        return -1;
-                    } else if (parseInt(a.yearReelection.replace('*', '')) > parseInt(b.yearReelection.replace('*', ''))) {
-                        return 1;
-                    } else {
-                        return 0;
-                    }
-                }
-                if (["11", "12", "13", "14", "15", "16", "17", "18"].indexOf(sortId) !== -1) {
-                    var prop = 'votePersonal';
-
-                    if (sortId === '13' || sortId === '14') {
-                        prop = 'voteTrump';
-                    }
-                    if (sortId === '15' || sortId === '16') {
-                        prop = 'voteClinton';
-                    }
-                    if (sortId === '17' || sortId === '18') {
-                        prop = 'numbersAca';
-                    }
-
-                    if (parseInt(a[prop]) < parseInt(b[prop])) {
-                        return -1;
-                    } else if (parseInt(a[prop]) > parseInt(b[prop])) {
-                        return 1;
-                    } else {
-                        return 0;
-                    }
-                }
-            });
-
-            $scope.displayed = reverse ? sortedMatches.reverse().slice(0, $scope.increment) : sortedMatches.slice(0, $scope.increment);
-
-        } else {
-            $scope.displayed = reverse ? $scope.matches.reverse().slice(0, $scope.increment) : $scope.matches.slice(0, $scope.increment);
-        }
+        $scope.displayed = !$scope.sortAsc ? sortedMatches.reverse().slice(0, $scope.increment) : sortedMatches.slice(0, $scope.increment);
 
     }
 
@@ -537,7 +463,8 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
       'parties.model',
       'houseCommittees.model',
       'senateCommittees.model',
-      'sorting.model'
+      'sorting.model',
+      'sortAsc'
     ], function () {
         $scope.update();
     });
@@ -627,6 +554,75 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
             });
         }
         return [str];
+    }
+
+    function sortingRules(sortId, a, b) {
+        if (sortId === "1") {
+            if (a.stateDisplay.toLowerCase() < b.stateDisplay.toLowerCase()) {
+                return -1;
+            } else if (a.stateDisplay.toLowerCase() > b.stateDisplay.toLowerCase()) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+        if (sortId === "2") {
+            if (a.name.split(' ')[0].toLowerCase().trim() < b.name.split(' ')[0].toLowerCase().trim()) {
+                return -1;
+            } else if (a.name.split(' ')[0].toLowerCase().trim() > b.name.split(' ')[0].toLowerCase().trim()) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+        if (sortId === "3") {
+            if (lastName(a.name) < lastName(b.name)) {
+                return -1;
+            } else if (lastName(a.name) > lastName(b.name)) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+        if (sortId === "4") {
+            if (parseInt(a.yearElected.replace('*', '')) < parseInt(b.yearElected.replace('*', ''))) {
+                return -1;
+            } else if (parseInt(a.yearElected.replace('*', '')) > parseInt(b.yearElected.replace('*', ''))) {
+                return 1;
+            } else {
+                return 0
+            }
+        }
+        if (sortId === "5") {
+            if (parseInt(a.yearReelection.replace('*', '')) < parseInt(b.yearReelection.replace('*', ''))) {
+                return -1;
+            } else if (parseInt(a.yearReelection.replace('*', '')) > parseInt(b.yearReelection.replace('*', ''))) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+        if (["6", "7", "8", "9"].indexOf(sortId) !== -1) {
+            var prop = 'votePersonal';
+
+            if (sortId === '7') {
+                prop = 'voteTrump';
+            }
+            if (sortId === '8') {
+                prop = 'voteClinton';
+            }
+            if (sortId === '9') {
+                prop = 'numbersAca';
+            }
+
+            if (parseInt(a[prop]) < parseInt(b[prop])) {
+                return -1;
+            } else if (parseInt(a[prop]) > parseInt(b[prop])) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
     }
 
 }]);

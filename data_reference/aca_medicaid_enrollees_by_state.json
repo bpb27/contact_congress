@@ -1,0 +1,257 @@
+[
+ {
+   "state": "Alabama",
+   "total_medicaid_enrollment": "1047100",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Alaska",
+   "total_medicaid_enrollment": "137800",
+   "medicaid_enrollment_due_to_aca": "14400"
+ },
+ {
+   "state": "Arizona",
+   "total_medicaid_enrollment": "1884600",
+   "medicaid_enrollment_due_to_aca": "418400"
+ },
+ {
+   "state": "Arkansas",
+   "total_medicaid_enrollment": "767000",
+   "medicaid_enrollment_due_to_aca": "303900"
+ },
+ {
+   "state": "California",
+   "total_medicaid_enrollment": "13107000",
+   "medicaid_enrollment_due_to_aca": "3541700"
+ },
+ {
+   "state": "Colorado",
+   "total_medicaid_enrollment": "1321700",
+   "medicaid_enrollment_due_to_aca": "425500"
+ },
+ {
+   "state": "Connecticut",
+   "total_medicaid_enrollment": "856100",
+   "medicaid_enrollment_due_to_aca": "207600"
+ },
+ {
+   "state": "Delaware",
+   "total_medicaid_enrollment": "221800",
+   "medicaid_enrollment_due_to_aca": "67900"
+ },
+ {
+   "state": "District of Columbia",
+   "total_medicaid_enrollment": "236500",
+   "medicaid_enrollment_due_to_aca": "62600"
+ },
+ {
+   "state": "Florida",
+   "total_medicaid_enrollment": "4031300",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Georgia",
+   "total_medicaid_enrollment": "1889500",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Hawaii",
+   "total_medicaid_enrollment": "319300",
+   "medicaid_enrollment_due_to_aca": "110000"
+ },
+ {
+   "state": "Idaho",
+   "total_medicaid_enrollment": "305300",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Illinois",
+   "total_medicaid_enrollment": "2925100",
+   "medicaid_enrollment_due_to_aca": "681000"
+ },
+ {
+   "state": "Indiana",
+   "total_medicaid_enrollment": "1280300",
+   "medicaid_enrollment_due_to_aca": "381600"
+ },
+ {
+   "state": "Iowa",
+   "total_medicaid_enrollment": "591400",
+   "medicaid_enrollment_due_to_aca": "149300"
+ },
+ {
+   "state": "Kansas",
+   "total_medicaid_enrollment": "384900",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Kentucky",
+   "total_medicaid_enrollment": "1281500",
+   "medicaid_enrollment_due_to_aca": "443300"
+ },
+ {
+   "state": "Louisiana",
+   "total_medicaid_enrollment": "1466200",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Maine",
+   "total_medicaid_enrollment": "272100",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Maryland",
+   "total_medicaid_enrollment": "1103700",
+   "medicaid_enrollment_due_to_aca": "248200"
+ },
+ {
+   "state": "Massachusetts",
+   "total_medicaid_enrollment": "1845500",
+   "medicaid_enrollment_due_to_aca": "398300"
+ },
+ {
+   "state": "Michigan",
+   "total_medicaid_enrollment": "2321200",
+   "medicaid_enrollment_due_to_aca": "637200"
+ },
+ {
+   "state": "Minnesota",
+   "total_medicaid_enrollment": "1246000",
+   "medicaid_enrollment_due_to_aca": "222900"
+ },
+ {
+   "state": "Mississippi",
+   "total_medicaid_enrollment": "729700",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Missouri",
+   "total_medicaid_enrollment": "969200",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Montana",
+   "total_medicaid_enrollment": "201300",
+   "medicaid_enrollment_due_to_aca": "46700"
+ },
+ {
+   "state": "Nebraska",
+   "total_medicaid_enrollment": "237000",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Nevada",
+   "total_medicaid_enrollment": "592400",
+   "medicaid_enrollment_due_to_aca": "203900"
+ },
+ {
+   "state": "New Hampshire",
+   "total_medicaid_enrollment": "192100",
+   "medicaid_enrollment_due_to_aca": "52900"
+ },
+ {
+   "state": "New Jersey",
+   "total_medicaid_enrollment": "1682200",
+   "medicaid_enrollment_due_to_aca": "552400"
+ },
+ {
+   "state": "New Mexico",
+   "total_medicaid_enrollment": "855800",
+   "medicaid_enrollment_due_to_aca": "243100"
+ },
+ {
+   "state": "New York",
+   "total_medicaid_enrollment": "4961100",
+   "medicaid_enrollment_due_to_aca": "2161100"
+ },
+ {
+   "state": "North Carolina",
+   "total_medicaid_enrollment": "1986400",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "North Dakota",
+   "total_medicaid_enrollment": "0",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Ohio",
+   "total_medicaid_enrollment": "2983000",
+   "medicaid_enrollment_due_to_aca": "682900"
+ },
+ {
+   "state": "Oklahoma",
+   "total_medicaid_enrollment": "669200",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Oregon",
+   "total_medicaid_enrollment": "1102100",
+   "medicaid_enrollment_due_to_aca": "550600"
+ },
+ {
+   "state": "Pennsylvania",
+   "total_medicaid_enrollment": "2747700",
+   "medicaid_enrollment_due_to_aca": "702800"
+ },
+ {
+   "state": "Rhode Island",
+   "total_medicaid_enrollment": "281600",
+   "medicaid_enrollment_due_to_aca": "60500"
+ },
+ {
+   "state": "South Carolina",
+   "total_medicaid_enrollment": "1128600",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "South Dakota",
+   "total_medicaid_enrollment": "109100",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Tennessee",
+   "total_medicaid_enrollment": "1690000",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Texas",
+   "total_medicaid_enrollment": "4327900",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Utah",
+   "total_medicaid_enrollment": "334900",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Vermont",
+   "total_medicaid_enrollment": "209500",
+   "medicaid_enrollment_due_to_aca": "63300"
+ },
+ {
+   "state": "Virginia",
+   "total_medicaid_enrollment": "992800",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Washington",
+   "total_medicaid_enrollment": "1818300",
+   "medicaid_enrollment_due_to_aca": "594900"
+ },
+ {
+   "state": "West Virginia",
+   "total_medicaid_enrollment": "510200",
+   "medicaid_enrollment_due_to_aca": "180500"
+ },
+ {
+   "state": "Wisconsin",
+   "total_medicaid_enrollment": "1201800",
+   "medicaid_enrollment_due_to_aca": "0"
+ },
+ {
+   "state": "Wyoming",
+   "total_medicaid_enrollment": "64400",
+   "medicaid_enrollment_due_to_aca": "0"
+ }
+]

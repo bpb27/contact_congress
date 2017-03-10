@@ -29,10 +29,14 @@
 				<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
-		<div class="col-md-2 col-xs-12">
+		<div class="col-md-2 col-xs-12" id="sorting-options">
 			<select ng-model="sorting.model" class="form-control">
 				<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
+			<button class="btn form-control" ng-click="sortAsc = !sortAsc">
+				<span ng-if="sortAsc">↑</span>
+				<span ng-if="!sortAsc">↓</span>
+			</button>
 		</div>
 		<div class="col-md-2 col-xs-12">
 			<button class="btn btn-danger form-control" ng-click="toggleShowOffices()">
@@ -77,7 +81,9 @@
 					<a ng-if="member.district" target="_blank" href="http://bit.ly/1sswyzE">{{member.voteClinton}}%</a>
 					<a ng-if="!member.district" target="_blank" href="http://bit.ly/1UGaHnQ">{{member.voteClinton}}%</a>
 				<span><br>
-				<span><b>ACA enrollees: </b><a href="http://kaiserf.am/2iawIAw" target="_blank">{{member.numbersAca | number}}</a></span><br>
+				<span><b>ACA Marketplace enrollees: </b><a href="http://kaiserf.am/2iawIAw" target="_blank">{{member.numbersAca | number}}</a></span><br>
+				<span ng-if="!member.district"><b>ACA Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaidAca | number}}</a></span><br ng-if="!member.district">
+				<span ng-if="!member.district"><b>Total Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaid | number}}</a></span><br ng-if="!member.district">
 				<span ng-if="!member.note"><b>First elected:</b> {{member.elected}}</span><br ng-if="!member.note">
 				<span ng-if="member.note"><b>Note:</b> {{member.note}}</span><br ng-if="member.note">
 				<span><b>Reelection:</b> {{member.reelection}}</span>
