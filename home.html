@@ -83,6 +83,7 @@
 				<span><br>
 				<span><b>ACA Marketplace enrollees: </b><a href="http://kaiserf.am/2iawIAw" target="_blank">{{member.numbersAca | number}}</a></span><br>
 				<span ng-if="!member.district"><b>ACA Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaidAca | number}}</a></span><br ng-if="!member.district">
+				<span ng-if="member.district"><b>ACA Medicaid enrollees: </b><a href="http://bit.ly/2mdPVPV" target="_blank">{{member.numbersMedicaidAca || 0 | number}}</a></span><br ng-if="member.district">
 				<span ng-if="!member.district"><b>Total Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaid | number}}</a></span><br ng-if="!member.district">
 				<span ng-if="!member.note"><b>First elected:</b> {{member.elected}}</span><br ng-if="!member.note">
 				<span ng-if="member.note"><b>Note:</b> {{member.note}}</span><br ng-if="member.note">
