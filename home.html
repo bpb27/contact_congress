@@ -3,33 +3,50 @@
 		<a ng-click="generateLink()" title="link to this search" class="pointer">{{matches.length}} member<span ng-if="matches.length != 1">s</span></a>
 		<span class="sh">of Congress</span>
 	</div>
-	<div id="searchbars" class="col-md-12 col-xs-6">
-		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" /></div>
-		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="state" ng-model="queryState" /></div>
-		<div class="col-md-4 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
+	<div id="searchbars" class="col-md-12 col-xs-12">
+		<div class="col-md-4 col-sm-4 col-xs-6 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" /></div>
+		<div class="col-md-4 col-sm-4 col-xs-6 input-group-lg"><input type="text" class="form-control" placeholder="state" ng-model="queryState" /></div>
+		<div class="col-md-4 col-sm-4 col-xs-12 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
 	</div>
-	<div class="col-md-12 col-xs-6 select-boxes">
-		<div class="col-md-2 col-xs-12">
+	<div id="select-boxes" class="col-md-12 col-xs-12">
+		<div class="col-md-2 col-sm-3 col-xs-12">
+			<div class="dropdown">
+			  <button class="btn btn-primary dropdown-toggle form-control glow" type="button" data-toggle="dropdown">More data
+			  <span class="caret"></span></button>
+			  <ul class="dropdown-menu">
+					<li>
+						<input type="checkbox" class="pointer" ng-model="dataCommittees">Committees
+					</li>
+					<li class="sh">
+						<input type="checkbox" class="pointer" ng-model="dataAca">Obamacare Data
+					</li>
+					<li>
+						<input type="checkbox" class="pointer" ng-model="dataOffices">Offices
+					</li>
+			  </ul>
+			</div>
+		</div>
+		<div class="col-md-2 col-sm-3 col-xs-0">
 			<select ng-model="chambers.model" class="form-control">
 				<option ng-repeat="option in chambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
-		<div class="col-md-2 col-xs-12">
+		<div class="col-md-2 col-sm-3 col-xs-0">
 			<select ng-model="parties.model" class="form-control">
 				<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
-		<div class="col-md-2 col-xs-12">
+		<div class="col-md-2 col-sm-0 col-xs-0">
 			<select ng-model="houseCommittees.model" class="form-control">
 				<option ng-repeat="option in houseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
-		<div class="col-md-2 col-xs-12">
+		<div class="col-md-2 col-sm-0 col-xs-0">
 			<select ng-model="senateCommittees.model" class="form-control">
 				<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
-		<div class="col-md-2 col-xs-12" id="sorting-options">
+		<div class="col-md-2 col-sm-3 col-xs-0" id="sorting-options">
 			<select ng-model="sorting.model" class="form-control">
 				<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
@@ -38,18 +55,12 @@
 				<span ng-if="!sortAsc">↓</span>
 			</button>
 		</div>
-		<div class="col-md-2 col-xs-12">
-			<button class="btn btn-danger form-control" ng-click="toggleShowOffices()">
-				<span ng-if="showOffices">Hide offices & comms</span>
-				<span ng-if="!showOffices">Show offices & comms</span>
-			</button>
-		</div>
 	</div>
 	<div id="zipwarning" class="col-md-12 col-sm-12 col-xs-12" ng-if="zipMatch && displayed.length > 3">
 		<span class="sh">Reps often share zip codes. </span>For more specificity, go to our <a ng-href="/local/{{queryZip}}/{{zipMatchState}}">local reps page</a>.
 	</div>
-	<ol id="main-list" when-scrolled="more()">
-		<li class="row" ng-repeat="member in displayed">
+	<div id="main-list" class="col-md-12" when-scrolled="more()">
+		<div class="row member" ng-repeat="member in displayed">
 			<div class="col-md-1 col-sm-2 col-xs-3">
 				<img ng-src="./images/{{member.photoFilename}}" />
 			</div>
@@ -59,9 +70,9 @@
 				<span><b>State: </b>{{member.stateDisplay}}</span><br>
 				<span ng-if="member.district"><b>District: </b>{{member.district}}</span><br ng-if="member.district">
 				<span><b>Party: </b>{{member.party}}</span><br>
-				<span><b>Phone: </b><a href="tel:{{member.contact[0].phone}}">{{member.contact[0].phone}}</a></span><br>
+				<span ng-if="member.contact.length"><b>Phone: </b><a href="tel:{{member.contact[0].phone}}">{{member.contact[0].phone}}</a></span>
 			</div>
-			<div class="col-md-3 col-sm-3 col-xs-12">
+			<div class="col-md-3 col-sm-3 col-xs-0">
 				<span>
 					<b>Last election:</b>
 					<a ng-if="member.district" target="_blank" href="http://bit.ly/2lHWni3">{{member.votePersonal}}%</a>
@@ -77,15 +88,17 @@
 					<a ng-if="member.district" target="_blank" href="http://bit.ly/1sswyzE">{{member.voteClinton}}%</a>
 					<a ng-if="!member.district" target="_blank" href="http://bit.ly/1UGaHnQ">{{member.voteClinton}}%</a>
 				<span><br>
-				<!-- <span><b>ACA Marketplace enrollees: </b><a href="http://kaiserf.am/2iawIAw" target="_blank">{{member.numbersAca | number}}</a></span><br>
-				<span ng-if="!member.district"><b>ACA Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaidAca | number}}</a></span><br ng-if="!member.district">
-				<span ng-if="member.district"><b>ACA Medicaid enrollees: </b><a href="http://bit.ly/2mdPVPV" target="_blank">{{member.numbersMedicaidAca || 0 | number}}</a></span><br ng-if="member.district">
-				<span ng-if="!member.district"><b>Total Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaid | number}}</a></span><br ng-if="!member.district"> -->
+				<span ng-if="dataAca">
+					<span><b>ACA Marketplace enrollees: </b><a href="http://kaiserf.am/2iawIAw" target="_blank">{{member.numbersAca | number}}</a></span><br>
+					<span ng-if="!member.district"><b>ACA Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaidAca | number}}</a></span><br ng-if="!member.district">
+					<span ng-if="member.district"><b>ACA Medicaid enrollees: </b><a href="http://bit.ly/2mdPVPV" target="_blank">{{member.numbersMedicaidAca || 0 | number}}</a></span><br ng-if="member.district">
+					<span ng-if="!member.district"><b>Total Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaid | number}}</a></span><br ng-if="!member.district">
+				</span>
 				<span ng-if="!member.note"><b>First elected:</b> {{member.elected}}</span><br ng-if="!member.note">
 				<span ng-if="member.note"><b>Note:</b> {{member.note}}</span><br ng-if="member.note">
 				<span><b>Reelection:</b> {{member.reelection}}</span>
 			</div>
-			<div class="col-md-3 col-sm-4 col-xs-12 social-links">
+			<div class="col-md-3 col-sm-2 col-xs-12 social-links">
 				<span ng-if="member.socialTwitter" class="fa-stack fa-lg twitter-btn">
 					<a ng-href="{{member.socialTwitter}}" target="_blank">
 						<i class="fa fa-circle fa-stack-2x"></i>
@@ -129,27 +142,29 @@
 					</a>
 				</span>
 			</div>
-			<div class="col-md-2">
+			<div class="col-md-2 col-sm-2 col-xs-0">
 				<button ng-if="member.linkMeeting" class="btn btn-default">Request Meeting</button>
 				<button ng-if="member.linkTownhall" class="btn btn-default">Townhalls</button>
 				<button ng-if="member.linkTeletownhall" class="btn btn-default">Tele-Townhalls</button>
 			</div>
-			<div class="col-md-12 col-sm-12 col-xs-12 full-contact">
-				<div class="row committees" ng-show="showOffices">
-					<div class="col-md-2"><b>Committees</b></div>
-					<div class="col-md-10">
-						<span class="committee pointer" ng-repeat="committee in member.committees track by $index" ng-click="chooseCommittee(committee, member)">
-							{{committee}}<span ng-if="$index != member.committees.length - 1">, </span>
-						</span>
+			<div class="col-md-12 col-sm-12 col-xs-12" ng-if="dataCommittees || dataOffices">
+				<div class="full-contact row">
+					<div class="committees col-md-12 col-xs-12" ng-show="dataCommittees">
+						<div class="col-md-2 col-xs-12"><b>Committees</b></div>
+						<div class="col-md-10 col-xs-12">
+							<span class="committee pointer" ng-repeat="committee in member.committees track by $index" ng-click="chooseCommittee(committee, member)">
+								{{committee}}<span ng-if="$index != member.committees.length - 1">, </span>
+							</span>
+						</div>
+					</div>
+					<div ng-repeat="contact in member.contact" class="col-md-12 col-xs-12" ng-class-odd="'odd-contact'" ng-show="dataOffices">
+						<div class="col-md-3 col-sm-6 col-xs-12"><b>{{contact.name}}</b></div>
+						<div class="col-md-2 col-sm-6  col-xs-12"><a href="tel:{{contact.phone}}">{{contact.phone}}</a></div>
+						<div class="col-md-5 col-sm-12 col-xs-12">{{contact.address}}</div>
+						<div class="col-md-2 col-sm-0 col-xs-0"><span ng-if="contact.fax">Fax: {{contact.fax}}</span></div>
 					</div>
 				</div>
-				<div class="row" ng-repeat="contact in member.contact" ng-class-odd="'odd-contact'" ng-show="showOffices">
-					<div class="col-md-2 col-xs-12"><b>{{contact.name}}</b></div>
-					<div class="col-md-2 col-xs-12"><a href="tel:{{contact.phone}}">{{contact.phone}}</a></div>
-					<div class="col-md-6 col-xs-12">{{contact.address}}</div>
-					<div class="col-md-2 col-xs-12"><span ng-if="contact.fax">Fax: {{contact.fax}}</span></div>
-				</div>
 			</div>
-		</li>
-	</ol>
+		</div>
+	</div>
 </div>
