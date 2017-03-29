@@ -220,6 +220,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
     $scope.dataCommittees = false;
     $scope.dataOffices = false;
     $scope.displayed = [];
+    $scope.glowing = true;
     $scope.increment = 20;
     $scope.matches = [];
     $scope.queryName = '';
@@ -494,7 +495,10 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
     });
 
     $scope.parseRouteParams();
-    removeButtonGlow();
+
+    $timeout(function(){
+      $scope.glowing = false;
+    }, 6000);
 
     function addDates(group, reelectionYear) {
         return group.map(function (item) {
@@ -554,12 +558,6 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
             });
         }
         return [str];
-    }
-
-    function removeButtonGlow () {
-      $timeout(function(){
-        $('.glow').removeClass('glow');
-      }, 6000);
     }
 
     function sortingRules(sortId, a, b) {
