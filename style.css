@@ -39,12 +39,36 @@ form .btn {
 	background: #4267b2;
 }
 
-.select-boxes {
+#facebook-buttons {
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+#select-boxes {
 	margin: 10px 0 30px 0;
 }
 
-.select-boxes select.form-control {
+#select-boxes select.form-control {
   background: #efefef;
+}
+
+#select-boxes .dropdown button {
+	background: #efefef;
+	border: 1px solid #ccc;
+	color: #555;
+}
+
+#select-boxes .dropdown button.glow {
+	animation: glowing 1500ms infinite;
+}
+
+#select-boxes .dropdown-menu li {
+	padding: 5px;
+}
+
+#select-boxes .dropdown-menu li input {
+	margin-right: 5px;
 }
 
 #sorting-options select {
@@ -63,6 +87,12 @@ form .btn {
 #total {
 	text-align: center;
 	font-size: 30px;
+	margin: 15px 0;
+}
+
+#total a {
+	font-weight: 600;
+	font-size: 32px;
 }
 
 #zipwarning {
@@ -81,8 +111,14 @@ form .btn {
 	 margin-bottom: 30px;
 }
 
+#main-list .member {
+	margin-bottom: 20px;
+}
+
 .row img {
 	width: 100%;
+	box-shadow: 3px 3px 5px #888888;
+  border: 1px solid black;
 }
 
 .member-name {
@@ -98,7 +134,7 @@ form .btn {
 }
 
 .social-links span.fa-stack.fa-lg {
-	font-size: 24px
+	font-size: 20px
 }
 
 .social-links .twitter-btn .fa-circle{
@@ -143,11 +179,9 @@ form .btn {
 }
 
 .full-contact {
-  padding: 20px 0;
-}
-
-.full-contact .row {
-	padding: 1px 0;
+  margin-top: 10px;
+	border: 1px solid rgba(0, 0, 0, 0.42);
+	box-shadow: 0px 4px 8px #888888;
 }
 
 .odd-contact {
@@ -156,33 +190,40 @@ form .btn {
 
 @media only screen and (max-width: 1000px) {
 
-	#local #titles.col-xs-0 {
-		border-left: none;
-		display: none;
-	}
+
 
 }
 
-@media only screen and (max-width: 960px) {
+
+/* Small */
+@media only screen and (max-width: 991px) {
 
 	.navbar-header .navbar-text {
 		display: none;
 	}
 
+	.col-sm-0 {
+		display: none;
+	}
+
+	.member button {
+		font-size: 11px;
+	}
+
 }
 
-@media only screen and (max-width: 800px) {
+/* Extra Small */
+@media only screen and (max-width: 767px) {
 
-		#total {
-			margin-top: 10px;
-			margin-bottom: 10px;
-			font-size: 1.5em;
+		.col-xs-0 {
+			border-left: none;
+			display: none;
 		}
 
-		ol {
-			padding-top: 30px;
-			padding-left: 22px;
-			display: inline-block;
+		#total {
+			margin-top: 25px;
+	    margin-bottom: 5px;
+			font-size: 1.5em;
 		}
 
 		.sh {
@@ -193,18 +234,19 @@ form .btn {
 			padding: 0;
 		}
 
-		.select-boxes {
+		#select-boxes {
 			padding: 0;
 			margin: 0;
+			margin-bottom: 20px;
 		}
 
-		.select-boxes select {
+		#select-boxes select {
 			padding: 0;
 			margin: 0;
 			height: 30px;
 		}
 
-		.select-boxes .btn {
+		#select-boxes .btn {
 			font-size: 12px;
 			overflow: hidden;
 			height: 30px;
@@ -259,7 +301,7 @@ form .btn {
 }
 
 #local #searchbars {
-	margin-bottom: 30px;
+	margin: 30px 0;
 }
 
 #local button.neutral {
@@ -341,4 +383,10 @@ form .btn {
 .row.ng-move.ng-move-active,
 .row.ng-enter.ng-enter-active {
   opacity:1;
+}
+
+@keyframes glowing {
+  0% { box-shadow: 0 0 3px #004A7F; }
+  50% { box-shadow: 0 0 10px #0094FF; }
+  100% { box-shadow: 0 0 3px #004A7F; }
 }

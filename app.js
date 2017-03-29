@@ -214,8 +214,11 @@ app.controller('localCtrl', ['$scope', '$http', '$routeParams', function ($scope
 
 }]);
 
-app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', function ($scope, $http, $routeParams, $window) {
+app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', function ($scope, $http, $routeParams, $timeout) {
 
+    $scope.dataAca = false;
+    $scope.dataCommittees = false;
+    $scope.dataOffices = false;
     $scope.displayed = [];
     $scope.increment = 20;
     $scope.matches = [];
@@ -490,11 +493,8 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
         $scope.abbreviations = results.data;
     });
 
-    if ($window.innerWidth < 850) {
-        $scope.showOffices = false;
-    }
-
     $scope.parseRouteParams();
+    removeButtonGlow();
 
     function addDates(group, reelectionYear) {
         return group.map(function (item) {
@@ -554,6 +554,12 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$window', functi
             });
         }
         return [str];
+    }
+
+    function removeButtonGlow () {
+      $timeout(function(){
+        $('.glow').removeClass('glow');
+      }, 6000);
     }
 
     function sortingRules(sortId, a, b) {
