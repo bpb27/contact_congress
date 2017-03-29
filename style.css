@@ -39,6 +39,12 @@ form .btn {
 	background: #4267b2;
 }
 
+#facebook-buttons {
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
 .select-boxes {
 	margin: 10px 0 30px 0;
 }
@@ -63,6 +69,7 @@ form .btn {
 #total {
 	text-align: center;
 	font-size: 30px;
+	margin: 15px 0;
 }
 
 #zipwarning {
@@ -98,7 +105,7 @@ form .btn {
 }
 
 .social-links span.fa-stack.fa-lg {
-	font-size: 24px
+	font-size: 20px
 }
 
 .social-links .twitter-btn .fa-circle{
