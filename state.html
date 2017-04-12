@@ -1,0 +1,83 @@
+<div id="state" class="container" ng-controller="stateCtrl">
+  <div id="state-title" class="center">{{state | uppercase}} State Legislature</div>
+  <div id="state-total" class="center">
+    <a ng-click="generateLink()" class="pointer">{{matches.length}} representative<span ng-if="matches.length != 1">s</span></a>
+    </div>
+  <div class="row">
+    <div class="col-md-4 input-group-lg">
+      <input type="text" ng-model="queryZip" class="form-control" placeholder="zip code" maxlength="5">
+    </div>
+    <div class="col-md-4 input-group-lg">
+      <input type="text" ng-model="queryName" class="form-control" placeholder="name">
+    </div>
+    <div class="col-md-4 input-group-lg">
+      <div class="input-group-btn">
+        <button type="button" class="btn btn-default dropdown-toggle form-control" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Filter by <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+          <li class="list-item">
+            <input type="checkbox" class="pointer" ng-model="showUpper">Show Upper Chamber <br>
+            <input type="checkbox" class="pointer" ng-model="showLower">Show Lower Chamber
+          </li>
+          <li role="separator" class="divider"></li>
+          <li class="list-item">
+            <input type="checkbox" class="pointer" ng-model="showRepublican">Show Republicans<br>
+            <input type="checkbox" class="pointer" ng-model="showDemocrat">Show Democrats
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id="state-list" when-scrolled="more()">
+    <div ng-repeat="member in displayed" class="row local-member" ng-class-odd="'odd-local-member'">
+      <div class="col-md-1">
+        <img src="{{member.photoUrl}}" />
+      </div>
+      <div class="col-md-3">
+        <div class="member-name"><b>{{member.memberTitle}}. {{member.name}}</b></div>
+        <div ng-if="member.phone"><a ng-href="tel:{{member.phone}}">{{member.phone}}</a></div>
+        <div>
+          <span class="social-links">
+            <span ng-if="member.emails.length" class="fa-stack fa-lg email-btn">
+              <a ng-href="mailto:{{member.emails[0]}}">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </a>
+            </span>
+            <span ng-if="member.socialTwitter" class="fa-stack fa-lg twitter-btn">
+              <a ng-href="https://twitter.com/{{member.socialTwitter}}" target="_blank">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </a>
+            </span>
+            <span ng-if="member.socialFacebook" class="fa-stack fa-lg facebook-btn">
+              <a ng-href="https://www.facebook.com/{{member.socialFacebook}}" target="_blank">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </a>
+            </span>
+            <span ng-if="member.socialInstagram" class="fa-stack fa-lg instagram-btn">
+              <a ng-href="https://www.instagram.com/{{member.socialInstagram}}" target="_blank">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+              </a>
+            </span>
+            <span ng-if="member.socialYoutube" class="fa-stack fa-lg youtube-btn">
+              <a ng-href="https://www.youtube.com/{{member.socialYoutube}}" target="_blank">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+              </a>
+            </span>
+          </span>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div>District {{member.district}}</div>
+        <div ng-if="member.party">{{member.party}}</div>
+      </div>
+      <div class="col-md-6">
+        <div ng-if="member.address">{{member.address}}</div>
+        <div ng-if="member.urls.length"><a ng-href="{{member.urls[0]}}" target="_blank">Official Website</a></div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,10 +1,11 @@
 <div ng-controller="mainCtrl">
+	<button id="list-button" class="btn btn-primary" ng-click="creatingList = !creatingList">Make a List</button>
 	<div id="total" class="col-md-12">
 		<a ng-click="generateLink()" title="link to this search" class="pointer">{{matches.length}} member<span ng-if="matches.length != 1">s</span></a>
 		<span class="sh">of Congress</span>
 	</div>
 	<div id="searchbars" class="col-md-12 col-xs-12">
-		<div class="col-md-4 col-sm-4 col-xs-6 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" /></div>
+		<div class="col-md-4 col-sm-4 col-xs-6 input-group-lg"><input type="text" class="form-control" placeholder="zip code" ng-model="queryZip" maxlength="5"/></div>
 		<div class="col-md-4 col-sm-4 col-xs-6 input-group-lg"><input type="text" class="form-control" placeholder="state" ng-model="queryState" /></div>
 		<div class="col-md-4 col-sm-4 col-xs-12 input-group-lg"><input type="text" class="form-control" placeholder="name" ng-model="queryName" /></div>
 	</div>
@@ -27,28 +28,28 @@
 			</div>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-0">
-			<select ng-model="chambers.model" class="form-control">
-				<option ng-repeat="option in chambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectChambers.model" class="form-control">
+				<option ng-repeat="option in selectChambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-0">
-			<select ng-model="parties.model" class="form-control">
-				<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectParties.model" class="form-control">
+				<option ng-repeat="option in selectParties.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-0 col-xs-0">
-			<select ng-model="houseCommittees.model" class="form-control">
-				<option ng-repeat="option in houseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectHouseCommittees.model" class="form-control">
+				<option ng-repeat="option in selectHouseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-0 col-xs-0">
-			<select ng-model="senateCommittees.model" class="form-control">
-				<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectSenateCommittees.model" class="form-control">
+				<option ng-repeat="option in selectSenateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-0" id="sorting-options">
-			<select ng-model="sorting.model" class="form-control">
-				<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectSorting.model" class="form-control">
+				<option ng-repeat="option in selectSorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 			<button class="btn form-control" ng-click="sortAsc = !sortAsc">
 				<span ng-if="sortAsc">↑</span>
@@ -59,7 +60,27 @@
 	<div id="zipwarning" class="col-md-12 col-sm-12 col-xs-12" ng-if="zipMatch && displayed.length > 3">
 		<span class="sh">Reps often share zip codes. </span>For more specificity, go to our <a ng-href="/local/{{queryZip}}/{{zipMatchState}}">local reps page</a>.
 	</div>
-	<div id="main-list" class="col-md-12" when-scrolled="more()">
+	<div id="list-creation" ng-if="creatingList" class="col-md-12">
+		<div class="col-md-3 col-sm-4 input-group-lg">
+			<input type="text" class="form-control" placeholder="list name (no spaces)" /><br>
+			<button class="btn btn-success form-control" ng-click="saveList()">Save List</button>
+			<button class="btn btn-warning form-control" ng-click="selectShowing(true)">Select All Showing</button>
+			<button class="btn btn-danger form-control" ng-click="selectShowing(false)">De-Select All Showing</button>
+		</div>
+		<div class="col-md-8 col-md-offset-1 col-sm-7 col-sm-offset-1">
+			<div ng-repeat="member in matches">
+				<span class="list-member pointer">
+					<span><input type="checkbox" ng-model="member.selected" /></span>
+					<span class="list-member-text" ng-click="member.selected = !member.selected">
+						<span ng-if="member.district"><b>Rep. {{member.name}}</b></span>
+						<span ng-if="!member.district"><b>Sen. {{member.name}}</b></span>
+						<span>({{member.stateDisplay}}<span ng-if="member.district"> {{member.district}}</span>)</span>
+					</span>
+				</span>
+			</div>
+		</div>
+	</div>
+	<div id="main-list" ng-if="!creatingList" class="col-md-12" when-scrolled="more()">
 		<div class="row member" ng-repeat="member in displayed">
 			<div class="col-md-1 col-sm-2 col-xs-3">
 				<img ng-src="./images/{{member.photoFilename}}" />

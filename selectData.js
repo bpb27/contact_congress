@@ -1,0 +1,127 @@
+var selectData = {};
+
+selectData.state = [
+	{ id: "1", name: "AL" },
+	{ id: "2", name: "AK" },
+	{ id: "3", name: "AR" },
+	{ id: "4", name: "AZ" },
+	{ id: "5", name: "CA" },
+	{ id: "6", name: "CO" },
+	{ id: "7", name: "CT" },
+	{ id: "8", name: "DE" },
+	{ id: "9", name: "FL" },
+	{ id: "10", name: "GA" },
+	{ id: "11", name: "HI" },
+	{ id: "12", name: "IA" },
+	{ id: "13", name: "ID" },
+	{ id: "14", name: "IL" },
+	{ id: "15", name: "IN" },
+	{ id: "16", name: "KS" },
+	{ id: "17", name: "KY" },
+	{ id: "18", name: "LA" },
+	{ id: "19", name: "MA" },
+	{ id: "20", name: "MD" },
+	{ id: "21", name: "ME" },
+	{ id: "22", name: "MI" },
+	{ id: "23", name: "MN" },
+	{ id: "24", name: "MO" },
+	{ id: "25", name: "MS" },
+	{ id: "26", name: "MT" },
+	{ id: "27", name: "NC" },
+	{ id: "28", name: "ND" },
+	{ id: "29", name: "NE" },
+	{ id: "30", name: "NH" },
+	{ id: "31", name: "NJ" },
+	{ id: "32", name: "NM" },
+	{ id: "33", name: "NV" },
+	{ id: "34", name: "NY" },
+	{ id: "35", name: "OH" },
+	{ id: "36", name: "OK" },
+	{ id: "37", name: "OR" },
+	{ id: "38", name: "PA" },
+	{ id: "39", name: "RI" },
+	{ id: "40", name: "SC" },
+	{ id: "41", name: "SD" },
+	{ id: "42", name: "TN" },
+	{ id: "43", name: "TX" },
+	{ id: "44", name: "UT" },
+	{ id: "45", name: "VT" },
+	{ id: "46", name: "VA" },
+	{ id: "47", name: "WA" },
+	{ id: "48", name: "WI" },
+	{ id: "49", name: "WV" },
+	{ id: "50", name: "WY" }
+];
+
+selectData.chambers = [
+	{ id: "1", name: "Both chambers" },
+	{ id: "2", name: "House" },
+	{ id: "3", name: "Senate" }
+];
+
+selectData.parties = [
+	{ id: "1", name: "All Parties" },
+	{ id: "2", name: "Democratic" },
+	{ id: "3", name: "Independent" },
+	{ id: "4", name: "Republican" }
+];
+
+selectData.houseCommittees = [
+	{ id: "1", name: "All House Committees" },
+	{ id: "2", name: "Agriculture" },
+	{ id: "3", name: "Appropriations" },
+	{ id: "4", name: "Armed Services" },
+	{ id: "5", name: "Budget" },
+	{ id: "6", name: "Education and the Workforce" },
+	{ id: "7", name: "Energy and Commerce" },
+	{ id: "8", name: "Ethics" },
+	{ id: "9", name: "Financial Services" },
+	{ id: "10", name: "Foreign Affairs" },
+	{ id: "11", name: "Homeland Security" },
+	{ id: "12", name: "House Administration" },
+	{ id: "13", name: "Intelligence" },
+	{ id: "14", name: "Judiciary" },
+	{ id: "15", name: "Natural Resources" },
+	{ id: "16", name: "Oversight and Government Reform" },
+	{ id: "17", name: "Rules" },
+	{ id: "18", name: "Science, Space, and Technology" },
+	{ id: "19", name: "Small Business" },
+	{ id: "20", name: "Transportation and Infrastructure" },
+	{ id: "21", name: "Veterans’ Affairs" },
+	{ id: "22", name: "Ways and Means" }
+];
+
+selectData.senateCommittees = [
+	{ id: "1", name: "All Senate Committees" },
+	{ id: "2", name: "Appropriations" },
+	{ id: "3", name: "Agriculture, Nutrition and Forestry" },
+	{ id: "4", name: "Armed Services" },
+	{ id: "5", name: "Banking, Housing, and Urban Affairs" },
+	{ id: "6", name: "Budget" },
+	{ id: "7", name: "Commerce, Science, and Transportation" },
+	{ id: "8", name: "Energy and Natural Resources" },
+	{ id: "9", name: "Environment and Public Works" },
+	{ id: "10", name: "Ethics" },
+	{ id: "11", name: "Finance" },
+	{ id: "12", name: "Foreign Relations" },
+	{ id: "13", name: "Health, Education, Labor and Pensions" },
+	{ id: "14", name: "Homeland Security and Governmental Affairs" },
+	{ id: "15", name: "Indian Affairs" },
+	{ id: "16", name: "Intelligence" },
+	{ id: "17", name: "Judiciary" },
+	{ id: "18", name: "Rules and Administration" },
+	{ id: "19", name: "Small Business and Entrepreneurship" },
+	{ id: "20", name: "Veterans' Affairs" }
+];
+
+selectData.sorting = [
+	{ id: "1", name: "Order by State" },
+	{ id: "2", name: "Order by First name" },
+	{ id: "3", name: "Order by Last name" },
+	{ id: "4", name: "Order by Year first elected" },
+	{ id: "5", name: "Order by Reelection year" },
+	{ id: "6", name: "Order by Elected by %" },
+	{ id: "7", name: "Order by Trump vote %" },
+	{ id: "8", name: "Order by Clinton vote %" },
+	{ id: "9", name: "Order by ACA enrollees" },
+];

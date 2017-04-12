@@ -43,6 +43,7 @@
         "phone": "205-759-5047"
       }
     ],
+    "id": "S-AL-1",
     "linkContact": "http://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby",
     "linkMeeting": "http://www.shelby.senate.gov/public/index.cfm/requestameeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Richard_Shelby",
@@ -71,12 +72,13 @@
     ],
     "contact": [
       {
-        "address": "",
+        "address": "G-12 Dirksen Senate Office Building, Washington, DC 20510",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-224-4124"
       }
     ],
+    "id": "S-AL-2",
     "linkContact": "",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Luther_Strange",
@@ -152,6 +154,7 @@
         "phone": "907-225-6880"
       }
     ],
+    "id": "S-AK-1",
     "linkContact": "https://www.murkowski.senate.gov/contact/email",
     "linkMeeting": "https://www.murkowski.senate.gov/contact/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
@@ -226,6 +229,7 @@
         "phone": "907-225-6880"
       }
     ],
+    "id": "S-AK-2",
     "linkContact": "http://www.sullivan.senate.gov/contact/email",
     "linkMeeting": "http://www.sullivan.senate.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._Senator)",
@@ -282,6 +286,7 @@
         "phone": "520-670-6637"
       }
     ],
+    "id": "S-AZ-1",
     "linkContact": "https://www.mccain.senate.gov/public/index.cfm/contact-form",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_McCain",
@@ -331,6 +336,7 @@
         "phone": "520-575-8633"
       }
     ],
+    "id": "S-AZ-2",
     "linkContact": "http://www.flake.senate.gov/public/index.cfm/contact-jeff",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Flake",
@@ -412,6 +418,7 @@
         "phone": "870-863-4641"
       }
     ],
+    "id": "S-AR-1",
     "linkContact": "http://boozman.senate.gov/public/index.cfm/e-mail-me",
     "linkMeeting": "http://www.boozman.senate.gov/public/index.cfm/request-a-meeting",
     "linkTeletownhall": "https://www.boozman.senate.gov/public/index.cfm/signup-for-telephone-townhalls",
@@ -456,6 +463,7 @@
         "phone": "479-751-0879"
       }
     ],
+    "id": "S-AR-2",
     "linkContact": "https://www.cotton.senate.gov/?p=contact",
     "linkMeeting": "https://www.cotton.senate.gov/?p=scheduling_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Cotton",
@@ -518,6 +526,7 @@
         "phone": "559-485-7430"
       }
     ],
+    "id": "S-CA-1",
     "linkContact": "http://www.feinstein.senate.gov/public/index.cfm/contact",
     "linkMeeting": "http://www.feinstein.senate.gov/public/index.cfm/scheduling",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dianne_Feinstein",
@@ -586,6 +595,7 @@
         "phone": "619-239-3884"
       }
     ],
+    "id": "S-CA-2",
     "linkContact": "https://www.harris.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kamala_Harris",
@@ -665,6 +675,7 @@
         "phone": "970-259-1710"
       }
     ],
+    "id": "S-CO-1",
     "linkContact": "https://www.bennet.senate.gov/?p=contact",
     "linkMeeting": "https://www.bennet.senate.gov/?p=scheduling_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Michael_Bennet",
@@ -751,6 +762,7 @@
         "phone": "970-415-7416"
       }
     ],
+    "id": "S-CO-2",
     "linkContact": "https://www.gardner.senate.gov/contact-cory/email-cory",
     "linkMeeting": "https://www.gardner.senate.gov/contact-cory/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Cory_Gardner",
@@ -801,6 +813,7 @@
         "phone": "203-330-0598"
       }
     ],
+    "id": "S-CT-1",
     "linkContact": "https://www.blumenthal.senate.gov/contact",
     "linkMeeting": "https://www.blumenthal.senate.gov/services/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Richard_Blumenthal",
@@ -844,6 +857,7 @@
         "phone": "860-549-8463"
       }
     ],
+    "id": "S-CT-2",
     "linkContact": "https://www.murphy.senate.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Murphy_(Connecticut_politician)",
@@ -899,6 +913,7 @@
         "phone": "302-856-7690"
       }
     ],
+    "id": "S-DE-1",
     "linkContact": "http://www.carper.senate.gov/public/index.cfm/email-senator-carper",
     "linkMeeting": "http://www.carper.senate.gov/public/index.cfm/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Carper",
@@ -950,6 +965,7 @@
         "phone": "302-736-5601"
       }
     ],
+    "id": "S-DE-2",
     "linkContact": "https://www.coons.senate.gov/contact/email-chris",
     "linkMeeting": "https://www.coons.senate.gov/services/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Coons",
@@ -1035,6 +1051,7 @@
         "phone": "561-514-0189"
       }
     ],
+    "id": "S-FL-1",
     "linkContact": "https://www.billnelson.senate.gov/contact-bill",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Nelson",
@@ -1115,6 +1132,7 @@
         "phone": "407-254-2573"
       }
     ],
+    "id": "S-FL-2",
     "linkContact": "http://www.rubio.senate.gov/public/index.cfm/contact",
     "linkMeeting": "http://www.rubio.senate.gov/public/index.cfm/coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio",
@@ -1160,6 +1178,7 @@
         "phone": "770-661-0999"
       }
     ],
+    "id": "S-GA-1",
     "linkContact": "http://www.isakson.senate.gov/public/index.cfm/email-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Johnny_Isakson",
@@ -1203,6 +1222,7 @@
         "phone": "404-865-0087"
       }
     ],
+    "id": "S-GA-2",
     "linkContact": "http://www.perdue.senate.gov/connect/email",
     "linkMeeting": "http://www.perdue.senate.gov/connect/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/David_Perdue",
@@ -1248,6 +1268,7 @@
         "phone": "808-523-2061"
       }
     ],
+    "id": "S-HI-1",
     "linkContact": "http://www.schatz.senate.gov/contact",
     "linkMeeting": "http://www.schatz.senate.gov/services/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Brian_Schatz",
@@ -1293,6 +1314,7 @@
         "phone": "808-522-8970"
       }
     ],
+    "id": "S-HI-2",
     "linkContact": "https://www.hirono.senate.gov/contact/email",
     "linkMeeting": "https://www.hirono.senate.gov/help/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mazie_Hirono",
@@ -1368,6 +1390,7 @@
         "phone": "208-664-5490"
       }
     ],
+    "id": "S-ID-1",
     "linkContact": "http://www.crapo.senate.gov/contact/email.cfm",
     "linkMeeting": "http://www.crapo.senate.gov/contact/scheduling.cfm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Crapo",
@@ -1443,6 +1466,7 @@
         "phone": "208-734-6780"
       }
     ],
+    "id": "S-ID-2",
     "linkContact": "http://www.risch.senate.gov/public/index.cfm/contact",
     "linkMeeting": "http://www.risch.senate.gov/public/index.cfm/meetingrequests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Risch",
@@ -1504,6 +1528,7 @@
         "phone": "309-786-5173"
       }
     ],
+    "id": "S-IL-1",
     "linkContact": "https://www.durbin.senate.gov/contact/email",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dick_Durbin",
@@ -1548,6 +1573,7 @@
         "phone": "312-886-3506"
       }
     ],
+    "id": "S-IL-2",
     "linkContact": "https://www.duckworth.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tammy_Duckworth",
@@ -1621,6 +1647,7 @@
         "phone": "574-288-2780"
       }
     ],
+    "id": "S-IN-1",
     "linkContact": "http://www.donnelly.senate.gov/contact/email-joe",
     "linkMeeting": "http://www.donnelly.senate.gov/contact/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Donnelly",
@@ -1683,6 +1710,7 @@
         "phone": ""
       }
     ],
+    "id": "S-IN-2",
     "linkContact": "https://www.young.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Todd_Young",
@@ -1757,6 +1785,7 @@
         "phone": "319-232-6657"
       }
     ],
+    "id": "S-IA-1",
     "linkContact": "https://www.grassley.senate.gov/constituents/questions-and-comments",
     "linkMeeting": "http://www.grassley.senate.gov/contact/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chuck_Grassley",
@@ -1825,6 +1854,7 @@
         "phone": "712-352-1167"
       }
     ],
+    "id": "S-IA-2",
     "linkContact": "http://www.ernst.senate.gov/public/index.cfm/?p=contact",
     "linkMeeting": "http://www.ernst.senate.gov/public/index.cfm/?p=meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joni_Ernst",
@@ -1888,6 +1918,7 @@
         "phone": "316-263-0416"
       }
     ],
+    "id": "S-KS-1",
     "linkContact": "http://www.roberts.senate.gov/public/index.cfm?p=EmailPat",
     "linkMeeting": "http://www.roberts.senate.gov/public/index.cfm?p=SchedulingInfo",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pat_Roberts",
@@ -1957,6 +1988,7 @@
         "phone": "913-393-0711"
       }
     ],
+    "id": "S-KS-2",
     "linkContact": "http://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
     "linkMeeting": "http://www.moran.senate.gov/public/index.cfm/schedule-request-form",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jerry_Moran",
@@ -2031,6 +2063,7 @@
         "phone": "270-442-4554"
       }
     ],
+    "id": "S-KY-1",
     "linkContact": "https://www.mcconnell.senate.gov/public/index.cfm/contactform",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mitch_McConnell",
@@ -2075,6 +2108,7 @@
         "phone": "270-782-8303"
       }
     ],
+    "id": "S-KY-2",
     "linkContact": "https://www.paul.senate.gov/connect/email-rand",
     "linkMeeting": "https://www.paul.senate.gov/connect/schedule-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rand_Paul",
@@ -2155,6 +2189,7 @@
         "phone": "318-448-7176"
       }
     ],
+    "id": "S-LA-1",
     "linkContact": "https://www.cassidy.senate.gov/contact",
     "linkMeeting": "http://www.cassidy.senate.gov/helping-you/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Cassidy",
@@ -2194,6 +2229,7 @@
         "phone": "202-224-4623"
       }
     ],
+    "id": "S-LA-2",
     "linkContact": "https://www.kennedy.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Neely_Kennedy",
@@ -2267,6 +2303,7 @@
         "phone": "207-780-3575"
       }
     ],
+    "id": "S-ME-1",
     "linkContact": "https://www.collins.senate.gov/services/invitations",
     "linkMeeting": "https://www.collins.senate.gov/services/invitations",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Susan_Collins",
@@ -2330,6 +2367,7 @@
         "phone": "207-883-1588"
       }
     ],
+    "id": "S-ME-2",
     "linkContact": "https://www.king.senate.gov/contact",
     "linkMeeting": "http://www.king.senate.gov/services/scheduling",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Angus_King",
@@ -2404,6 +2442,7 @@
         "phone": "202-870-1164"
       }
     ],
+    "id": "S-MD-1",
     "linkContact": "https://www.cardin.senate.gov/contact/email-ben",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_Cardin",
@@ -2442,6 +2481,7 @@
         "phone": "202-224-4654"
       }
     ],
+    "id": "S-MD-2",
     "linkContact": "https://www.vanhollen.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
@@ -2491,6 +2531,7 @@
         "phone": "413-788-2690"
       }
     ],
+    "id": "S-MA-1",
     "linkContact": "https://www.warren.senate.gov/?p=email_senator",
     "linkMeeting": "https://www.warren.senate.gov/?p=meeting_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
@@ -2547,6 +2588,7 @@
         "phone": "413-785-4610"
       }
     ],
+    "id": "S-MA-2",
     "linkContact": "http://www.markey.senate.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ed_Markey",
@@ -2621,6 +2663,7 @@
         "phone": "231-929-1031"
       }
     ],
+    "id": "S-MI-1",
     "linkContact": "https://www.stabenow.senate.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Debbie_Stabenow",
@@ -2700,6 +2743,7 @@
         "phone": "231-947-7773"
       }
     ],
+    "id": "S-MI-2",
     "linkContact": "https://www.peters.senate.gov/contact/email-gary",
     "linkMeeting": "https://www.peters.senate.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gary_Peters_(politician)",
@@ -2762,6 +2806,7 @@
         "phone": "507-288-5321"
       }
     ],
+    "id": "S-MN-1",
     "linkContact": "http://www.klobuchar.senate.gov/public/index.cfm/email-amy",
     "linkMeeting": "http://www.klobuchar.senate.gov/public/index.cfm/minnesota-mornings",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
@@ -2824,6 +2869,7 @@
         "phone": "507-288-2003"
       }
     ],
+    "id": "S-MN-2",
     "linkContact": "https://www.franken.senate.gov/?p=email_al",
     "linkMeeting": "https://www.franken.senate.gov/?p=meeting_request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Al_Franken",
@@ -2879,6 +2925,7 @@
         "phone": "228-867-9710"
       }
     ],
+    "id": "S-MS-1",
     "linkContact": "http://www.cochran.senate.gov/public/index.cfm/email-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Thad_Cochran",
@@ -2941,6 +2988,7 @@
         "phone": "662-429-1002"
       }
     ],
+    "id": "S-MS-2",
     "linkContact": "https://www.wicker.senate.gov/public/index.cfm/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Roger_Wicker",
@@ -3002,6 +3050,7 @@
         "phone": "573-651-0964"
       }
     ],
+    "id": "S-MO-1",
     "linkContact": "https://www.mccaskill.senate.gov/contact",
     "linkMeeting": "https://www.mccaskill.senate.gov/services/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Claire_McCaskill",
@@ -3070,6 +3119,7 @@
         "phone": "417-877-7814"
       }
     ],
+    "id": "S-MO-2",
     "linkContact": "http://www.blunt.senate.gov/public/index.cfm/contact-form",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Roy_Blunt",
@@ -3157,6 +3207,7 @@
         "phone": "406-728-3003"
       }
     ],
+    "id": "S-MT-1",
     "linkContact": "http://www.tester.senate.gov/?p=email_senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jon_Tester",
@@ -3244,6 +3295,7 @@
         "phone": "406-482-9010"
       }
     ],
+    "id": "S-MT-2",
     "linkContact": "https://www.daines.senate.gov/connect/email-steve",
     "linkMeeting": "https://www.daines.senate.gov/connect/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Steve_Daines",
@@ -3312,6 +3364,7 @@
         "phone": "308-630-2329"
       }
     ],
+    "id": "S-NE-1",
     "linkContact": "http://www.fischer.senate.gov/public/index.cfm/email-deb",
     "linkMeeting": "https://www.fischer.senate.gov/public/?p=ne-scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Deb_Fischer",
@@ -3373,6 +3426,7 @@
         "phone": "308-632-6032"
       }
     ],
+    "id": "S-NE-2",
     "linkContact": "http://www.sasse.senate.gov/public/index.cfm/email-ben",
     "linkMeeting": "https://www.sasse.senate.gov/public/index.cfm/nebraska-breakfast",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_Sasse",
@@ -3424,6 +3478,7 @@
         "phone": "775-686-5750"
       }
     ],
+    "id": "S-NV-1",
     "linkContact": "https://www.cortezmasto.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Catherine_Cortez_Masto",
@@ -3475,6 +3530,7 @@
         "phone": "775-686-5770"
       }
     ],
+    "id": "S-NV-2",
     "linkContact": "http://www.heller.senate.gov/public/index.cfm/contact-form",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dean_Heller",
@@ -3550,6 +3606,7 @@
         "phone": "603-883-0196"
       }
     ],
+    "id": "S-NH-1",
     "linkContact": "https://www.shaheen.senate.gov/contact/contact-jeanne",
     "linkMeeting": "https://www.shaheen.senate.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeanne_Shaheen",
@@ -3593,6 +3650,7 @@
         "phone": "603-622-2204"
       }
     ],
+    "id": "S-NH-2",
     "linkContact": "https://www.hassan.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Maggie_Hassan",
@@ -3642,6 +3700,7 @@
         "phone": "973-645-3030"
       }
     ],
+    "id": "S-NJ-1",
     "linkContact": "https://www.menendez.senate.gov/contact",
     "linkMeeting": "https://www.menendez.senate.gov/services/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Menendez",
@@ -3692,6 +3751,7 @@
         "phone": "973-639-8700"
       }
     ],
+    "id": "S-NJ-2",
     "linkContact": "https://www.booker.senate.gov/?p=contact",
     "linkMeeting": "https://www.booker.senate.gov/?p=meeting_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Cory_Booker",
@@ -3761,6 +3821,7 @@
         "phone": "505-988-6511"
       }
     ],
+    "id": "S-NM-1",
     "linkContact": "https://www.tomudall.senate.gov/?p=contact",
     "linkMeeting": "https://www.tomudall.senate.gov/?p=schedule_meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Udall",
@@ -3828,6 +3889,7 @@
         "phone": "505-346-6601"
       }
     ],
+    "id": "S-NM-2",
     "linkContact": "https://www.heinrich.senate.gov/contact/write-martin",
     "linkMeeting": "http://www.heinrich.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Martin_Heinrich",
@@ -3912,6 +3974,7 @@
         "phone": "315-423-5471"
       }
     ],
+    "id": "S-NY-1",
     "linkContact": "https://www.schumer.senate.gov/contact/email-chuck",
     "linkMeeting": "https://www.schumer.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chuck_Schumer",
@@ -3997,6 +4060,7 @@
         "phone": "845-875-4585"
       }
     ],
+    "id": "S-NY-2",
     "linkContact": "https://www.gillibrand.senate.gov/contact/",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kirsten_Gillibrand",
@@ -4058,6 +4122,7 @@
         "phone": "910-251-1058"
       }
     ],
+    "id": "S-NC-1",
     "linkContact": "https://www.burr.senate.gov/contact/email",
     "linkMeeting": "https://www.burr.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Richard_Burr",
@@ -4120,6 +4185,7 @@
         "phone": "919-856-4630"
       }
     ],
+    "id": "S-NC-2",
     "linkContact": "https://www.tillis.senate.gov/public/index.cfm/email-me",
     "linkMeeting": "https://www.tillis.senate.gov/public/index.cfm/meetings",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Thom_Tillis",
@@ -4189,6 +4255,7 @@
         "phone": "701-580-4535"
       }
     ],
+    "id": "S-ND-1",
     "linkContact": "https://www.hoeven.senate.gov/contact/email-the-senator",
     "linkMeeting": "https://www.hoeven.senate.gov/serving-you/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Hoeven",
@@ -4258,6 +4325,7 @@
         "phone": "701-852-0703"
       }
     ],
+    "id": "S-ND-2",
     "linkContact": "http://www.heitkamp.senate.gov/public/index.cfm/email-heidi",
     "linkMeeting": "http://www.heitkamp.senate.gov/public/index.cfm/visiting-dc",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Heidi_Heitkamp",
@@ -4320,6 +4388,7 @@
         "phone": "440-242-4100"
       }
     ],
+    "id": "S-OH-1",
     "linkContact": "https://www.brown.senate.gov/contact/email",
     "linkMeeting": "https://www.brown.senate.gov/schedule-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sherrod_Brown",
@@ -4382,6 +4451,7 @@
         "phone": "419-259-3895"
       }
     ],
+    "id": "S-OH-2",
     "linkContact": "http://www.portman.senate.gov/public/index.cfm/contact-form",
     "linkMeeting": "http://www.portman.senate.gov/public/index.cfm/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rob_Portman",
@@ -4444,6 +4514,7 @@
         "phone": "580-234-5105"
       }
     ],
+    "id": "S-OK-1",
     "linkContact": "http://www.inhofe.senate.gov/contact",
     "linkMeeting": "http://www.inhofe.senate.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Inhofe",
@@ -4495,6 +4566,7 @@
         "phone": "918-581-7651"
       }
     ],
+    "id": "S-OK-2",
     "linkContact": "https://www.lankford.senate.gov/contact/email",
     "linkMeeting": "https://www.lankford.senate.gov/contact/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/James_Lankford",
@@ -4569,6 +4641,7 @@
         "phone": "541-962-7691"
       }
     ],
+    "id": "S-OR-1",
     "linkContact": "https://www.wyden.senate.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Wyden",
@@ -4643,6 +4716,7 @@
         "phone": "503-362-8102"
       }
     ],
+    "id": "S-OR-2",
     "linkContact": "https://www.merkley.senate.gov/contact",
     "linkMeeting": "https://www.merkley.senate.gov/events/coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Merkley",
@@ -4721,6 +4795,7 @@
         "phone": "610-782-9470"
       }
     ],
+    "id": "S-PA-1",
     "linkContact": "https://www.casey.senate.gov/contact",
     "linkMeeting": "https://www.casey.senate.gov/request/appointment",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Casey_Jr.",
@@ -4800,6 +4875,7 @@
         "phone": "814-266-5970"
       }
     ],
+    "id": "S-PA-2",
     "linkContact": "http://www.toomey.senate.gov/?p=contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pat_Toomey",
@@ -4850,6 +4926,7 @@
         "phone": "401-943-3100"
       }
     ],
+    "id": "S-RI-1",
     "linkContact": "https://www.reed.senate.gov/contact/email",
     "linkMeeting": "https://www.reed.senate.gov/services/appointments",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jack_Reed_(politician)",
@@ -4894,6 +4971,7 @@
         "phone": "401-453-5294"
       }
     ],
+    "id": "S-RI-2",
     "linkContact": "https://www.whitehouse.senate.gov/contact/email-sheldon",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sheldon_Whitehouse",
@@ -4968,6 +5046,7 @@
         "phone": "864-646-4090"
       }
     ],
+    "id": "S-SC-1",
     "linkContact": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lindsey_Graham",
@@ -5025,6 +5104,7 @@
         "phone": "843-727-4525"
       }
     ],
+    "id": "S-SC-2",
     "linkContact": "https://www.scott.senate.gov/contact/email-me",
     "linkMeeting": "https://www.scott.senate.gov/contact/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tim_Scott",
@@ -5080,6 +5160,7 @@
         "phone": "605-334-9596"
       }
     ],
+    "id": "S-SD-1",
     "linkContact": "https://www.thune.senate.gov/public/index.cfm/contact",
     "linkMeeting": "https://www.thune.senate.gov/public/index.cfm/south-dakota-sunrise-coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Thune",
@@ -5143,6 +5224,7 @@
         "phone": "605-225-0366"
       }
     ],
+    "id": "S-SD-2",
     "linkContact": "https://www.rounds.senate.gov/contact/email-mike",
     "linkMeeting": "http://www.rounds.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Rounds",
@@ -5217,6 +5299,7 @@
         "phone": "423-325-6240"
       }
     ],
+    "id": "S-TN-1",
     "linkContact": "https://www.alexander.senate.gov/public/index.cfm/email",
     "linkMeeting": "https://www.alexander.senate.gov/public/index.cfm/schedulingrequests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lamar_Alexander",
@@ -5290,6 +5373,7 @@
         "phone": "423-756-2757"
       }
     ],
+    "id": "S-TN-2",
     "linkContact": "http://www.corker.senate.gov/public/index.cfm/emailme",
     "linkMeeting": "http://www.corker.senate.gov/public/index.cfm/schedule-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Corker",
@@ -5369,6 +5453,7 @@
         "phone": "972-239-1310"
       }
     ],
+    "id": "S-TX-1",
     "linkContact": "https://www.cornyn.senate.gov/contact",
     "linkMeeting": "https://www.cornyn.senate.gov/content/visit-dc?tab=texas-thursday-coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Cornyn",
@@ -5443,6 +5528,7 @@
         "phone": "956-686-7339"
       }
     ],
+    "id": "S-TX-2",
     "linkContact": "https://www.cruz.senate.gov/?p=form&id=16",
     "linkMeeting": "https://www.cruz.senate.gov/?p=meeting_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ted_Cruz",
@@ -5510,6 +5596,7 @@
         "phone": "435-586-8435"
       }
     ],
+    "id": "S-UT-1",
     "linkContact": "http://www.hatch.senate.gov/public/index.cfm/email-orrin",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Orrin_Hatch",
@@ -5560,6 +5647,7 @@
         "phone": "435-628-5514"
       }
     ],
+    "id": "S-UT-2",
     "linkContact": "https://www.lee.senate.gov/public/index.cfm/contact-senator-lee",
     "linkMeeting": "https://www.lee.senate.gov/public/index.cfm/jell-o-with-the-senator",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Lee_(U.S._politician)",
@@ -5610,6 +5698,7 @@
         "phone": "802-229-0569"
       }
     ],
+    "id": "S-VT-1",
     "linkContact": "https://www.leahy.senate.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Patrick_Leahy",
@@ -5661,6 +5750,7 @@
         "phone": "800-339-9834"
       }
     ],
+    "id": "S-VT-2",
     "linkContact": "https://www.sanders.senate.gov/contact/comment",
     "linkMeeting": "https://www.sanders.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bernie_Sanders",
@@ -5730,6 +5820,7 @@
         "phone": "540-857-2676"
       }
     ],
+    "id": "S-VA-1",
     "linkContact": "http://www.warner.senate.gov/public/index.cfm/contact",
     "linkMeeting": "http://www.warner.senate.gov/public/index.cfm/scheduling",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_Warner",
@@ -5804,6 +5895,7 @@
         "phone": "703-361-3192"
       }
     ],
+    "id": "S-VA-2",
     "linkContact": "https://www.kaine.senate.gov/contact",
     "linkMeeting": "http://www.kaine.senate.gov/kaine-connects",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tim_Kaine",
@@ -5879,6 +5971,7 @@
         "phone": "253-572-3636"
       }
     ],
+    "id": "S-WA-1",
     "linkContact": "https://www.murray.senate.gov/public/index.cfm/contactme",
     "linkMeeting": "http://www.murray.senate.gov/public/index.cfm/weeklycoffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Patty_Murray",
@@ -5954,6 +6047,7 @@
         "phone": "509-946-8106"
       }
     ],
+    "id": "S-WA-2",
     "linkContact": "https://www.cantwell.senate.gov/contact/email",
     "linkMeeting": "https://www.cantwell.senate.gov/contact/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Maria_Cantwell",
@@ -6010,6 +6104,7 @@
         "phone": "304-368-0567"
       }
     ],
+    "id": "S-WV-1",
     "linkContact": "https://www.manchin.senate.gov/public/index.cfm/contact-form",
     "linkMeeting": "http://www.manchin.senate.gov/public/index.cfm/schedule-a-meeting-or-event",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Manchin",
@@ -6071,6 +6166,7 @@
         "phone": "304-347-5372"
       }
     ],
+    "id": "S-WV-2",
     "linkContact": "https://www.capito.senate.gov/contact/contact-shelley",
     "linkMeeting": "https://www.capito.senate.gov/contact/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito",
@@ -6121,6 +6217,7 @@
         "phone": "920-230-7250"
       }
     ],
+    "id": "S-WI-1",
     "linkContact": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
     "linkMeeting": "https://www.ronjohnson.senate.gov/public/index.cfm/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Johnson_(U.S._politician)",
@@ -6194,6 +6291,7 @@
         "phone": "715-261-2611"
       }
     ],
+    "id": "S-WI-2",
     "linkContact": "https://www.baldwin.senate.gov/feedback",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tammy_Baldwin",
@@ -6263,6 +6361,7 @@
         "phone": "307-739-9507"
       }
     ],
+    "id": "S-WY-1",
     "linkContact": "http://www.enzi.senate.gov/public/index.cfm/e-mail-senator-enzi",
     "linkMeeting": "http://www.enzi.senate.gov/public/index.cfm/meeting-request-form",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Enzi",
@@ -6325,6 +6424,7 @@
         "phone": "307-362-5012"
       }
     ],
+    "id": "S-WY-2",
     "linkContact": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Barrasso",

@@ -1,0 +1,1453 @@
+[
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorTedGaines",
+        "type": "Facebook"
+      },
+      {
+        "id": "TedGaines",
+        "type": "Twitter"
+      }
+    ],
+    "district": 1,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:1",
+    "emails": [
+      "senator.gaines@senate.ca.gov"
+    ],
+    "name": "Ted Gaines",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4001"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/gaines-ted.jpg",
+    "position": "CA State Senate District 1",
+    "urls": [
+      "http://senate.ca.gov/sd01"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SupervisorMikeMcGuire",
+        "type": "Facebook"
+      },
+      {
+        "id": "ilike_mike",
+        "type": "Twitter"
+      }
+    ],
+    "district": 2,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:2",
+    "emails": [
+      "senator.mcguire@senate.ca.gov"
+    ],
+    "name": "Mike McGuire",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4002"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg",
+    "position": "CA State Senate District 2",
+    "urls": [
+      "http://sd02.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "BillDoddCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "BillDoddCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 3,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:3",
+    "emails": [
+      "senator.dodd@senate.ca.gov"
+    ],
+    "name": "Bill Dodd",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4003"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/dodd.jpg",
+    "position": "CA State Senate District 3",
+    "urls": [
+      "http://sd03.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "CASenatorJim",
+        "type": "Twitter"
+      }
+    ],
+    "district": 4,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:4",
+    "emails": [
+      "senator.nielsen@senate.ca.gov"
+    ],
+    "name": "Jim Nielsen",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4004"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nielsen-jim.jpg",
+    "position": "CA State Senate District 4",
+    "urls": [
+      "http://nielsen.cssrc.us"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorCathleenGalgiani",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenatorGalgiani",
+        "type": "Twitter"
+      }
+    ],
+    "district": 5,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:5",
+    "emails": [
+      "senator.galgiani@senate.ca.gov"
+    ],
+    "name": "Cathleen Galgiani",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4005"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/galgiani-cathleen.jpg",
+    "position": "CA State Senate District 5",
+    "urls": [
+      "http://sd05.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "RichardPanMD",
+        "type": "Facebook"
+      },
+      {
+        "id": "DrPanMD",
+        "type": "Twitter"
+      }
+    ],
+    "district": 6,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:6",
+    "emails": [
+      "senator.pan@senate.ca.gov"
+    ],
+    "name": "Richard Pan",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4006"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pan-richard.jpg",
+    "position": "CA State Senate District 6",
+    "urls": [
+      "http://senate.ca.gov/sd06"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "glazerforsenate",
+        "type": "Facebook"
+      },
+      {
+        "id": "Steve_Glazer",
+        "type": "Twitter"
+      }
+    ],
+    "district": 7,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:7",
+    "emails": [
+      "senator.glazer@senate.ca.gov"
+    ],
+    "name": "Steven M. Glazer",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4007"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/glazer-steven.jpg",
+    "position": "CA State Senate District 7",
+    "urls": [
+      "http://sd07.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "TomBerryhill",
+        "type": "Twitter"
+      },
+      {
+        "id": "tom.berryhill.7",
+        "type": "Facebook"
+      }
+    ],
+    "district": 8,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:8",
+    "emails": [
+      "senator.berryhill@senate.ca.gov"
+    ],
+    "name": "Tom Berryhill",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4008"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/berryhill-tom.jpg",
+    "position": "CA State Senate District 8",
+    "urls": [
+      "http://senate.ca.gov/sd08"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "skinner4senate",
+        "type": "Twitter"
+      }
+    ],
+    "district": 9,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:9",
+    "emails": [
+      "senator.skinner@senate.ca.gov"
+    ],
+    "name": "Nancy Skinner",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4009"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/skinner.jpg",
+    "position": "CA State Senate District 9",
+    "urls": [
+      "http://sd09.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "bobwieckowski",
+        "type": "Facebook"
+      },
+      {
+        "id": "BobWieckowskiCA",
+        "type": "Twitter"
+      },
+      {
+        "id": "UCCd2Sdzrhnn0hjpaAUZtVug",
+        "type": "YouTube"
+      }
+    ],
+    "district": 10,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:10",
+    "emails": [
+      "senator.wieckowski@senate.ca.gov"
+    ],
+    "name": "Bob Wieckowski",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4010"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wieckowski-bob.jpg",
+    "position": "CA State Senate District 10",
+    "urls": [
+      "http://sd10.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "ScottWiener2",
+        "type": "Facebook"
+      },
+      {
+        "id": "Scott_Wiener",
+        "type": "Twitter"
+      }
+    ],
+    "district": 11,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:11",
+    "emails": [
+      "senator.wiener@senate.ca.gov"
+    ],
+    "name": "Scott Wiener",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4011"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg",
+    "position": "CA State Senate District 11",
+    "urls": [
+      "http://sd11.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenAnthonyCannella",
+        "type": "Facebook"
+      },
+      {
+        "id": "AnthonyCannella",
+        "type": "Twitter"
+      }
+    ],
+    "district": 12,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:12",
+    "emails": [
+      "senator.cannella@senate.ca.gov"
+    ],
+    "name": "Anthony Cannella",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4012"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/cannella-anthony.jpg",
+    "position": "CA State Senate District 12",
+    "urls": [
+      "http://senate.ca.gov/sd12"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "Jerry.Hill.CA",
+        "type": "Facebook"
+      }
+    ],
+    "district": 13,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:13",
+    "emails": [
+      "senator.hill@senate.ca.gov"
+    ],
+    "name": "Jerry Hill",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4013"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hill-jerry.jpg",
+    "position": "CA State Senate District 13",
+    "urls": [
+      "http://sd13.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "senatorandyvidak",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenAndyVidak",
+        "type": "Twitter"
+      }
+    ],
+    "district": 14,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:14",
+    "emails": [
+      "senator.vidak@senate.ca.gov"
+    ],
+    "name": "Andy Vidak",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4014"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/vidak-andy.jpg",
+    "position": "CA State Senate District 14",
+    "urls": [
+      "http://senate.ca.gov/sd14"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "jimbealljr",
+        "type": "Facebook"
+      },
+      {
+        "id": "Jimbealljr",
+        "type": "Twitter"
+      },
+      {
+        "id": "+JimBeallJr",
+        "type": "GooglePlus"
+      }
+    ],
+    "district": 15,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:15",
+    "emails": [
+      "senator.beall@senate.ca.gov"
+    ],
+    "name": "Jim Beall",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4015"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/beall-jim_0.jpg",
+    "position": "CA State Senate District 15",
+    "urls": [
+      "http://sd15.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "jeanlfuller",
+        "type": "Facebook"
+      },
+      {
+        "id": "JeanFuller",
+        "type": "Twitter"
+      }
+    ],
+    "district": 16,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:16",
+    "emails": [
+      "senator.fuller@senate.ca.gov"
+    ],
+    "name": "Jean Fuller",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4016"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jean-fuller.jpg",
+    "position": "CA State Senate District 16",
+    "urls": [
+      "http://district16.cssrc.us"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "CA.bill.monning",
+        "type": "Facebook"
+      },
+      {
+        "id": "billmonning",
+        "type": "Twitter"
+      }
+    ],
+    "district": 17,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:17",
+    "emails": [
+      "senator.monning@senate.ca.gov"
+    ],
+    "name": "Bill Monning",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4017"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/monning-bill.jpg",
+    "position": "CA State Senate District 17",
+    "urls": [
+      "http://sd17.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "robert.hertzberg",
+        "type": "Facebook"
+      },
+      {
+        "id": "hertzieLA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 18,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:18",
+    "emails": [
+      "senator.hertzberg@senate.ca.gov"
+    ],
+    "name": "Robert M. Hertzberg",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4018"
+    ],
+    "position": "CA State Senate District 18",
+    "urls": [
+      "http://sd18.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenHannahBeth",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenHannahBeth",
+        "type": "Twitter"
+      }
+    ],
+    "district": 19,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:19",
+    "emails": [
+      "senator.jackson@senate.ca.gov"
+    ],
+    "name": "Hannah-Beth Jackson",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4019"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jackson-hannah-beth.jpg",
+    "position": "CA State Senate District 19",
+    "urls": [
+      "http://sd19.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorLeyva",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenatorLeyva",
+        "type": "Twitter"
+      }
+    ],
+    "district": 20,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:20",
+    "emails": [
+      "senator.leyva@senate.ca.gov"
+    ],
+    "name": "Connie M. Leyva",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4020"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senatorleyva2.jpg",
+    "position": "CA State Senate District 20",
+    "urls": [
+      "http://sd20.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "ScottWilkCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "ScottWilkCA",
+        "type": "Twitter"
+      },
+      {
+        "id": "WilkForCA",
+        "type": "YouTube"
+      }
+    ],
+    "district": 21,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:21",
+    "emails": [
+      "senator.wilk@senate.ca.gov"
+    ],
+    "name": "Scott Wilk",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4021"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg",
+    "position": "CA State Senate District 21",
+    "urls": [
+      "http://wilk.cssrc.us"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "DrEdHernandez",
+        "type": "Facebook"
+      },
+      {
+        "id": "dredhernandez",
+        "type": "Twitter"
+      },
+      {
+        "id": "UC0U2ZjX8M20vqOsddkznLuQ",
+        "type": "YouTube"
+      }
+    ],
+    "district": 22,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:22",
+    "emails": [
+      "senator.hernandez@senate.ca.gov"
+    ],
+    "name": "Ed Hernandez",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4022"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hernandez-ed.jpg",
+    "position": "CA State Senate District 22",
+    "urls": [
+      "http://sd22.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "MikeMorrellGOP",
+        "type": "Facebook"
+      },
+      {
+        "id": "MikeMorrellGOP",
+        "type": "Twitter"
+      }
+    ],
+    "district": 23,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:23",
+    "emails": [
+      "senator.morrell@senate.ca.gov"
+    ],
+    "name": "Mike Morrell",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4023"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/morrell-mike.jpg",
+    "position": "CA State Senate District 23",
+    "urls": [
+      "http://senate.ca.gov/sd23"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "KevinDeLeonKDL",
+        "type": "Facebook"
+      },
+      {
+        "id": "kdeleon",
+        "type": "Twitter"
+      }
+    ],
+    "district": 24,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:24",
+    "emails": [
+      "senator.deleon@senate.ca.gov"
+    ],
+    "name": "Kevin de Leon",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4024"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/deleon-kevin.jpg",
+    "position": "CA State Senate District 24",
+    "urls": [
+      "http://sd24.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "portantino",
+        "type": "Facebook"
+      },
+      {
+        "id": "Portantino",
+        "type": "Twitter"
+      }
+    ],
+    "district": 25,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:25",
+    "emails": [
+      "senator.portantino@senate.ca.gov"
+    ],
+    "name": "Anthony J. Portantino",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4025"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/portantino.jpg",
+    "position": "CA State Senate District 25",
+    "urls": [
+      "http://sd25.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "benallencalifornia",
+        "type": "Facebook"
+      },
+      {
+        "id": "BenAllenCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 26,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:26",
+    "emails": [
+      "senator.allen@senate.ca.gov"
+    ],
+    "name": "Benjamin Allen",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4026"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ben-allen.jpg",
+    "position": "CA State Senate District 26",
+    "urls": [
+      "http://sd26.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "HenrySternCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "HenrySternCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 27,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:27",
+    "emails": [
+      "senator.stern@senate.ca.gov"
+    ],
+    "name": "Henry Stern",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4027"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg",
+    "position": "CA State Senate District 27",
+    "urls": [
+      "http://sd27.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorJeffStone",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenJeffStone",
+        "type": "Twitter"
+      }
+    ],
+    "district": 28,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:28",
+    "emails": [
+      "senator.stone@senate.ca.gov"
+    ],
+    "name": "Jeff Stone",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4028"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jeff-stone.jpg",
+    "position": "CA State Senate District 28",
+    "urls": [
+      "http://senate.ca.gov/sd28"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Room 4082",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorNewmanCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "senatornewmanca",
+        "type": "Twitter"
+      }
+    ],
+    "district": 29,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:29",
+    "emails": [
+      "senator.newman@senate.ca.gov"
+    ],
+    "name": "Josh Newman",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4029"
+    ],
+    "photoUrl": "http://ocpoliticsblog.com/wp-content/uploads/2015/06/Josh-Newman-300x300.jpg",
+    "position": "CA State Senate District 29",
+    "urls": [
+      "http://senate.ca.gov/sd29"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "HollyJMitchell",
+        "type": "Twitter"
+      },
+      {
+        "id": "senatorhjm",
+        "type": "Facebook"
+      },
+      {
+        "id": "HollyMitchell47",
+        "type": "YouTube"
+      }
+    ],
+    "district": 30,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:30",
+    "emails": [
+      "senator.mitchell@senate.ca.gov"
+    ],
+    "name": "Holly J. Mitchell",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4030"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mitchell-holly.jpg",
+    "position": "CA State Senate District 30",
+    "urls": [
+      "http://sd30.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "majgen.roth",
+        "type": "Facebook"
+      },
+      {
+        "id": "GeneralRoth",
+        "type": "Twitter"
+      }
+    ],
+    "district": 31,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:31",
+    "emails": [
+      "senator.roth@senate.ca.gov"
+    ],
+    "name": "Richard D. Roth",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4031"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/roth-richard.jpg",
+    "position": "CA State Senate District 31",
+    "urls": [
+      "http://sd31.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "VoteForMendoza",
+        "type": "Facebook"
+      },
+      {
+        "id": "MrTonyMendoza",
+        "type": "Twitter"
+      }
+    ],
+    "district": 32,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:32",
+    "emails": [
+      "senator.mendoza@senate.ca.gov"
+    ],
+    "name": "Tony Mendoza",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4032"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mendoza-tony.jpg",
+    "position": "CA State Senate District 32",
+    "urls": [
+      "http://sd32.senate.ca.gov/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorRicardoLara",
+        "type": "Facebook"
+      },
+      {
+        "id": "senricardolara",
+        "type": "Twitter"
+      }
+    ],
+    "district": 33,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:33",
+    "emails": [
+      "senator.lara@senate.ca.gov"
+    ],
+    "name": "Ricardo Lara",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4033"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/laraheadpic.jpg",
+    "position": "CA State Senate District 33",
+    "urls": [
+      "http://sd33.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorJanetNguyen",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenJanetNguyen",
+        "type": "Twitter"
+      }
+    ],
+    "district": 34,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:34",
+    "emails": [
+      "senator.nguyen@senate.ca.gov"
+    ],
+    "name": "Janet Nguyen",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4034"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nguyen-janet.jpg",
+    "position": "CA State Senate District 34",
+    "urls": [
+      "http://senate.ca.gov/sd34"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "stevenbradford62",
+        "type": "Facebook"
+      },
+      {
+        "id": "SteveBradford",
+        "type": "Twitter"
+      },
+      {
+        "id": "stevecbradford",
+        "type": "YouTube"
+      }
+    ],
+    "district": 35,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:35",
+    "emails": [
+      "senator.bradford@senate.ca.gov"
+    ],
+    "name": "Steven Bradford",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4035"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bradford.jpg",
+    "position": "CA State Senate District 35",
+    "urls": [
+      "http://sd35.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "senatorpatbates",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenatorPatBates",
+        "type": "Twitter"
+      }
+    ],
+    "district": 36,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:36",
+    "emails": [
+      "senator.bates@senate.ca.gov"
+    ],
+    "name": "Patricia C. Bates",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4036"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bates-patricia.jpg",
+    "position": "CA State Senate District 36",
+    "urls": [
+      "http://senate.ca.gov/sd36"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorJohnMoorlach",
+        "type": "Facebook"
+      },
+      {
+        "id": "SenatorMoorlach",
+        "type": "Twitter"
+      },
+      {
+        "id": "UC0obBs7W9XQZAYVF7fL3Tpg",
+        "type": "YouTube"
+      }
+    ],
+    "district": 37,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:37",
+    "emails": [
+      "senator.moorlach@senate.ca.gov"
+    ],
+    "name": "John M. W. Moorlach",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4037"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/moorlach_sd37.jpg",
+    "position": "CA State Senate District 37",
+    "urls": [
+      "http://district37.cssrc.us/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SenatorJoelAnderson",
+        "type": "Facebook"
+      },
+      {
+        "id": "JoelAndersonCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 38,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:38",
+    "emails": [
+      "senator.anderson@senate.ca.gov"
+    ],
+    "name": "Joel Anderson",
+    "party": "Republican",
+    "phones": [
+      "(916) 651-4038"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/anderson-joel.jpg",
+    "position": "CA State Senate District 38",
+    "urls": [
+      "http://senate.ca.gov/sd38"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SDToni",
+        "type": "Facebook"
+      },
+      {
+        "id": "toniatkins",
+        "type": "Twitter"
+      }
+    ],
+    "district": 39,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:39",
+    "emails": [
+      "senator.atkins@senate.ca.gov"
+    ],
+    "name": "Toni Atkins",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4039"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins.jpg",
+    "position": "CA State Senate District 39",
+    "urls": [
+      "http://sd39.senate.ca.gov"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "STATE CAPITOL",
+        "line2": "1303 10TH ST",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "Senator-Ben-Hueso-514048398664628",
+        "type": "Facebook"
+      }
+    ],
+    "district": 40,
+    "divisionId": "ocd-division/country:us/state:ca/sldu:40",
+    "emails": [
+      "senator.hueso@senate.ca.gov"
+    ],
+    "name": "Ben Hueso",
+    "party": "Democratic",
+    "phones": [
+      "(916) 651-4040"
+    ],
+    "photoUrl": "http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hueso-ben.jpg",
+    "position": "CA State Senate District 40",
+    "urls": [
+      "http://sd40.senate.ca.gov/"
+    ]
+  }
+]

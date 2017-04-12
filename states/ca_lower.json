@@ -1,0 +1,2924 @@
+[
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Suite 2158",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "BrianDahleCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "BrianDahleCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 1,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:1",
+    "emails": [
+      "Assemblymember.Dahle@assembly.ca.gov"
+    ],
+    "name": "Brian Dahle",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2001"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD01-Brian_Dahle.jpg",
+    "position": "CA State Assembly District 1",
+    "urls": [
+      "https://ad01.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "jimwoodassembly",
+        "type": "Facebook"
+      },
+      {
+        "id": "JimWoodAD2",
+        "type": "Twitter"
+      }
+    ],
+    "district": 2,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:2",
+    "emails": [
+      "Assemblymember.Wood@assembly.ca.gov"
+    ],
+    "name": "Jim Wood",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2002"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD02_Wood_Portrait150_20141201_v2.jpg",
+    "position": "CA State Assembly District 2",
+    "urls": [
+      "http://asmdc.org/members/a02/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanJamesGallagher",
+        "type": "Facebook"
+      },
+      {
+        "id": "J_GallagherAD3",
+        "type": "Twitter"
+      }
+    ],
+    "district": 3,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:3",
+    "emails": [
+      "Assemblymember.Gallagher@assembly.ca.gov"
+    ],
+    "name": "James Gallagher",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2003"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg",
+    "position": "CA State Assembly District 3",
+    "urls": [
+      "http://ad03.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmAguiarCurry",
+        "type": "Twitter"
+      },
+      {
+        "id": "ceciliaforassembly",
+        "type": "Facebook"
+      },
+      {
+        "id": "ceciliaad4",
+        "type": "Twitter"
+      }
+    ],
+    "district": 4,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:4",
+    "emails": [
+      "Assemblymember.Aguiar-Curry@assembly.ca.gov"
+    ],
+    "name": "Cecilia M. Aguiar-Curry",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2004"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad04_aguiar-curry_roster150_20161205.jpg",
+    "position": "CA State Assembly District 4",
+    "urls": [
+      "https://a04.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "FrankBigelowCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "FrankBigelowCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 5,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:5",
+    "emails": [
+      "Assemblymember.Bigelow@assembly.ca.gov"
+    ],
+    "name": "Frank Bigelow",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2005"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD05-Frank_Bigelow.jpg",
+    "position": "CA State Assembly District 5",
+    "urls": [
+      "https://ad05.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942849",
+        "line3": "Room 4153",
+        "state": "CA",
+        "zip": "94249-0006"
+      },
+      {
+        "city": "Granite Bay",
+        "line1": "8799-A Auburn Folsom Road",
+        "line2": "",
+        "line3": "",
+        "state": "CA",
+        "zip": "95746"
+      }
+    ],
+    "channels": [
+      {
+        "id": "assemblymankiley",
+        "type": "Facebook"
+      },
+      {
+        "id": "KevinKileyCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 6,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:6",
+    "emails": [
+      "Assemblymember.Kiley@assembly.ca.gov"
+    ],
+    "name": "Kevin Kiley",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2006"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/kiley.jpg",
+    "position": "CA State Assembly District 6",
+    "urls": [
+      "https://ad06.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "KevinMcCarty",
+        "type": "Facebook"
+      },
+      {
+        "id": "KMcCartyAD7",
+        "type": "Twitter"
+      }
+    ],
+    "district": 7,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:7",
+    "emails": [
+      "Assemblymember.McCarty@assembly.ca.gov"
+    ],
+    "name": "Kevin McCarty",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2007"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD07_McCarty_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 7",
+    "urls": [
+      "http://asmdc.org/members/a07/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberKenCooley",
+        "type": "Facebook"
+      },
+      {
+        "id": "KenCooley",
+        "type": "Twitter"
+      }
+    ],
+    "district": 8,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:8",
+    "emails": [
+      "Assemblymember.Cooley@assembly.ca.gov"
+    ],
+    "name": "Ken Cooley",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2008"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD08-Cooley_0.jpg",
+    "position": "CA State Assembly District 8",
+    "urls": [
+      "http://asmdc.org/members/a08"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberJimCooper",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmJimCooper",
+        "type": "Twitter"
+      }
+    ],
+    "district": 9,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:9",
+    "emails": [
+      "Assemblymember.Cooper@assembly.ca.gov"
+    ],
+    "name": "Jim Cooper",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2009"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD09_Cooper_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 9",
+    "urls": [
+      "http://asmdc.org/members/a09"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberLevine",
+        "type": "Facebook"
+      },
+      {
+        "id": "MarcLevine_CA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 10,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:10",
+    "emails": [
+      "Assemblymember.Levine@assembly.ca.gov"
+    ],
+    "name": "Marc Levine",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2010"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD10-Levine_0.jpg",
+    "position": "CA State Assembly District 10",
+    "urls": [
+      "http://asmdc.org/members/a10/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "ASMJimFrazier",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmFrazier",
+        "type": "Twitter"
+      }
+    ],
+    "district": 11,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:11",
+    "emails": [
+      "Assemblymember.Frazier@assembly.ca.gov"
+    ],
+    "name": "Jim Frazier",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2011"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11_frazier.jpg",
+    "position": "CA State Assembly District 11",
+    "urls": [
+      "http://asmdc.org/members/a11"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942849",
+        "line3": "Room 3149",
+        "state": "CA",
+        "zip": "94249-0012"
+      },
+      {
+        "city": "Modesto",
+        "line1": "3719 Tully Road",
+        "line2": "Suite C",
+        "line3": "",
+        "state": "CA",
+        "zip": "95356"
+      }
+    ],
+    "channels": [
+      {
+        "id": "heath.flora.7",
+        "type": "Facebook"
+      },
+      {
+        "id": "Heath-Flora-For-Assembly-1639151702963142",
+        "type": "Facebook"
+      }
+    ],
+    "district": 12,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:12",
+    "emails": [
+      "Assemblymember.Flora@assembly.ca.gov"
+    ],
+    "name": "Heath Flora",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2012"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/flora.jpg",
+    "position": "CA State Assembly District 12",
+    "urls": [
+      "https://ad12.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "Assemblymember-Susan-Talamantes-Eggman-845443262137483",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmSusanEggman",
+        "type": "Twitter"
+      }
+    ],
+    "district": 13,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:13",
+    "emails": [
+      "Assemblymember.Eggman@assembly.ca.gov"
+    ],
+    "name": "Susan Talamantes Eggman",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2013"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD13.jpg",
+    "position": "CA State Assembly District 13",
+    "urls": [
+      "http://asmdc.org/members/a13"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmGrayson",
+        "type": "Twitter"
+      },
+      {
+        "id": "asmgrayson",
+        "type": "Facebook"
+      }
+    ],
+    "district": 14,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:14",
+    "emails": [
+      "Assemblymember.Grayson@assembly.ca.gov"
+    ],
+    "name": "Tim Grayson",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2014"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14_header.jpg",
+    "position": "CA State Assembly District 14",
+    "urls": [
+      "https://a14.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "tony.thurmond",
+        "type": "Facebook"
+      },
+      {
+        "id": "TonyThurmond",
+        "type": "Twitter"
+      }
+    ],
+    "district": 15,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:15",
+    "emails": [
+      "Assemblymember.Thurmond@assembly.ca.gov"
+    ],
+    "name": "Tony Thurmond",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2015"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD15_Thurmond_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 15",
+    "urls": [
+      "http://asmdc.org/members/a15"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblywomanBaker",
+        "type": "Facebook"
+      },
+      {
+        "id": "CBakerAD16",
+        "type": "Twitter"
+      },
+      {
+        "id": "UCwFw-fiT1TgDRm1ToBGtyfQ",
+        "type": "YouTube"
+      }
+    ],
+    "district": 16,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:16",
+    "emails": [
+      "Assemblymember.Baker@assembly.ca.gov"
+    ],
+    "name": "Catharine B. Baker",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2016"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Baker_LDC_headshot.jpg",
+    "position": "CA State Assembly District 16",
+    "urls": [
+      "https://ad16.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "davidchiu.sf",
+        "type": "Facebook"
+      },
+      {
+        "id": "DavidChiu",
+        "type": "Twitter"
+      }
+    ],
+    "district": 17,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:17",
+    "emails": [
+      "Assemblymember.Chiu@assembly.ca.gov"
+    ],
+    "name": "David Chiu",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2017"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD17_Chiu_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 17",
+    "urls": [
+      "http://asmdc.org/members/a17"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "RobBontaCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "RobBonta",
+        "type": "Twitter"
+      },
+      {
+        "id": "robbonta",
+        "type": "YouTube"
+      }
+    ],
+    "district": 18,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:18",
+    "emails": [
+      "Assemblymember.Bonta@assembly.ca.gov"
+    ],
+    "name": "Rob Bonta",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2018"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD18-Bonta.jpg",
+    "position": "CA State Assembly District 18",
+    "urls": [
+      "http://asmdc.org/members/a18"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "PhilTing",
+        "type": "Twitter"
+      },
+      {
+        "id": "philtingsf",
+        "type": "Facebook"
+      }
+    ],
+    "district": 19,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:19",
+    "emails": [
+      "Assemblymember.Ting@assembly.ca.gov"
+    ],
+    "name": "Philip Y. Ting",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2019"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad19-ting_0.jpg",
+    "position": "CA State Assembly District 19",
+    "urls": [
+      "http://asmdc.org/members/a19"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "BillQuirkAD20",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmBillQuirk",
+        "type": "Twitter"
+      }
+    ],
+    "district": 20,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:20",
+    "emails": [
+      "Assemblymember.Quirk@assembly.ca.gov"
+    ],
+    "name": "Bill Quirk",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2020"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD20-Quirk.jpg",
+    "position": "CA State Assembly District 20",
+    "urls": [
+      "http://asmdc.org/members/a20"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "Assemblymember-Adam-Gray-547595735305656",
+        "type": "Facebook"
+      },
+      {
+        "id": "AdamGrayCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 21,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:21",
+    "emails": [
+      "Assemblymember.Gray@assembly.ca.gov"
+    ],
+    "name": "Adam C. Gray",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2021"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/gray.png",
+    "position": "CA State Assembly District 21",
+    "urls": [
+      "http://asmdc.org/members/a21"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberKevinMullin",
+        "type": "Facebook"
+      },
+      {
+        "id": "kevinmullin",
+        "type": "Twitter"
+      }
+    ],
+    "district": 22,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:22",
+    "emails": [
+      "Assemblymember.Mullin@assembly.ca.gov"
+    ],
+    "name": "Kevin Mullin",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2022"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD22-Mullin.jpg",
+    "position": "CA State Assembly District 22",
+    "urls": [
+      "http://asmdc.org/members/a22"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanJimPatterson",
+        "type": "Facebook"
+      },
+      {
+        "id": "JimPatterson559",
+        "type": "Twitter"
+      }
+    ],
+    "district": 23,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:23",
+    "emails": [
+      "Assemblymember.Patterson@assembly.ca.gov"
+    ],
+    "name": "Jim Patterson",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2023"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD23-Jim_Patterson.jpg",
+    "position": "CA State Assembly District 23",
+    "urls": [
+      "https://ad23.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberBerman",
+        "type": "Facebook"
+      },
+      {
+        "id": "Marc_Berman",
+        "type": "Twitter"
+      }
+    ],
+    "district": 24,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:24",
+    "emails": [
+      "Assemblymember.Berman@assembly.ca.gov"
+    ],
+    "name": "Marc Berman",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2024"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad24_berman_roster150_20161205.jpg",
+    "position": "CA State Assembly District 24",
+    "urls": [
+      "https://a24.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "kansen.chu",
+        "type": "Facebook"
+      },
+      {
+        "id": "KansenChu",
+        "type": "Twitter"
+      }
+    ],
+    "district": 25,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:25",
+    "emails": [
+      "Assemblymember.Chu@assembly.ca.gov"
+    ],
+    "name": "Kansen Chu",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2025"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chu.png",
+    "position": "CA State Assembly District 25",
+    "urls": [
+      "http://asmdc.org/members/a25"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "assemblymandevonmathis",
+        "type": "Facebook"
+      },
+      {
+        "id": "AD26Mathis",
+        "type": "Twitter"
+      }
+    ],
+    "district": 26,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:26",
+    "emails": [
+      "Assemblymember.Mathis@assembly.ca.gov"
+    ],
+    "name": "Devon J. Mathis",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2026"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mathis.png",
+    "position": "CA State Assembly District 26",
+    "urls": [
+      "https://ad26.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "Ash_Kalra",
+        "type": "Twitter"
+      },
+      {
+        "id": "ashkalra2016",
+        "type": "Facebook"
+      },
+      {
+        "id": "ash.kalra",
+        "type": "Facebook"
+      },
+      {
+        "id": "UC0MvOaQnoobqjMMe-0Kzp5g",
+        "type": "YouTube"
+      }
+    ],
+    "district": 27,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:27",
+    "emails": [
+      "Assemblymember.Kalra@assembly.ca.gov"
+    ],
+    "name": "Ash Kalra",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2027"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad27_karla_roster150_20161205.jpg",
+    "position": "CA State Assembly District 27",
+    "urls": [
+      "https://a27.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "Assemblymemberlow",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmEvanLow",
+        "type": "Twitter"
+      }
+    ],
+    "district": 28,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:28",
+    "emails": [
+      "Assemblymember.Low@assembly.ca.gov"
+    ],
+    "name": "Evan Low",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2028"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD28-Low.jpg",
+    "position": "CA State Assembly District 28",
+    "urls": [
+      "http://asmdc.org/members/a28"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberMarkStone",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmMarkStone",
+        "type": "Twitter"
+      }
+    ],
+    "district": 29,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:29",
+    "emails": [
+      "Assemblymember.Stone@assembly.ca.gov"
+    ],
+    "name": "Mark Stone",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2029"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad29.jpg",
+    "position": "CA State Assembly District 29",
+    "urls": [
+      "http://asmdc.org/members/a29"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "annaforassembly",
+        "type": "Twitter"
+      },
+      {
+        "id": "annaforassembly",
+        "type": "Facebook"
+      }
+    ],
+    "district": 30,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:30",
+    "emails": [
+      "Assemblymember.Caballero@assembly.ca.gov"
+    ],
+    "name": "Anna Caballero",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2030"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad30_caballero_roster150_20161205.jpg",
+    "position": "CA State Assembly District 30",
+    "urls": [
+      "https://a30.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942849",
+        "line3": "Room 5155",
+        "state": "CA",
+        "zip": "94249-0031"
+      },
+      {
+        "city": "Fresno",
+        "line1": "2550 Mariposa Mall",
+        "line2": "Suite 5031",
+        "line3": "",
+        "state": "CA",
+        "zip": "93721"
+      }
+    ],
+    "channels": [
+      {
+        "id": "drarambulaAD31",
+        "type": "Twitter"
+      },
+      {
+        "id": "AssemblymemberDrJoaquinArambula",
+        "type": "Facebook"
+      }
+    ],
+    "district": 31,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:31",
+    "emails": [
+      "Assemblymember.Arambula@assembly.ca.gov"
+    ],
+    "name": "Joaquin Arambula",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2031"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad31_2.jpg",
+    "position": "CA State Assembly District 31",
+    "urls": [
+      "http://asmdc.org/members/a31/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "rudysalas",
+        "type": "Facebook"
+      },
+      {
+        "id": "rudysalasjr",
+        "type": "Twitter"
+      },
+      {
+        "id": "rudysalasjr",
+        "type": "YouTube"
+      }
+    ],
+    "district": 32,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:32",
+    "emails": [
+      "Assemblymember.Salas@assembly.ca.gov"
+    ],
+    "name": "Rudy Salas Jr.",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2032"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD32-Salas_0.jpg",
+    "position": "CA State Assembly District 32",
+    "urls": [
+      "http://asmdc.org/members/a32"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanObernolte",
+        "type": "Facebook"
+      },
+      {
+        "id": "JayObernolte",
+        "type": "Twitter"
+      }
+    ],
+    "district": 33,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:33",
+    "emails": [
+      "Assemblymember.Obernolte@assembly.ca.gov"
+    ],
+    "name": "Jay Obernolte",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2033"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/obernolte.png",
+    "position": "CA State Assembly District 33",
+    "urls": [
+      "https://ad33.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Room 4208",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssmVinceFong",
+        "type": "Facebook"
+      },
+      {
+        "id": "vfong",
+        "type": "Twitter"
+      },
+      {
+        "id": "vincentfong",
+        "type": "Facebook"
+      },
+      {
+        "id": "UC9JDpzBVKpjswaSY7CcRM2Q",
+        "type": "YouTube"
+      }
+    ],
+    "district": 34,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:34",
+    "emails": [
+      "Assemblymember.Fong@assembly.ca.gov"
+    ],
+    "name": "Vince Fong",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2034"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/fong.jpg",
+    "position": "CA State Assembly District 34",
+    "urls": [
+      "https://ad34.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942812",
+        "line3": "Room 4102",
+        "state": "CA",
+        "zip": "94249-0035"
+      },
+      {
+        "city": "San Luis Obispo",
+        "line1": "1150 Osos Street",
+        "line2": "Suite 207",
+        "line3": "",
+        "state": "CA",
+        "zip": "93401"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmCunningham",
+        "type": "Facebook"
+      },
+      {
+        "id": "Cunning_Jordan",
+        "type": "Twitter"
+      }
+    ],
+    "district": 35,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:35",
+    "emails": [
+      "Assemblymember.Cunningham@assembly.ca.gov"
+    ],
+    "name": "Jordan Cunningham",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2035"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/cunningham.jpg",
+    "position": "CA State Assembly District 35",
+    "urls": [
+      "https://ad35.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanLackey",
+        "type": "Facebook"
+      },
+      {
+        "id": "TomLackey36",
+        "type": "Twitter"
+      }
+    ],
+    "district": 36,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:36",
+    "emails": [
+      "Assemblymember.Lackey@assembly.ca.gov"
+    ],
+    "name": "Tom Lackey",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2036"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lackey.png",
+    "position": "CA State Assembly District 36",
+    "urls": [
+      "https://ad36.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmMoniqueLimon",
+        "type": "Twitter"
+      },
+      {
+        "id": "S.Monique.Limon",
+        "type": "Facebook"
+      }
+    ],
+    "district": 37,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:37",
+    "emails": [
+      "Assemblymember.Limon@assembly.ca.gov"
+    ],
+    "name": "S. Monique Limon",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2037"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad37.jpg",
+    "position": "CA State Assembly District 37",
+    "urls": [
+      "https://a37.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Suite #4158",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanDanteAcosta",
+        "type": "Facebook"
+      },
+      {
+        "id": "DanteAcostaSCV",
+        "type": "Twitter"
+      }
+    ],
+    "district": 38,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:38",
+    "emails": [
+      "Assemblymember.Acosta@assembly.ca.gov"
+    ],
+    "name": "Dante Acosta",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2038"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/acosta.jpg",
+    "position": "CA State Assembly District 38",
+    "urls": [
+      "https://ad38.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "RaulJBocanegra",
+        "type": "Twitter"
+      },
+      {
+        "id": "AsmBocanegra",
+        "type": "Facebook"
+      }
+    ],
+    "district": 39,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:39",
+    "emails": [
+      "Assemblymember.Bocanegra@assembly.ca.gov"
+    ],
+    "name": "Raul Bocanegra",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2039"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad39_bocanegra_roster150_20161205.jpg",
+    "position": "CA State Assembly District 39",
+    "urls": [
+      "https://a39.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanMarcSteinorth",
+        "type": "Facebook"
+      },
+      {
+        "id": "MarcSteinorth",
+        "type": "Twitter"
+      },
+      {
+        "id": "MarcSteinorth",
+        "type": "YouTube"
+      }
+    ],
+    "district": 40,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:40",
+    "emails": [
+      "Assemblymember.Steinorth@assembly.ca.gov"
+    ],
+    "name": "Marc Steinorth",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2040"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Steinorth_LDC_headshot.jpg",
+    "position": "CA State Assembly District 40",
+    "urls": [
+      "https://ad40.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "chris.holden.507679",
+        "type": "Facebook"
+      },
+      {
+        "id": "ChrisHoldenNews",
+        "type": "Twitter"
+      }
+    ],
+    "district": 41,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:41",
+    "emails": [
+      "Assemblymember.Holden@assembly.ca.gov"
+    ],
+    "name": "Chris R. Holden",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2041"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD41-Holden.jpg",
+    "position": "CA State Assembly District 41",
+    "urls": [
+      "http://asmdc.org/members/a41"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "ChadMayesCA",
+        "type": "Facebook"
+      },
+      {
+        "id": "ChadMayesCA",
+        "type": "Twitter"
+      }
+    ],
+    "district": 42,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:42",
+    "emails": [
+      "Assemblymember.Mayes@assembly.ca.gov"
+    ],
+    "name": "Chad Mayes",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2042"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Mayes_LDC_headshot.jpg",
+    "position": "CA State Assembly District 42",
+    "urls": [
+      "https://ad42.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberLauraFriedman",
+        "type": "Facebook"
+      },
+      {
+        "id": "laurafriedman43",
+        "type": "Twitter"
+      }
+    ],
+    "district": 43,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:43",
+    "emails": [
+      "Assemblymember.Friedman@assembly.ca.gov"
+    ],
+    "name": "Laura Friedman",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2043"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad43_friedman_roster150_20161205.jpg",
+    "position": "CA State Assembly District 43",
+    "urls": [
+      "https://a43.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberJacquiIrwin",
+        "type": "Facebook"
+      },
+      {
+        "id": "ASM_Irwin",
+        "type": "Twitter"
+      }
+    ],
+    "district": 44,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:44",
+    "emails": [
+      "Assemblymember.Irwin@assembly.ca.gov"
+    ],
+    "name": "Jacqui Irwin",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2044"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 44",
+    "urls": [
+      "http://asmdc.org/members/a44"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberDababneh",
+        "type": "Facebook"
+      },
+      {
+        "id": "MattDababneh",
+        "type": "Twitter"
+      }
+    ],
+    "district": 45,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:45",
+    "emails": [
+      "Assemblymember.Dababneh@assembly.ca.gov"
+    ],
+    "name": "Matthew Dababneh",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2045"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad45.jpg",
+    "position": "CA State Assembly District 45",
+    "urls": [
+      "http://www.asmdc.org/members/a45"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AdrinNazarian",
+        "type": "Facebook"
+      },
+      {
+        "id": "Asm_Nazarian",
+        "type": "Twitter"
+      },
+      {
+        "id": "UCf9v2ou0Ftx1psXB74y_b9A",
+        "type": "YouTube"
+      }
+    ],
+    "district": 46,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:46",
+    "emails": [
+      "Assemblymember.Nazarian@assembly.ca.gov"
+    ],
+    "name": "Adrin Nazarian",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2046"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD46-Nazarian.jpg",
+    "position": "CA State Assembly District 46",
+    "urls": [
+      "http://asmdc.org/members/a46"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmReyes",
+        "type": "Facebook"
+      },
+      {
+        "id": "eloise.reyes.1",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmReyes47",
+        "type": "Twitter"
+      },
+      {
+        "id": "reyes4assembly",
+        "type": "Twitter"
+      }
+    ],
+    "district": 47,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:47",
+    "emails": [
+      "Assemblymember.Reyes@assembly.ca.gov"
+    ],
+    "name": "Eloise Reyes",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2047"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad47_reyes_roster150_20161205.jpg",
+    "position": "CA State Assembly District 47",
+    "urls": [
+      "https://a47.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "P.O. Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "pg",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmBlancaRubio",
+        "type": "Twitter"
+      }
+    ],
+    "district": 48,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:48",
+    "emails": [
+      "Assemblymember.Rubio@assembly.ca.gov"
+    ],
+    "name": "Blanca E. Rubio",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2048"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad48_rubio_roster150_20161205.jpg",
+    "position": "CA State Assembly District 48",
+    "urls": [
+      "https://a48.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberEdChau",
+        "type": "Facebook"
+      }
+    ],
+    "district": 49,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:49",
+    "emails": [
+      "Assemblymember.Chau@assembly.ca.gov"
+    ],
+    "name": "Ed Chau",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2049"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD49-Chau.jpg",
+    "position": "CA State Assembly District 49",
+    "urls": [
+      "http://asmdc.org/members/a49"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberBloom",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmRichardBloom",
+        "type": "Twitter"
+      }
+    ],
+    "district": 50,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:50",
+    "emails": [
+      "Assemblymember.Bloom@assembly.ca.gov"
+    ],
+    "name": "Richard Bloom",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2050"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD50-Bloom.jpg",
+    "position": "CA State Assembly District 50",
+    "urls": [
+      "http://asmdc.org/members/a50"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "assemblymemberjimmygomez",
+        "type": "Facebook"
+      },
+      {
+        "id": "Assembly51",
+        "type": "Twitter"
+      }
+    ],
+    "district": 51,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:51",
+    "emails": [
+      "Assemblymember.Gomez@assembly.ca.gov"
+    ],
+    "name": "Jimmy Gomez",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2051"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD51-Gomez_0.jpg",
+    "position": "CA State Assembly District 51",
+    "urls": [
+      "http://asmdc.org/members/a51"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberRodriguez",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmRodriguez52",
+        "type": "Twitter"
+      }
+    ],
+    "district": 52,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:52",
+    "emails": [
+      "Assemblymember.Rodriguez@assembly.ca.gov"
+    ],
+    "name": "Freddie Rodriguez",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2052"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD52_Rodriguez_0.jpg",
+    "position": "CA State Assembly District 52",
+    "urls": [
+      "http://www.asmdc.org/members/a52/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SantiagoAD53",
+        "type": "Twitter"
+      },
+      {
+        "id": "people",
+        "type": "Facebook"
+      }
+    ],
+    "district": 53,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:53",
+    "emails": [
+      "Assemblymember.Santiago@assembly.ca.gov"
+    ],
+    "name": "Miguel Santiago",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2053"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD53_Santiago_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 53",
+    "urls": [
+      "http://asmdc.org/members/a53"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberRidleyThomas",
+        "type": "Facebook"
+      }
+    ],
+    "district": 54,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:54",
+    "emails": [
+      "Assemblymember.Ridley-Thomas@assembly.ca.gov"
+    ],
+    "name": "Sebastian Ridley-Thomas",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2054"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD54.jpg",
+    "position": "CA State Assembly District 54",
+    "urls": [
+      "http://asmdc.org/members/a54"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942849",
+        "line3": "Room 4177",
+        "state": "CA",
+        "zip": "94249-0055"
+      },
+      {
+        "city": "Brea",
+        "line1": "3 Point Drive",
+        "line2": "Suite 313",
+        "line3": "",
+        "state": "CA",
+        "zip": "92821"
+      }
+    ],
+    "channels": [
+      {
+        "id": "PhillipChenCA",
+        "type": "Twitter"
+      },
+      {
+        "id": "assemblymanphillipchen",
+        "type": "Facebook"
+      }
+    ],
+    "district": 55,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:55",
+    "emails": [
+      "Assemblymember.Chen@assembly.ca.gov"
+    ],
+    "name": "Phillip Chen",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2055"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg",
+    "position": "CA State Assembly District 55",
+    "urls": [
+      "https://ad55.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "asssemblymembereduardogarcia",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmEGarciaAD56",
+        "type": "Twitter"
+      }
+    ],
+    "district": 56,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:56",
+    "emails": [
+      "Assemblymember.Garcia@assembly.ca.gov"
+    ],
+    "name": "Eduardo Garcia",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2056"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD56_Garcia_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 56",
+    "urls": [
+      "http://asmdc.org/members/a56"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberIanCalderon",
+        "type": "Facebook"
+      },
+      {
+        "id": "IanAD57",
+        "type": "Twitter"
+      }
+    ],
+    "district": 57,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:57",
+    "emails": [
+      "Assemblymember.Calderon@assembly.ca.gov"
+    ],
+    "name": "Ian C. Calderon",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2057"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD57.jpg",
+    "position": "CA State Assembly District 57",
+    "urls": [
+      "http://asmdc.org/members/a57"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "cristinagarciaad58",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmGarcia",
+        "type": "Twitter"
+      }
+    ],
+    "district": 58,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:58",
+    "emails": [
+      "Assemblymember.Garcia@assembly.ca.gov"
+    ],
+    "name": "Cristina Garcia",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2058"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD58-Garcia.jpg",
+    "position": "CA State Assembly District 58",
+    "urls": [
+      "http://asmdc.org/members/a58"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "reggiejonessawyersr",
+        "type": "Facebook"
+      },
+      {
+        "id": "JonesSawyer59",
+        "type": "Twitter"
+      }
+    ],
+    "district": 59,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:59",
+    "emails": [
+      "Assemblymember.Jones-Sawyer@assembly.ca.gov"
+    ],
+    "name": "Reginald B. Jones-Sawyer Sr.",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2059"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD59-Jones-Sawyer.jpg",
+    "position": "CA State Assembly District 59",
+    "urls": [
+      "http://asmdc.org/members/a59"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942849",
+        "line3": "Room 5164",
+        "state": "CA",
+        "zip": "94249-0060"
+      },
+      {
+        "city": "Corona",
+        "line1": "4740 Green River Road",
+        "line2": "Suite 310-311",
+        "line3": "",
+        "state": "CA",
+        "zip": "92880"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmCervantes",
+        "type": "Twitter"
+      },
+      {
+        "id": "asmsabrinacervantes",
+        "type": "Facebook"
+      }
+    ],
+    "district": 60,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:60",
+    "emails": [
+      "Assemblymember.Cervantes@assembly.ca.gov"
+    ],
+    "name": "Sabrina Cervantes",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2060"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad60_cervantes_roster150_20161205.jpg",
+    "position": "CA State Assembly District 60",
+    "urls": [
+      "https://a60.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmJoseMedina",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmJoseMedina",
+        "type": "Twitter"
+      }
+    ],
+    "district": 61,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:61",
+    "emails": [
+      "Assemblymember.Medina@assembly.ca.gov"
+    ],
+    "name": "Jose Medina",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2061"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD61-Medina_0.jpg",
+    "position": "CA State Assembly District 61",
+    "urls": [
+      "http://asmdc.org/members/a61"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblywomanAutumnRBurke",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmAutumnBurke",
+        "type": "Twitter"
+      }
+    ],
+    "district": 62,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:62",
+    "emails": [
+      "Assemblymember.Burke@assembly.ca.gov"
+    ],
+    "name": "Autumn R. Burke",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2062"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD62_Burke_Portrait150_20141201_v2.jpg",
+    "position": "CA State Assembly District 62",
+    "urls": [
+      "http://asmdc.org/members/a62"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "SpeakerAnthonyRendon",
+        "type": "Facebook"
+      },
+      {
+        "id": "Rendon63rd",
+        "type": "Twitter"
+      }
+    ],
+    "district": 63,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:63",
+    "emails": [
+      "Assemblymember.Rendon@assembly.ca.gov"
+    ],
+    "name": "Anthony Rendon",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2063"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad63-rendon_0.jpg",
+    "position": "CA State Assembly District 63",
+    "urls": [
+      "http://asmdc.org/members/a63"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberMikeGipson",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmMikeGipson",
+        "type": "Twitter"
+      }
+    ],
+    "district": 64,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:64",
+    "emails": [
+      "Assemblymember.Gipson@assembly.ca.gov"
+    ],
+    "name": "Mike A. Gipson",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2064"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 64",
+    "urls": [
+      "http://asmdc.org/members/a64"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Room # 4177",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "QuirkSilva65th",
+        "type": "Facebook"
+      },
+      {
+        "id": "QuirkSilva65th",
+        "type": "Twitter"
+      }
+    ],
+    "district": 65,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:65",
+    "emails": [
+      "Assemblymember.Quirk-Silva@assembly.ca.gov"
+    ],
+    "name": "Sharon Quirk-Silva",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2065"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_roster150_20161205.jpg",
+    "position": "CA State Assembly District 65",
+    "urls": [
+      "https://a65.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "California State Capitol",
+        "line2": "P.O. Box 942849",
+        "line3": "Room 2179",
+        "state": "CA",
+        "zip": "94249-0066"
+      },
+      {
+        "city": "Torrance",
+        "line1": "23211 Hawthorne Blvd",
+        "line2": "Suite 200A",
+        "line3": "",
+        "state": "CA",
+        "zip": "90505"
+      }
+    ],
+    "channels": [
+      {
+        "id": "almuratsuchi",
+        "type": "Facebook"
+      },
+      {
+        "id": "AMuratsuchi",
+        "type": "Twitter"
+      }
+    ],
+    "district": 66,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:66",
+    "emails": [
+      "Assemblymember.Muratsuchi@assembly.ca.gov"
+    ],
+    "name": "Al Muratsuchi",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2066"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad66.jpg",
+    "position": "CA State Assembly District 66",
+    "urls": [
+      "https://a66.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "asmMelendez",
+        "type": "Twitter"
+      },
+      {
+        "id": "UC-bu7YP0RwgQd4no9sKK2jA",
+        "type": "YouTube"
+      },
+      {
+        "id": "MelissaMelendezCA",
+        "type": "Facebook"
+      }
+    ],
+    "district": 67,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:67",
+    "emails": [
+      "Assemblymember.Melendez@assembly.ca.gov"
+    ],
+    "name": "Melissa A. Melendez",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2067"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/MelissaMelendez.jpg",
+    "position": "CA State Assembly District 67",
+    "urls": [
+      "https://ad67.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Suite #3098",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "drstevenchoi",
+        "type": "Facebook"
+      },
+      {
+        "id": "irvinespeaker",
+        "type": "Twitter"
+      }
+    ],
+    "district": 68,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:68",
+    "emails": [
+      "Assemblymember.Choi@assembly.ca.gov"
+    ],
+    "name": "Steven S. Choi",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2068"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg",
+    "position": "CA State Assembly District 68",
+    "urls": [
+      "https://ad68.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "district": 69,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:69",
+    "emails": [
+      "Assemblymember.Daly@assembly.ca.gov"
+    ],
+    "name": "Tom Daly",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2069"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD69-Daly.jpg",
+    "position": "CA State Assembly District 69",
+    "urls": [
+      "http://asmdc.org/members/a69"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymemberPatrickODonnell",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmPatODonnell",
+        "type": "Twitter"
+      }
+    ],
+    "district": 70,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:70",
+    "emails": [
+      "Assemblymember.O'Donnell@assembly.ca.gov"
+    ],
+    "name": "Patrick O'Donnell",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2070"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD70_ODonnell_Portrait150_20141201.jpg",
+    "position": "CA State Assembly District 70",
+    "urls": [
+      "http://asmdc.org/members/a70"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "State Capitol",
+        "line2": "Room #4009",
+        "state": "CA",
+        "zip": "95814"
+      }
+    ],
+    "channels": [
+      {
+        "id": "randyvoepel",
+        "type": "Facebook"
+      },
+      {
+        "id": "RandyVoepel",
+        "type": "Twitter"
+      }
+    ],
+    "district": 71,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:71",
+    "emails": [
+      "Assemblymember.Voepel@assembly.ca.gov"
+    ],
+    "name": "Randy Voepel",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2071"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/voepel.jpg",
+    "position": "CA State Assembly District 71",
+    "urls": [
+      "https://ad71.asmrc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "UCF2XfUnj3T8kubxnT9-m38A",
+        "type": "YouTube"
+      },
+      {
+        "id": "JoinTravisAllen",
+        "type": "Twitter"
+      },
+      {
+        "id": "JoinTravisAllen",
+        "type": "Facebook"
+      }
+    ],
+    "district": 72,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:72",
+    "emails": [
+      "Assemblymember.Allen@assembly.ca.gov"
+    ],
+    "name": "Travis Allen",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2072"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD72-Travis_Allen.jpg",
+    "position": "CA State Assembly District 72",
+    "urls": [
+      "https://ad72.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AssemblymanBillBrough",
+        "type": "Facebook"
+      }
+    ],
+    "district": 73,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:73",
+    "emails": [
+      "Assemblymember.Brough@assembly.ca.gov"
+    ],
+    "name": "William P. Brough",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2073"
+    ],
+    "position": "CA State Assembly District 73",
+    "urls": [
+      "https://ad73.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "assemblymanharper",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmHarper",
+        "type": "Twitter"
+      },
+      {
+        "id": "UCgVN7FUc7Af90DkaAkULngw",
+        "type": "YouTube"
+      }
+    ],
+    "district": 74,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:74",
+    "emails": [
+      "Assemblymember.Harper@assembly.ca.gov"
+    ],
+    "name": "Matthew Harper",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2074"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Harper_LDC_headshot.jpg",
+    "position": "CA State Assembly District 74",
+    "urls": [
+      "https://ad74.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "StateAssembly75",
+        "type": "Twitter"
+      },
+      {
+        "id": "MarieWaldronforStateAssembly",
+        "type": "Facebook"
+      },
+      {
+        "id": "JoinWaldron",
+        "type": "Facebook"
+      }
+    ],
+    "district": 75,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:75",
+    "emails": [
+      "Assemblymember.Waldron@assembly.ca.gov"
+    ],
+    "name": "Marie Waldron",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2075"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD75-Marie_Waldron.jpg",
+    "position": "CA State Assembly District 75",
+    "urls": [
+      "https://ad75.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "assemblymanrocky.chavez",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmRocky",
+        "type": "Twitter"
+      }
+    ],
+    "district": 76,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:76",
+    "emails": [
+      "Assemblymember.Chavez@assembly.ca.gov"
+    ],
+    "name": "Rocky J. Chavez",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2076"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD76-Rocky_Chavez.jpg",
+    "position": "CA State Assembly District 76",
+    "urls": [
+      "https://ad76.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "briankmaienschein",
+        "type": "Facebook"
+      },
+      {
+        "id": "BMaienschein",
+        "type": "Twitter"
+      }
+    ],
+    "district": 77,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:77",
+    "emails": [
+      "Assemblymember.Maienschein@assembly.ca.gov"
+    ],
+    "name": "Brian Maienschein",
+    "party": "Republican",
+    "phones": [
+      "(916) 319-2077"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad77-brian_maienschein_120x150.jpg",
+    "position": "CA State Assembly District 77",
+    "urls": [
+      "https://ad77.asmrc.org/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO Box 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "AsmToddGloria",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmToddGloria",
+        "type": "Twitter"
+      }
+    ],
+    "district": 78,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:78",
+    "emails": [
+      "Assemblymember.Gloria@assembly.ca.gov"
+    ],
+    "name": "Todd Gloria",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2078"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad78_gloria_roster150_20161205.jpg",
+    "position": "CA State Assembly District 78",
+    "urls": [
+      "https://a78.asmdc.org"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "ShirleyWeberCalliforniaStateAssembly",
+        "type": "Facebook"
+      },
+      {
+        "id": "AsmShirleyWeber",
+        "type": "Twitter"
+      }
+    ],
+    "district": 79,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:79",
+    "emails": [
+      "Assemblymember.Weber@assembly.ca.gov"
+    ],
+    "name": "Shirley N. Weber",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2079"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD79-Weber.jpg",
+    "position": "CA State Assembly District 79",
+    "urls": [
+      "http://asmdc.org/members/a79/"
+    ]
+  },
+  {
+    "address": [
+      {
+        "city": "Sacramento",
+        "line1": "PO BOX 942849",
+        "state": "CA",
+        "zip": "94249"
+      }
+    ],
+    "channels": [
+      {
+        "id": "lorena.gonzalez.942",
+        "type": "Facebook"
+      },
+      {
+        "id": "LorenaAD80",
+        "type": "Twitter"
+      }
+    ],
+    "district": 80,
+    "divisionId": "ocd-division/country:us/state:ca/sldl:80",
+    "emails": [
+      "Assemblymember.Gonzalez@assembly.ca.gov"
+    ],
+    "name": "Lorena S. Gonzalez",
+    "party": "Democratic",
+    "phones": [
+      "(916) 319-2080"
+    ],
+    "photoUrl": "http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD80.jpg",
+    "position": "CA State Assembly District 80",
+    "urls": [
+      "http://asmdc.org/members/a80/"
+    ]
+  }
+]
