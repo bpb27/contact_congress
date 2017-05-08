@@ -45,6 +45,7 @@
     "voteClinton": 34.1,
     "votePersonal": 96.4,
     "voteTrump": 63.5,
+    "voteTrumpCare": true,
     "yearElected": "2013*",
     "yearReelection": "2018"
   },
@@ -99,6 +100,7 @@
     "voteClinton": 33,
     "votePersonal": 48.8,
     "voteTrump": 64.9,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -145,6 +147,7 @@
     "voteClinton": 32.3,
     "votePersonal": 66.9,
     "voteTrump": 65.3,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -204,6 +207,7 @@
     "voteClinton": 17.4,
     "votePersonal": 98.5,
     "voteTrump": 80.4,
+    "voteTrumpCare": true,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -259,6 +263,7 @@
     "voteClinton": 31.3,
     "votePersonal": 66.7,
     "voteTrump": 64.7,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -314,6 +319,7 @@
     "voteClinton": 26.1,
     "votePersonal": 74.5,
     "voteTrump": 70.8,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -375,6 +381,7 @@
     "voteClinton": 69.8,
     "votePersonal": 98.4,
     "voteTrump": 28.6,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -423,6 +430,7 @@
     "voteClinton": 37.6,
     "votePersonal": 50.3,
     "voteTrump": 52.8,
+    "voteTrumpCare": true,
     "yearElected": "1973*",
     "yearReelection": "2018"
   },
@@ -470,6 +478,7 @@
     "voteClinton": 46.6,
     "votePersonal": 50.7,
     "voteTrump": 47.7,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -518,6 +527,7 @@
     "voteClinton": 49.6,
     "votePersonal": 57,
     "voteTrump": 44.7,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -572,6 +582,7 @@
     "voteClinton": 62.4,
     "votePersonal": 100,
     "voteTrump": 32.5,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -632,6 +643,7 @@
     "voteClinton": 27.5,
     "votePersonal": 71.5,
     "voteTrump": 67.7,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -675,6 +687,7 @@
     "voteClinton": 36.5,
     "votePersonal": 64.1,
     "voteTrump": 57.6,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -716,6 +729,7 @@
     "voteClinton": 42.4,
     "votePersonal": 62.1,
     "voteTrump": 52.4,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -758,6 +772,7 @@
     "voteClinton": 71.8,
     "votePersonal": 75.2,
     "voteTrump": 22.6,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -800,6 +815,7 @@
     "voteClinton": 37,
     "votePersonal": 68.5,
     "voteTrump": 58.1,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -841,6 +857,7 @@
     "voteClinton": 54.7,
     "votePersonal": 60.9,
     "voteTrump": 38.4,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -895,6 +912,7 @@
     "voteClinton": 30.2,
     "votePersonal": 76.3,
     "voteTrump": 65,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -942,6 +960,7 @@
     "voteClinton": 41.7,
     "votePersonal": 58.4,
     "voteTrump": 52.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -996,6 +1015,7 @@
     "voteClinton": 30.5,
     "votePersonal": 77.3,
     "voteTrump": 61.9,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -1057,6 +1077,7 @@
     "voteClinton": 31.3,
     "votePersonal": 74.9,
     "voteTrump": 64.2,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -1112,6 +1133,7 @@
     "voteClinton": 36.5,
     "votePersonal": 59.1,
     "voteTrump": 56.2,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1178,6 +1200,7 @@
     "voteClinton": 69,
     "votePersonal": 76.9,
     "voteTrump": 23.3,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1232,6 +1255,7 @@
     "voteClinton": 53,
     "votePersonal": 59.4,
     "voteTrump": 40.4,
+    "voteTrumpCare": false,
     "yearElected": "2009*",
     "yearReelection": "2018"
   },
@@ -1274,6 +1298,7 @@
     "voteClinton": 39.3,
     "votePersonal": 62.7,
     "voteTrump": 54,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -1327,6 +1352,7 @@
     "voteClinton": 69.2,
     "votePersonal": 76.9,
     "voteTrump": 24.3,
+    "voteTrumpCare": false,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -1368,6 +1394,7 @@
     "voteClinton": 69.2,
     "votePersonal": 75.4,
     "voteTrump": 24.4,
+    "voteTrumpCare": false,
     "yearElected": "2005*",
     "yearReelection": "2018"
   },
@@ -1410,6 +1437,7 @@
     "voteClinton": 52.3,
     "votePersonal": 51.2,
     "voteTrump": 40.9,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1459,6 +1487,7 @@
     "voteClinton": 39.6,
     "votePersonal": 62.3,
     "voteTrump": 54.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1506,6 +1535,7 @@
     "voteClinton": 56.6,
     "votePersonal": 57.4,
     "voteTrump": 38,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -1549,6 +1579,7 @@
     "voteClinton": 48.5,
     "votePersonal": 51.7,
     "voteTrump": 45.5,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -1597,6 +1628,7 @@
     "voteClinton": 71.5,
     "votePersonal": 72.1,
     "voteTrump": 22.7,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -1637,6 +1669,7 @@
     "voteClinton": 86.2,
     "votePersonal": 80.9,
     "voteTrump": 8.7,
+    "voteTrumpCare": false,
     "yearElected": "1987*",
     "yearReelection": "2018"
   },
@@ -1679,6 +1712,7 @@
     "voteClinton": 87.4,
     "votePersonal": 90.8,
     "voteTrump": 6.8,
+    "voteTrumpCare": false,
     "yearElected": "1998*",
     "yearReelection": "2018"
   },
@@ -1721,6 +1755,7 @@
     "voteClinton": 76.9,
     "votePersonal": 80.9,
     "voteTrump": 18.2,
+    "voteTrumpCare": false,
     "yearElected": "2008*",
     "yearReelection": "2018"
   },
@@ -1763,6 +1798,7 @@
     "voteClinton": 69.9,
     "votePersonal": 73.8,
     "voteTrump": 24.2,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -1811,6 +1847,7 @@
     "voteClinton": 58,
     "votePersonal": 58,
     "voteTrump": 36.4,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -1853,6 +1890,7 @@
     "voteClinton": 73.9,
     "votePersonal": 61,
     "voteTrump": 20.5,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -1894,6 +1932,7 @@
     "voteClinton": 73.4,
     "votePersonal": 71.1,
     "voteTrump": 20.2,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -1937,6 +1976,7 @@
     "voteClinton": 72.9,
     "votePersonal": 73.9,
     "voteTrump": 21.5,
+    "voteTrumpCare": false,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -1985,6 +2025,7 @@
     "voteClinton": 70.4,
     "votePersonal": 70.8,
     "voteTrump": 23.2,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -2032,6 +2073,7 @@
     "voteClinton": 55.2,
     "votePersonal": 56.7,
     "voteTrump": 39.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2080,6 +2122,7 @@
     "voteClinton": 42.6,
     "votePersonal": 67.6,
     "voteTrump": 52.1,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -2121,6 +2164,7 @@
     "voteClinton": 36.1,
     "votePersonal": 69.2,
     "voteTrump": 58.1,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -2169,6 +2213,7 @@
     "voteClinton": 56.7,
     "votePersonal": 53.4,
     "voteTrump": 36.5,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -2224,6 +2269,7 @@
     "voteClinton": 50.3,
     "votePersonal": 53.1,
     "voteTrump": 43.6,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -2272,6 +2318,7 @@
     "voteClinton": 57.9,
     "votePersonal": 60.4,
     "voteTrump": 36,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2321,6 +2368,7 @@
     "voteClinton": 66,
     "votePersonal": 67.4,
     "voteTrump": 28.4,
+    "voteTrumpCare": false,
     "yearElected": "2009*",
     "yearReelection": "2018"
   },
@@ -2368,6 +2416,7 @@
     "voteClinton": 72.1,
     "votePersonal": 78,
     "voteTrump": 22.3,
+    "voteTrumpCare": false,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -2409,6 +2458,7 @@
     "voteClinton": 77.7,
     "votePersonal": 74.7,
     "voteTrump": 16.8,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2451,6 +2501,7 @@
     "voteClinton": 69.1,
     "votePersonal": 72.6,
     "voteTrump": 25.7,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -2493,6 +2544,7 @@
     "voteClinton": 57.7,
     "votePersonal": 56.1,
     "voteTrump": 36.6,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -2535,6 +2587,7 @@
     "voteClinton": 66.6,
     "votePersonal": 61.6,
     "voteTrump": 27.7,
+    "voteTrumpCare": false,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -2584,6 +2637,7 @@
     "voteClinton": 67.8,
     "votePersonal": 66.4,
     "voteTrump": 26.5,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -2603,7 +2657,7 @@
     "linkMeeting": "",
     "linkWikipedia": "",
     "name": "Vacant Seat",
-    "note": "Vacated by Xavier Becerra, election 4/4/17",
+    "note": "Vacated by Xavier Becerra, election 6/6/17",
     "numbersAca": 28900,
     "numbersMedicaidAca": 112690,
     "party": "NA",
@@ -2619,6 +2673,7 @@
     "voteClinton": 83.6,
     "votePersonal": 0,
     "voteTrump": 10.7,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -2661,6 +2716,7 @@
     "voteClinton": 67.7,
     "votePersonal": 72.4,
     "voteTrump": 26.9,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -2708,6 +2764,7 @@
     "voteClinton": 52.2,
     "votePersonal": 62.1,
     "voteTrump": 43.4,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2750,6 +2807,7 @@
     "voteClinton": 85.7,
     "votePersonal": 81.1,
     "voteTrump": 9.6,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -2792,6 +2850,7 @@
     "voteClinton": 67,
     "votePersonal": 70.5,
     "voteTrump": 27.4,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -2840,6 +2899,7 @@
     "voteClinton": 51.5,
     "votePersonal": 57.2,
     "voteTrump": 42.9,
+    "voteTrumpCare": true,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -2881,6 +2941,7 @@
     "voteClinton": 82.2,
     "votePersonal": 71.4,
     "voteTrump": 12.8,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -2923,6 +2984,7 @@
     "voteClinton": 61,
     "votePersonal": 65,
     "voteTrump": 33.1,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -2964,6 +3026,7 @@
     "voteClinton": 41.4,
     "votePersonal": 58.8,
     "voteTrump": 53.4,
+    "voteTrumpCare": true,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -3005,6 +3068,7 @@
     "voteClinton": 78.4,
     "votePersonal": 76.1,
     "voteTrump": 16.7,
+    "voteTrumpCare": false,
     "yearElected": "1991",
     "yearReelection": "2018"
   },
@@ -3053,6 +3117,7 @@
     "voteClinton": 83,
     "votePersonal": 52.2,
     "voteTrump": 12.3,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -3094,6 +3159,7 @@
     "voteClinton": 49.8,
     "votePersonal": 58.6,
     "voteTrump": 44.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -3136,6 +3202,7 @@
     "voteClinton": 66.3,
     "votePersonal": 70,
     "voteTrump": 27.9,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -3178,6 +3245,7 @@
     "voteClinton": 62.6,
     "votePersonal": 63.7,
     "voteTrump": 31,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -3220,6 +3288,7 @@
     "voteClinton": 47.9,
     "votePersonal": 58.3,
     "voteTrump": 46.2,
+    "voteTrumpCare": true,
     "yearElected": "1989",
     "yearReelection": "2018"
   },
@@ -3269,6 +3338,7 @@
     "voteClinton": 50.7,
     "votePersonal": 50.3,
     "voteTrump": 43.2,
+    "voteTrumpCare": true,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -3318,6 +3388,7 @@
     "voteClinton": 39.6,
     "votePersonal": 63.5,
     "voteTrump": 54.6,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -3365,6 +3436,7 @@
     "voteClinton": 71.8,
     "votePersonal": 72.8,
     "voteTrump": 22.8,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -3407,6 +3479,7 @@
     "voteClinton": 58.1,
     "votePersonal": 56.5,
     "voteTrump": 35.6,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -3448,6 +3521,7 @@
     "voteClinton": 64.5,
     "votePersonal": 67,
     "voteTrump": 29.6,
+    "voteTrumpCare": false,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -3489,6 +3563,7 @@
     "voteClinton": 69,
     "votePersonal": 67.9,
     "voteTrump": 23.2,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -3532,6 +3607,7 @@
     "voteClinton": 56.2,
     "votePersonal": 56.9,
     "voteTrump": 34.9,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -3592,6 +3668,7 @@
     "voteClinton": 40,
     "votePersonal": 54.6,
     "voteTrump": 52,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -3640,6 +3717,7 @@
     "voteClinton": 34.3,
     "votePersonal": 63.6,
     "voteTrump": 57.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -3688,6 +3766,7 @@
     "voteClinton": 33.2,
     "votePersonal": 62.3,
     "voteTrump": 57.2,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -3730,6 +3809,7 @@
     "voteClinton": 50.2,
     "votePersonal": 50.9,
     "voteTrump": 41.3,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -3771,6 +3851,7 @@
     "voteClinton": 51.4,
     "votePersonal": 55.2,
     "voteTrump": 39.4,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -3812,6 +3893,7 @@
     "voteClinton": 59.4,
     "votePersonal": 64.1,
     "voteTrump": 36.3,
+    "voteTrumpCare": false,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -3860,6 +3942,7 @@
     "voteClinton": 48.7,
     "votePersonal": 63.2,
     "voteTrump": 45.8,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -3901,6 +3984,7 @@
     "voteClinton": 55.9,
     "votePersonal": 69,
     "voteTrump": 40.4,
+    "voteTrumpCare": false,
     "yearElected": "1991",
     "yearReelection": "2018"
   },
@@ -3949,6 +4033,7 @@
     "voteClinton": 59.6,
     "votePersonal": 59.9,
     "voteTrump": 36.6,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -3991,6 +4076,7 @@
     "voteClinton": 49.9,
     "votePersonal": 58,
     "voteTrump": 45.8,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -4033,6 +4119,7 @@
     "voteClinton": 53.4,
     "votePersonal": 55.5,
     "voteTrump": 41.9,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4076,6 +4163,7 @@
     "voteClinton": 28.2,
     "votePersonal": 69.1,
     "voteTrump": 67.5,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4126,6 +4214,7 @@
     "voteClinton": 30.6,
     "votePersonal": 67.3,
     "voteTrump": 66.2,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4174,6 +4263,7 @@
     "voteClinton": 40.2,
     "votePersonal": 56.6,
     "voteTrump": 56.2,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -4216,6 +4306,7 @@
     "voteClinton": 34.1,
     "votePersonal": 70.2,
     "voteTrump": 62.1,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4258,6 +4349,7 @@
     "voteClinton": 61.3,
     "votePersonal": 64.2,
     "voteTrump": 35.9,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4301,6 +4393,7 @@
     "voteClinton": 39.9,
     "votePersonal": 58.6,
     "voteTrump": 56.9,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -4349,6 +4442,7 @@
     "voteClinton": 51.4,
     "votePersonal": 51.5,
     "voteTrump": 44.1,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4391,6 +4485,7 @@
     "voteClinton": 37.7,
     "votePersonal": 63.1,
     "voteTrump": 58.4,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -4433,6 +4528,7 @@
     "voteClinton": 54.8,
     "votePersonal": 57.5,
     "voteTrump": 41.9,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4475,6 +4571,7 @@
     "voteClinton": 61.8,
     "votePersonal": 64.9,
     "voteTrump": 34.9,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4524,6 +4621,7 @@
     "voteClinton": 32.5,
     "votePersonal": 65.4,
     "voteTrump": 64.8,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -4572,6 +4670,7 @@
     "voteClinton": 38.8,
     "votePersonal": 68.6,
     "voteTrump": 57.4,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -4613,6 +4712,7 @@
     "voteClinton": 49.6,
     "votePersonal": 51.9,
     "voteTrump": 46.4,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4654,6 +4754,7 @@
     "voteClinton": 57.2,
     "votePersonal": 61.8,
     "voteTrump": 39,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -4707,6 +4808,7 @@
     "voteClinton": 43.1,
     "votePersonal": 57.5,
     "voteTrump": 53.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -4754,6 +4856,7 @@
     "voteClinton": 43,
     "votePersonal": 59.8,
     "voteTrump": 53.7,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -4808,6 +4911,7 @@
     "voteClinton": 35,
     "votePersonal": 61.8,
     "voteTrump": 62.2,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -4856,6 +4960,7 @@
     "voteClinton": 44.1,
     "votePersonal": 53.6,
     "voteTrump": 53.3,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4904,6 +5009,7 @@
     "voteClinton": 37.5,
     "votePersonal": 65.9,
     "voteTrump": 59.6,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -4951,6 +5057,7 @@
     "voteClinton": 80.2,
     "votePersonal": 80.3,
     "voteTrump": 18.1,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -5006,6 +5113,7 @@
     "voteClinton": 58.6,
     "votePersonal": 58.9,
     "voteTrump": 39.1,
+    "voteTrumpCare": false,
     "yearElected": "2010*",
     "yearReelection": "2018"
   },
@@ -5048,6 +5156,7 @@
     "voteClinton": 56.8,
     "votePersonal": 62.7,
     "voteTrump": 41,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -5096,6 +5205,7 @@
     "voteClinton": 61.9,
     "votePersonal": 56.7,
     "voteTrump": 35.8,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -5150,6 +5260,7 @@
     "voteClinton": 83,
     "votePersonal": 100,
     "voteTrump": 15.3,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -5198,6 +5309,7 @@
     "voteClinton": 47.9,
     "votePersonal": 62.4,
     "voteTrump": 49.6,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -5251,6 +5363,7 @@
     "voteClinton": 56.7,
     "votePersonal": 53,
     "voteTrump": 40.6,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -5293,6 +5406,7 @@
     "voteClinton": 58.6,
     "votePersonal": 54.9,
     "voteTrump": 38.9,
+    "voteTrumpCare": false,
     "yearElected": "1989*",
     "yearReelection": "2018"
   },
@@ -5341,6 +5455,7 @@
     "voteClinton": 40.9,
     "votePersonal": 100,
     "voteTrump": 56.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -5394,6 +5509,7 @@
     "voteClinton": 55,
     "votePersonal": 61.2,
     "voteTrump": 43.3,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -5437,6 +5553,7 @@
     "voteClinton": 32.8,
     "votePersonal": 68.4,
     "voteTrump": 64.3,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -5479,6 +5596,7 @@
     "voteClinton": 75.3,
     "votePersonal": 75.7,
     "voteTrump": 22.2,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -5520,6 +5638,7 @@
     "voteClinton": 85,
     "votePersonal": 84.4,
     "voteTrump": 11.9,
+    "voteTrumpCare": false,
     "yearElected": "1987",
     "yearReelection": "2018"
   },
@@ -5539,7 +5658,7 @@
     "linkMeeting": "",
     "linkWikipedia": "",
     "name": "Vacant Seat",
-    "note": "Vacated by Tom Price, election 4/18/17",
+    "note": "Vacated by Tom Price, election 6/20/17",
     "numbersAca": 40600,
     "numbersMedicaidAca": 0,
     "party": "NA",
@@ -5555,6 +5674,7 @@
     "voteClinton": 46.8,
     "votePersonal": 0,
     "voteTrump": 48.3,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -5598,6 +5718,7 @@
     "voteClinton": 44.8,
     "votePersonal": 60.4,
     "voteTrump": 51.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -5646,6 +5767,7 @@
     "voteClinton": 34.4,
     "votePersonal": 67.6,
     "voteTrump": 63.3,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -5688,6 +5810,7 @@
     "voteClinton": 19.3,
     "votePersonal": 100,
     "voteTrump": 77.8,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -5742,6 +5865,7 @@
     "voteClinton": 35.8,
     "votePersonal": 100,
     "voteTrump": 61.3,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -5797,6 +5921,7 @@
     "voteClinton": 35.3,
     "votePersonal": 67.4,
     "voteTrump": 60.3,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -5857,6 +5982,7 @@
     "voteClinton": 40.7,
     "votePersonal": 61.6,
     "voteTrump": 56.9,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -5905,6 +6031,7 @@
     "voteClinton": 71,
     "votePersonal": 100,
     "voteTrump": 26.6,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -5952,6 +6079,7 @@
     "voteClinton": 22.1,
     "votePersonal": 100,
     "voteTrump": 75,
+    "voteTrumpCare": true,
     "yearElected": "2010*",
     "yearReelection": "2018"
   },
@@ -5994,6 +6122,7 @@
     "voteClinton": 63.1,
     "votePersonal": 71.9,
     "voteTrump": 30.5,
+    "voteTrumpCare": false,
     "yearElected": "2016",
     "yearReelection": "2018"
   },
@@ -6036,6 +6165,7 @@
     "voteClinton": 61.4,
     "votePersonal": 81.2,
     "voteTrump": 29.6,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -6090,6 +6220,7 @@
     "voteClinton": 25.4,
     "votePersonal": 68.2,
     "voteTrump": 63.7,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -6149,6 +6280,7 @@
     "voteClinton": 29.8,
     "votePersonal": 62.9,
     "voteTrump": 54.5,
+    "voteTrumpCare": true,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -6190,6 +6322,7 @@
     "voteClinton": 75.4,
     "votePersonal": 74.1,
     "voteTrump": 21.4,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -6244,6 +6377,7 @@
     "voteClinton": 78,
     "votePersonal": 79.8,
     "voteTrump": 19.1,
+    "voteTrumpCare": false,
     "yearElected": "2013*",
     "yearReelection": "2018"
   },
@@ -6303,6 +6437,7 @@
     "voteClinton": 55.2,
     "votePersonal": 100,
     "voteTrump": 39.9,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -6344,6 +6479,7 @@
     "voteClinton": 82.1,
     "votePersonal": 100,
     "voteTrump": 13.2,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -6392,6 +6528,7 @@
     "voteClinton": 70.5,
     "votePersonal": 67.8,
     "voteTrump": 23.9,
+    "voteTrumpCare": false,
     "yearElected": "2009*",
     "yearReelection": "2018"
   },
@@ -6439,6 +6576,7 @@
     "voteClinton": 50.2,
     "votePersonal": 59.2,
     "voteTrump": 43.2,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -6480,6 +6618,7 @@
     "voteClinton": 87.4,
     "votePersonal": 84.2,
     "voteTrump": 9.2,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -6522,6 +6661,7 @@
     "voteClinton": 58.1,
     "votePersonal": 58.3,
     "voteTrump": 36.4,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -6575,6 +6715,7 @@
     "voteClinton": 70.1,
     "votePersonal": 66.5,
     "voteTrump": 24.9,
+    "voteTrumpCare": false,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -6616,6 +6757,7 @@
     "voteClinton": 62,
     "votePersonal": 52.6,
     "voteTrump": 32.6,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -6663,6 +6805,7 @@
     "voteClinton": 58.9,
     "votePersonal": 60.4,
     "voteTrump": 35.4,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -6730,6 +6873,7 @@
     "voteClinton": 40.2,
     "votePersonal": 54.3,
     "voteTrump": 55,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -6801,6 +6945,7 @@
     "voteClinton": 44.2,
     "votePersonal": 59.7,
     "voteTrump": 49.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -6843,6 +6988,7 @@
     "voteClinton": 44.8,
     "votePersonal": 59.3,
     "voteTrump": 48.7,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -6902,6 +7048,7 @@
     "voteClinton": 24.5,
     "votePersonal": 100,
     "voteTrump": 70.7,
+    "voteTrumpCare": true,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -6956,6 +7103,7 @@
     "voteClinton": 38.3,
     "votePersonal": 99.9,
     "voteTrump": 55.5,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -7010,6 +7158,7 @@
     "voteClinton": 46.7,
     "votePersonal": 60.3,
     "voteTrump": 47.4,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -7070,6 +7219,7 @@
     "voteClinton": 33.3,
     "votePersonal": 72.1,
     "voteTrump": 60.6,
+    "voteTrumpCare": true,
     "yearElected": "2015*",
     "yearReelection": "2018"
   },
@@ -7111,6 +7261,7 @@
     "voteClinton": 54.1,
     "votePersonal": 81.5,
     "voteTrump": 41.5,
+    "voteTrumpCare": false,
     "yearElected": "1985",
     "yearReelection": "2018"
   },
@@ -7158,6 +7309,7 @@
     "voteClinton": 36.1,
     "votePersonal": 59.3,
     "voteTrump": 59.3,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -7201,6 +7353,7 @@
     "voteClinton": 30.1,
     "votePersonal": 70.1,
     "voteTrump": 65.1,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -7250,6 +7403,7 @@
     "voteClinton": 30.2,
     "votePersonal": 64.6,
     "voteTrump": 64.3,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -7292,6 +7446,7 @@
     "voteClinton": 41.3,
     "votePersonal": 61.5,
     "voteTrump": 53.1,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -7346,6 +7501,7 @@
     "voteClinton": 27.4,
     "votePersonal": 69.1,
     "voteTrump": 67.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -7388,6 +7544,7 @@
     "voteClinton": 59,
     "votePersonal": 60,
     "voteTrump": 36.2,
+    "voteTrumpCare": false,
     "yearElected": "2008*",
     "yearReelection": "2018"
   },
@@ -7447,6 +7604,7 @@
     "voteClinton": 30.9,
     "votePersonal": 63.7,
     "voteTrump": 64.6,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -7494,6 +7652,7 @@
     "voteClinton": 34.2,
     "votePersonal": 54.1,
     "voteTrump": 61.1,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -7548,6 +7707,7 @@
     "voteClinton": 45.2,
     "votePersonal": 53.8,
     "voteTrump": 48.7,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -7595,6 +7755,7 @@
     "voteClinton": 45,
     "votePersonal": 53.7,
     "voteTrump": 49.1,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -7648,6 +7809,7 @@
     "voteClinton": 45,
     "votePersonal": 53.5,
     "voteTrump": 48.5,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -7715,6 +7877,7 @@
     "voteClinton": 33.5,
     "votePersonal": 61.3,
     "voteTrump": 60.9,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -7758,6 +7921,7 @@
     "voteClinton": 24.3,
     "votePersonal": 65.8,
     "voteTrump": 69.3,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -7805,6 +7969,7 @@
     "voteClinton": 37.4,
     "votePersonal": 60.9,
     "voteTrump": 55.8,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -7846,41 +8011,50 @@
     "voteClinton": 47.2,
     "votePersonal": 51.3,
     "voteTrump": 46,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
   {
     "committees": [
+      "Education and the Workforce",
+      "Small Business"
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "2452 Rayburn HOB, Washington, DC 20515",
+        "fax": "202-225-3489",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": " 202-225-6216"
+      },
+      {
+        "address": "7701 E. Kellogg, Ste. 510, Wichita, KS 67207",
+        "fax": "316-262-5309",
+        "name": "Wichita Office",
+        "phone": "316-262-8992"
       }
     ],
     "district": "4",
-    "linkContact": "",
-    "linkMeeting": "",
-    "linkWikipedia": "",
-    "name": "Vacant Seat",
-    "note": "Vacated by Mike Pompeo, election 4/11/17",
+    "linkContact": "https://estes.house.gov/contact",
+    "linkMeeting": "http://estes.house.gov/forms/meetingrequest/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Estes",
+    "name": "Ron Estes",
     "numbersAca": 20700,
     "numbersMedicaidAca": 0,
-    "party": "NA",
-    "photoFilename": "blank.png",
-    "photoUrl": "",
-    "socialFacebook": "",
+    "party": "Republican",
+    "photoFilename": "kansas4.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ron_Estes%2C_115th_official_photo.jpg",
+    "socialFacebook": "https://www.facebook.com/RepRonEstes",
     "socialInstagram": "",
-    "socialTwitter": "",
+    "socialTwitter": "https://twitter.com/RepRonEstes",
     "socialYoutube": "",
     "state": "kansas",
     "stateAbbreviation": "KS-4",
     "stateDisplay": "Kansas",
     "voteClinton": 33,
-    "votePersonal": 0,
+    "votePersonal": 52.5,
     "voteTrump": 60.2,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -7930,6 +8104,7 @@
     "voteClinton": 23.9,
     "votePersonal": 72.6,
     "voteTrump": 72.4,
+    "voteTrumpCare": true,
     "yearElected": "2016",
     "yearReelection": "2018"
   },
@@ -7985,6 +8160,7 @@
     "voteClinton": 27.6,
     "votePersonal": 100,
     "voteTrump": 67.5,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -8032,6 +8208,7 @@
     "voteClinton": 54.9,
     "votePersonal": 63.5,
     "voteTrump": 39.9,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -8087,6 +8264,7 @@
     "voteClinton": 29.3,
     "votePersonal": 71.3,
     "voteTrump": 65.2,
+    "voteTrumpCare": false,
     "yearElected": "2012*",
     "yearReelection": "2018"
   },
@@ -8140,6 +8318,7 @@
     "voteClinton": 17.5,
     "votePersonal": 100,
     "voteTrump": 79.6,
+    "voteTrumpCare": true,
     "yearElected": "1981",
     "yearReelection": "2018"
   },
@@ -8181,6 +8360,7 @@
     "voteClinton": 39.4,
     "votePersonal": 61.1,
     "voteTrump": 54.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -8240,6 +8420,7 @@
     "voteClinton": 26.7,
     "votePersonal": 74.6,
     "voteTrump": 68.7,
+    "voteTrumpCare": true,
     "yearElected": "2008",
     "yearReelection": "2018"
   },
@@ -8294,6 +8475,7 @@
     "voteClinton": 74.6,
     "votePersonal": 69.8,
     "voteTrump": 22.2,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -8332,6 +8514,7 @@
     "voteClinton": 29.2,
     "votePersonal": 26.5,
     "voteTrump": 67.3,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -8374,6 +8557,7 @@
     "voteClinton": 36.6,
     "votePersonal": 24.7,
     "voteTrump": 60.6,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -8423,6 +8607,7 @@
     "voteClinton": 34.1,
     "votePersonal": 81.6,
     "voteTrump": 63.5,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -8477,6 +8662,7 @@
     "voteClinton": 31,
     "votePersonal": 62.7,
     "voteTrump": 64.8,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -8524,6 +8710,7 @@
     "voteClinton": 54.1,
     "votePersonal": 58,
     "voteTrump": 39.3,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -8578,6 +8765,7 @@
     "voteClinton": 41.1,
     "votePersonal": 54.8,
     "voteTrump": 51.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -8631,6 +8819,7 @@
     "voteClinton": 33.5,
     "votePersonal": 67,
     "voteTrump": 61.9,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -8672,6 +8861,7 @@
     "voteClinton": 60.2,
     "votePersonal": 62.1,
     "voteTrump": 35.6,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -8725,6 +8915,7 @@
     "voteClinton": 62.9,
     "votePersonal": 63.2,
     "voteTrump": 32.1,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -8767,6 +8958,7 @@
     "voteClinton": 77.7,
     "votePersonal": 74.1,
     "voteTrump": 19.2,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -8813,6 +9005,7 @@
     "voteClinton": 63.6,
     "votePersonal": 67.4,
     "voteTrump": 32.6,
+    "voteTrumpCare": false,
     "yearElected": "1981*",
     "yearReelection": "2018"
   },
@@ -8860,6 +9053,7 @@
     "voteClinton": 55.8,
     "votePersonal": 56,
     "voteTrump": 39.7,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -8914,6 +9108,7 @@
     "voteClinton": 75.5,
     "votePersonal": 74.9,
     "voteTrump": 20.5,
+    "voteTrumpCare": false,
     "yearElected": "1996*",
     "yearReelection": "2018"
   },
@@ -8957,6 +9152,7 @@
     "voteClinton": 64.6,
     "votePersonal": 60.6,
     "voteTrump": 30.9,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -9004,6 +9200,7 @@
     "voteClinton": 57.2,
     "votePersonal": 73.3,
     "voteTrump": 36.5,
+    "voteTrumpCare": false,
     "yearElected": "1989",
     "yearReelection": "2018"
   },
@@ -9058,6 +9255,7 @@
     "voteClinton": 56.2,
     "votePersonal": 98.2,
     "voteTrump": 36.8,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -9124,6 +9322,7 @@
     "voteClinton": 58.2,
     "votePersonal": 68.7,
     "voteTrump": 35.4,
+    "voteTrumpCare": false,
     "yearElected": "2007*",
     "yearReelection": "2018"
   },
@@ -9171,6 +9370,7 @@
     "voteClinton": 59.2,
     "votePersonal": 70.1,
     "voteTrump": 35,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -9218,6 +9418,7 @@
     "voteClinton": 69.3,
     "votePersonal": 98.6,
     "voteTrump": 25.7,
+    "voteTrumpCare": false,
     "yearElected": "2013*",
     "yearReelection": "2018"
   },
@@ -9260,6 +9461,7 @@
     "voteClinton": 56.1,
     "votePersonal": 98.4,
     "voteTrump": 38.2,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -9307,6 +9509,7 @@
     "voteClinton": 84.1,
     "votePersonal": 98.6,
     "voteTrump": 11.9,
+    "voteTrumpCare": false,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -9361,6 +9564,7 @@
     "voteClinton": 60.4,
     "votePersonal": 72.4,
     "voteTrump": 34.4,
+    "voteTrumpCare": false,
     "yearElected": "2001*",
     "yearReelection": "2018"
   },
@@ -9415,6 +9619,7 @@
     "voteClinton": 52.5,
     "votePersonal": 55.7,
     "voteTrump": 41.8,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -9458,6 +9663,7 @@
     "voteClinton": 36.6,
     "votePersonal": 54.9,
     "voteTrump": 57.9,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -9505,6 +9711,7 @@
     "voteClinton": 38.2,
     "votePersonal": 62.6,
     "voteTrump": 55.8,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -9552,6 +9759,7 @@
     "voteClinton": 42.2,
     "votePersonal": 59.5,
     "voteTrump": 51.6,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -9599,6 +9807,7 @@
     "voteClinton": 34.7,
     "votePersonal": 61.6,
     "voteTrump": 59.5,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -9640,6 +9849,7 @@
     "voteClinton": 49.7,
     "votePersonal": 61.2,
     "voteTrump": 45.5,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -9687,6 +9897,7 @@
     "voteClinton": 42.9,
     "votePersonal": 58.7,
     "voteTrump": 51.3,
+    "voteTrumpCare": true,
     "yearElected": "1987",
     "yearReelection": "2018"
   },
@@ -9729,6 +9940,7 @@
     "voteClinton": 38.7,
     "votePersonal": 55,
     "voteTrump": 55.7,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -9771,6 +9983,7 @@
     "voteClinton": 43.9,
     "votePersonal": 56,
     "voteTrump": 50.6,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -9812,6 +10025,7 @@
     "voteClinton": 51.5,
     "votePersonal": 57.9,
     "voteTrump": 43.7,
+    "voteTrumpCare": false,
     "yearElected": "1983",
     "yearReelection": "2018"
   },
@@ -9854,6 +10068,7 @@
     "voteClinton": 31.6,
     "votePersonal": 63.1,
     "voteTrump": 63.8,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -9896,6 +10111,7 @@
     "voteClinton": 45.3,
     "votePersonal": 52.9,
     "voteTrump": 49.7,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -9943,6 +10159,7 @@
     "voteClinton": 60.8,
     "votePersonal": 64.3,
     "voteTrump": 34.5,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -9990,6 +10207,7 @@
     "voteClinton": 78.8,
     "votePersonal": 77.1,
     "voteTrump": 18.1,
+    "voteTrumpCare": false,
     "yearElected": "1965",
     "yearReelection": "2018"
   },
@@ -10038,6 +10256,7 @@
     "voteClinton": 79.2,
     "votePersonal": 78.5,
     "voteTrump": 18.3,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -10085,6 +10304,7 @@
     "voteClinton": 38.4,
     "votePersonal": 50.3,
     "voteTrump": 53.3,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -10128,6 +10348,7 @@
     "voteClinton": 45.3,
     "votePersonal": 47,
     "voteTrump": 46.5,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -10169,6 +10390,7 @@
     "voteClinton": 50.8,
     "votePersonal": 56.7,
     "voteTrump": 41.4,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -10210,6 +10432,7 @@
     "voteClinton": 61.5,
     "votePersonal": 57.8,
     "voteTrump": 30.6,
+    "voteTrumpCare": false,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -10251,6 +10474,7 @@
     "voteClinton": 73.7,
     "votePersonal": 69.1,
     "voteTrump": 18.5,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -10292,6 +10516,7 @@
     "voteClinton": 33.2,
     "votePersonal": 65.6,
     "voteTrump": 58.9,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -10357,6 +10582,7 @@
     "voteClinton": 31,
     "votePersonal": 52.5,
     "voteTrump": 61.8,
+    "voteTrumpCare": false,
     "yearElected": "1991",
     "yearReelection": "2018"
   },
@@ -10417,6 +10643,7 @@
     "voteClinton": 38.6,
     "votePersonal": 50.2,
     "voteTrump": 54.2,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -10484,6 +10711,7 @@
     "voteClinton": 32.4,
     "votePersonal": 68.7,
     "voteTrump": 65.4,
+    "voteTrumpCare": true,
     "yearElected": "2015*",
     "yearReelection": "2018"
   },
@@ -10555,6 +10783,7 @@
     "voteClinton": 63.6,
     "votePersonal": 67.1,
     "voteTrump": 35.1,
+    "voteTrumpCare": false,
     "yearElected": "1993*",
     "yearReelection": "2018"
   },
@@ -10615,6 +10844,7 @@
     "voteClinton": 36.8,
     "votePersonal": 66.2,
     "voteTrump": 61.3,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -10668,6 +10898,7 @@
     "voteClinton": 28.2,
     "votePersonal": 65,
     "voteTrump": 69.4,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -10721,6 +10952,7 @@
     "voteClinton": 77,
     "votePersonal": 75.5,
     "voteTrump": 18.8,
+    "voteTrumpCare": false,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -10763,6 +10995,7 @@
     "voteClinton": 42.3,
     "votePersonal": 58.5,
     "voteTrump": 52.6,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -10817,6 +11050,7 @@
     "voteClinton": 28.1,
     "votePersonal": 67.8,
     "voteTrump": 67.1,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -10871,6 +11105,7 @@
     "voteClinton": 29.3,
     "votePersonal": 67.8,
     "voteTrump": 65.3,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -10924,6 +11159,7 @@
     "voteClinton": 54.1,
     "votePersonal": 58.8,
     "voteTrump": 40.6,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -10978,6 +11214,7 @@
     "voteClinton": 31.7,
     "votePersonal": 68,
     "voteTrump": 63.1,
+    "voteTrumpCare": true,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -11025,6 +11262,7 @@
     "voteClinton": 24.7,
     "votePersonal": 67.5,
     "voteTrump": 70.4,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -11090,6 +11328,7 @@
     "voteClinton": 21,
     "votePersonal": 74.4,
     "voteTrump": 75.4,
+    "voteTrumpCare": true,
     "yearElected": "2013*",
     "yearReelection": "2018"
   },
@@ -11109,7 +11348,7 @@
     "linkMeeting": "",
     "linkWikipedia": "",
     "name": "Vacant Seat",
-    "note": "Vacated by Ryan Zinke, election date not yet determined",
+    "note": "Vacated by Ryan Zinke, election 5/25/17",
     "numbersAca": 51800,
     "numbersMedicaidAca": 61233,
     "party": "NA",
@@ -11125,6 +11364,7 @@
     "voteClinton": 35.9,
     "votePersonal": 0,
     "voteTrump": 56.5,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -11178,6 +11418,7 @@
     "voteClinton": 36.2,
     "votePersonal": 69.5,
     "voteTrump": 57.5,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -11221,6 +11462,7 @@
     "voteClinton": 46,
     "votePersonal": 48.9,
     "voteTrump": 48.2,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -11269,6 +11511,7 @@
     "voteClinton": 20,
     "votePersonal": 100,
     "voteTrump": 74.9,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -11311,6 +11554,7 @@
     "voteClinton": 61.6,
     "votePersonal": 61.9,
     "voteTrump": 32.6,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -11358,6 +11602,7 @@
     "voteClinton": 39.7,
     "votePersonal": 58.3,
     "voteTrump": 52,
+    "voteTrumpCare": true,
     "yearElected": "2011*",
     "yearReelection": "2018"
   },
@@ -11400,6 +11645,7 @@
     "voteClinton": 46.5,
     "votePersonal": 47.2,
     "voteTrump": 47.5,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -11441,6 +11687,7 @@
     "voteClinton": 49.5,
     "votePersonal": 48.5,
     "voteTrump": 44.6,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -11483,6 +11730,7 @@
     "voteClinton": 46.6,
     "votePersonal": 44.3,
     "voteTrump": 48.2,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -11536,6 +11784,7 @@
     "voteClinton": 48.6,
     "votePersonal": 49.8,
     "voteTrump": 46.2,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -11578,6 +11827,7 @@
     "voteClinton": 60.6,
     "votePersonal": 60,
     "voteTrump": 36.1,
+    "voteTrumpCare": false,
     "yearElected": "2014*",
     "yearReelection": "2018"
   },
@@ -11621,6 +11871,7 @@
     "voteClinton": 46,
     "votePersonal": 59.2,
     "voteTrump": 50.6,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -11669,6 +11920,7 @@
     "voteClinton": 45.2,
     "votePersonal": 59.3,
     "voteTrump": 51.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -11722,6 +11974,7 @@
     "voteClinton": 41,
     "votePersonal": 63.7,
     "voteTrump": 55.8,
+    "voteTrumpCare": false,
     "yearElected": "1981",
     "yearReelection": "2018"
   },
@@ -11769,6 +12022,7 @@
     "voteClinton": 47.7,
     "votePersonal": 51.1,
     "voteTrump": 48.8,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -11816,6 +12070,7 @@
     "voteClinton": 56.2,
     "votePersonal": 63.7,
     "voteTrump": 40.6,
+    "voteTrumpCare": false,
     "yearElected": "1988*",
     "yearReelection": "2018"
   },
@@ -11864,6 +12119,7 @@
     "voteClinton": 48.6,
     "votePersonal": 54.1,
     "voteTrump": 47.5,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -11918,6 +12174,7 @@
     "voteClinton": 75.7,
     "votePersonal": 77,
     "voteTrump": 21.5,
+    "voteTrumpCare": false,
     "yearElected": "2006*",
     "yearReelection": "2018"
   },
@@ -11977,6 +12234,7 @@
     "voteClinton": 64.3,
     "votePersonal": 69.7,
     "voteTrump": 33.1,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -12031,6 +12289,7 @@
     "voteClinton": 85.2,
     "votePersonal": 85.7,
     "voteTrump": 12.8,
+    "voteTrumpCare": false,
     "yearElected": "2012*",
     "yearReelection": "2018"
   },
@@ -12072,6 +12331,7 @@
     "voteClinton": 47.9,
     "votePersonal": 58,
     "voteTrump": 48.8,
+    "voteTrumpCare": true,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -12114,6 +12374,7 @@
     "voteClinton": 65,
     "votePersonal": 62.9,
     "voteTrump": 31.8,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -12156,6 +12417,7 @@
     "voteClinton": 51.6,
     "votePersonal": 65.1,
     "voteTrump": 35.1,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -12228,6 +12490,7 @@
     "voteClinton": 39.9,
     "votePersonal": 62.7,
     "voteTrump": 50.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -12299,6 +12562,7 @@
     "voteClinton": 51.8,
     "votePersonal": 62.4,
     "voteTrump": 36.7,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -12347,6 +12611,7 @@
     "voteClinton": 42.2,
     "votePersonal": 58.9,
     "voteTrump": 54.5,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -12388,6 +12653,7 @@
     "voteClinton": 43.9,
     "votePersonal": 62.4,
     "voteTrump": 53,
+    "voteTrumpCare": true,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -12430,6 +12696,7 @@
     "voteClinton": 51.6,
     "votePersonal": 52.8,
     "voteTrump": 45.5,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -12472,6 +12739,7 @@
     "voteClinton": 53.4,
     "votePersonal": 59.5,
     "voteTrump": 43.8,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -12519,6 +12787,7 @@
     "voteClinton": 85.7,
     "votePersonal": 85.4,
     "voteTrump": 12.7,
+    "voteTrumpCare": false,
     "yearElected": "1998*",
     "yearReelection": "2018"
   },
@@ -12566,6 +12835,7 @@
     "voteClinton": 65.1,
     "votePersonal": 72.1,
     "voteTrump": 32.1,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -12620,6 +12890,7 @@
     "voteClinton": 86.9,
     "votePersonal": 90.7,
     "voteTrump": 10.4,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -12668,6 +12939,7 @@
     "voteClinton": 84.6,
     "votePersonal": 93.2,
     "voteTrump": 13.5,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -12710,6 +12982,7 @@
     "voteClinton": 83.5,
     "votePersonal": 92.3,
     "voteTrump": 14.4,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -12758,6 +13031,7 @@
     "voteClinton": 78.3,
     "votePersonal": 78,
     "voteTrump": 18.8,
+    "voteTrumpCare": false,
     "yearElected": "1992*",
     "yearReelection": "2018"
   },
@@ -12806,6 +13080,7 @@
     "voteClinton": 43.8,
     "votePersonal": 61.5,
     "voteTrump": 53.6,
+    "voteTrumpCare": false,
     "yearElected": "2015*",
     "yearReelection": "2018"
   },
@@ -12859,6 +13134,7 @@
     "voteClinton": 83.3,
     "votePersonal": 83.1,
     "voteTrump": 13.5,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -12901,6 +13177,7 @@
     "voteClinton": 92.3,
     "votePersonal": 88.6,
     "voteTrump": 5.4,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -12948,6 +13225,7 @@
     "voteClinton": 77.7,
     "votePersonal": 82.8,
     "voteTrump": 19.8,
+    "voteTrumpCare": false,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -12989,6 +13267,7 @@
     "voteClinton": 93.8,
     "votePersonal": 95.2,
     "voteTrump": 4.9,
+    "voteTrumpCare": false,
     "yearElected": "1990*",
     "yearReelection": "2018"
   },
@@ -13043,6 +13322,7 @@
     "voteClinton": 75.1,
     "votePersonal": 94.4,
     "voteTrump": 22.5,
+    "voteTrumpCare": false,
     "yearElected": "1989",
     "yearReelection": "2018"
   },
@@ -13090,6 +13370,7 @@
     "voteClinton": 58.6,
     "votePersonal": 99.1,
     "voteTrump": 38.4,
+    "voteTrumpCare": false,
     "yearElected": "1989",
     "yearReelection": "2018"
   },
@@ -13132,6 +13413,7 @@
     "voteClinton": 47.1,
     "votePersonal": 55.6,
     "voteTrump": 49,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -13187,6 +13469,7 @@
     "voteClinton": 44,
     "votePersonal": 54.2,
     "voteTrump": 50.8,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -13240,6 +13523,7 @@
     "voteClinton": 54,
     "votePersonal": 67.9,
     "voteTrump": 40.5,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -13294,6 +13578,7 @@
     "voteClinton": 40,
     "votePersonal": 65.3,
     "voteTrump": 53.9,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -13335,6 +13620,7 @@
     "voteClinton": 39.3,
     "votePersonal": 46.5,
     "voteTrump": 54.8,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -13400,6 +13686,7 @@
     "voteClinton": 39.7,
     "votePersonal": 57.6,
     "voteTrump": 54.5,
+    "voteTrumpCare": true,
     "yearElected": "2010*",
     "yearReelection": "2018"
   },
@@ -13460,6 +13747,7 @@
     "voteClinton": 48.9,
     "votePersonal": 60.5,
     "voteTrump": 45.3,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -13501,6 +13789,7 @@
     "voteClinton": 55.5,
     "votePersonal": 56.1,
     "voteTrump": 39.1,
+    "voteTrumpCare": false,
     "yearElected": "1987",
     "yearReelection": "2018"
   },
@@ -13549,6 +13838,7 @@
     "voteClinton": 57.6,
     "votePersonal": 74.6,
     "voteTrump": 38,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -13596,6 +13886,7 @@
     "voteClinton": 35.2,
     "votePersonal": 67.2,
     "voteTrump": 59.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -13643,6 +13934,7 @@
     "voteClinton": 67.5,
     "votePersonal": 68.6,
     "voteTrump": 30.5,
+    "voteTrumpCare": false,
     "yearElected": "2004*",
     "yearReelection": "2018"
   },
@@ -13684,6 +13976,7 @@
     "voteClinton": 43.6,
     "votePersonal": 56.7,
     "voteTrump": 53.2,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -13737,6 +14030,7 @@
     "voteClinton": 36.9,
     "votePersonal": 67.3,
     "voteTrump": 60.5,
+    "voteTrumpCare": false,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -13784,6 +14078,7 @@
     "voteClinton": 68.2,
     "votePersonal": 68.2,
     "voteTrump": 28.2,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -13832,6 +14127,7 @@
     "voteClinton": 39.8,
     "votePersonal": 58.4,
     "voteTrump": 57.3,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -13880,6 +14176,7 @@
     "voteClinton": 41.4,
     "votePersonal": 59.2,
     "voteTrump": 56.1,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -13935,6 +14232,7 @@
     "voteClinton": 39.9,
     "votePersonal": 60.9,
     "voteTrump": 57.6,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -13982,6 +14280,7 @@
     "voteClinton": 41.1,
     "votePersonal": 58.8,
     "voteTrump": 56.1,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -14035,6 +14334,7 @@
     "voteClinton": 42.8,
     "votePersonal": 58.2,
     "voteTrump": 54.4,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -14088,6 +14388,7 @@
     "voteClinton": 36.5,
     "votePersonal": 63.1,
     "voteTrump": 61,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -14137,6 +14438,7 @@
     "voteClinton": 33.9,
     "votePersonal": 64.1,
     "voteTrump": 63.3,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -14179,6 +14481,7 @@
     "voteClinton": 68.4,
     "votePersonal": 67,
     "voteTrump": 28.4,
+    "voteTrumpCare": false,
     "yearElected": "2014*",
     "yearReelection": "2018"
   },
@@ -14220,6 +14523,7 @@
     "voteClinton": 44,
     "votePersonal": 56.1,
     "voteTrump": 53.4,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -14279,6 +14583,7 @@
     "voteClinton": 27.7,
     "votePersonal": 69.1,
     "voteTrump": 64.1,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -14327,6 +14632,7 @@
     "voteClinton": 44.6,
     "votePersonal": 59.2,
     "voteTrump": 51.2,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -14382,6 +14688,7 @@
     "voteClinton": 39.7,
     "votePersonal": 65,
     "voteTrump": 55.8,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -14423,6 +14730,7 @@
     "voteClinton": 67,
     "votePersonal": 68.6,
     "voteTrump": 28.6,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -14477,6 +14785,7 @@
     "voteClinton": 30.7,
     "votePersonal": 68,
     "voteTrump": 64.3,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -14530,6 +14839,7 @@
     "voteClinton": 34.6,
     "votePersonal": 70.9,
     "voteTrump": 59.7,
+    "voteTrumpCare": true,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -14590,6 +14900,7 @@
     "voteClinton": 26.7,
     "votePersonal": 70.7,
     "voteTrump": 69.3,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -14638,6 +14949,7 @@
     "voteClinton": 32.8,
     "votePersonal": 64,
     "voteTrump": 62.5,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -14692,6 +15004,7 @@
     "voteClinton": 30.6,
     "votePersonal": 68.8,
     "voteTrump": 65.1,
+    "voteTrumpCare": true,
     "yearElected": "2016",
     "yearReelection": "2018"
   },
@@ -14745,6 +15058,7 @@
     "voteClinton": 58.7,
     "votePersonal": 68.7,
     "voteTrump": 36.5,
+    "voteTrumpCare": false,
     "yearElected": "1983",
     "yearReelection": "2018"
   },
@@ -14787,6 +15101,7 @@
     "voteClinton": 44,
     "votePersonal": 64.1,
     "voteTrump": 51.3,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -14835,6 +15150,7 @@
     "voteClinton": 80.5,
     "votePersonal": 80.3,
     "voteTrump": 17,
+    "voteTrumpCare": false,
     "yearElected": "2008*",
     "yearReelection": "2018"
   },
@@ -14876,6 +15192,7 @@
     "voteClinton": 41.9,
     "votePersonal": 66.6,
     "voteTrump": 53.2,
+    "voteTrumpCare": true,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -14929,6 +15246,7 @@
     "voteClinton": 51.1,
     "votePersonal": 67.7,
     "voteTrump": 44.6,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -14976,6 +15294,7 @@
     "voteClinton": 42.1,
     "votePersonal": 62.6,
     "voteTrump": 53.6,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -15029,6 +15348,7 @@
     "voteClinton": 39.9,
     "votePersonal": 66.2,
     "voteTrump": 55.3,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -15077,6 +15397,7 @@
     "voteClinton": 39.5,
     "votePersonal": 65.3,
     "voteTrump": 56.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -15119,6 +15440,7 @@
     "voteClinton": 32.7,
     "votePersonal": 100,
     "voteTrump": 61.4,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -15166,6 +15488,7 @@
     "voteClinton": 22.8,
     "votePersonal": 70.6,
     "voteTrump": 72.9,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -15209,6 +15532,7 @@
     "voteClinton": 20.9,
     "votePersonal": 78.3,
     "voteTrump": 73.6,
+    "voteTrumpCare": true,
     "yearElected": "1994*",
     "yearReelection": "2018"
   },
@@ -15264,6 +15588,7 @@
     "voteClinton": 28.3,
     "votePersonal": 69.6,
     "voteTrump": 65.7,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -15306,6 +15631,7 @@
     "voteClinton": 39.8,
     "votePersonal": 57.1,
     "voteTrump": 53.2,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -15348,6 +15674,7 @@
     "voteClinton": 57.3,
     "votePersonal": 59.6,
     "voteTrump": 34.5,
+    "voteTrumpCare": false,
     "yearElected": "2012*",
     "yearReelection": "2018"
   },
@@ -15402,6 +15729,7 @@
     "voteClinton": 36.4,
     "votePersonal": 71.7,
     "voteTrump": 56.5,
+    "voteTrumpCare": true,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -15443,6 +15771,7 @@
     "voteClinton": 70.7,
     "votePersonal": 71.8,
     "voteTrump": 22.5,
+    "voteTrumpCare": false,
     "yearElected": "1996*",
     "yearReelection": "2018"
   },
@@ -15496,6 +15825,7 @@
     "voteClinton": 46.1,
     "votePersonal": 55.5,
     "voteTrump": 46,
+    "voteTrumpCare": false,
     "yearElected": "1987",
     "yearReelection": "2018"
   },
@@ -15543,6 +15873,7 @@
     "voteClinton": 48.3,
     "votePersonal": 53.5,
     "voteTrump": 44.1,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -15602,6 +15933,7 @@
     "voteClinton": 79.5,
     "votePersonal": 82.2,
     "voteTrump": 18.2,
+    "voteTrumpCare": false,
     "yearElected": "1998*",
     "yearReelection": "2018"
   },
@@ -15644,6 +15976,7 @@
     "voteClinton": 90.4,
     "votePersonal": 90.2,
     "voteTrump": 7.6,
+    "voteTrumpCare": false,
     "yearElected": "2016*",
     "yearReelection": "2018"
   },
@@ -15703,6 +16036,7 @@
     "voteClinton": 35,
     "votePersonal": 100,
     "voteTrump": 61.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -15757,6 +16091,7 @@
     "voteClinton": 37.1,
     "votePersonal": 66.1,
     "voteTrump": 58.6,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -15806,6 +16141,7 @@
     "voteClinton": 33.5,
     "votePersonal": 67.2,
     "voteTrump": 62.3,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -15854,6 +16190,7 @@
     "voteClinton": 48.2,
     "votePersonal": 57.3,
     "voteTrump": 47.6,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -15915,6 +16252,7 @@
     "voteClinton": 49.3,
     "votePersonal": 59.5,
     "voteTrump": 47,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -15958,6 +16296,7 @@
     "voteClinton": 48,
     "votePersonal": 54.4,
     "voteTrump": 48.2,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -16012,6 +16351,7 @@
     "voteClinton": 27.2,
     "votePersonal": 63.4,
     "voteTrump": 69.7,
+    "voteTrumpCare": true,
     "yearElected": "2001*",
     "yearReelection": "2018"
   },
@@ -16067,6 +16407,7 @@
     "voteClinton": 30.2,
     "votePersonal": 70.2,
     "voteTrump": 66.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -16129,6 +16470,7 @@
     "voteClinton": 36.2,
     "votePersonal": 63.7,
     "voteTrump": 60,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -16182,6 +16524,7 @@
     "voteClinton": 37.9,
     "votePersonal": 61.8,
     "voteTrump": 58.7,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -16242,6 +16585,7 @@
     "voteClinton": 65.3,
     "votePersonal": 100,
     "voteTrump": 31.7,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -16301,6 +16645,7 @@
     "voteClinton": 66,
     "votePersonal": 74.4,
     "voteTrump": 30.5,
+    "voteTrumpCare": false,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -16360,6 +16705,7 @@
     "voteClinton": 44.2,
     "votePersonal": 58.4,
     "voteTrump": 51.8,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -16403,6 +16749,7 @@
     "voteClinton": 44.2,
     "votePersonal": 53.8,
     "voteTrump": 51,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -16462,6 +16809,7 @@
     "voteClinton": 43.3,
     "votePersonal": 53.8,
     "voteTrump": 53.4,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -16509,6 +16857,7 @@
     "voteClinton": 38.5,
     "votePersonal": 100,
     "voteTrump": 58.1,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -16551,6 +16900,7 @@
     "voteClinton": 60.5,
     "votePersonal": 64.5,
     "voteTrump": 34.9,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -16592,6 +16942,7 @@
     "voteClinton": 51.1,
     "votePersonal": 58.1,
     "voteTrump": 44,
+    "voteTrumpCare": false,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -16641,6 +16992,7 @@
     "voteClinton": 40.4,
     "votePersonal": 58.6,
     "voteTrump": 53.5,
+    "voteTrumpCare": true,
     "yearElected": "2013*",
     "yearReelection": "2018"
   },
@@ -16690,6 +17042,7 @@
     "voteClinton": 38.6,
     "votePersonal": 60.3,
     "voteTrump": 56.3,
+    "voteTrumpCare": true,
     "yearElected": "2001*",
     "yearReelection": "2018"
   },
@@ -16738,6 +17091,7 @@
     "voteClinton": 29,
     "votePersonal": 72.8,
     "voteTrump": 67,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -16787,6 +17141,7 @@
     "voteClinton": 34.5,
     "votePersonal": 67.2,
     "voteTrump": 60.2,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -16806,7 +17161,7 @@
     "linkMeeting": "",
     "linkWikipedia": "",
     "name": "Vacant Seat",
-    "note": "Vacated by Mike Mulvaney, election date not yet determined",
+    "note": "Vacated by Mike Mulvaney, election 6/20/17",
     "numbersAca": 26600,
     "numbersMedicaidAca": 0,
     "party": "NA",
@@ -16822,6 +17177,7 @@
     "voteClinton": 38.8,
     "votePersonal": 0,
     "voteTrump": 57.3,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -16874,6 +17230,7 @@
     "voteClinton": 66.8,
     "votePersonal": 70.1,
     "voteTrump": 30.3,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -16921,6 +17278,7 @@
     "voteClinton": 39.1,
     "votePersonal": 61,
     "voteTrump": 58,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -16974,6 +17332,7 @@
     "voteClinton": 31.7,
     "votePersonal": 64.1,
     "voteTrump": 61.5,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -17022,6 +17381,7 @@
     "voteClinton": 19.7,
     "votePersonal": 78.4,
     "voteTrump": 76.7,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -17070,6 +17430,7 @@
     "voteClinton": 29.7,
     "votePersonal": 75.6,
     "voteTrump": 65.1,
+    "voteTrumpCare": true,
     "yearElected": "1988*",
     "yearReelection": "2018"
   },
@@ -17123,6 +17484,7 @@
     "voteClinton": 30.2,
     "votePersonal": 66.4,
     "voteTrump": 65.4,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -17184,6 +17546,7 @@
     "voteClinton": 27.4,
     "votePersonal": 65,
     "voteTrump": 68.6,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -17226,6 +17589,7 @@
     "voteClinton": 56.6,
     "votePersonal": 62.6,
     "voteTrump": 38.2,
+    "voteTrumpCare": false,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -17275,6 +17639,7 @@
     "voteClinton": 23.7,
     "votePersonal": 71.1,
     "voteTrump": 72.6,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -17322,6 +17687,7 @@
     "voteClinton": 28.2,
     "votePersonal": 72.2,
     "voteTrump": 67.5,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -17381,6 +17747,7 @@
     "voteClinton": 30.7,
     "votePersonal": 68.8,
     "voteTrump": 66.3,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -17423,6 +17790,7 @@
     "voteClinton": 77.5,
     "votePersonal": 78.7,
     "voteTrump": 19.8,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -17489,6 +17857,7 @@
     "voteClinton": 25.3,
     "votePersonal": 73.9,
     "voteTrump": 72.2,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -17532,6 +17901,7 @@
     "voteClinton": 43.1,
     "votePersonal": 60.6,
     "voteTrump": 52.4,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -17573,6 +17943,7 @@
     "voteClinton": 40.6,
     "votePersonal": 61.2,
     "voteTrump": 54.8,
+    "voteTrumpCare": true,
     "yearElected": "1991*",
     "yearReelection": "2018"
   },
@@ -17628,6 +17999,7 @@
     "voteClinton": 21.8,
     "votePersonal": 88,
     "voteTrump": 75.4,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -17675,6 +18047,7 @@
     "voteClinton": 34.3,
     "votePersonal": 80.6,
     "voteTrump": 62.7,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -17722,6 +18095,7 @@
     "voteClinton": 41.9,
     "votePersonal": 58.3,
     "voteTrump": 54.2,
+    "voteTrumpCare": true,
     "yearElected": "1985",
     "yearReelection": "2018"
   },
@@ -17763,6 +18137,7 @@
     "voteClinton": 48.5,
     "votePersonal": 56.2,
     "voteTrump": 47.1,
+    "voteTrumpCare": true,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -17811,6 +18186,7 @@
     "voteClinton": 23.9,
     "votePersonal": 100,
     "voteTrump": 72.7,
+    "voteTrumpCare": true,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -17852,6 +18228,7 @@
     "voteClinton": 79.3,
     "votePersonal": 80.6,
     "voteTrump": 18,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -17912,6 +18289,7 @@
     "voteClinton": 43.2,
     "votePersonal": 57.3,
     "voteTrump": 52.3,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -17985,6 +18363,7 @@
     "voteClinton": 19.1,
     "votePersonal": 89.5,
     "voteTrump": 77.8,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -18026,6 +18405,7 @@
     "voteClinton": 32.7,
     "votePersonal": 69.4,
     "voteTrump": 62.9,
+    "voteTrumpCare": true,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -18073,6 +18453,7 @@
     "voteClinton": 16.9,
     "votePersonal": 90,
     "voteTrump": 79.9,
+    "voteTrumpCare": true,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -18128,6 +18509,7 @@
     "voteClinton": 38.4,
     "votePersonal": 61.9,
     "voteTrump": 58.2,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -18169,6 +18551,7 @@
     "voteClinton": 56.7,
     "votePersonal": 57.3,
     "voteTrump": 40,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -18212,6 +18595,7 @@
     "voteClinton": 67.9,
     "votePersonal": 85.7,
     "voteTrump": 27.2,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -18266,6 +18650,7 @@
     "voteClinton": 38.8,
     "votePersonal": 60.8,
     "voteTrump": 56.3,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -18320,6 +18705,7 @@
     "voteClinton": 76.5,
     "votePersonal": 73.5,
     "voteTrump": 20,
+    "voteTrumpCare": false,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -18369,6 +18755,7 @@
     "voteClinton": 23.5,
     "votePersonal": 86.7,
     "voteTrump": 72.5,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -18412,6 +18799,7 @@
     "voteClinton": 61,
     "votePersonal": 79.7,
     "voteTrump": 34.3,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -18467,6 +18855,7 @@
     "voteClinton": 42.5,
     "votePersonal": 57,
     "voteTrump": 52.5,
+    "voteTrumpCare": true,
     "yearElected": "1987",
     "yearReelection": "2018"
   },
@@ -18520,6 +18909,7 @@
     "voteClinton": 44.2,
     "votePersonal": 59.5,
     "voteTrump": 52.1,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -18586,6 +18976,7 @@
     "voteClinton": 49.8,
     "votePersonal": 48.3,
     "voteTrump": 46.4,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -18628,6 +19019,7 @@
     "voteClinton": 44.5,
     "votePersonal": 56.2,
     "voteTrump": 50.7,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -18675,6 +19067,7 @@
     "voteClinton": 40.2,
     "votePersonal": 58.4,
     "voteTrump": 55.1,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -18716,6 +19109,7 @@
     "voteClinton": 34.4,
     "votePersonal": 66.4,
     "voteTrump": 60.9,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -18766,6 +19160,7 @@
     "voteClinton": 36.5,
     "votePersonal": 61.7,
     "voteTrump": 60.1,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -18825,6 +19220,7 @@
     "voteClinton": 58.3,
     "votePersonal": 66.2,
     "voteTrump": 38.5,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -18873,6 +19269,7 @@
     "voteClinton": 71.1,
     "votePersonal": 72.5,
     "voteTrump": 25.4,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -18915,6 +19312,7 @@
     "voteClinton": 79.1,
     "votePersonal": 77.9,
     "voteTrump": 18.3,
+    "voteTrumpCare": false,
     "yearElected": "1991",
     "yearReelection": "2018"
   },
@@ -18962,6 +19360,7 @@
     "voteClinton": 40.8,
     "votePersonal": 58.4,
     "voteTrump": 53.5,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -19004,6 +19403,7 @@
     "voteClinton": 48.5,
     "votePersonal": 71.1,
     "voteTrump": 46.6,
+    "voteTrumpCare": true,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -19052,6 +19452,7 @@
     "voteClinton": 72.9,
     "votePersonal": 73.7,
     "voteTrump": 23.7,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -19112,6 +19513,7 @@
     "voteClinton": 59.2,
     "votePersonal": 62.7,
     "voteTrump": 37.7,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -19159,6 +19561,7 @@
     "voteClinton": 64.1,
     "votePersonal": 63.1,
     "voteTrump": 30.5,
+    "voteTrumpCare": false,
     "yearElected": "1995",
     "yearReelection": "2018"
   },
@@ -19219,6 +19622,7 @@
     "voteClinton": 25.2,
     "votePersonal": 88.6,
     "voteTrump": 72,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -19267,6 +19671,7 @@
     "voteClinton": 22.4,
     "votePersonal": 65.9,
     "voteTrump": 49.7,
+    "voteTrumpCare": true,
     "yearElected": "2003",
     "yearReelection": "2018"
   },
@@ -19316,6 +19721,7 @@
     "voteClinton": 32,
     "votePersonal": 61.6,
     "voteTrump": 46,
+    "voteTrumpCare": true,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -19358,6 +19764,7 @@
     "voteClinton": 23.3,
     "votePersonal": 73.5,
     "voteTrump": 47.2,
+    "voteTrumpCare": true,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -19400,6 +19807,7 @@
     "voteClinton": 32.4,
     "votePersonal": 53.8,
     "voteTrump": 39.1,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -19441,6 +19849,7 @@
     "voteClinton": 56.7,
     "votePersonal": 82.5,
     "voteTrump": 30.3,
+    "voteTrumpCare": false,
     "yearElected": "2007",
     "yearReelection": "2018"
   },
@@ -19495,6 +19904,7 @@
     "voteClinton": 41.2,
     "votePersonal": 59.9,
     "voteTrump": 53.6,
+    "voteTrumpCare": true,
     "yearElected": "2007*",
     "yearReelection": "2018"
   },
@@ -19536,6 +19946,7 @@
     "voteClinton": 45.4,
     "votePersonal": 61.3,
     "voteTrump": 48.8,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -19577,6 +19988,7 @@
     "voteClinton": 63.6,
     "votePersonal": 66.7,
     "voteTrump": 31.9,
+    "voteTrumpCare": false,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -19613,6 +20025,7 @@
     "voteClinton": 58.7,
     "votePersonal": 57.7,
     "voteTrump": 37.1,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -19659,6 +20072,7 @@
     "voteClinton": 42.3,
     "votePersonal": 58.2,
     "voteTrump": 53.4,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -19719,6 +20133,7 @@
     "voteClinton": 34.9,
     "votePersonal": 66.6,
     "voteTrump": 59.7,
+    "voteTrumpCare": true,
     "yearElected": "1993",
     "yearReelection": "2018"
   },
@@ -19768,6 +20183,7 @@
     "voteClinton": 44,
     "votePersonal": 57.5,
     "voteTrump": 50.5,
+    "voteTrumpCare": true,
     "yearElected": "2014*",
     "yearReelection": "2018"
   },
@@ -19810,6 +20226,7 @@
     "voteClinton": 73.5,
     "votePersonal": 68.4,
     "voteTrump": 20.9,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -19863,6 +20280,7 @@
     "voteClinton": 27.3,
     "votePersonal": 68.6,
     "voteTrump": 68.8,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -19912,6 +20330,7 @@
     "voteClinton": 52.2,
     "votePersonal": 52.7,
     "voteTrump": 42.2,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -19961,6 +20380,7 @@
     "voteClinton": 66.9,
     "votePersonal": 87.9,
     "voteTrump": 27.5,
+    "voteTrumpCare": false,
     "yearElected": "2009",
     "yearReelection": "2018"
   },
@@ -20009,6 +20429,7 @@
     "voteClinton": 54.1,
     "votePersonal": 55.4,
     "voteTrump": 37.8,
+    "voteTrumpCare": false,
     "yearElected": "2012*",
     "yearReelection": "2018"
   },
@@ -20057,6 +20478,7 @@
     "voteClinton": 56.9,
     "votePersonal": 64,
     "voteTrump": 34.8,
+    "voteTrumpCare": false,
     "yearElected": "2001",
     "yearReelection": "2018"
   },
@@ -20104,6 +20526,7 @@
     "voteClinton": 42.5,
     "votePersonal": 61.8,
     "voteTrump": 49.9,
+    "voteTrumpCare": false,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -20159,6 +20582,7 @@
     "voteClinton": 35.1,
     "votePersonal": 57.6,
     "voteTrump": 57.9,
+    "voteTrumpCare": false,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -20212,6 +20636,7 @@
     "voteClinton": 39.1,
     "votePersonal": 59.6,
     "voteTrump": 52.2,
+    "voteTrumpCare": true,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -20265,6 +20690,7 @@
     "voteClinton": 51.8,
     "votePersonal": 61.5,
     "voteTrump": 39.5,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -20307,6 +20733,7 @@
     "voteClinton": 82.1,
     "votePersonal": 56,
     "voteTrump": 12.2,
+    "voteTrumpCare": false,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -20354,6 +20781,7 @@
     "voteClinton": 47.7,
     "votePersonal": 60.2,
     "voteTrump": 44.7,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -20395,6 +20823,7 @@
     "voteClinton": 70.5,
     "votePersonal": 72.9,
     "voteTrump": 23.3,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -20443,6 +20872,7 @@
     "voteClinton": 51.3,
     "votePersonal": 58.7,
     "voteTrump": 39.9,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -20496,6 +20926,7 @@
     "voteClinton": 26.4,
     "votePersonal": 69,
     "voteTrump": 68,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -20543,6 +20974,7 @@
     "voteClinton": 29.4,
     "votePersonal": 58.2,
     "voteTrump": 65.8,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -20596,6 +21028,7 @@
     "voteClinton": 23.3,
     "votePersonal": 67.9,
     "voteTrump": 72.5,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -20648,6 +21081,7 @@
     "voteClinton": 42.3,
     "votePersonal": 65,
     "voteTrump": 52.6,
+    "voteTrumpCare": true,
     "yearElected": "1999",
     "yearReelection": "2018"
   },
@@ -20695,6 +21129,7 @@
     "voteClinton": 65.8,
     "votePersonal": 68.7,
     "voteTrump": 29,
+    "voteTrumpCare": false,
     "yearElected": "2013",
     "yearReelection": "2018"
   },
@@ -20742,6 +21177,7 @@
     "voteClinton": 44.8,
     "votePersonal": 98.9,
     "voteTrump": 49.3,
+    "voteTrumpCare": false,
     "yearElected": "1997",
     "yearReelection": "2018"
   },
@@ -20783,6 +21219,7 @@
     "voteClinton": 74,
     "votePersonal": 76.7,
     "voteTrump": 21.8,
+    "voteTrumpCare": false,
     "yearElected": "2005",
     "yearReelection": "2018"
   },
@@ -20826,6 +21263,7 @@
     "voteClinton": 37.3,
     "votePersonal": 66.7,
     "voteTrump": 57.4,
+    "voteTrumpCare": true,
     "yearElected": "1979",
     "yearReelection": "2018"
   },
@@ -20869,6 +21307,7 @@
     "voteClinton": 38.8,
     "votePersonal": 57.2,
     "voteTrump": 55.7,
+    "voteTrumpCare": true,
     "yearElected": "2015",
     "yearReelection": "2018"
   },
@@ -20923,6 +21362,7 @@
     "voteClinton": 37.3,
     "votePersonal": 61.7,
     "voteTrump": 57.8,
+    "voteTrumpCare": true,
     "yearElected": "2011",
     "yearReelection": "2018"
   },
@@ -20965,6 +21405,7 @@
     "voteClinton": 38.6,
     "votePersonal": 62.7,
     "voteTrump": 56.2,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   },
@@ -21020,6 +21461,7 @@
     "voteClinton": 22.5,
     "votePersonal": 60.3,
     "voteTrump": 70.1,
+    "voteTrumpCare": true,
     "yearElected": "2017",
     "yearReelection": "2018"
   }

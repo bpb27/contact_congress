@@ -216,9 +216,9 @@ app.controller('localCtrl', ['$scope', '$http', '$routeParams', function ($scope
 
 app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', function ($scope, $http, $routeParams, $timeout) {
 
-    $scope.dataAca = false;
-    $scope.dataCommittees = false;
-    $scope.dataOffices = false;
+    $scope.dataAca = true;
+    $scope.dataCommittees = true;
+    $scope.dataOffices = true;
     $scope.displayed = [];
     $scope.glowing = true;
     $scope.increment = 20;
