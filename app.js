@@ -227,14 +227,14 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
     $scope.queryState = '';
     $scope.queryZip = '';
     $scope.reps = [];
-    $scope.sens - [];
+    $scope.sens = [];
     $scope.showOffices = true;
     $scope.sortAsc = true;
     $scope.zips = [];
     $scope.zipMatch = false;
     $scope.zipMatchState = '';
 
-    $scope.chambers = {
+    $scope.selectChambers = {
         model: "1",
         availableOptions: [
             { id: "1", name: "Both chambers" },
@@ -243,7 +243,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         ]
     };
 
-    $scope.parties = {
+    $scope.selectParties = {
         model: "1",
         availableOptions: [
             { id: "1", name: "All Parties" },
@@ -253,7 +253,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         ]
     };
 
-    $scope.houseCommittees = {
+    $scope.selectHouseCommittees = {
         model: "1",
         availableOptions: [
             { id: "1", name: "All House Committees" },
@@ -281,7 +281,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         ]
     };
 
-    $scope.senateCommittees = {
+    $scope.selectSenateCommittees = {
         model: "1",
         availableOptions: [
             { id: "1", name: "All Senate Committees" },
@@ -307,7 +307,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         ]
     };
 
-    $scope.sorting = {
+    $scope.selectSorting = {
         model: "1",
         availableOptions: [
             { id: "1", name: "Order by State" },
@@ -324,15 +324,15 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
 
     $scope.chooseCommittee = function (committee, member) {
         if (member.district) {
-            var choice = $scope.houseCommittees.availableOptions.filter(function (c) {
+            var choice = $scope.selectHouseCommittees.availableOptions.filter(function (c) {
                 return c.name === committee;
             })[0].id;
-            $scope.houseCommittees.model = $scope.houseCommittees.model === choice ? "1" : choice;
+            $scope.selectHouseCommittees.model = $scope.selectHouseCommittees.model === choice ? "1" : choice;
         } else {
-            var choice = $scope.senateCommittees.availableOptions.filter(function (c) {
+            var choice = $scope.selectSenateCommittees.availableOptions.filter(function (c) {
                 return c.name === committee;
             })[0].id;
-            $scope.senateCommittees.model = $scope.senateCommittees.model === choice ? "1" : choice;
+            $scope.selectSenateCommittees.model = $scope.selectSenateCommittees.model === choice ? "1" : choice;
         }
     }
 
@@ -342,7 +342,7 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         if ($scope.queryZip.length === 5 && $scope.zips[$scope.queryZip]) {
             prompt(message, base + $scope.queryZip);
         } else {
-            var nums = [$scope.chambers.model, $scope.parties.model, $scope.houseCommittees.model, $scope.senateCommittees.model, $scope.sorting.model].join('-');
+            var nums = [$scope.selectChambers.model, $scope.selectParties.model, $scope.selectHouseCommittees.model, $scope.selectSenateCommittees.model, $scope.selectSorting.model].join('-');
             var link = base + [nums, $scope.queryState || 'n', $scope.queryName || 'n'].join('/');
             if (link === 'http://www.contactingcongress.org/1-1-1-1-1/n/n') {
                 prompt(message, 'http://www.contactingcongress.org/');
@@ -364,11 +364,11 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
             $scope.queryZip = $routeParams.zip;
         } else if ($routeParams.filters) {
             var nums = $routeParams.filters.split('-');
-            $scope.chambers.model = nums[0];
-            $scope.parties.model = nums[1];
-            $scope.houseCommittees.model = nums[2];
-            $scope.senateCommittees.model = nums[3];
-            $scope.sorting.model = nums[4];
+            $scope.selectChambers.model = nums[0];
+            $scope.selectParties.model = nums[1];
+            $scope.selectHouseCommittees.model = nums[2];
+            $scope.selectSenateCommittees.model = nums[3];
+            $scope.selectSorting.model = nums[4];
             $scope.queryState = $routeParams.state !== 'n' ? $routeParams.state : '';
             $scope.queryName = $routeParams.name !== 'n' ? $routeParams.name : '';
         }
@@ -384,55 +384,31 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
 
     $scope.update = function (noReset) {
 
-        if (!noReset) {
-            $scope.increment = 20;
-        }
-
+        $scope.increment = !noReset ? 20 : $scope.increment;
         $scope.zipMatch = false;
-        var reps = $scope.reps ? $scope.reps.slice() : [];
-        var sens = $scope.sens ? $scope.sens.slice() : [];
 
-        if ($scope.chambers.model !== "1") {
-            if ($scope.chambers.model === "2") {
-                sens = [];
-            } else {
-                reps = [];
-            }
-        }
+        var reps = !$scope.reps || $scope.selectChambers.model === '3' ? [] : $scope.reps;
+        var sens = !$scope.sens || $scope.selectChambers.model === '2' ? [] : $scope.sens;
 
-        if ($scope.houseCommittees.model !== "1") {
+        if ($scope.selectHouseCommittees.model !== "1") {
+            var houseComm = findByValue('id', $scope.selectHouseCommittees.model, $scope.selectHouseCommittees.availableOptions)[0];
+            reps = findByValueContains('committees', houseComm.name, reps);
             sens = [];
-            var comm = $scope.houseCommittees.availableOptions.filter(function (item) {
-                return item.id === $scope.houseCommittees.model;
-            })[0];
-            reps = reps.filter(function (rep) {
-                return rep.committees.indexOf(comm.name) !== -1;
-            });
         }
 
-        if ($scope.senateCommittees.model !== "1") {
+        if ($scope.selectSenateCommittees.model !== "1") {
+            var senComm = findByValue('id', $scope.selectSenateCommittees.model, $scope.selectSenateCommittees.availableOptions)[0];
+            sens = findByValueContains('committees', senComm.name, sens);
             reps = [];
-            var comm = $scope.senateCommittees.availableOptions.filter(function (item) {
-                return item.id === $scope.senateCommittees.model;
-            })[0];
-            sens = sens.filter(function (sen) {
-                return sen.committees.indexOf(comm.name) !== -1;
-            });
         }
 
-        if ($scope.parties.model !== "1") {
-            var party = $scope.parties.availableOptions.filter(function (item) {
-                return item.id === $scope.parties.model;
-            })[0];
-            sens = sens.filter(function (sen) {
-                return sen.party === party.name;
-            });
-            reps = reps.filter(function (rep) {
-                return rep.party === party.name;
-            });
+        if ($scope.selectParties.model !== "1") {
+            var party = findByValue('id', $scope.selectParties.model, $scope.selectParties.availableOptions)[0];
+            sens = findByValue('party', party.name, sens);
+            reps = findByValue('party', party.name, reps);
         }
 
-        if ($scope.queryZip.length === 5 && $scope.zips[$scope.queryZip]) {
+        if ($scope.zips[$scope.queryZip]) {
             $scope.matches = findByDistrict(parseDistricts($scope.zips[$scope.queryZip]), reps, sens);
             $scope.zipMatch = true;
             try {
@@ -450,9 +426,8 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
             $scope.matches = reps.concat(sens);
         }
 
-        var sortId = $scope.sorting.model;
         var sortedMatches = $scope.matches.sort(function (a, b) {
-            return sortingRules(sortId, a, b);
+            return sortingRules($scope.selectSorting.model, a, b);
         });
 
         $scope.displayed = !$scope.sortAsc ? sortedMatches.reverse().slice(0, $scope.increment) : sortedMatches.slice(0, $scope.increment);
@@ -463,11 +438,11 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
       'queryName',
       'queryState',
       'queryZip',
-      'chambers.model',
-      'parties.model',
-      'houseCommittees.model',
-      'senateCommittees.model',
-      'sorting.model',
+      'selectChambers.model',
+      'selectParties.model',
+      'selectHouseCommittees.model',
+      'selectSenateCommittees.model',
+      'selectSorting.model',
       'sortAsc'
     ], function () {
         $scope.update();
@@ -496,8 +471,8 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
 
     $scope.parseRouteParams();
 
-    $timeout(function(){
-      $scope.glowing = false;
+    $timeout(function () {
+        $scope.glowing = false;
     }, 6000);
 
     function addDates(group, reelectionYear) {
@@ -544,6 +519,18 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         }));
     }
 
+    function findByValue(prop, val, list) {
+        return list.filter(function (item) {
+            return item[prop] === val;
+        });
+    }
+
+    function findByValueContains(prop, val, list) {
+        return list.filter(function (item) {
+            return item[prop].indexOf(val) !== -1;
+        });
+    }
+
     function lastName(str) {
         var l = str.replace(' Jr', '').split(' ');
         return l[l.length - 1].toLowerCase().trim();
@@ -560,72 +547,36 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
         return [str];
     }
 
+    function sortHelper(conditionOne, conditionTwo) {
+        if (conditionOne < conditionTwo) {
+            return -1;
+        } else if (conditionOne > conditionTwo) {
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+
     function sortingRules(sortId, a, b) {
         if (sortId === "1") {
-            if (a.stateDisplay.toLowerCase() < b.stateDisplay.toLowerCase()) {
-                return -1;
-            } else if (a.stateDisplay.toLowerCase() > b.stateDisplay.toLowerCase()) {
-                return 1;
-            } else {
-                return 0;
-            }
+            var num = sortHelper(a.stateDisplay.toLowerCase(), b.stateDisplay.toLowerCase());
+            return num === 0 ? sortHelper(a.district || 0, b.district || 0) : num;
         }
         if (sortId === "2") {
-            if (a.name.split(' ')[0].toLowerCase().trim() < b.name.split(' ')[0].toLowerCase().trim()) {
-                return -1;
-            } else if (a.name.split(' ')[0].toLowerCase().trim() > b.name.split(' ')[0].toLowerCase().trim()) {
-                return 1;
-            } else {
-                return 0;
-            }
+            return sortHelper(a.name.split(' ')[0].toLowerCase().trim(), b.name.split(' ')[0].toLowerCase().trim());
         }
         if (sortId === "3") {
-            if (lastName(a.name) < lastName(b.name)) {
-                return -1;
-            } else if (lastName(a.name) > lastName(b.name)) {
-                return 1;
-            } else {
-                return 0;
-            }
+            return sortHelper(lastName(a.name), lastName(b.name));
         }
         if (sortId === "4") {
-            if (parseInt(a.yearElected.replace('*', '')) < parseInt(b.yearElected.replace('*', ''))) {
-                return -1;
-            } else if (parseInt(a.yearElected.replace('*', '')) > parseInt(b.yearElected.replace('*', ''))) {
-                return 1;
-            } else {
-                return 0
-            }
+            return sortHelper(parseInt(a.yearElected.replace('*', '')), parseInt(b.yearElected.replace('*', '')))
         }
         if (sortId === "5") {
-            if (parseInt(a.yearReelection.replace('*', '')) < parseInt(b.yearReelection.replace('*', ''))) {
-                return -1;
-            } else if (parseInt(a.yearReelection.replace('*', '')) > parseInt(b.yearReelection.replace('*', ''))) {
-                return 1;
-            } else {
-                return 0;
-            }
+            return sortHelper(parseInt(a.yearReelection.replace('*', '')), parseInt(b.yearReelection.replace('*', '')));
         }
-        if (["6", "7", "8", "9"].indexOf(sortId) !== -1) {
-            var prop = 'votePersonal';
-
-            if (sortId === '7') {
-                prop = 'voteTrump';
-            }
-            if (sortId === '8') {
-                prop = 'voteClinton';
-            }
-            if (sortId === '9') {
-                prop = 'numbersAca';
-            }
-
-            if (parseInt(a[prop]) < parseInt(b[prop])) {
-                return -1;
-            } else if (parseInt(a[prop]) > parseInt(b[prop])) {
-                return 1;
-            } else {
-                return 0;
-            }
+        if (/[6-9]/.test(sortId)) {
+            var numberProps = { '6': 'votePersonal', '7': 'voteTrump', '8': 'voteClinton', '9': 'numbersAca' };
+            return sortHelper(parseInt(a[numberProps[sortId]]), parseInt(b[numberProps[sortId]]));
         }
     }
 

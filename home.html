@@ -27,28 +27,28 @@
 			</div>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-0">
-			<select ng-model="chambers.model" class="form-control">
-				<option ng-repeat="option in chambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectChambers.model" class="form-control">
+				<option ng-repeat="option in selectChambers.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-0">
-			<select ng-model="parties.model" class="form-control">
-				<option ng-repeat="option in parties.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectParties.model" class="form-control">
+				<option ng-repeat="option in selectParties.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-0 col-xs-0">
-			<select ng-model="houseCommittees.model" class="form-control">
-				<option ng-repeat="option in houseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectHouseCommittees.model" class="form-control">
+				<option ng-repeat="option in selectHouseCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-0 col-xs-0">
-			<select ng-model="senateCommittees.model" class="form-control">
-				<option ng-repeat="option in senateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectSenateCommittees.model" class="form-control">
+				<option ng-repeat="option in selectSenateCommittees.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 		</div>
 		<div class="col-md-2 col-sm-3 col-xs-0" id="sorting-options">
-			<select ng-model="sorting.model" class="form-control">
-				<option ng-repeat="option in sorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
+			<select ng-model="selectSorting.model" class="form-control">
+				<option ng-repeat="option in selectSorting.availableOptions" value="{{option.id}}">{{option.name}}</option>
 			</select>
 			<button class="btn form-control" ng-click="sortAsc = !sortAsc">
 				<span ng-if="sortAsc">↑</span>
