@@ -16,16 +16,11 @@
 		<meta property="og:image" content="//contactingcongress.org/logo.png" />
 		<base href="/">
 		<link rel="icon" href="favicon.ico">
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<link href="//fonts.googleapis.com/css?family=Mukta+Vaani:400,700" rel="stylesheet">
+		<link rel="stylesheet" href="libraries/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="libraries/font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<script src="libraries/moment.js"></script>
+		<link href="//fonts.googleapis.com/css?family=Mukta+Vaani:400,700" rel="stylesheet">
+		<script src="bundle.js"></script>
 		<script src="app.js"></script>
 	</head>
 	<body ng-app="myApp">
@@ -62,12 +57,6 @@
 								<li><a href="mailto:contactingcongress@gmail.com">contactingcongress@gmail.com</a></li>
 							</ul>
 						</li>
-						<form class="navbar-form navbar-right" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-						  <input type="hidden" name="cmd" value="_s-xclick">
-						  <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
-						  <input type="submit" value="Support" class="btn btn-sm btn-primary form-control">
-						  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->

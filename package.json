@@ -1,0 +1,29 @@
+{
+  "name": "contact_congress",
+  "version": "1.0.0",
+  "description": "source for www.contactingcongress.org",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./bundler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpb27/contact_congress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpb27/contact_congress/issues"
+  },
+  "homepage": "https://github.com/bpb27/contact_congress",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-animate": "^1.4.8",
+    "angular-route": "^1.4.8",
+    "bootstrap": "^3.3.7",
+    "concat-files": "^0.1.1",
+    "jquery": "^1.12.4",
+    "moment": "^2.18.1"
+  }
+}

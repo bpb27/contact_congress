@@ -1,6 +1,2 @@
-notes.txt
-check.py
-/server
-/data/reps2.json
-/data/sens2.json
-workzone
+/workzone
+/node_modules
