@@ -144,9 +144,15 @@
 				</span>
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-0">
-				<button ng-if="member.linkMeeting" class="btn btn-default">Request Meeting</button>
-				<button ng-if="member.linkTownhall" class="btn btn-default">Townhalls</button>
-				<button ng-if="member.linkTeletownhall" class="btn btn-default">Tele-Townhalls</button>
+				<a ng-if="member.linkMeeting" ng-href="{{member.linkMeeting}}" target="_blank">
+					<button  class="btn btn-default">Request Meeting</button>
+				</a>
+				<a ng-if="member.linkTownhall" ng-href="{{member.linkTownhall}}" target="_blank">
+					<button ng-if="member.linkTownhall" class="btn btn-default">Townhalls</button>
+				</a>
+				<a ng-if="member.linkTeletownhall" ng-href="{{member.linkTeletownhall}}" target="_blank">
+					<button ng-if="member.linkTeletownhall" class="btn btn-default">Tele-Townhalls</button>
+				</a>
 			</div>
 			<div class="col-md-12 col-sm-12 col-xs-12" ng-if="dataCommittees || dataOffices">
 				<div class="full-contact row">
