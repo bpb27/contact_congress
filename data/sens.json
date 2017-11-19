@@ -69,17 +69,20 @@
   },
   {
     "committees": [
+      "Armed Services",
+      "Budget",
+      "Energy and Natural Resources"
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "326 Russell SOB, Washington, DC 20510",
+        "fax": "202-224-3149",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-224-4124"
       }
     ],
     "id": "AL-2",
-    "linkContact": "",
+    "linkContact": "https://www.strange.senate.gov/content/contact-senator",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Luther_Strange",
     "name": "Luther Strange",
@@ -89,9 +92,9 @@
     "party": "Republican",
     "photoFilename": "alabama_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/SenStrange.jpg",
-    "socialFacebook": "https://www.facebook.com/lutherstrange",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/senatorstrange?lang=en",
+    "socialFacebook": "https://www.facebook.com/SenatorLutherStrange/",
+    "socialInstagram": "https://www.instagram.com/senatorlutherstrange/",
+    "socialTwitter": "https://twitter.com/SenatorStrange",
     "socialTwitter2": "https://twitter.com/lutherstrange",
     "socialYoutube": "",
     "state": "alabama",
