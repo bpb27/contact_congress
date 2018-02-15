@@ -69,33 +69,51 @@
   },
   {
     "committees": [
-      "Armed Services",
-      "Budget",
-      "Energy and Natural Resources"
+      "Banking, Housing, and Urban Affairs",
+      "Health, Education, Labor and Pensions",
+      "Homeland Security and Governmental Affairs"
     ],
     "contact": [
       {
-        "address": "326 Russell SOB, Washington, DC 20510",
-        "fax": "202-224-3149",
+        "address": "326 Russell Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-4124"
+      },
+      {
+        "address": "1800 5th Avenue North, Birmingham, AL  35203",
+        "fax": "",
+        "name": "Birmingham Office",
+        "phone": "205-731-1500"
+      },
+      {
+        "address": "1 Church Street, Suite 500 B, Montgomery, AL 36104",
+        "fax": "",
+        "name": "Montgomery Office",
+        "phone": ""
+      },
+      {
+        "address": "41 West I-65 Service Road, North, Mobile, AL 36608",
+        "fax": "",
+        "name": "Mobile Office",
+        "phone": ""
       }
     ],
     "id": "AL-2",
-    "linkContact": "https://www.strange.senate.gov/content/contact-senator",
+    "linkContact": "https://www.jones.senate.gov/content/contact-senator",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Luther_Strange",
-    "name": "Luther Strange",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)",
+    "name": "Doug Jones",
     "numbersAca": 165600,
     "numbersMedicaid": 1047100,
     "numbersMedicaidAca": 0,
-    "party": "Republican",
+    "party": "Democratic",
     "photoFilename": "alabama_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/SenStrange.jpg",
-    "socialFacebook": "https://www.facebook.com/SenatorLutherStrange/",
-    "socialInstagram": "https://www.instagram.com/senatorlutherstrange/",
-    "socialTwitter": "https://twitter.com/SenatorStrange",
-    "socialTwitter2": "https://twitter.com/lutherstrange",
+    "photoUrl": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)#/media/File:Senator_Doug_Jones_official_photo.jpg",
+    "socialFacebook": "https://www.facebook.com/senatordougjones/",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/SenDougJones",
+    "socialTwitter2": "",
     "socialYoutube": "",
     "state": "alabama",
     "stateAbbreviation": "AL",
@@ -103,7 +121,7 @@
     "voteClinton": 34.4,
     "votePersonal": 0,
     "voteTrump": 62.1,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
