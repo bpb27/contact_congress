@@ -15467,46 +15467,38 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1203 Longworth House Office Building, Washington, D.C. 20515",
-        "fax": "202-226-4523",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-225-5355"
-      },
-      {
-        "address": "250 E. Wilson Bridge Road, Suite 100, Worthington, Ohio 43085",
-        "fax": "614-818-0887",
-        "name": "Worthington Office",
-        "phone": "614-523-2555"
+        "phone": ""
       }
     ],
     "district": "12",
     "id": "OH-12",
-    "linkContact": "https://tiberi.house.gov/contact/",
-    "linkMeeting": "https://tiberi.house.gov/scheduleintro/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Pat_Tiberi",
-    "name": "Pat Tiberi",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "",
+    "name": "Unseated",
     "numbersAca": 13400,
     "numbersMedicaidAca": 46824,
-    "party": "Republican",
-    "photoFilename": "ohio12.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pat_Tiberi_official.jpg/75px-Pat_Tiberi_official.jpg",
-    "socialFacebook": "https://www.facebook.com/RepPatTiberi/",
-    "socialInstagram": "https://www.instagram.com/pattiberi/",
-    "socialTwitter": "https://twitter.com/pattiberi",
-    "socialYoutube": "http://www.youtube.com/user/PatTiberi",
+    "party": "",
+    "photoFilename": "blank.png",
+    "photoUrl": "",
+    "socialFacebook": "",
+    "socialInstagram": "",
+    "socialTwitter": "",
+    "socialYoutube": "",
     "state": "ohio",
     "stateAbbreviation": "OH-12",
     "stateDisplay": "Ohio",
     "voteClinton": 41.9,
     "votePersonal": 66.6,
     "voteTrump": 53.2,
-    "voteTrumpCare": true,
-    "yearElected": "2001",
+    "voteTrumpCare": false,
+    "yearElected": "2018",
     "yearReelection": "2018"
   },
   {
