@@ -2697,19 +2697,27 @@
   },
   {
     "committees": [
+      "Natural Resources",
+      "Oversight and Government Reform"
     ],
     "contact": [
       {
-        "address": "",
+        "address": "1226 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-6235"
+      },
+      {
+        "address": "350 S. Bixel Street, #120, Los Angeles, CA 90017",
+        "fax": "213-481-1427",
+        "name": "Washington DC Office",
+        "phone": "213-481-1425"
       }
     ],
     "district": "34",
     "id": "CA-34",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://gomez.house.gov/contact/",
+    "linkMeeting": "https://gomez.house.gov/contact/scheduling-requests.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jimmy_Gomez",
     "name": "Jimmy Gomez",
     "numbersAca": 28900,
@@ -2717,9 +2725,9 @@
     "party": "Democratic",
     "photoFilename": "california34.jpg",
     "photoUrl": "https://en.wikipedia.org/wiki/Jimmy_Gomez#/media/File:Jimmy_Gomez,_California_State_Assembly_(2012).jpg",
-    "socialFacebook": "http://facebook.com/jimmygomezca",
+    "socialFacebook": "https://www.facebook.com/RepJimmyGomez",
     "socialInstagram": "http://instagram.com/jimmygomezca",
-    "socialTwitter": "http://twitter.com/jimmygomezca",
+    "socialTwitter": "https://twitter.com/RepJimmyGomez",
     "socialYoutube": "http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg",
     "state": "california",
     "stateAbbreviation": "CA-34",
@@ -4591,7 +4599,7 @@
     "contact": [
       {
         "address": "1429 Longworth HOB, Washington, DC 20515",
-        "fax": "",
+        "fax": "202-225-9742",
         "name": "Washington DC Office",
         "phone": "202-225-9889"
       },
@@ -4599,7 +4607,31 @@
         "address": "804 Bryan Street, Kissimmee, FL 34741",
         "fax": "",
         "name": "Kissimmee Office",
-        "phone": ""
+        "phone": "407-452-1171"
+      },
+      {
+        "address": "620 E Main Street, Haines City, FL 33844",
+        "fax": "",
+        "name": "Haines City Office",
+        "phone": "202-600-0843"
+      },
+      {
+        "address": "6900 Lake Nona Boulevard, Suites #101A, Orlando, FL 32827",
+        "fax": "",
+        "name": "Lake Nona Office",
+        "phone": "407-266-7161"
+      },
+      {
+        "address": "201 W Central Avenue, Lake Wales, FL 33853",
+        "fax": "",
+        "name": "Lake Wales Office",
+        "phone": "202-600-0843"
+      },
+      {
+        "address": "451 3rd Street NW, Winter Haven, FL 33881",
+        "fax": "",
+        "name": "Winter Haven Office",
+        "phone": "202-600-0843"
       }
     ],
     "district": "9",
@@ -4614,9 +4646,9 @@
     "photoFilename": "florida9.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Darren_Soto_115th_Congress_photo.jpg/75px-Darren_Soto_115th_Congress_photo.jpg",
     "socialFacebook": "https://www.facebook.com/DarrenSotoFlorida",
-    "socialInstagram": "",
+    "socialInstagram": "http://instagram.com/RepDarrenSoto/",
     "socialTwitter": "https://twitter.com/RepDarrenSoto",
-    "socialYoutube": "",
+    "socialYoutube": "http://www.youtube.com/repdarrensoto",
     "state": "florida",
     "stateAbbreviation": "FL-9",
     "stateDisplay": "Florida",
@@ -4643,7 +4675,7 @@
         "address": "2295 S Hiawassee Rd, Suite 301, Orlando, FL 32835",
         "fax": "",
         "name": "Orlando Office",
-        "phone": ""
+        "phone": "321-388-9808"
       }
     ],
     "district": "10",
@@ -5762,6 +5794,8 @@
   },
   {
     "committees": [
+      "Judiciary",
+      "Education and the Workforce"
     ],
     "contact": [
       {
@@ -5780,7 +5814,7 @@
     "district": "6",
     "id": "GA-6",
     "linkContact": "https://handel.house.gov/contact/email",
-    "linkMeeting": "",
+    "linkMeeting": "https://handel.house.gov/contact/request-appearance",
     "linkWikipedia": "",
     "name": "Karen Handel",
     "numbersAca": 40600,
@@ -11570,30 +11604,51 @@
   },
   {
     "committees": [
+      "Natural Resources",
+      "Oversight and Government Reform"
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "1419 Longworth HOB, Washington, DC 20515",
+        "fax": "202-225-5687",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-3211"
+      },
+      {
+        "address": "222 North 32nd Street, Suite 900, Billings, MT 59101",
+        "fax": "",
+        "name": "Billings Office",
+        "phone": "406-969-1736"
+      },
+      {
+        "address": "710 Central Avene, Great Falls, MT 59401",
+        "fax": "",
+        "name": "Great Falls Office",
+        "phone": "406-952-1280"
+      },
+      {
+        "address": "7 West 6th Avenue, Suite 3B, Helena, MT 59601",
+        "fax": "",
+        "name": "Helena Office",
+        "phone": "406-502-1435"
       }
     ],
     "district": "1",
     "id": "MT-1",
-    "linkContact": "",
+    "linkContact": "https://gianforte.house.gov/contact",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Greg_Gianforte",
+    "linkTeletownhall": "https://gianforte.house.gov/contact/join-greg-montana-telephone-town-hall",
     "name": "Greg Gianforte",
     "numbersAca": 51800,
     "numbersMedicaidAca": 61233,
     "party": "Republican",
     "photoFilename": "montana1.jpg",
     "photoUrl": "https://localtvwreg.files.wordpress.com/2017/05/greg-gianforte.jpg?quality=85&strip=all&w=1200",
-    "socialFacebook": "https://www.facebook.com/GregForMontana/",
+    "socialFacebook": "http://www.facebook.com/RepGianforte/",
     "socialInstagram": "",
     "socialTwitter": "https://twitter.com/gianforte",
-    "socialYoutube": "",
+    "socialYoutube": "https://www.youtube.com/channel/UCj4ocM2PHNKBbmMQF8k-wsQ",
     "state": "montana",
     "stateAbbreviation": "MT-1",
     "stateDisplay": "Montana",
@@ -11863,7 +11918,7 @@
         "address": "8872 S Eastern Ave, Suite 210/220, Las Vegas, NV 89123",
         "fax": "",
         "name": "Las Vegas Office",
-        "phone": ""
+        "phone": "702-963-9500"
       }
     ],
     "district": "3",
@@ -11878,8 +11933,8 @@
     "photoFilename": "nevada3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jacky_Rosen.jpg/75px-Jacky_Rosen.jpg",
     "socialFacebook": "https://www.facebook.com/RepJackyRosen/",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/rosenfornevada?lang=en",
+    "socialInstagram": "http://instagram.com/repjackyrosen/",
+    "socialTwitter": "https://twitter.com/RepJackyRosen",
     "socialYoutube": "",
     "state": "nevada",
     "stateAbbreviation": "NV-3",
@@ -12803,7 +12858,7 @@
     ],
     "district": "3",
     "id": "NM-3",
-    "linkContact": "https://lujan.house.gov/issue-subscribe",
+    "linkContact": "https://lujan.house.gov/email-me/",
     "linkMeeting": "https://lujan.house.gov/schedule-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_R._Luj%C3%A1n",
     "name": "Ben Lujan",
@@ -15467,46 +15522,38 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1203 Longworth House Office Building, Washington, D.C. 20515",
-        "fax": "202-226-4523",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-225-5355"
-      },
-      {
-        "address": "250 E. Wilson Bridge Road, Suite 100, Worthington, Ohio 43085",
-        "fax": "614-818-0887",
-        "name": "Worthington Office",
-        "phone": "614-523-2555"
+        "phone": ""
       }
     ],
     "district": "12",
     "id": "OH-12",
-    "linkContact": "https://tiberi.house.gov/contact/",
-    "linkMeeting": "https://tiberi.house.gov/scheduleintro/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Pat_Tiberi",
-    "name": "Pat Tiberi",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "",
+    "name": "Unseated",
     "numbersAca": 13400,
     "numbersMedicaidAca": 46824,
-    "party": "Republican",
-    "photoFilename": "ohio12.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pat_Tiberi_official.jpg/75px-Pat_Tiberi_official.jpg",
-    "socialFacebook": "https://www.facebook.com/RepPatTiberi/",
-    "socialInstagram": "https://www.instagram.com/pattiberi/",
-    "socialTwitter": "https://twitter.com/pattiberi",
-    "socialYoutube": "http://www.youtube.com/user/PatTiberi",
+    "party": "",
+    "photoFilename": "blank.png",
+    "photoUrl": "",
+    "socialFacebook": "",
+    "socialInstagram": "",
+    "socialTwitter": "",
+    "socialYoutube": "",
     "state": "ohio",
     "stateAbbreviation": "OH-12",
     "stateDisplay": "Ohio",
     "voteClinton": 41.9,
     "votePersonal": 66.6,
     "voteTrump": 53.2,
-    "voteTrumpCare": true,
-    "yearElected": "2001",
+    "voteTrumpCare": false,
+    "yearElected": "2018",
     "yearReelection": "2018"
   },
   {
@@ -16598,16 +16645,16 @@
     ],
     "contact": [
       {
-        "address": "",
-        "fax": "",
+        "address": "514 Cannon HOB, Washington, DC 20515",
+        "fax": "202-225-9511",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-4276"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Office",
-        "phone": ""
+        "address": "1717 Langhorne Newtown Rd. Suite 400, Langhorne, PA 19047",
+        "fax": "215-579-8109",
+        "name": "Langhorne Office",
+        "phone": "215-579-8102"
       }
     ],
     "district": "8",
@@ -17159,51 +17206,40 @@
   },
   {
     "committees": [
-      "Energy and Commerce"
+      "Science, Space, and Technology",
+      "Veterans' Affairs"
     ],
     "contact": [
       {
-        "address": "2332 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-1844",
+        "address": "2332 Rayburn House Office Building, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2301"
-      },
-      {
-        "address": "504 Washington Road, Pittsburgh, PA 15228",
-        "fax": "412-429-5092",
-        "name": "Pittsburgh Office",
-        "phone": "412-344-5583"
-      },
-      {
-        "address": "2040 Frederickson Place, Greensburg, PA 15601",
-        "fax": "724-850-7315",
-        "name": "Greensburg Office",
-        "phone": "724-850-7312"
       }
     ],
     "district": "18",
     "id": "PA-18",
-    "linkContact": "https://murphy.house.gov/contact-me/",
-    "linkMeeting": "https://murphy.house.gov/schedule-a-meeting/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Timothy_F._Murphy",
-    "name": "Timothy Murphy",
+    "linkContact": "https://lamb.house.gov/contact/email",
+    "linkMeeting": "https://lamb.house.gov/contact/request-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Conor_Lamb",
+    "name": "Conor Lamb",
     "numbersAca": 20600,
     "numbersMedicaidAca": 31657,
-    "party": "Republican",
+    "party": "Democratic",
     "photoFilename": "pennsylvania18.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/113th_Congress_Official_Photo_of_Rep._Tim_Murphy.jpg/75px-113th_Congress_Official_Photo_of_Rep._Tim_Murphy.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/Congressman-Tim-Murphy-PA-18/105769762798552",
+    "photoUrl": "https://en.wikipedia.org/wiki/Conor_Lamb#/media/File:Conor_Lamb_(40636199252)_(cropped).jpg",
+    "socialFacebook": "http://www.facebook.com/RepConorLamb",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepTimMurphy",
-    "socialYoutube": "http://www.youtube.com/user/TimMurphyPA18",
+    "socialTwitter": "http://twitter.com/RepConorLamb",
+    "socialYoutube": "",
     "state": "pennsylvania",
     "stateAbbreviation": "PA-18",
     "stateDisplay": "Pennsylvania",
     "voteClinton": 38.5,
-    "votePersonal": 100,
+    "votePersonal": 49.9,
     "voteTrump": 58.1,
-    "voteTrumpCare": true,
-    "yearElected": "2003",
+    "voteTrumpCare": false,
+    "yearElected": "2018",
     "yearReelection": "2018"
   },
   {
@@ -18083,27 +18119,27 @@
       },
       {
         "address": "406 South Lindell Street, Martin, TN 38237",
-        "fax": "",
+        "fax": "731-587-7334",
         "name": "Martin Office",
-        "phone": ""
+        "phone": "731-412-1043"
       },
       {
         "address": "100 Main Street, Dyersburg, TN 38024",
-        "fax": "",
+        "fax": "731-285-5008",
         "name": "Dyersburg Office",
-        "phone": ""
+        "phone": "731-412-1037"
       },
       {
         "address": "5900 Poplar Ave., Suite 202, Memphis, TN 38119",
-        "fax": "",
+        "fax": "901-682-8973",
         "name": "Memphis Office",
-        "phone": ""
+        "phone": "901-682-4422"
       },
       {
         "address": "117 North Liberty Street, Jackson, TN 38301",
-        "fax": "",
+        "fax": "731-427-1537",
         "name": "Jackson Office",
-        "phone": ""
+        "phone": "731-423-4848"
       }
     ],
     "district": "8",
@@ -20145,30 +20181,40 @@
     "yearReelection": "2018"
   },
   {
-    "committees": [],
+    "committees": [
+      "Foreign Affairs",
+      "Natural Resources",
+      "Small Business"
+    ],
     "contact": [
       {
-        "address": "",
+        "address": "2236 Rayburn HOB, Washington, DC, 20515",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "phone": "202-225-7751"
+      },
+      {
+        "address": "3549 North University Ave, Suite 275, Provo, UT 84604",
+        "fax": "",
+        "name": "Provo Office",
+        "phone": "801-922-5400"
       }
     ],
     "district": "3",
     "id": "UT-3",
-    "linkContact": "",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Ralph_Norman",
+    "linkContact": "https://curtis.house.gov/email/",
+    "linkMeeting": "https://curtis.house.gov/request-a-meeting/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/John_Curtis_(American_politician)",
     "name": "John Curtis",
     "numbersAca": 44800,
     "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "utah3.png",
     "photoUrl": "https://en.wikipedia.org/wiki/Utah%27s_3rd_congressional_district_special_election,_2017#/media/File:John_R_Curtis_(cropped).png",
-    "socialFacebook": "https://www.facebook.com/JohnCurtisCampaign/",
-    "socialInstagram": "https://www.instagram.com/curtisut/",
-    "socialTwitter": "https://twitter.com/CurtisUT?lang=en",
-    "socialYoutube": "https://www.youtube.com/channel/UCk_P28leCyEhBj3YTyohE4Q",
+    "socialFacebook": "http://www.facebook.com/RepJohnCurtis/",
+    "socialInstagram": "http://instagram.com/repjohncurtis/",
+    "socialTwitter": "https://twitter.com/RepJohnCurtis",
+    "socialYoutube": "http://www.youtube.com/channel/UChAQ4MD-HigmGnImSoAKBVA",
     "state": "utah",
     "stateAbbreviation": "UT-3",
     "stateDisplay": "Utah",
