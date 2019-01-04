@@ -56,7 +56,7 @@
     ],
     "contact": [
       {
-        "address": "442 Cannon HOB, Washington, DC 20515",
+        "address": "504 Cannon HOB, Washington, DC 20515",
         "fax": "202-225-8913",
         "name": "Washington DC Office",
         "phone": "202-225-2901"
@@ -82,30 +82,32 @@
     ],
     "district": "2",
     "id": "AL-2",
-    "linkContact": "https://roby.house.gov/contact-me/",
-    "linkMeeting": "https://roby.house.gov/contact-me/request-meeting",
+    "linkContact": "https://roby.house.gov/contact/email-representative-roby",
+    "linkMeeting": "https://roby.house.gov/contact/schedule-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Martha_Roby",
     "name": "Martha Roby",
     "party": "Republican",
     "photoFilename": "alabama2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Martha_roby_113_congressional_portrait.jpg/75px-Martha_roby_113_congressional_portrait.jpg",
-    "socialFacebook": "https://www.facebook.com/Representative.Martha.Roby",
-    "socialInstagram": "",
+    "socialFacebook": "http://www.facebook.com/Representative.Martha.Roby",
+    "socialInstagram": "http://instagram.com/martharoby",
     "socialTwitter": "https://twitter.com/RepMarthaRoby",
-    "socialYoutube": "https://www.youtube.com/repmartharoby",
+    "socialYoutube": "http://www.youtube.com/user/RepRoby",
     "state": "alabama",
     "stateAbbreviation": "AL-2",
     "stateDisplay": "Alabama",
     "voteClinton": 33,
-    "votePersonal": 48.8,
+    "votePersonal": 61.5,
     "voteTrump": 64.9,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-03-2010",
     "dateLastElected": "11-06-2018"
   },
   {
     "committees": [
-      "Armed Services"
+      "Agriculture",
+      "Armed Services",
+      "Homeland Security"
     ],
     "contact": [
       {
@@ -130,12 +132,13 @@
     "district": "3",
     "id": "AL-3",
     "linkContact": "https://mikerogers.house.gov/contact-mike",
+    "linkMeeting": "https://mikerogers.house.gov/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)",
     "name": "Mike Rogers",
     "party": "Republican",
     "photoFilename": "alabama3.jpeg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MikeRogerPortrait.jpeg/75px-MikeRogerPortrait.jpeg",
-    "socialFacebook": "https://www.facebook.com/MikeRogersforCongress/",
+    "socialFacebook": "https://www.facebook.com/Mike-Rogers-6406874733/",
     "socialInstagram": "https://www.instagram.com/repmikerogersal/",
     "socialTwitter": "https://twitter.com/repmikerogersal",
     "socialYoutube": "https://www.youtube.com/user/MikeRogersAL03",
@@ -143,10 +146,10 @@
     "stateAbbreviation": "AL-3",
     "stateDisplay": "Alabama",
     "voteClinton": 32.3,
-    "votePersonal": 66.9,
+    "votePersonal": 63.8,
     "voteTrump": 65.3,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-05-2002",
     "dateLastElected": "11-06-2018"
   },
   {
@@ -155,33 +158,33 @@
     ],
     "contact": [
       {
-        "address": "235 Cannon House Office Building, Washington, DC 20515",
+        "address": "1203 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4876"
       },
       {
-        "address": "",
-        "fax": "",
+        "address": "205 4th Ave. NE, Suite 104, Cullman, AL 35055",
+        "fax": "256-737-0885",
         "name": "Cullman Office",
         "phone": "256-734-6043"
       },
       {
-        "address": "",
-        "fax": "",
+        "address": "600 Broad Street, Suite 107, Gadsden, AL 35901",
+        "fax": "256-546-8778",
         "name": "Gadsden Office",
         "phone": "256-546-0201"
       },
       {
-        "address": "",
-        "fax": "",
+        "address": "1710 Alabama Avenue, 247 Carl Elliott Building, Jasper, AL 35501",
+        "fax": "205-221-9035",
         "name": "Jasper Office",
         "phone": "205-221-2310"
       },
       {
-        "address": "",
-        "fax": "",
-        "name": "Tuscumbia Office",
+        "address": "1011 George Wallace Blvd., Suite 146, Tuscumbia, AL 35674",
+        "fax": "256-381-7659",
+        "name": "Shoals District Office",
         "phone": "256-381-3450"
       }
     ],
@@ -202,10 +205,10 @@
     "stateAbbreviation": "AL-4",
     "stateDisplay": "Alabama",
     "voteClinton": 17.4,
-    "votePersonal": 98.5,
+    "votePersonal": 79.9,
     "voteTrump": 80.4,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-05-1996",
     "dateLastElected": "11-06-2018"
   },
   {
