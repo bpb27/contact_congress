@@ -556,7 +556,7 @@
         "phone": "928-343-7933"
       },
       {
-        "address": "738 N 5th Ave. Suite 110, Tucson, AZ 85705",
+        "address": "101 W. Irvington Road, Buildings 4 and 5, Tucson, AZ 85714",
         "fax": "520-622-0198",
         "name": "Tucson Office",
         "phone": "520-622-6788"
@@ -578,11 +578,11 @@
     "state": "arizona",
     "stateAbbreviation": "AZ-3",
     "stateDisplay": "Arizona",
-    "voteClinton": 62.4,
+    "voteClinton": 63.9,
     "votePersonal": 100,
     "voteTrump": 32.5,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-05-2002",
     "dateLastElected": "11-06-2018"
   },
   {
@@ -592,7 +592,7 @@
     ],
     "contact": [
       {
-        "address": "504 Cannon HOB, Washington, DC 20515",
+        "address": "2057 Rayburn HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2315"
@@ -604,7 +604,7 @@
         "phone": "480-882-2697"
       },
       {
-        "address": "220 N. 4th Street, Kingman , Arizona 86401",
+        "address": "220 N. 4th Street, Kingman, AZ 86401",
         "fax": "",
         "name": "Kingman Office",
         "phone": ""
@@ -614,42 +614,35 @@
         "fax": "",
         "name": "Prescott Office",
         "phone": "928-445-1683"
-      },
-      {
-        "address": "One City Plaza, Suite #161, Yuma, AZ 85364",
-        "fax": "",
-        "name": "Yuma Office",
-        "phone": ""
       }
     ],
     "district": "4",
     "id": "AZ-4",
     "linkContact": "http://paulgosar.house.gov/contact/",
-    "linkMeeting": "https://gosar.house.gov/contact-me/invite-me-speak",
+    "linkMeeting": "https://gosar.house.gov/contact/schedule-a-meeting.htm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Paul_Gosar",
     "name": "Paul Gosar",
     "party": "Republican",
     "photoFilename": "arizona4.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paul_Gosar_Official_Portrait_c._2012.jpg/75px-Paul_Gosar_Official_Portrait_c._2012.jpg",
     "socialFacebook": "https://www.facebook.com/repgosar/",
-    "socialInstagram": "",
+    "socialInstagram": "https://instagram.com/REPGOSAR",
     "socialTwitter": "https://twitter.com/repgosar",
     "socialYoutube": "https://www.youtube.com/user/repgosar",
     "state": "arizona",
     "stateAbbreviation": "AZ-4",
     "stateDisplay": "Arizona",
     "voteClinton": 27.5,
-    "votePersonal": 71.5,
+    "votePersonal": 68.2,
     "voteTrump": 67.7,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-02-2010",
     "dateLastElected": "11-06-2018"
   },
   {
     "committees": [
       "Judiciary",
-      "Science, Space, and Technology",
-      "Ways and Means"
+      "Science, Space, and Technology"
     ],
     "contact": [
       {
@@ -659,7 +652,7 @@
         "phone": "202-225-2635"
       },
       {
-        "address": "2509 S Power Rd, Suite 205, Mesa, AZ 85209",
+        "address": "2509 S Power Rd, Suite 204, Mesa, AZ 85209",
         "fax": "",
         "name": "Mesa Office",
         "phone": "480-699-8239"
@@ -682,10 +675,10 @@
     "stateAbbreviation": "AZ-5",
     "stateDisplay": "Arizona",
     "voteClinton": 36.5,
-    "votePersonal": 64.1,
+    "votePersonal": 59.4,
     "voteTrump": 57.6,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-08-2016",
     "dateLastElected": "11-06-2018"
   },
   {
@@ -694,13 +687,13 @@
     ],
     "contact": [
       {
-        "address": "2059 Rayburn HOB, Washington, D.C. 20515",
+        "address": "1526 Longworth HOB, Washington, D.C. 20515",
         "fax": "202-225-0096",
         "name": "Washington DC Office",
         "phone": "202-225-2190"
       },
       {
-        "address": "10603 North Hayden Rd., Ste. 108, Scottsdale, AZ 85260",
+        "address": "14500 N. Northsight Blvd Ste. 221, Scottsdale, AZ 85260",
         "fax": "480-946-2446",
         "name": "Scottsdale Office",
         "phone": "480-946-2411"
@@ -723,10 +716,10 @@
     "stateAbbreviation": "AZ-6",
     "stateDisplay": "Arizona",
     "voteClinton": 42.4,
-    "votePersonal": 62.1,
+    "votePersonal": 55.2,
     "voteTrump": 52.4,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-02-2010",
     "dateLastElected": "11-06-2018"
   },
   {
@@ -736,7 +729,7 @@
     ],
     "contact": [
       {
-        "address": "1218 Longworth, Washington, DC 20515",
+        "address": "1131 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4065"
@@ -750,7 +743,7 @@
     ],
     "district": "7",
     "id": "AZ-7",
-    "linkContact": "https://rubengallego.house.gov/contact",
+    "linkContact": "https://rubengallego.house.gov/contact/email",
     "linkMeeting": "https://rubengallego.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ruben_Gallego",
     "name": "Ruben Gallego",
@@ -759,27 +752,27 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ruben_Gallego.jpg/75px-Ruben_Gallego.jpg",
     "socialFacebook": "https://www.facebook.com/RepRubenGallego",
     "socialInstagram": "https://www.instagram.com/reprubengallego/",
-    "socialTwitter": "https://twitter.com/@RepRubenGallego",
+    "socialTwitter": "https://twitter.com/RepRubenGallego",
     "socialYoutube": "",
     "state": "arizona",
     "stateAbbreviation": "AZ-7",
     "stateDisplay": "Arizona",
     "voteClinton": 71.8,
-    "votePersonal": 75.2,
+    "votePersonal": 85.8,
     "voteTrump": 22.6,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-04-2014",
     "dateLastElected": "11-06-2018"
   },
   {
     "committees": [
-      "Armed Services",
-      "Judiciary"
+      "Homeland Security",
+      "Science, Space, and Technology"
     ],
     "contact": [
       {
-        "address": "2435 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-6328",
+        "address": "1113 Longworth HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4576"
       },
@@ -792,35 +785,35 @@
     ],
     "district": "8",
     "id": "AZ-8",
-    "linkContact": "https://franks.house.gov/contact-me",
-    "linkMeeting": "https://franks.house.gov/contact-me/request-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Trent_Franks",
-    "name": "Trent Franks",
+    "linkContact": "https://lesko.house.gov/contact/",
+    "linkMeeting": "https://lesko.house.gov/contact/request-an-appearance.htm",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Debbie_Lesko",
+    "name": "Debbie Lesko",
     "party": "Republican",
     "photoFilename": "arizona8.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Trent_Franks%2C_official_portrait%2C_114th_Congress.jpg/75px-Trent_Franks%2C_official_portrait%2C_114th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/TrentFranks",
-    "socialInstagram": "https://www.instagram.com/reptrentfranks/",
-    "socialTwitter": "https://twitter.com/RepTrentFranks",
-    "socialYoutube": "https://www.youtube.com/user/RepTrentFranks",
+    "photoUrl": "https://en.wikipedia.org/wiki/File:Debbie_Lesko,_official_portrait,_115th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepDebbieLesko/",
+    "socialInstagram": "https://instagram.com/replesko",
+    "socialTwitter": "https://twitter.com/RepDLesko",
+    "socialYoutube": "https://www.youtube.com/channel/UCc6-ceGpb-VbP1rmmvYUCWQ",
     "state": "arizona",
     "stateAbbreviation": "AZ-8",
     "stateDisplay": "Arizona",
     "voteClinton": 37,
-    "votePersonal": 68.5,
+    "votePersonal": 52.4,
     "voteTrump": 58.1,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
-    "dateLastElected": "11-06-2018"
+    "dateFirstElected": "02-07-2018",
+    "dateLastElected": "02-07-2018"
   },
   {
     "committees": [
-      "Financial Services"
+      ""
     ],
     "contact": [
       {
-        "address": "1725 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-225-9731",
+        "address": "128 Cannon HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-9888"
       },
@@ -833,22 +826,22 @@
     ],
     "district": "9",
     "id": "AZ-9",
-    "linkContact": "https://sinema.house.gov/contact-us/",
-    "linkMeeting": "https://sinema.house.gov/schedule-a-meeting/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Kyrsten_Sinema",
-    "name": "Kyrsten Sinema",
+    "linkContact": "https://stanton.house.gov/contact/email-me",
+    "linkMeeting": "https://stanton.house.gov/contact/meeting-requestov/schedule-a-meeting/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Greg_Stanton",
+    "name": "Greg Stanton",
     "party": "Democratic",
     "photoFilename": "arizona9.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kyrsten_Sinema_113th_Congress.jpg/75px-Kyrsten_Sinema_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/ksinemaaz/",
-    "socialInstagram": "https://www.instagram.com/repsinema/?hl=en",
-    "socialTwitter": "https://twitter.com/RepSinema",
+    "photoUrl": "https://en.wikipedia.org/wiki/Greg_Stanton#/media/File:Greg_Stanton_by_Gage_Skidmore_3.jpg",
+    "socialFacebook": "",
+    "socialInstagram": "",
+    "socialTwitter": "",
     "socialYoutube": "",
     "state": "arizona",
     "stateAbbreviation": "AZ-9",
     "stateDisplay": "Arizona",
     "voteClinton": 54.7,
-    "votePersonal": 60.9,
+    "votePersonal": 61.1,
     "voteTrump": 38.4,
     "dateReelection": "11-03-2020",
     "dateFirstElected": "11-06-2018",
