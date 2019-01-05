@@ -394,7 +394,7 @@
         "phone": "202-225-5765"
       },
       {
-        "address": "4241 B Street, Suite 203, Anchorage, AK 99503",
+        "address": "471 W. 36th Avenue, Suite 201, Anchorage, AK 99503",
         "fax": "907-271-5950",
         "name": "Anchorage Office",
         "phone": "907-271-5978"
@@ -423,10 +423,10 @@
     "stateAbbreviation": "AK-1",
     "stateDisplay": "Alaska",
     "voteClinton": 37.6,
-    "votePersonal": 50.3,
+    "votePersonal": 53.3,
     "voteTrump": 52.8,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-07-1972",
     "dateLastElected": "11-06-2018"
   },
   {
