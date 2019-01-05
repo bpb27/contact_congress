@@ -219,7 +219,7 @@
     ],
     "contact": [
       {
-        "address": "2400 Rayburn HOB, Washington, DC 20515",
+        "address": "2246 Rayburn HOB, Washington, DC 20515",
         "fax": "202-225-4392",
         "name": "Washington DC Office",
         "phone": "202-225-4801"
@@ -260,21 +260,20 @@
     "stateAbbreviation": "AL-5",
     "stateDisplay": "Alabama",
     "voteClinton": 31.3,
-    "votePersonal": 66.7,
+    "votePersonal": 61.1,
     "voteTrump": 64.7,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-02-2010",
     "dateLastElected": "11-06-2018"
   },
   {
     "committees": [
       "Budget",
-      "Oversight and Government Reform",
-      "Science, Space, and Technology"
+      "Oversight and Government Reform"
     ],
     "contact": [
       {
-        "address": "330 Cannon House Office Building, Washington, DC 20515",
+        "address": "207 Cannon HOB, Washington, DC 20515",
         "fax": "202-225-2082",
         "name": "Washington DC Office",
         "phone": "202-225-4921"
@@ -295,14 +294,15 @@
         "address": "202 3rd Avenue, Oneonta, AL 35121",
         "fax": "",
         "name": "Oneonta Office",
-        "phone": "205-274-2136"
+        "phone": "205-625-4160"
       }
     ],
     "district": "6",
     "id": "AL-6",
-    "linkContact": "https://palmer.house.gov/contact",
+    "linkContact": "https://palmer.house.gov/contact/email",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gary_Palmer_(politician)",
-    "meetlink": "https://palmer.house.gov/contact/request-appearance",
+    "linkMeeting": "https://palmer.house.gov/contact/request-appearance",
+    "linkTeletownhall": "https://palmer.house.gov/contact/townhall-signup",
     "name": "Gary Palmer",
     "party": "Republican",
     "photoFilename": "alabama6.jpg",
@@ -315,15 +315,14 @@
     "stateAbbreviation": "AL-6",
     "stateDisplay": "Alabama",
     "voteClinton": 26.1,
-    "votePersonal": 74.5,
+    "votePersonal": 69.2,
     "voteTrump": 70.8,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-04-2014",
     "dateLastElected": "11-06-2018"
   },
   {
     "committees": [
-      "Financial Services",
       "Intelligence",
       "Ways and Means"
     ],
@@ -376,10 +375,10 @@
     "stateAbbreviation": "AL-7",
     "stateDisplay": "Alabama",
     "voteClinton": 69.8,
-    "votePersonal": 98.4,
+    "votePersonal": 100,
     "voteTrump": 28.6,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-02-2010",
     "dateLastElected": "11-06-2018"
   },
   {

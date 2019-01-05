@@ -220,7 +220,6 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
     $scope.dataCommittees = true;
     $scope.dataOffices = true;
     $scope.displayed = [];
-    $scope.glowing = true;
     $scope.increment = 20;
     $scope.matches = [];
     $scope.queryName = '';
@@ -318,7 +317,6 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
             { id: "6", name: "Order by Elected by %" },
             { id: "7", name: "Order by Trump vote %" },
             { id: "8", name: "Order by Clinton vote %" },
-            { id: "9", name: "Order by ACA enrollees" },
         ]
     };
 
@@ -470,10 +468,6 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
     });
 
     $scope.parseRouteParams();
-
-    $timeout(function () {
-        $scope.glowing = false;
-    }, 6000);
 
     function addDates(group, reelectionYear) {
         return group.map(function (item) {
