@@ -431,11 +431,12 @@
   },
   {
     "committees": [
-      "Agriculture"
+      "Agriculture",
+      "Armed Services"
     ],
     "contact": [
       {
-        "address": "126 Cannon House Office Building, Washington, DC 20515",
+        "address": "324 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-3361"
@@ -450,7 +451,13 @@
         "address": "405 N. Beaver Street, Suite 6, Flagstaff, AZ 86001",
         "fax": "",
         "name": "Flagstaff Office",
-        "phone": "928-210-8165"
+        "phone": "928-286-5338"
+      },
+      {
+        "address": "3037 W. Ina Rd, #101, Tucson, AZ 85741",
+        "fax": "",
+        "name": "NW Tucson Office",
+        "phone": "928-304-0131"
       }
     ],
     "district": "1",
@@ -470,55 +477,55 @@
     "stateAbbreviation": "AZ-1",
     "stateDisplay": "Arizona",
     "voteClinton": 46.6,
-    "votePersonal": 50.7,
+    "votePersonal": 53.8,
     "voteTrump": 47.7,
     "dateReelection": "11-03-2020",
-    "dateFirstElected": "11-06-2018",
+    "dateFirstElected": "11-08-2016",
     "dateLastElected": "11-06-2018"
   },
   {
     "committees": [
-      "Armed Services",
-      "Homeland Security"
+      "Transportation and Infrastructure"
     ],
     "contact": [
       {
-        "address": "510 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-0378",
+        "address": "309 Cannon HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2542"
       },
       {
-        "address": "77 Calle Portal, Suite B-160, Sierra Vista, AZ 85635",
+        "address": "77 Calle Portal, Suite B160, Sierra Vista, AZ 85635",
         "fax": "",
         "name": "Sierra Vista Office",
-        "phone": "520-459-3115"
+        "phone": ""
       },
       {
-        "address": "4400 E. Broadway Blvd, Suite 510, Tucson, AZ 85711",
-        "fax": "520-322-9490",
+        "address": "1636 North Swan Road, Suite 200, Tucson, AZ 85712",
+        "fax": "",
         "name": "Tucson Office",
-        "phone": "520-881-3588"
+        "phone": ""
       }
     ],
     "district": "2",
     "id": "AZ-2",
-    "linkContact": "https://mcsally.house.gov/contact",
-    "linkMeeting": "https://mcsally.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Martha_McSally",
-    "name": "Martha McSally",
-    "party": "Republican",
+    "linkContact": "https://kirkpatrick.house.gov/contact",
+    "linkMeeting": "https://kirkpatrick.house.gov/zip-code-lookup?form=/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Ann_Kirkpatrick",
+    "name": "Ann Kirkpatrick",
+    "party": "Democratic",
     "photoFilename": "arizona2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Martha_McSally_official_portrait_cropped.jpg/75px-Martha_McSally_official_portrait_cropped.jpg",
-    "socialFacebook": "https://www.facebook.com/RepMcSally",
-    "socialInstagram": "https://www.instagram.com/repmcsally/",
-    "socialTwitter": "https://twitter.com/RepMcSally",
-    "socialYoutube": "https://www.youtube.com/channel/UCfHMG2Db0TJ_RatSBHuH8NA",
+    "photoUrl": "https://en.wikipedia.org/wiki/Ann_Kirkpatrick#/media/File:Ann_Kirkpatrick.jpg",
+    "socialFacebook": "https://www.facebook.com/KirkpatrickforCongress/",
+    "socialInstagram": "https://www.instagram.com/kirkpatrickforcongress/",
+    "socialTwitter": "https://twitter.com/RepKirkpatrick",
+    "socialTwitter2": "https://twitter.com/Ann_Kirkpatrick",
+    "socialYoutube": "https://www.youtube.com/channel/UCZNx8MPyjQH7ryZGrCXxQJQ",
     "state": "arizona",
     "stateAbbreviation": "AZ-2",
     "stateDisplay": "Arizona",
     "voteClinton": 49.6,
-    "votePersonal": 57,
+    "votePersonal": 54.7,
     "voteTrump": 44.7,
     "dateReelection": "11-03-2020",
     "dateFirstElected": "11-06-2018",
