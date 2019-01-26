@@ -471,23 +471,12 @@ app.controller('mainCtrl', ['$scope', '$http', '$routeParams', '$timeout', funct
 
     $scope.parseRouteParams();
 
-    $timeout(function () {
-        $scope.glowing = false;
-    }, 6000);
-
     function addDates(group, reelectionYear) {
-        return group.map(function (item) {
-            var d = new Date();
-            d.setDate(8);
-            d.setMonth(10);
-            d.setYear(parseInt(reelectionYear || item.yearReelection));
-            item['reelection'] = moment(d).fromNow();
-            d.setDate(20);
-            d.setMonth(0);
-            d.setYear(parseInt(item.yearElected));
-            item['elected'] = moment(d).fromNow();
-            return item;
-        });
+      return group.map(function (item) {
+        item['reelection'] = moment('11-03-' + (item.yearReelection || reelectionYear)).fromNow();
+        item['elected'] = moment('11-06-' + item.yearElected).fromNow();
+        return item;
+      });
     }
 
     function findByDistrict(districts, reps, sens) {

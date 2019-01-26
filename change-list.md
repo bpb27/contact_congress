@@ -1,13 +1,3 @@
-U.S. Senate	Florida	Democratic Party  Bill Nelson	Republican Party Rick Scott
-U.S. Senate	Indiana	Democratic Party  Joe Donnelly	Republican Party Mike Braun
-U.S. Senate	Missouri	Democratic Party  Claire McCaskill	Republican Party Josh Hawley
-U.S. Senate	Nevada	Republican Party Dean Heller	Democratic Party  Jacky Rosen
-U.S. Senate	North Dakota	Democratic Party  Heidi Heitkamp	Republican Party Kevin Cramer
-U.S. Senate	Arizona	Republican Party Jeff Flake	Democratic Party  Kyrsten Sinema
-U.S. Senate	Tennessee	Republican Party Bob Corker	Republican Party Marsha Blackburn
-U.S. Senate	Utah	Republican Party Orrin Hatch	Republican Party Mitt Romney
-
-Massachusetts' 7th -	Democratic Party  Michael Capuano	Democratic Party  Ayanna Pressley[1]
 New York's 14th -	Democratic Party  Joseph Crowley	Democratic Party  Alexandria Ocasio-Cortez[1]
 North Carolina's 9th -	Republican Party Robert Pittenger	Republican Party Mark Harris[1]
 South Carolina's 1st -	Republican Party Mark Sanford	Democratic Party  Joe Cunningham[1]
@@ -100,3 +90,12 @@ Oklahoma's 1st -	Republican Party Jim Bridenstine	Republican Party Kevin Hern
 Pennsylvania's 7th -	Republican Party Patrick Meehan	Democratic Party  Susan Wild
 Pennsylvania's 15th -	Republican Party Charlie Dent	Republican Party Glenn Thompson
 West Virginia's 3rd -	Republican Party Evan Jenkins	Republican Party Carol Miller
+
+U.S. Senate	Florida	Democratic Party  Bill Nelson	Republican Party Rick Scott
+U.S. Senate	Indiana	Democratic Party  Joe Donnelly	Republican Party Mike Braun
+U.S. Senate	Missouri	Democratic Party  Claire McCaskill	Republican Party Josh Hawley
+U.S. Senate	Nevada	Republican Party Dean Heller	Democratic Party  Jacky Rosen
+U.S. Senate	North Dakota	Democratic Party  Heidi Heitkamp	Republican Party Kevin Cramer
+U.S. Senate	Arizona	Republican Party Jeff Flake	Democratic Party  Kyrsten Sinema
+U.S. Senate	Tennessee	Republican Party Bob Corker	Republican Party Marsha Blackburn
+U.S. Senate	Utah	Republican Party Orrin Hatch	Republican Party Mitt Romney
