@@ -59,10 +59,6 @@ form .btn {
 	color: #555;
 }
 
-#select-boxes .dropdown button.glow {
-	animation: glowing 1500ms infinite;
-}
-
 #select-boxes .dropdown-menu li {
 	padding: 5px;
 }
@@ -383,10 +379,4 @@ form .btn {
 .row.ng-move.ng-move-active,
 .row.ng-enter.ng-enter-active {
   opacity:1;
-}
-
-@keyframes glowing {
-  0% { box-shadow: 0 0 3px #004A7F; }
-  50% { box-shadow: 0 0 10px #0094FF; }
-  100% { box-shadow: 0 0 3px #004A7F; }
 }

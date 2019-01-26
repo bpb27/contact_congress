@@ -11,14 +11,11 @@
 	<div id="select-boxes" class="col-md-12 col-xs-12">
 		<div class="col-md-2 col-sm-3 col-xs-12">
 			<div class="dropdown">
-			  <button class="btn btn-primary dropdown-toggle form-control" ng-class="{glow: glowing}" type="button" data-toggle="dropdown" ng-click="glowing = false">More data
+			  <button class="btn btn-primary dropdown-toggle form-control" ng-class="{glow: glowing}" type="button" data-toggle="dropdown" ng-click="glowing = false">Show
 			  <span class="caret"></span></button>
 			  <ul class="dropdown-menu">
 					<li>
 						<input type="checkbox" class="pointer" ng-model="dataCommittees">Committees
-					</li>
-					<li class="sh">
-						<input type="checkbox" class="pointer" ng-model="dataAca">Obamacare Data
 					</li>
 					<li>
 						<input type="checkbox" class="pointer" ng-model="dataOffices">Offices
@@ -88,13 +85,6 @@
 					<a ng-if="member.district" target="_blank" href="http://bit.ly/1sswyzE">{{member.voteClinton}}%</a>
 					<a ng-if="!member.district" target="_blank" href="http://bit.ly/1UGaHnQ">{{member.voteClinton}}%</a>
 				<span><br>
-				<span ng-if="dataAca">
-					<span ng-if="member.district"><b>Voted for TrumpCare: </b> {{member.voteTrumpCare ? 'Yes' : 'No'}}</span><br ng-if="member.district">
-					<span><b>ACA Marketplace enrollees: </b><a href="http://kaiserf.am/2iawIAw" target="_blank">{{member.numbersAca | number}}</a></span><br>
-					<span ng-if="!member.district"><b>ACA Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaidAca | number}}</a></span><br ng-if="!member.district">
-					<span ng-if="member.district"><b>ACA Medicaid enrollees: </b><a href="http://bit.ly/2mdPVPV" target="_blank">{{member.numbersMedicaidAca || 0 | number}}</a></span><br ng-if="member.district">
-					<span ng-if="!member.district"><b>Total Medicaid enrollees: </b><a href="http://kaiserf.am/2mtdruR" target="_blank">{{member.numbersMedicaid | number}}</a></span><br ng-if="!member.district">
-				</span>
 				<span ng-if="!member.note"><b>First elected:</b> {{member.elected}}</span><br ng-if="!member.note">
 				<span ng-if="member.note"><b>Note:</b> {{member.note}}</span><br ng-if="member.note">
 				<span><b>Reelection:</b> {{member.reelection}}</span>
