@@ -12696,48 +12696,44 @@
   },
   {
     "committees": [
-      "Ways and Means"
+      "Financial Services",
+      "Oversight and Government Reform"
     ],
     "contact": [
       {
-        "address": "1035 Longworth House Office Building, Washington, D.C. 20515",
+        "address": "229 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-3965"
       },
       {
-        "address": "82-11 37th Ave., Suite 402, Queens, NY 11372",
+        "address": "74-09 37th Avenue, Suite 305, Jackson Heights, NY 11372",
         "fax": "",
-        "name": "Queens Office",
-        "phone": "718-779-1400"
-      },
-      {
-        "address": "2800 Bruckner Blvd., Suite 201, Bronx, NY 10465",
-        "fax": "",
-        "name": "Bronx Office",
-        "phone": "718-931-1400"
+        "name": "Jackson Heights Office",
+        "phone": ""
       }
     ],
     "district": "14",
     "id": "NY-14",
-    "linkContact": "http://crowley.house.gov/contact-me/email-me",
-    "linkMeeting": "http://crowley.house.gov/contact-me/schedule-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Joseph_Crowley",
-    "name": "Joseph Crowley",
+    "linkContact": "https://ocasio-cortez.house.gov/contact",
+    "linkMeeting": "https://ocasio-cortez.house.gov/contact/constituent-meeting-requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+    "name": "Alexandria Ocasio-Cortez",
     "party": "Democratic",
     "photoFilename": "new_york14.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Crowley114.jpg/75px-Crowley114.jpg",
-    "socialFacebook": "http://www.facebook.com/repjoecrowley",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/#!/RepJoeCrowley",
-    "socialYoutube": "http://www.youtube.com/user/RepJoeCrowley",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg/440px-Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/repAOC/",
+    "socialInstagram": "https://www.instagram.com/ocasio2018/?hl=en",
+    "socialTwitter": "https://twitter.com/AOC",
+    "socialTwitter2": "http://twitter.com/RepAOC",
+    "socialYoutube": "https://www.youtube.com/channel/UCElqfal0wzzpLsHlRuqZjaA",
     "state": "new_york",
     "stateAbbreviation": "NY-14",
     "stateDisplay": "New York",
     "voteClinton": 77.7,
-    "votePersonal": 82.8,
+    "votePersonal": 78.2,
     "voteTrump": 19.8,
-    "yearElected": "1999",
+    "yearElected": "2018",
     "yearReelection": "11-03-2020"
   },
   {
