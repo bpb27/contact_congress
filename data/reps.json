@@ -1480,45 +1480,42 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Agriculture",
-      "Natural Resources",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1730 Longworth HOB, Washington, DC 20515",
-        "fax": "202-225-3402",
+        "address": "131 Cannon HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4540"
       },
       {
         "address": "4701 Sisk Road, Suite 202, Modesto, CA 95356",
-        "fax": "209-579-5028",
-        "name": "Modesto Office",
+        "fax": "",
+        "name": "Washington DC Office",
         "phone": "209-579-5458"
       }
     ],
     "district": "10",
     "id": "CA-10",
-    "linkContact": "https://denham.house.gov/contact-me",
-    "linkMeeting": "https://denham.house.gov/contact-me/schedule-meeting-california",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Denham",
-    "name": "Jeff Denham",
-    "party": "Republican",
+    "linkContact": "https://harder.house.gov/contact/email-me",
+    "linkMeeting": "https://harder.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Josh_Harder",
+    "name": "Josh Harder",
+    "party": "Democratic",
     "photoFilename": "california10.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jeff_Denham_Official_Portrait.jpg/75px-Jeff_Denham_Official_Portrait.jpg",
-    "socialFacebook": "http://www.facebook.com/RepJeffDenham",
-    "socialInstagram": "http://instagram.com/repjeffdenham",
-    "socialTwitter": "https://twitter.com/RepJeffDenham",
-    "socialYoutube": "http://www.youtube.com/repjeffdenham",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Josh_Harder%2C_official_portrait%2C_116th_Congress.jpg/440px-Josh_Harder%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepJoshHarder",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/repjoshharder?lang=en",
+    "socialTwitter2": "https://twitter.com/joshua_harder",
+    "socialYoutube": "",
     "state": "california",
     "stateAbbreviation": "CA-10",
     "stateDisplay": "California",
     "voteClinton": 48.5,
-    "votePersonal": 51.7,
+    "votePersonal": 52.3,
     "voteTrump": 45.5,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
