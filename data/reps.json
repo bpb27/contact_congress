@@ -1945,49 +1945,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1728 Longworth House Office Bldg, Washington, D.C. 20515",
-        "fax": "202-225-3196",
+        "address": "1728 Longworth HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4695"
       },
       {
-        "address": "2700 M Street, Suite #250B, Bakersfield, CA 93301",
+        "address": "2700 M St., Suite 250B, Bakersfield, CA 93301",
         "fax": "",
         "name": "Bakersfield Office",
-        "phone": "661-864-7736"
-      },
-      {
-        "address": "101 North Irwin Street, Suite 110B, Hanford, CA 93230",
-        "fax": "559-582-5527",
-        "name": "Hanford Office",
-        "phone": "559-582-5526"
+        "phone": "202-225-4695"
       }
     ],
     "district": "21",
     "id": "CA-21",
-    "linkContact": "http://valadao.house.gov/contact/",
-    "linkMeeting": "http://valadao.house.gov/contact/schedulingrequest.htm",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/David_Valadao",
-    "name": "David Valadao",
-    "party": "Republican",
+    "linkContact": "https://cox.house.gov/contact/email-me",
+    "linkMeeting": "https://cox.house.gov/contact/meeting-requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/TJ_Cox",
+    "name": "TJ Cox",
+    "party": "Democratic",
     "photoFilename": "california21.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/David_Valadao%2C_official_portrait%2C_113th_Congress.jpg/75px-David_Valadao%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanDavidValadao",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TJ_Cox%2C_official_portrait%2C_116th_Congress.jpg/440px-TJ_Cox%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepTjCox",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepDavidValadao",
-    "socialYoutube": "http://www.youtube.com/congressmanvaladao",
+    "socialTwitter": "http://twitter.com/RepTjCox",
+    "socialYoutube": "https://www.youtube.com/channel/UCspuzpxfnf8N4n2PGr7gNZw",
     "state": "california",
     "stateAbbreviation": "CA-21",
     "stateDisplay": "California",
     "voteClinton": 55.2,
-    "votePersonal": 56.7,
+    "votePersonal": 50.4,
     "voteTrump": 39.7,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
