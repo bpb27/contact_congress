@@ -3583,44 +3583,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Veterans’ Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "Rayburn House Office Building, Room 2443, Washington, DC 20515",
-        "fax": "202-226-4623",
+        "address": "1229 Longworth HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-7882"
       },
       {
-        "address": "3300 S. Parker Road, Cherry Creek Place IV Suite #305, Aurora, CO 80014",
-        "fax": "720-748-7680",
+        "address": "3300 S Parker Rd #100, Aurora, CO 80014",
+        "fax": "",
         "name": "Aurora Office",
-        "phone": "720-748-7514"
+        "phone": "202-225-7882"
       }
     ],
     "district": "6",
     "id": "CO-6",
-    "linkContact": "https://coffmanforms.house.gov/contact/",
-    "linkMeeting": "http://coffman.house.gov/contact/request-a-meeting-zip-authentication",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Coffman",
-    "name": "Mike Coffman",
-    "party": "Republican",
+    "linkContact": "https://crow.house.gov/contact/email-me",
+    "linkMeeting": "https://crow.house.gov/contact/meeting-request",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Jason_Crow",
+    "name": "Jason Crow",
+    "party": "Democratic",
     "photoFilename": "colorado6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mike_Coffman.jpg/75px-Mike_Coffman.jpg",
-    "socialFacebook": "https://www.facebook.com/repmikecoffman",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jason_Crow%2C_official_portrait%2C_116th_Congress.jpg/440px-Jason_Crow%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepJasonCrow",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepMikeCoffman",
-    "socialYoutube": "https://www.youtube.com/user/CongressmanCoffman",
+    "socialTwitter": "http://twitter.com/repjasoncrow",
+    "socialYoutube": "",
     "state": "colorado",
     "stateAbbreviation": "CO-6",
     "stateDisplay": "Colorado",
     "voteClinton": 50.2,
-    "votePersonal": 50.9,
+    "votePersonal": 54.1,
     "voteTrump": 41.3,
-    "yearElected": "2009",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {

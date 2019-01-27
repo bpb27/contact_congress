@@ -1,7 +1,3 @@
-California's 25th -	Republican Party Steve Knight	Democratic Party  Katie Hill
-California's 45th -	Republican Party Mimi Walters	Democratic Party  Katie Porter
-California's 48th -	Republican Party Dana Rohrabacher	Democratic Party  Harley Rouda
-Colorado's 6th -	Republican Party Mike Coffman	Democratic Party  Jason Crow
 Florida's 26th -	Republican Party Carlos Curbelo	Democratic Party  Debbie Mucarsel-Powell
 Georgia's 6th -	Republican Party Karen Handel	Democratic Party  Lucy McBath
 Illinois' 6th -	Republican Party Peter Roskam	Democratic Party  Sean Casten
