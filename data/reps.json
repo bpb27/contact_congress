@@ -3093,44 +3093,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Foreign Affairs",
-      "Science, Space, and Technology"
-    ],
+    "committees": [],
     "contact": [
       {
         "address": "2300 Rayburn HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2415"
-      },
-      {
-        "address": "101 Main Street, Suite 380, Huntington Beach, CA 92648",
-        "fax": "",
-        "name": "Huntington Beach Office",
-        "phone": "714-960-6483"
       }
     ],
     "district": "48",
     "id": "CA-48",
-    "linkContact": "https://rohrabacher.house.gov/contact/email-me",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dana_Rohrabacher",
-    "name": "Dana Rohrabacher",
-    "party": "Republican",
+    "linkContact": "https://rouda.house.gov/contact/email-me",
+    "linkMeeting": "https://rouda.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Harley_Rouda",
+    "name": "Harley Rouda",
+    "party": "Democratic",
     "photoFilename": "california48.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dana_Rohrabacher.jpg/75px-Dana_Rohrabacher.jpg",
-    "socialFacebook": "https://www.facebook.com/danarohrabacher/",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Harley_Rouda%2C_official_portrait%2C_116th_Congress.jpg/440px-Harley_Rouda%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepHarley",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/danarohrabacher",
-    "socialYoutube": "",
+    "socialTwitter": "http://twitter.com/RepHarley",
+    "socialYoutube": "http://instagram.com/repharleyrouda/",
     "state": "california",
     "stateAbbreviation": "CA-48",
     "stateDisplay": "California",
     "voteClinton": 47.9,
-    "votePersonal": 58.3,
+    "votePersonal": 53.6,
     "voteTrump": 46.2,
-    "yearElected": "1989",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
