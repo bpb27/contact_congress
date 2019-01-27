@@ -5081,55 +5081,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1404 Longworth HOB, Washington, DC 20515",
+        "address": "114 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2778"
       },
       {
-        "address": "12851 SW 42nd Street, Suite 131, Miami, FL 33175",
-        "fax": "",
-        "name": "Miami Office",
-        "phone": "305-222-0160"
-      },
-      {
-        "address": "404 West Palm Drive, Florida City, FL 33034",
-        "fax": "",
-        "name": "Florida City Office",
-        "phone": "305-247-1234"
-      },
-      {
-        "address": "1100 Simonton Street, Suite 1-213, Key West, FL 33040",
+        "address": "1100 Simonton Street, Suite 1-213, Key West, FL 33010",
         "fax": "",
         "name": "Key West Office",
         "phone": "305-292-4485"
+      },
+      {
+        "address": "12857-31 SW 42nd St, Miami, FL 33175",
+        "fax": "",
+        "name": "Miami Office",
+        "phone": "305-222-0160"
       }
     ],
     "district": "26",
     "id": "FL-26",
-    "linkContact": "https://curbelo.house.gov/contact/",
-    "linkMeeting": "https://curbelo.house.gov/forms/meetingrequest",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Carlos_Curbelo_(politician)",
-    "name": "Carlos Curbelo",
-    "party": "Republican",
+    "linkContact": "https://mucarsel-powell.house.gov/contact",
+    "linkMeeting": "https://mucarsel-powell.house.gov/contact/request-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Debbie_Mucarsel-Powell",
+    "name": "Debbie Mucarsel-Powell",
+    "party": "Democratic",
     "photoFilename": "florida26.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CarlosC114.jpg/75px-CarlosC114.jpg",
-    "socialFacebook": "http://www.facebook.com/RepCurbelo",
-    "socialInstagram": "https://instagram.com/repcurbelo/",
-    "socialTwitter": "http://twitter.com/RepCurbelo",
-    "socialYoutube": "http://www.youtube.com/channel/UC6SRoWRNiv5U4a7ovRICwaw",
+    "photoUrl": "https://en.wikipedia.org/wiki/Debbie_Mucarsel-Powell#/media/File:Debbie_Mucarsel-Powell,_official_portrait,_116h_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepDMP/",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/RepDMP",
+    "socialYoutube": "",
     "state": "florida",
     "stateAbbreviation": "FL-26",
     "stateDisplay": "Florida",
     "voteClinton": 56.7,
-    "votePersonal": 53,
+    "votePersonal": 50.9,
     "voteTrump": 40.6,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
