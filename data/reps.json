@@ -5388,44 +5388,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Judiciary",
-      "Education and the Workforce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1211 Longworth HOB, Washington, DC 20515",
+        "address": "1513 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4501"
       },
       {
-        "address": "85 Mill St, Suite C-300, Roswell, GA 30075",
-        "fax": "770-998-0050",
-        "name": "Georgia Office",
-        "phone": "770-998-0049"
+        "address": "5775 Glenridge Drive, Suite 380, Atlanta, GA 30328",
+        "fax": "",
+        "name": "Atlanta Office",
+        "phone": ""
       }
     ],
     "district": "6",
     "id": "GA-6",
-    "linkContact": "https://handel.house.gov/contact/email",
-    "linkMeeting": "https://handel.house.gov/contact/request-appearance",
-    "linkWikipedia": "",
-    "name": "Karen Handel",
-    "party": "Republican",
+    "linkContact": "https://mcbath.house.gov/contact/email-me",
+    "linkMeeting": "https://mcbath.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Lucy_McBath",
+    "name": "Lucy McBath",
+    "party": "Democratic",
     "photoFilename": "georgia6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/United_States_Representative_Karen_C._Handel.jpg/104px-United_States_Representative_Karen_C._Handel.jpg",
-    "socialFacebook": "https://www.facebook.com/RepKarenHandel/",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/repkhandel",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1030226621633056769/_TIBBue6_400x400.jpg",
+    "socialFacebook": "http://www.facebook.com/replucymcbath",
+    "socialInstagram": "http://instagram.com/replucymcbath/",
+    "socialTwitter": "http://twitter.com/replucymcbath",
     "socialYoutube": "",
     "state": "georgia",
     "stateAbbreviation": "GA-6",
     "stateDisplay": "Georgia",
     "voteClinton": 46.8,
-    "votePersonal": 51.9,
+    "votePersonal": 50.5,
     "voteTrump": 48.3,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
