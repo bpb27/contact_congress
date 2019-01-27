@@ -6246,49 +6246,42 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2246 Rayburn HOB, Washington, DC 20024",
+        "address": "429 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4561"
       },
       {
-        "address": "200 South Hough Street, Barrington, IL 60010",
-        "fax": "",
-        "name": "Barrington Office",
-        "phone": "630-232-0006"
-      },
-      {
         "address": "2700 International Drive, Suite 304, West Chicago, IL 60185",
         "fax": "",
         "name": "West Chicago Office",
-        "phone": "630-232-0006"
+        "phone": ""
       }
     ],
     "district": "6",
     "id": "IL-6",
-    "linkContact": "https://roskam.house.gov/contact",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Peter_Roskam",
-    "name": "Peter Roskam",
-    "party": "Republican",
+    "linkContact": "https://casten.house.gov/contact/email-me",
+    "linkMeeting": "https://casten.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Sean_Casten",
+    "name": "Sean Casten",
+    "party": "Democratic",
     "photoFilename": "illinois6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Peter_J._Roskam_113th_Congress.jpg/75px-Peter_J._Roskam_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/RepRoskam",
+    "photoUrl": "",
+    "socialFacebook": "https://www.facebook.com/RepSeanCasten/",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/PeterRoskam",
-    "socialYoutube": "http://www.youtube.com/user/RoskamIL06",
+    "socialTwitter": "https://twitter.com/SeanCasten",
+    "socialTwitter2": "https://twitter.com/RepCasten",
+    "socialYoutube": "",
     "state": "illinois",
     "stateAbbreviation": "IL-6",
     "stateDisplay": "Illinois",
     "voteClinton": 50.2,
-    "votePersonal": 59.2,
+    "votePersonal": 53.6,
     "voteTrump": 43.2,
-    "yearElected": "2007",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
