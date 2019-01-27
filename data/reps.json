@@ -2978,43 +2978,36 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Commerce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "215 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-9177",
+        "address": "1117 Longworth HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-5611"
-      },
-      {
-        "address": "3333 Michelson Drive Suite 230, Irvine, CA 92612",
-        "fax": "949-263-8704",
-        "name": "Irvine Office",
-        "phone": "949-263-8703"
       }
     ],
     "district": "45",
     "id": "CA-45",
-    "linkContact": "https://walters.house.gov/contact",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mimi_Walters",
-    "name": "Mimi Walters",
-    "party": "Republican",
+    "linkContact": "https://porter.house.gov/contact/email-me",
+    "linkMeeting": "https://porter.house.gov/contact/request-an-appearance",
+    "linkTownhall": "https://porter.house.gov/townhall-rsvp",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Katie_Porter",
+    "name": "Katie Porter",
+    "party": "Democratic",
     "photoFilename": "california45.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mimi_Walters_2015.jpg/75px-Mimi_Walters_2015.jpg",
-    "socialFacebook": "http://www.facebook.com/RepMimiWalters",
-    "socialInstagram": "http://instagram.com/rep_mimiwalters/",
-    "socialTwitter": "http://twitter.com/RepMimiWalters",
-    "socialYoutube": "http://www.youtube.com/channel/UCyFubcwlZVLVLg-T-2PuooQ",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Katie_Porter%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/repkatieporter/",
+    "socialInstagram": "http://instagram.com/repkatieporter/",
+    "socialTwitter": "http://twitter.com/RepKatiePorter",
+    "socialYoutube": "http://www.youtube.com/channel/UCRdB2ce4DloCSyuPbWfOZyw",
     "state": "california",
     "stateAbbreviation": "CA-45",
     "stateDisplay": "California",
     "voteClinton": 49.8,
-    "votePersonal": 58.6,
+    "votePersonal": 52.1,
     "voteTrump": 44.4,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
