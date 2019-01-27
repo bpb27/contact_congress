@@ -16289,51 +16289,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Budget",
-      "Oversight and Government Reform",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2211 Rayburn House Office Building, Washington, DC 20515",
+        "address": "423 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-3176"
       },
       {
-        "address": "530 Johnnie Dodds Boulevard, Suite 201, Mount Pleasant, SC 29464",
-        "fax": "843-352-7620",
-        "name": "Mount Pleasant Office",
-        "phone": "843-352-7572"
-      },
-      {
-        "address": "710 Boundary Street, Suite 1D, P.O. Box 1538, Beaufort, SC 29902",
-        "fax": "843-521-2535",
-        "name": "Beaufort Office",
-        "phone": "843-521-2530"
+        "address": "530 Johnnie Dodds Blvd, Suite 201, Mt. Pleasant, SC 29464",
+        "fax": "",
+        "name": "Mt. Pleasant Office",
+        "phone": "202-225-3176"
       }
     ],
     "district": "1",
     "id": "SC-1",
-    "linkContact": "https://sanford.house.gov/contacting-the-office",
-    "linkMeeting": "https://sanfordforms.house.gov/forms/meetingrequest/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_Sanford",
-    "name": "Mark Sanford",
-    "party": "Republican",
+    "linkContact": "https://cunningham.house.gov/contact/email-me",
+    "linkMeeting": "https://cunningham.house.gov/contact/meeting-request",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Cunningham_(American_politician)",
+    "name": "Joe Cunningham",
+    "party": "Democratic",
     "photoFilename": "south_carolina1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mark_Sanford%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Mark_Sanford%2C_Official_Portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/RepSanfordSC",
+    "photoUrl": "https://images.abccolumbia.com/wp-content/uploads/2018/11/20181107CUNNINGHAM.jpg",
+    "socialFacebook": "http://www.facebook.com/RepJoeCunningham/",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepSanfordSC",
-    "socialYoutube": "http://www.youtube.com/user/RepSanfordSC",
+    "socialTwitter": "http://twitter.com/RepCunningham",
+    "socialYoutube": "",
     "state": "south_carolina",
     "stateAbbreviation": "SC-1",
     "stateDisplay": "South Carolina",
     "voteClinton": 40.4,
-    "votePersonal": 58.6,
+    "votePersonal": 50.7,
     "voteTrump": 53.5,
-    "yearElected": "2013*",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {

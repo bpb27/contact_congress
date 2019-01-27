@@ -1,5 +1,3 @@
-New York's 14th -	Democratic Party  Joseph Crowley	Democratic Party  Alexandria Ocasio-Cortez[1]
-North Carolina's 9th -	Republican Party Robert Pittenger	Republican Party Mark Harris[1]
 South Carolina's 1st -	Republican Party Mark Sanford	Democratic Party  Joe Cunningham[1]
 California's 10th -	Republican Party Jeff Denham	Democratic Party  Josh Harder
 California's 21st -	Republican Party David Valadao	Democratic Party  TJ Cox
@@ -90,6 +88,7 @@ Oklahoma's 1st -	Republican Party Jim Bridenstine	Republican Party Kevin Hern
 Pennsylvania's 7th -	Republican Party Patrick Meehan	Democratic Party  Susan Wild
 Pennsylvania's 15th -	Republican Party Charlie Dent	Republican Party Glenn Thompson
 West Virginia's 3rd -	Republican Party Evan Jenkins	Republican Party Carol Miller
+North Carolina's 9th -	Republican Party Robert Pittenger	Republican Party Mark Harris[1]
 
 U.S. Senate	Florida	Democratic Party  Bill Nelson	Republican Party Rick Scott
 U.S. Senate	Indiana	Democratic Party  Joe Donnelly	Republican Party Mike Braun
