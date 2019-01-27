@@ -6640,44 +6640,42 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services",
-      "Science, Space, and Technology"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2455 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-0697",
+        "address": "1118 Longworth HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2976"
       },
       {
-        "address": "40W 310 Lafox Road, #F2, Campton Hills, IL 60175",
-        "fax": "630-584-2746",
-        "name": "Campton Hills Office",
-        "phone": "630-584-2734"
+        "address": "40 W310 LaFox Road, St. Charles, IL 60175",
+        "fax": "",
+        "name": "St. Charles Office",
+        "phone": ""
       }
     ],
     "district": "14",
     "id": "IL-14",
-    "linkContact": "https://hultgren.house.gov/contact/email-randy",
-    "linkMeeting": "https://hultgren.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Randy_Hultgren",
-    "name": "Randy Hultgren",
-    "party": "Republican",
+    "linkContact": "https://underwood.house.gov/contact/email-me",
+    "linkMeeting": "https://underwood.house.gov/contact/email-me",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Lauren_Underwood",
+    "name": "Lauren Underwood",
+    "party": "Democratic",
     "photoFilename": "illinois14.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Randy_Hultgren_Official_Photo_112.jpg/75px-Randy_Hultgren_Official_Photo_112.jpg",
-    "socialFacebook": "https://www.facebook.com/RepHultgren",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lauren_Underwood_official_portrait.jpg/440px-Lauren_Underwood_official_portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/repunderwood/",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/rephultgren",
-    "socialYoutube": "http://www.youtube.com/user/rephultgren",
+    "socialTwitter": "https://twitter.com/LaurenUnderwood",
+    "socialTwitter2": "http://twitter.com/RepUnderwood",
+    "socialYoutube": "",
     "state": "illinois",
     "stateAbbreviation": "IL-14",
     "stateDisplay": "Illinois",
     "voteClinton": 44.8,
-    "votePersonal": 59.3,
+    "votePersonal": 52.5,
     "voteTrump": 48.7,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
