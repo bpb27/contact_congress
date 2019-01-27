@@ -2117,57 +2117,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Science, Space, and Technology",
-      "Small Business"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1023 Longworth House Office Building, Washington, DC 20515",
+        "address": "1130 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-1956"
       },
       {
-        "address": "1008 West Avenue M-14, Suite E, Palmdale, CA 93551",
+        "address": "1008 W. Ave M14, Suite E, Palmdale, CA 93551",
         "fax": "",
-        "name": "Antelope Valley Office",
-        "phone": "661-441-0320"
+        "name": "Palmdale Office",
+        "phone": ""
       },
       {
-        "address": "26415 Carl Boyer Drive, Suite 220, Santa Clarita, CA 91350",
-        "fax": "",
-        "name": "Santa Clarita Office",
-        "phone": "661-255-5630"
-      },
-      {
-        "address": "1445 E. Los Angeles Avenue, #206, Simi Valley, CA 93065",
+        "address": "1445 East Los Angeles Ave., Suite 206, Simi Valley, CA 93065",
         "fax": "",
         "name": "Simi Valley Office",
-        "phone": "805-581-7130"
+        "phone": ""
       }
     ],
     "district": "25",
     "id": "CA-25",
-    "linkContact": "http://knight.house.gov/contact/email/",
-    "linkMeeting": "http://knight.house.gov/forms/meetingrequest/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Steve_Knight_(politician)",
-    "name": "Steve Knight",
-    "party": "Republican",
+    "linkContact": "https://katiehill.house.gov/contact/email-me",
+    "linkMeeting": "https://katiehill.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Katie_Hill_(politician)",
+    "name": "Katie Hill",
+    "party": "Democratic",
     "photoFilename": "california25.jpeg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steve_Knight_official_congressional_photo.jpeg/75px-Steve_Knight_official_congressional_photo.jpeg",
-    "socialFacebook": "http://www.facebook.com/RepresentativeSteveKnight",
-    "socialInstagram": "https://www.instagram.com/repsteveknight",
-    "socialTwitter": "http://twitter.com/SteveKnight25",
-    "socialYoutube": "https://www.youtube.com/channel/UCNfnbtkP6hGUq1TLFQ3fD5Q",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Katie_Hill%2C_official_portrait%2C_116th_Congress.jpg/440px-Katie_Hill%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepKatieHill/",
+    "socialInstagram": "http://instagram.com/RepKatiehill/",
+    "socialTwitter": "http://twitter.com/RepKatieHill",
+    "socialYoutube": "",
     "state": "california",
     "stateAbbreviation": "CA-25",
     "stateDisplay": "California",
     "voteClinton": 50.3,
-    "votePersonal": 53.1,
+    "votePersonal": 54.4,
     "voteTrump": 43.6,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {

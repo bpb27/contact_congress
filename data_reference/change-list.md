@@ -1,4 +1,3 @@
-California's 21st -	Republican Party David Valadao	Democratic Party  TJ Cox
 California's 25th -	Republican Party Steve Knight	Democratic Party  Katie Hill
 California's 45th -	Republican Party Mimi Walters	Democratic Party  Katie Porter
 California's 48th -	Republican Party Dana Rohrabacher	Democratic Party  Harley Rouda
