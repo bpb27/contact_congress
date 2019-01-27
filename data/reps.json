@@ -7317,56 +7317,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Oversight and Government Reform",
-      "Small Business"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1108 Longworth House Office Building, Washington, DC 20515",
+        "address": "124 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-2911"
-      },
-      {
-        "address": "515 Main Street, Suite D, Cedar Falls, IA 50613",
-        "fax": "",
-        "name": "Cedar Falls Office",
-        "phone": "319-266-6925"
-      },
-      {
-        "address": "310 3rd Street SE, Cedar Rapids, IA 52401",
-        "fax": "319-364-2994",
-        "name": "Cedar Rapids Office",
-        "phone": "319-364-2288"
-      },
-      {
-        "address": "1050 Main Street, Dubuque, IA 52001",
-        "fax": "",
-        "name": "Dubuque Office",
-        "phone": "563-557-7789"
       }
     ],
     "district": "1",
     "id": "IA-1",
-    "linkContact": "https://blum.house.gov/contact/email",
-    "linkMeeting": "https://blum.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Rod_Blum",
-    "name": "Rod Blum",
-    "party": "Republican",
+    "linkContact": "https://finkenauer.house.gov/contact/email-me",
+    "linkMeeting": "https://finkenauer.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Abby_Finkenauer",
+    "name": "Abby Finkenauer",
+    "party": "Democratic",
     "photoFilename": "iowa1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rod_Blum_official_congressional_photo.jpg/75px-Rod_Blum_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/congressmanrodblum",
-    "socialInstagram": "http://instagram.com/republicanconference",
-    "socialTwitter": "http://twitter.com/RepRodBlum",
-    "socialYoutube": "http://www.youtube.com/channel/UCACYUrK1zFAZzKcmz9ibEAg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CongresswomanFinkenauer.jpg/440px-CongresswomanFinkenauer.jpg",
+    "socialFacebook": "http://www.facebook.com/RepAbbyFinkenauer",
+    "socialInstagram": "http://instagram.com/RepAbbyFinkenauer/",
+    "socialTwitter": "http://twitter.com/repfinkenauer",
+    "socialYoutube": "",
     "state": "iowa",
     "stateAbbreviation": "IA-1",
     "stateDisplay": "Iowa",
     "voteClinton": 45.2,
-    "votePersonal": 53.8,
+    "votePersonal": 51.0,
     "voteTrump": 48.7,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {

@@ -1,7 +1,3 @@
-Florida's 26th -	Republican Party Carlos Curbelo	Democratic Party  Debbie Mucarsel-Powell
-Georgia's 6th -	Republican Party Karen Handel	Democratic Party  Lucy McBath
-Illinois' 6th -	Republican Party Peter Roskam	Democratic Party  Sean Casten
-Illinois' 14th -	Republican Party Randy Hultgren	Democratic Party  Lauren Underwood
 Iowa's 1st -	Republican Party Rod Blum	Democratic Party  Abby Finkenauer
 Iowa's 3rd -	Republican Party David Young	Democratic Party  Cindy Axne
 Kansas' 3rd -	Republican Party Kevin Yoder	Democratic Party  Sharice Davids
