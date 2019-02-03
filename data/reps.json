@@ -11338,50 +11338,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Natural Resources"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "506 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-0778",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1516 Longworth HOB Washington, DC 20515",
         "phone": "202-225-4765"
       },
       {
-        "address": "535 East Main Street, Marlton, NJ 08053",
-        "fax": "856-574-4697",
+        "fax": "",
         "name": "Marlton Office",
-        "phone": "856-267-5182"
-      },
-      {
-        "address": "33 Washington St, Toms River, NJ 08753",
-        "fax": "732-998-8137",
-        "name": "Toms River Office",
-        "phone": "732-569-6495"
+        "address": "535 East Main Street Marlton, NJ 08053",
+        "phone": ""
       }
     ],
     "district": "3",
     "id": "NJ-3",
-    "linkContact": "https://macarthur.house.gov/contact/email",
-    "linkMeeting": "https://macarthur.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_MacArthur",
-    "name": "Tom MacArthur",
-    "party": "Republican",
+    "linkContact": "https://kim.house.gov/contact/email-me",
+    "linkMeeting": "https://kim.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Andy_Kim_(politician)",
+    "name": "Andrew Kim",
+    "party": "Democratic",
     "photoFilename": "new_jersey3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom_MacArthur_official_congressional_photo.jpg/75px-Tom_MacArthur_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanTomMacArthur",
-    "socialInstagram": "http://instagram.com/reptmac/",
-    "socialTwitter": "http://twitter.com/RepTomMacArthur",
-    "socialYoutube": "http://www.youtube.com/channel/UCLD7s-g8XgSd_wvuUWATKkQ",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Andy_Kim%2C_official_portrait%2C_116th_Congress.jpg/440px-Andy_Kim%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialTwitter": "http://twitter.com/RepAndyKimNJ",
+    "socialFacebook": "http://www.facebook.com/RepAndyKimNJ/",
+    "socialYoutube": "",
+    "socialInstagram": "http://instagram.com/RepAndykimnj/",
     "state": "new_jersey",
     "stateAbbreviation": "NJ-3",
     "stateDisplay": "New Jersey",
     "voteClinton": 45.2,
-    "votePersonal": 59.3,
+    "votePersonal": 50.0,
     "voteTrump": 51.4,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
