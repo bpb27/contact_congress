@@ -9819,45 +9819,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Budget",
-      "Education and the Workforce",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "418 Cannon HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1523 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2271"
       },
       {
-        "address": "2805 Cliff Road, Ste 200, Burnsville, MN 55337",
         "fax": "",
         "name": "Burnsville Office",
-        "phone": "888-216-4934"
+        "address": "12940 Harriet Avenue S. Suite 238",
+        "phone": "651-846-2120"
       }
     ],
     "district": "2",
     "id": "MN-2",
-    "linkContact": "http://jasonlewis.house.gov/contact",
-    "linkMeeting": "http://jasonlewis.house.gov/forms/meetingrequest/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Jason_Lewis_(congressman)",
-    "name": "Jason Lewis",
-    "party": "Republican",
-    "photoFilename": "minnesota2.png",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jason_Lewis.png/75px-Jason_Lewis.png",
-    "socialFacebook": "https://www.facebook.com/RepJasonLewis/",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/RepJasonLewis",
+    "linkContact": "https://craig.house.gov/contact/email-me",
+    "linkMeeting": "https://craig.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Angie_Craig",
+    "name": "Angie Craig",
+    "party": "Democratic",
+    "photoFilename": "minnesota2.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Angie_Craig%2C_official_portrait%2C_116th_Congress.jpg/440px-Angie_Craig%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialTwitter": "http://twitter.com/RepAngieCraig",
+    "socialFacebook": "http://www.facebook.com/RepAngieCraig",
     "socialYoutube": "",
+    "socialInstagram": "https://www.instagram.com/acraigcd2/?hl=en",
     "state": "minnesota",
     "stateAbbreviation": "MN-2",
     "stateDisplay": "Minnesota",
     "voteClinton": 45.3,
-    "votePersonal": 47,
+    "votePersonal": 52.8,
     "voteTrump": 46.5,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
