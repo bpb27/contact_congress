@@ -7599,43 +7599,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2433 Rayburn, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1541 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2865"
       },
       {
-        "address": "7325 W. 79th St., Overland Park, KS 66204",
         "fax": "913-621-1533",
-        "name": "Overland Park Office",
+        "name": " Overland Park Office",
+        "address": "7325 W. 79th Street Overland Park, KS 66204",
         "phone": "913-621-0832"
       }
     ],
     "district": "3",
     "id": "KS-3",
-    "linkContact": "https://yoder.house.gov/contact/email-me",
-    "linkMeeting": "https://yoder.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Yoder",
-    "name": "Kevin Yoder",
+    "linkContact": "https://davids.house.gov/contact/email-me",
+    "linkMeeting": "https://davids.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Sharice_Davids",
+    "name": "Sharice Davids",
     "party": "Republican",
     "photoFilename": "kansas3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/KYmemberportrait.jpg/75px-KYmemberportrait.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanKevinYoder",
-    "socialInstagram": "http://instagram.com/repkevinyoder/",
-    "socialTwitter": "https://twitter.com/RepKevinYoder",
-    "socialYoutube": "http://www.youtube.com/user/RepYoder",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sharice_Davids.jpg/440px-Sharice_Davids.jpg",
+    "socialTwitter": "http://twitter.com/RepDavids",
+    "socialFacebook": "http://www.facebook.com/RepDavids",
+    "socialYoutube": "",
+    "socialInstagram": "https://www.instagram.com/sharicedavids/?hl=en",
     "state": "kansas",
     "stateAbbreviation": "KS-3",
     "stateDisplay": "Kansas",
     "voteClinton": 47.2,
-    "votePersonal": 51.3,
+    "votePersonal": 53.6,
     "voteTrump": 46,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {

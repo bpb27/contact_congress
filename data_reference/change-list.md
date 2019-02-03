@@ -1,4 +1,3 @@
-Iowa's 1st -	Republican Party Rod Blum	Democratic Party  Abby Finkenauer
 Iowa's 3rd -	Republican Party David Young	Democratic Party  Cindy Axne
 Kansas' 3rd -	Republican Party Kevin Yoder	Democratic Party  Sharice Davids
 Maine's 2nd -	Republican Party Bruce Poliquin	Democratic Party  Jared Golden
