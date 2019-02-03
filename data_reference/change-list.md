@@ -1,12 +1,3 @@
-Iowa's 3rd -	Republican Party David Young	Democratic Party  Cindy Axne
-Kansas' 3rd -	Republican Party Kevin Yoder	Democratic Party  Sharice Davids
-Maine's 2nd -	Republican Party Bruce Poliquin	Democratic Party  Jared Golden
-Michigan's 8th -	Republican Party Mike Bishop	Democratic Party  Elissa Slotkin
-Minnesota's 2nd -	Republican Party Jason Lewis	Democratic Party  Angie Craig
-Minnesota's 3rd -	Republican Party Erik Paulsen	Democratic Party  Dean Phillips
-New Jersey's 3rd -	Republican Party Tom MacArthur	Democratic Party  Andrew Kim
-New Jersey's 7th -	Republican Party Leonard Lance	Democratic Party  Tom Malinowski
-New York's 11th -	Republican Party Dan Donovan	Democratic Party  Max Rose
 New York's 19th -	Republican Party John Faso	Democratic Party  Antonio Delgado
 New York's 22nd -	Republican Party Claudia Tenney	Democratic Party  Anthony Brindisi
 Oklahoma's 5th -	Republican Party Steve Russell	Democratic Party  Kendra Horn

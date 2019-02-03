@@ -12787,57 +12787,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Agriculture",
-      "Budget",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1616 Longworth HOB, Washington, DC 20515",
-        "fax": "202-225-1168",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1007 Longworth HOB Washington, DC 20515",
         "phone": "202-225-5614"
       },
       {
-        "address": "111 Main Street, Delhi, NY 13753",
-        "fax": "",
-        "name": "Delhi Office",
-        "phone": "607-746-9537"
-      },
-      {
-        "address": "2 Hudson Street, Kinderhook, NY 12106",
-        "fax": "",
-        "name": "Kinderhook Office",
-        "phone": "518-610-8133"
-      },
-      {
-        "address": "721 Broadway, Kingston, NY 12401",
         "fax": "",
         "name": "Kingston Office",
-        "phone": "845-514-2322"
+        "address": "256 Clinton Ave Kingston, NY 12401",
+        "phone": ""
       }
     ],
     "district": "19",
     "id": "NY-19",
-    "linkContact": "http://faso.house.gov/contact",
-    "linkMeeting": "http://faso.house.gov/forms/meetingrequest/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/John_Faso",
-    "name": "John Faso",
-    "party": "Republican",
+    "linkContact": "https://delgado.house.gov/contact/email-me",
+    "linkMeeting": "https://delgado.house.gov/contact/meeting-request",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Antonio_Delgado_(politician)",
+    "name": "Antonio Delgado",
+    "party": "Democratic",
     "photoFilename": "new_york19.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Faso.headshot2.jpg/75px-Faso.headshot2.jpg",
-    "socialFacebook": "https://www.facebook.com/RepJohnFaso",
-    "socialInstagram": "https://www.instagram.com/RepJohnFaso/",
-    "socialTwitter": "https://twitter.com/RepJohnFaso",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Antonio_Delgado%2C_official_portrait%2C_116th_Congress.jpg/440px-Antonio_Delgado%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepAntonioDelgado",
+    "socialInstagram": "http://instagram.com/repantoniodelgado",
+    "socialTwitter": "http://twitter.com/repdelgado",
     "socialYoutube": "",
     "state": "new_york",
     "stateAbbreviation": "NY-19",
     "stateDisplay": "New York",
     "voteClinton": 44,
-    "votePersonal": 54.2,
+    "votePersonal": 50.3,
     "voteTrump": 50.8,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
