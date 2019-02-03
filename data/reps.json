@@ -9474,44 +9474,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Education and the Workforce",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "428 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-5820",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1531 Longworth HOB Washington, DC 20515",
         "phone": "202-225-4872"
       },
       {
-        "address": "711 E. Grand River Avenue, Suite A, Brighton, MI 48116",
-        "fax": "810-227-8628",
-        "name": "Brighton Office",
-        "phone": "810-227-8600"
+        "fax": "",
+        "name": "Lansing Office",
+        "address": "1100 W. Saginaw St. Suite 3a",
+        "phone": ""
       }
     ],
     "district": "8",
     "id": "MI-8",
-    "linkContact": "https://mikebishop.house.gov/contact/email",
-    "linkMeeting": "https://mikebishop.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Bishop_(politician)",
-    "name": "Mike Bishop",
-    "party": "Republican",
+    "linkContact": "https://slotkin.house.gov/contact/email-me",
+    "linkMeeting": "https://slotkin.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Elissa_Slotkin",
+    "name": "Elissa Slotkin",
+    "party": "Democratic",
     "photoFilename": "michigan8.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mike_Bishop_official_congressional_photo.jpg/75px-Mike_Bishop_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/RepMikeBishop",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/repmikebishop",
-    "socialYoutube": "http://www.youtube.com/channel/UCeG5_Zwq-4KXnGWufThSKRQ/feed",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Elissa_Slotkin%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/elissaslotkinforcongress/",
+    "socialInstagram": "https://www.instagram.com/elissa.slotkin/?hl=en",
+    "socialTwitter": "https://twitter.com/elissaslotkin?lang=en",
+    "socialYoutube": "",
     "state": "michigan",
     "stateAbbreviation": "MI-8",
     "stateDisplay": "Michigan",
     "voteClinton": 43.9,
-    "votePersonal": 56,
+    "votePersonal": 50.6,
     "voteTrump": 50.6,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
