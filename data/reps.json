@@ -7620,7 +7620,7 @@
     "linkMeeting": "https://davids.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sharice_Davids",
     "name": "Sharice Davids",
-    "party": "Republican",
+    "party": "Democratic",
     "photoFilename": "kansas3.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sharice_Davids.jpg/440px-Sharice_Davids.jpg",
     "socialTwitter": "http://twitter.com/RepDavids",
@@ -8308,56 +8308,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services",
-      "Veterans’ Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1208 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-225-2943",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1223 Longworth HOB Washington, DC 20515",
         "phone": "202-225-6306"
       },
       {
-        "address": "6 State Street, Suite 101, Bangor, ME 04401",
-        "fax": "207-942-7101",
-        "name": "Bangor Office",
-        "phone": "207-942-0583"
+        "fax": "",
+        "name": "Caribou, Maine Office",
+        "address": "7 Hatch Drive Suite 230",
+        "phone": "207-492-6009"
       },
       {
-        "address": "179 Lisbon Street, Lewiston, ME 04240",
-        "fax": "207-784-5672",
-        "name": "Lewiston Office",
-        "phone": "207-784-0768"
-      },
-      {
-        "address": "631 Main Street, Suite 2, Presque Isle, ME 04769",
-        "fax": "207-764-2822",
-        "name": "Presque Isle Office",
-        "phone": "207-764-1968"
+        "fax": "",
+        "name": "Lewiston, Maine Office",
+        "address": "179 Lisbon Street Lewiston, ME 04240",
+        "phone": "207-241-6767"
       }
     ],
     "district": "2",
     "id": "ME-2",
-    "linkContact": "https://poliquin.house.gov/contact/email",
-    "linkMeeting": "https://poliquin.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Bruce_Poliquin",
-    "name": "Bruce Poliquin",
-    "party": "Republican",
+    "linkContact": "https://golden.house.gov/contact/email-me",
+    "linkMeeting": "https://golden.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Jared_Golden",
+    "name": "Jared Golden",
+    "party": "Democratic",
     "photoFilename": "maine2.jpeg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bruce_Poliquin_official_congressional_photo.jpeg/75px-Bruce_Poliquin_official_congressional_photo.jpeg",
-    "socialFacebook": "http://www.facebook.com/RepPoliquin",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepPoliquin",
-    "socialYoutube": "http://www.youtube.com/channel/UCFk3paQ30PAME40YgJkuH4Q",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rep._Jared_Golden%2C_official_portrait%2C_116th_congress.jpg/440px-Rep._Jared_Golden%2C_official_portrait%2C_116th_congress.jpg",
+    "socialTwitter": "http://twitter.com/RepGolden",
+    "socialFacebook": "http://www.facebook.com/RepGolden",
+    "socialYoutube": "",
+    "socialInstagram": "https://www.instagram.com/jared.golden/",
     "state": "maine",
     "stateAbbreviation": "ME-2",
     "stateDisplay": "Maine",
     "voteClinton": 41.1,
-    "votePersonal": 54.8,
+    "votePersonal": 50.5,
     "voteTrump": 51.4,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
