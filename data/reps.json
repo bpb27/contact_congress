@@ -11520,50 +11520,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Commerce",
-      "Ethics"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2352 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-9460",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "426 Cannon HOB Washington, DC 20515",
         "phone": "202-225-5361"
       },
       {
-        "address": "361 Route 31 (Unit 1400), Flemington, NJ 08822",
-        "fax": "908-788-2869",
-        "name": "Flemington Office",
-        "phone": "908-788-6900"
-      },
-      {
-        "address": "425 North Avenue East, Westfield, NJ 07090",
-        "fax": "908-518-7751",
-        "name": "Westfield Office",
-        "phone": "908-518-7733"
+        "fax": "",
+        "name": "Somerville Office",
+        "address": "58 E Main St. 1st Floor, Somerville, NJ 08876",
+        "phone": "908-547-3307"
       }
     ],
     "district": "7",
     "id": "NJ-7",
-    "linkContact": "https://lance.house.gov/contact/email-me",
-    "linkMeeting": "https://lance.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Leonard_Lance",
-    "name": "Leonard Lance",
-    "party": "Republican",
+    "linkContact": "https://malinowski.house.gov/contact/email-me",
+    "linkMeeting": "https://malinowski.house.gov/contact/request-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+    "name": "Tom Malinowski",
+    "party": "Democratic",
     "photoFilename": "new_jersey7.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leonard_Lance_official_congressional_photo.jpg/75px-Leonard_Lance_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanLance?v=wall&ref=ts",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tom_Malinowski%2C_official_portrait%2C_116th_congress.jpg/440px-Tom_Malinowski%2C_official_portrait%2C_116th_congress.jpg",
+    "socialFacebook": "http://www.facebook.com/HouseDemocrats",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/RepLanceNJ7",
-    "socialYoutube": "http://www.youtube.com/user/CongressmanLance",
+    "socialTwitter": "http://twitter.com/RepMalinowski",
+    "socialYoutube": "",
     "state": "new_jersey",
     "stateAbbreviation": "NJ-7",
     "stateDisplay": "New Jersey",
     "voteClinton": 48.6,
-    "votePersonal": 54.1,
+    "votePersonal": 51.7,
     "voteTrump": 47.5,
-    "yearElected": "2009",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
