@@ -12434,50 +12434,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Foreign Affairs",
-      "Homeland Security"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1541 Longworth HOB, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1529 Longworth HOB Washington, DC 20515",
         "phone": "202-225-3371"
       },
       {
-        "address": "7308 13th Avenue, Brooklyn, NY 11228",
-        "fax": "718-630-5388",
-        "name": "Brooklyn Office",
-        "phone": "718-630-5277"
-      },
-      {
-        "address": "265 New Dorp Lane, 2nd Floor, Staten Island, NY 10306",
-        "fax": "718-980-0768",
+        "fax": "",
         "name": "Staten Island Office",
-        "phone": "718-351-1062"
+        "address": "265 New Dorp Lane, Second Floor Staten Island, NY 10306",
+        "phone": "718-667-3313"
       }
     ],
     "district": "11",
     "id": "NY-11",
-    "linkContact": "https://donovan.house.gov/contact/email",
-    "linkMeeting": "https://donovan.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Donovan_(politician)",
-    "name": "Daniel Donovan",
-    "party": "Republican",
+    "linkContact": "https://maxrose.house.gov/contact",
+    "linkMeeting": "",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Max_Rose_(politician)",
+    "name": "Max Rose",
+    "party": "Democratic",
     "photoFilename": "new_york11.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Congressman_Daniel_Donovan.jpg/75px-Congressman_Daniel_Donovan.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/Rep-Daniel-M-Donovan/867632656644580",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Max_Rose%2C_official_116th_Congress_photo_portrait.jpg/440px-Max_Rose%2C_official_116th_Congress_photo_portrait.jpg",
+    "socialFacebook": "https://www.facebook.com/repmaxrose",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepDanDonovan",
-    "socialYoutube": "http://www.youtube.com/channel/UCT8-VskXvxCqDuSGzR5sWWg/feed",
+    "socialTwitter": "https://twitter.com/RepMaxRose/",
+    "socialYoutube": "https://www.youtube.com/channel/UCW0nSIy4fRxysqrFFSkOcVw",
     "state": "new_york",
     "stateAbbreviation": "NY-11",
     "stateDisplay": "New York",
     "voteClinton": 43.8,
-    "votePersonal": 61.5,
+    "votePersonal": 53,
     "voteTrump": 53.6,
-    "yearElected": "2015*",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
