@@ -12930,43 +12930,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "512 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-1891",
+        "address": "Cannon House Office Building, Room 329, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-3665"
       },
       {
-        "address": "555 French Rd, New Hartford, NY 13413",
+        "address": "49 Court St., Suite 210, Binghamton, New York 13901",
         "fax": "",
-        "name": "New Hartford Office",
-        "phone": "315-732-0713"
+        "name": "Binghamton Office",
+        "phone": "315-927-7407"
       }
     ],
     "district": "22",
     "id": "NY-22",
-    "linkContact": "https://tenney.house.gov/contact/email",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Claudia_Tenney",
-    "name": "Claudia Tenney",
-    "party": "Republican",
+    "linkContact": "https://brindisi.house.gov/contact/email-me",
+    "linkMeeting": "https://brindisi.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Anthony_Brindisi",
+    "name": "Anthony Brindisi",
+    "party": "Democratic",
     "photoFilename": "new_york22.jpg",
-    "photoUrl": "http://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/d/02/d02a8f28-8d3d-11e5-b8fe-3bd8633a2c3f/53554f6d21811.image.jpg",
-    "socialFacebook": "http://www.facebook.com/RepClaudiaTenney/",
-    "socialInstagram": "http://instagram.com/repclaudiatenney",
-    "socialTwitter": "http://twitter.com/RepTenney",
-    "socialYoutube": "http://www.youtube.com/c/RepClaudiaTenney",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Anthony_Brindisi.jpg",
+    "socialFacebook": "http://www.facebook.com/RepBrindisi",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/RepBrindisi",
+    "socialYoutube": "",
     "state": "new_york",
     "stateAbbreviation": "NY-22",
     "stateDisplay": "New York",
     "voteClinton": 39.3,
-    "votePersonal": 46.5,
+    "votePersonal": 50.4,
     "voteTrump": 54.8,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
