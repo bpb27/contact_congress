@@ -9857,43 +9857,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "127 Cannon HOB, Washington, D.C. 20515",
-        "fax": "202-225-6351",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1305 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2871"
       },
       {
-        "address": "250 Prairie Center Drive, Suite 230, Eden Prairie, MN 55344",
-        "fax": "952-405-8514",
-        "name": "Eden Prairie Office",
-        "phone": "952-405-8510"
+        "fax": "",
+        "name": "Temporary Bloomington Office",
+        "address": "1800 West Old Shakopee Road Bloomington Civic Plaza, Second Floor",
+        "phone": ""
       }
     ],
     "district": "3",
     "id": "MN-3",
-    "linkContact": "https://paulsen.house.gov/contact-me/",
-    "linkMeeting": "https://paulsen.house.gov/schedule-a-meeting-in-the-district/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Erik_Paulsen",
-    "name": "Erik Paulsen",
-    "party": "Republican",
+    "linkContact": "https://phillips.house.gov/contact/email-me",
+    "linkMeeting": "https://phillips.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Dean_Phillips",
+    "name": "Dean Phillips",
+    "party": "Democratic",
     "photoFilename": "minnesota3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Erik_Paulsen.jpg/75px-Erik_Paulsen.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/Congressman-Erik-Paulsen/128558293848160",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepErikPaulsen",
-    "socialYoutube": "http://www.youtube.com/reperikpaulsen",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dean_Phillips%2C_official_portrait%2C_116th_Congress.jpg/440px-Dean_Phillips%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialTwitter": "http://twitter.com/RepDeanPhillips",
+    "socialFacebook": "http://www.facebook.com/RepDeanPhillips",
+    "socialYoutube": "http://www.youtube.com/channel/UCQ7y_sateDGmnnw1NVuaTvA/",
+    "socialInstagram": "http://instagram.com/repdeanphillips/",
     "state": "minnesota",
     "stateAbbreviation": "MN-3",
     "stateDisplay": "Minnesota",
     "voteClinton": 50.8,
-    "votePersonal": 56.7,
+    "votePersonal": 55.7,
     "voteTrump": 41.4,
-    "yearElected": "2009",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
