@@ -2718,50 +2718,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services",
-      "Foreign Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2310 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-226-0335",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "431 Cannon HOB Washington, DC 20515",
         "phone": "202-225-4111"
-      },
-      {
-        "address": "210 W Birch Street, Suite 201, Brea, CA 92821",
-        "fax": "714-255-0109",
-        "name": "Brea Office",
-        "phone": "714-255-0101"
-      },
-      {
-        "address": "1380 S. Fullerton Road #203, Rowland Heights, CA 91748",
-        "fax": "626-810-3891",
-        "name": "Los Angeles Office",
-        "phone": "626-964-5123"
       }
     ],
     "district": "39",
     "id": "CA-39",
-    "linkContact": "http://royce.house.gov/contact/zipcheck.htm",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Ed_Royce",
-    "name": "Ed Royce",
-    "party": "Republican",
+    "linkContact": "https://cisneros.house.gov/contact/email-me",
+    "linkMeeting": "https://cisneros.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Gil_Cisneros",
+    "name": "Gil Cisneros",
+    "party": "Democratic",
     "photoFilename": "california39.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Edward_Royce%2C_official_photo_portrait_color.jpg/75px-Edward_Royce%2C_official_photo_portrait_color.jpg",
-    "socialFacebook": "http://facebook.com/EdRoyce",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepEdRoyce",
-    "socialYoutube": "http://youtube.com/RepEdRoyce",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gil_Cisneros_official_portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/RepGilCisneros",
+    "socialInstagram": "http://instagram.com/repgilcisneros/",
+    "socialTwitter": "http://twitter.com/RepGilCisneros",
+    "socialYoutube": "http://www.youtube.com/channel/UC9Z5B59ZgKD-JPZ7_BSAZMA",
     "state": "california",
     "stateAbbreviation": "CA-39",
     "stateDisplay": "California",
     "voteClinton": 51.5,
-    "votePersonal": 57.2,
+    "votePersonal": 51.6,
     "voteTrump": 42.9,
-    "yearElected": "1993",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
