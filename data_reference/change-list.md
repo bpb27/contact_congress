@@ -1,5 +1,3 @@
-Arizona's 2nd -	Republican Party Martha McSally	Democratic Party  Ann Kirkpatrick
-Arizona's 9th -	Democratic Party  Kyrsten Sinema	Democratic Party  Greg Stanton
 California's 39th -	Republican Party Edward Royce	Democratic Party  Gil Cisneros
 California's 49th -	Republican Party Darrell Issa	Democratic Party  Mike Levin
 Colorado's 2nd -	Democratic Party  Jared Polis	Democratic Party  Joe Neguse

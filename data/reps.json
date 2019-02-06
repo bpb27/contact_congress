@@ -3105,51 +3105,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Foreign Affairs",
-      "Judiciary",
-      "Oversight and Government Reform"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2269 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-225-3303",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1626 Longworth HOB Washington, DC 20515",
         "phone": "202-225-3906"
       },
       {
-        "address": "1800 Thibodo Road, #310, Vista, CA 92081",
-        "fax": "760-599-1178",
-        "name": "Vista Office",
-        "phone": "760-599-5000"
-      },
-      {
-        "address": "33282 Golden Lantern, Ste 102, Dana Point, CA 92629",
         "fax": "",
         "name": "Dana Point Office",
+        "address": "33282 Golden Lantern Suite 102",
         "phone": "949-281-2449"
+      },
+      {
+        "fax": "",
+        "name": "Oceanside Office",
+        "address": "2204 El Camino Real Suite 314",
+        "phone": "760-599-5000"
       }
     ],
     "district": "49",
     "id": "CA-49",
-    "linkContact": "https://issa.house.gov/contact",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Darrell_Issa",
-    "name": "Darrell Issa",
+    "linkContact": "https://mikelevin.house.gov/contact/email-me",
+    "linkMeeting": "https://mikelevin.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Levin",
+    "name": "Mike Levin",
     "party": "Republican",
     "photoFilename": "california49.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Congressman_Darrell_Issa.jpg/75px-Congressman_Darrell_Issa.jpg",
-    "socialFacebook": "https://www.facebook.com/darrellissa",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/darrellissa",
-    "socialYoutube": "https://www.youtube.com/user/RepDarrellIssa/",
+    "photoUrl": "",
+    "socialFacebook": "http://www.facebook.com/RepMikeLevin",
+    "socialInstagram": "http://instagram.com/RepMikeLevin",
+    "socialTwitter": "http://twitter.com/RepMikeLevin",
+    "socialYoutube": "http://www.youtube.com/channel/UCYFDRohyZgoPy5rXOaVZO-A/featured",
     "state": "california",
     "stateAbbreviation": "CA-49",
     "stateDisplay": "California",
     "voteClinton": 50.7,
-    "votePersonal": 50.3,
+    "votePersonal": 56.4,
     "voteTrump": 43.2,
-    "yearElected": "2001",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
