@@ -1,4 +1,3 @@
-New York's 19th -	Republican Party John Faso	Democratic Party  Antonio Delgado
 New York's 22nd -	Republican Party Claudia Tenney	Democratic Party  Anthony Brindisi
 Oklahoma's 5th -	Republican Party Steve Russell	Democratic Party  Kendra Horn
 Pennsylvania's 12th -[2]	Republican Party Keith Rothfus	Democratic Party  Conor Lamb

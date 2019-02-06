@@ -14850,44 +14850,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Oversight and Government Reform"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "128 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-226-1463",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "415 Cannon HOB Washington, DC 20515",
         "phone": "202-225-2132"
       },
       {
-        "address": "4600 SE 29th, Suite 400, Del City, OK 73115",
-        "fax": "405-602-3953",
-        "name": "Del City Office",
+        "fax": "",
+        "name": " Oklahoma City Office",
+        "address": "400 N. Walker Suite 210",
         "phone": "405-602-3074"
       }
     ],
     "district": "5",
     "id": "OK-5",
-    "linkContact": "https://russell.house.gov/contact/email",
-    "linkMeeting": "https://russell.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Steve_Russell_(politician)",
-    "name": "Steve Russell",
-    "party": "Republican",
+    "linkContact": "https://horn.house.gov/contact/email-me",
+    "linkMeeting": "https://horn.house.gov/contact/request-meeting",
+    "linkWikipedia": "",
+    "name": "Kendra Horn",
+    "party": "Democratic",
     "photoFilename": "oklahoma5.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steve_Russell_official_congressional_photo.jpg/75px-Steve_Russell_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/Congressman-Steve-Russell/996556490372532",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kendra_Horn_official_portrait%2C_116th_Congress.jpg/440px-Kendra_Horn_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepKendraHorn",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepRussell",
-    "socialYoutube": "http://www.youtube.com/channel/UC2z7ACZuDophcPphXdJfbZQ",
+    "socialTwitter": "http://twitter.com/RepKendraHorn",
+    "socialYoutube": "",
     "state": "oklahoma",
     "stateAbbreviation": "OK-5",
     "stateDisplay": "Oklahoma",
     "voteClinton": 39.8,
-    "votePersonal": 57.1,
+    "votePersonal": 50.7,
     "voteTrump": 53.2,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
