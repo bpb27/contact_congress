@@ -465,50 +465,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Homeland Security"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "510 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-0378",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "309 Cannon HOB Washington, DC 20515",
         "phone": "202-225-2542"
       },
       {
-        "address": "77 Calle Portal, Suite B-160, Sierra Vista, AZ 85635",
         "fax": "",
-        "name": "Sierra Vista Office",
-        "phone": "520-459-3115"
+        "name": " Sierra Vista Office",
+        "address": "77 Calle Portal Suite B160",
+        "phone": ""
       },
       {
-        "address": "4400 E. Broadway Blvd, Suite 510, Tucson, AZ 85711",
-        "fax": "520-322-9490",
-        "name": "Tucson Office",
-        "phone": "520-881-3588"
+        "fax": "",
+        "name": " Tucson Office",
+        "address": "1636 North Swan Road Suite 200",
+        "phone": ""
       }
     ],
     "district": "2",
     "id": "AZ-2",
-    "linkContact": "https://mcsally.house.gov/contact",
-    "linkMeeting": "https://mcsally.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Martha_McSally",
-    "name": "Martha McSally",
-    "party": "Republican",
+    "linkContact": "https://kirkpatrick.house.gov/contact/email-me",
+    "linkMeeting": "https://kirkpatrick.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Ann_Kirkpatrick",
+    "name": "Ann Kirkpatrick",
+    "party": "Democratic",
     "photoFilename": "arizona2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Martha_McSally_official_portrait_cropped.jpg/75px-Martha_McSally_official_portrait_cropped.jpg",
-    "socialFacebook": "https://www.facebook.com/RepMcSally",
-    "socialInstagram": "https://www.instagram.com/repmcsally/",
-    "socialTwitter": "https://twitter.com/RepMcSally",
-    "socialYoutube": "https://www.youtube.com/channel/UCfHMG2Db0TJ_RatSBHuH8NA",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ann_Kirkpatrick.jpg/440px-Ann_Kirkpatrick.jpg",
+    "socialFacebook": "http://www.facebook.com/RepAnnKirkpatrick",
+    "socialInstagram": "http://instagram.com/RepAnnKirkpatrick/",
+    "socialTwitter": "http://twitter.com/RepKirkpatrick",
+    "socialYoutube": "",
     "state": "arizona",
     "stateAbbreviation": "AZ-2",
     "stateDisplay": "Arizona",
     "voteClinton": 49.6,
-    "votePersonal": 57,
+    "votePersonal": 53.8,
     "voteTrump": 44.7,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
