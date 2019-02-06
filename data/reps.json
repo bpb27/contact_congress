@@ -785,43 +785,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1725 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-225-9731",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "128 Cannon HOB Washington, DC 20515",
         "phone": "202-225-9888"
       },
       {
-        "address": "2944 N. 44th Street, Suite 150, Phoenix, AZ 85018",
-        "fax": "602-956-2468",
-        "name": "Phoenix Office:",
-        "phone": "602-956-2285"
+        "fax": "",
+        "name": "Phoenix Office",
+        "address": "2944 N. 44th St #150, Phoenix, AZ 85018",
+        "phone": "602-956-2463"
       }
     ],
     "district": "9",
     "id": "AZ-9",
-    "linkContact": "https://sinema.house.gov/contact-us/",
-    "linkMeeting": "https://sinema.house.gov/schedule-a-meeting/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Kyrsten_Sinema",
-    "name": "Kyrsten Sinema",
+    "linkContact": "https://stanton.house.gov/contact/email-me",
+    "linkMeeting": "https://stanton.house.gov/contact/meeting-request",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Greg_Stanton",
+    "name": "Greg Stanton",
     "party": "Democratic",
     "photoFilename": "arizona9.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kyrsten_Sinema_113th_Congress.jpg/75px-Kyrsten_Sinema_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/ksinemaaz/",
-    "socialInstagram": "https://www.instagram.com/repsinema/?hl=en",
-    "socialTwitter": "https://twitter.com/RepSinema",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Greg_Stanton%2C_official_portrait%2C_116th_Congress.jpg/440px-Greg_Stanton%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/repgregstanton",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/repgregstanton",
     "socialYoutube": "",
     "state": "arizona",
     "stateAbbreviation": "AZ-9",
     "stateDisplay": "Arizona",
     "voteClinton": 54.7,
-    "votePersonal": 60.9,
+    "votePersonal": 61.1,
     "voteTrump": 38.4,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
