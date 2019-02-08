@@ -1,5 +1,3 @@
-California's 39th -	Republican Party Edward Royce	Democratic Party  Gil Cisneros
-California's 49th -	Republican Party Darrell Issa	Democratic Party  Mike Levin
 Colorado's 2nd -	Democratic Party  Jared Polis	Democratic Party  Joe Neguse
 Connecticut's 5th -	Democratic Party  Elizabeth Esty	Democratic Party  Jahana Hayes
 Florida's 15th -	Republican Party Dennis Ross	Republican Party Ross Spano

@@ -677,7 +677,7 @@ app.controller('mainCtrl', [
       $scope.update();
     });
 
-    $http.get('/data/reps.json').then(function(results) {
+    $http.get('/data/reps2.json').then(function(results) {
       $scope.reps = addDates(results.data, 2018);
       $scope.matches = $scope.matches.concat($scope.reps);
       $scope.update();
