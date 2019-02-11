@@ -10939,13 +10939,10 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Science, Space, and Technology"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "413 Cannon House Office Building, Washington, DC 20515",
+        "address": "522 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-3252"
@@ -10954,21 +10951,21 @@
         "address": "8872 S Eastern Ave, Suite 210/220, Las Vegas, NV 89123",
         "fax": "",
         "name": "Las Vegas Office",
-        "phone": "702-963-9500"
+        "phone": "702-963-9336"
       }
     ],
     "district": "3",
     "id": "NV-3",
-    "linkContact": "https://rosen.house.gov/contact/email",
-    "linkMeeting": "",
+    "linkContact": "https://susielee.house.gov/contact/email-me",
+    "linkMeeting": "https://susielee.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Susie_Lee",
     "name": "Susie Lee",
     "party": "Democratic",
     "photoFilename": "nevada3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jacky_Rosen.jpg/75px-Jacky_Rosen.jpg",
-    "socialFacebook": "https://www.facebook.com/RepJackyRosen/",
-    "socialInstagram": "http://instagram.com/repjackyrosen/",
-    "socialTwitter": "https://twitter.com/RepJackyRosen",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Susie_Lee%2C_official_portrait%2C_116th_Congress.jpg/440px-Susie_Lee%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepSusieLee",
+    "socialInstagram": "http://instagram.com/repsusielee/",
+    "socialTwitter": "https://twitter.com/RepSusieLee?",
     "socialYoutube": "",
     "state": "nevada",
     "stateAbbreviation": "NV-3",
@@ -10976,39 +10973,37 @@
     "voteClinton": 46.5,
     "votePersonal": 51.9,
     "voteTrump": 47.5,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "313 Cannon HOB, Washington, DC 20515",
-        "fax": "202-225-9783",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1330 Longworth HOB Washington, DC 20515",
         "phone": "202-225-9894"
       },
       {
-        "address": "2250 N Las Vegas Blvd, Suite 500, North Las Vegas, NV 89030",
-        "fax": "844-445-8944",
-        "name": "North Las Vegas Office",
+        "fax": "",
+        "name": " North Las Vegas Office",
+        "address": "2250 N Las Vegas Blvd Suite 500, North Las Vegas, NV 89030",
         "phone": "702-963-9360"
       }
     ],
     "district": "4",
     "id": "NV-4",
-    "linkContact": "http://kihuen.house.gov/contact",
-    "linkMeeting": "http://kihuen.house.gov/forms/meetingrequest/",
+    "linkContact": "https://horsford.house.gov/contact/email-me",
+    "linkMeeting": "https://horsford.house.gov/contact/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Steven_Horsford",
     "name": "Steven Horsford",
     "party": "Democratic",
     "photoFilename": "nevada4.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ruben_Kihuen.jpg/75px-Ruben_Kihuen.jpg",
-    "socialFacebook": "https://www.facebook.com/RepKihuen",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Steven_Horsford%2C_official_portrait%2C_116th_Congress.jpg/440px-Steven_Horsford%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepHorsford/",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/RepKihuen",
+    "socialTwitter": "http://twitter.com/RepHorsford",
     "socialYoutube": "",
     "state": "nevada",
     "stateAbbreviation": "NV-4",
@@ -11016,40 +11011,37 @@
     "voteClinton": 49.5,
     "votePersonal": 51.9,
     "voteTrump": 44.6,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Education and the Workforce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1530 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "323 Cannon HOB Washington, DC 20515",
         "phone": "202-225-5456"
       },
       {
-        "address": "660 Central Ave, Dover, NH 03820",
         "fax": "",
         "name": "Dover Office",
-        "phone": "888-216-5373"
+        "address": "660 Central Avenue Suite 101, Dover, NH 03820",
+        "phone": "603-285-4300"
       }
     ],
     "district": "1",
     "id": "NH-1",
-    "linkContact": "https://shea-porter.house.gov/contact/email",
-    "linkMeeting": "",
+    "linkContact": "https://pappas.house.gov/contact/email-me",
+    "linkMeeting": "https://pappas.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Pappas_(politician)",
     "name": "Chris Pappas",
     "party": "Democratic",
     "photoFilename": "new_hampshire1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Carol_shea-porter.jpg/75px-Carol_shea-porter.jpg",
-    "socialFacebook": "http://www.facebook.com/repsheaporter",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chris_Pappas%2C_official_portrait%2C_116th_Congress.jpg/440px-Chris_Pappas%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepChrisPappas",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/repsheaporter",
+    "socialTwitter": "http://twitter.com/RepChrisPappas",
     "socialYoutube": "",
     "state": "new_hampshire",
     "stateAbbreviation": "NH-1",
@@ -11057,7 +11049,7 @@
     "voteClinton": 46.6,
     "votePersonal": 53.6,
     "voteTrump": 48.2,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -11154,45 +11146,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Intelligence",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2427 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-225-3318",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "331 Cannon HOB Washington, DC 20515",
         "phone": "202-225-6572"
       },
       {
-        "address": "5914 Main Street Suite 103, Mays Landing, NJ 08330",
-        "fax": "609-625-5071",
+        "fax": "",
         "name": "Mays Landing Office",
+        "address": "5914 Main Street Suite 103, Mays Landing, NJ 08330",
         "phone": "609-625-5008"
       }
     ],
     "district": "2",
     "id": "NJ-2",
-    "linkContact": "https://lobiondo.house.gov/contact-me/email-me",
-    "linkMeeting": "https://lobiondo.house.gov/schedule-meeting",
+    "linkContact": "https://vandrew.house.gov/contact/email-me",
+    "linkMeeting": "https://vandrew.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Van_Drew",
     "name": "Jeff Van Drew",
     "party": "Democratic",
     "photoFilename": "new_jersey2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Frank_A._LoBiondo_113th_Congress.jpg/75px-Frank_A._LoBiondo_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/FrankLoBiondo",
-    "socialInstagram": "https://instagram.com/repfranklobiondo/",
-    "socialTwitter": "http://twitter.com/RepLoBiondo",
-    "socialYoutube": "http://www.youtube.com/user/USRepFrankLoBiondo",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jefferson_Van_Drew_116.jpg",
+    "socialFacebook": "https://www.facebook.com/CongressmanJVD",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/CongressmanJVD",
+    "socialYoutube": "",
     "state": "new_jersey",
     "stateAbbreviation": "NJ-2",
     "stateDisplay": "New Jersey",
     "voteClinton": 46,
     "votePersonal": 52.9,
     "voteTrump": 50.6,
-    "yearElected": "2003",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -11582,43 +11570,42 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2306 Rayburn House Office Building, Washington, DC 20515-3011",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1208 Longworth HOB Washington, DC 20515",
         "phone": "202-225-5034"
       },
       {
-        "address": "30 Schuyler Place, Second Floor, Morristown, NJ 07960",
         "fax": "",
-        "name": "Morristown Office",
-        "phone": "973-984-0711"
+        "name": "Parsippany Office",
+        "address": "8 Wood Hollow Road Suite 203, Parsippany, NJ 07054",
+        "phone": ""
       }
     ],
     "district": "11",
     "id": "NJ-11",
-    "linkContact": "https://frelinghuysen.house.gov/contact-form/",
-    "linkMeeting": "https://frelinghuysen.house.gov/schedule-a-meeting/",
+    "linkContact": "https://sherrill.house.gov/contact/email-me",
+    "linkMeeting": "https://sherrill.house.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mikie_Sherrill",
     "name": "Mikie Sherrill",
     "party": "Democratic",
     "photoFilename": "new_jersey11.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rodney_Frelinghuysen_official_photo%2C_114th_Congress.jpg/75px-Rodney_Frelinghuysen_official_photo%2C_114th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/rfrelinghuysen",
-    "socialInstagram": "https://instagram.com/usreprodney/",
-    "socialTwitter": "https://twitter.com/USRepRodney",
-    "socialYoutube": "http://www.youtube.com/user/RepFrelinghuysen",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mikie_Sherrill%2C_official_portrait%2C_116th_Congress.jpg/440px-Mikie_Sherrill%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepMikieSherrill/",
+    "socialInstagram": "https://www.instagram.com/mikiesherrill/?hl=en",
+    "socialTwitter": "http://twitter.com/RepSherrill",
+    "socialTwitter2": "https://twitter.com/MikieSherrill",
+    "socialYoutube": "",
     "state": "new_jersey",
     "stateAbbreviation": "NJ-11",
     "stateDisplay": "New Jersey",
     "voteClinton": 47.9,
     "votePersonal": 56.8,
     "voteTrump": 48.8,
-    "yearElected": "1995",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -11663,115 +11650,73 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Agriculture",
-      "Budget"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "214 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-4975",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1237 Longworth HOB Washington, DC 20515",
         "phone": "202-225-6316"
       },
       {
-        "address": "400 Gold Avenue SW, Suite 680, Albuquerque, NM 87102",
-        "fax": "505-346-6723",
+        "fax": "",
         "name": "Albuquerque Office",
+        "address": "400 Gold Avenue SW Suite 680, Albuquerque, NM 87102",
         "phone": "505-346-6781"
       }
     ],
     "district": "1",
     "id": "NM-1",
-    "linkContact": "https://lujangrisham.house.gov/contact",
-    "linkMeeting": "https://lujangrisham.house.gov/contact/request-a-meeting",
+    "linkContact": "https://haaland.house.gov/contact/email-me",
+    "linkMeeting": "https://haaland.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Deb_Haaland",
     "name": "Deb Haaland",
     "party": "Democratic",
     "photoFilename": "new_mexico1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Michelle_Lujan_Grisham_official_photo.jpg/75px-Michelle_Lujan_Grisham_official_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/replujangrisham",
-    "socialInstagram": "http://instagram.com/replujangrisham",
-    "socialTwitter": "http://twitter.com/replujangrisham",
-    "socialYoutube": "http://www.youtube.com/replujangrisham",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deb_Haaland%2C_official_portrait%2C_116th_Congress.jpg/440px-Deb_Haaland%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepDebHaaland",
+    "socialInstagram": "http://instagram.com/RepDebHaaland/",
+    "socialTwitter": "http://twitter.com/RepDebHaaland",
+    "socialYoutube": "",
     "state": "new_mexico",
     "stateAbbreviation": "NM-1",
     "stateDisplay": "New Mexico",
     "voteClinton": 51.6,
     "votePersonal": 59.1,
     "voteTrump": 35.1,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services",
-      "Natural Resources"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2432 Rayburn House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "430 Cannon HOB Washington, DC 20515",
         "phone": "202-225-2365"
-      },
-      {
-        "address": "1101 New York Avenue, Room 115, Alamogordo, NM 88310",
-        "fax": "",
-        "name": "Alamogordo Office",
-        "phone": "855-473-2723"
-      },
-      {
-        "address": "200 East Broadway, Suite 200, Hobbs, NM 88240",
-        "fax": "",
-        "name": "Hobbs Office",
-        "phone": "855-473-2723"
-      },
-      {
-        "address": "570 N Telshor Blvd, Las Cruces, NM 88011",
-        "fax": "",
-        "name": "Las Cruces Office",
-        "phone": "855-473-2723"
-      },
-      {
-        "address": "3445 Lambros Loop NE, Los Lunas, NM 87031",
-        "fax": "",
-        "name": "Los Lunas Office",
-        "phone": "855-473-2723"
-      },
-      {
-        "address": "1717 W 2nd Street, Suite 110, Roswell, NM 88201",
-        "fax": "",
-        "name": "Roswell Office",
-        "phone": "855-473-2723"
-      },
-      {
-        "address": "111 School of Mines Road, Socorro, NM 87801",
-        "fax": "",
-        "name": "Socorro Office",
-        "phone": "855-473-2723"
       }
     ],
     "district": "2",
     "id": "NM-2",
-    "linkContact": "http://pearce.house.gov/contact-me/email-me",
-    "linkMeeting": "http://pearce.house.gov/contact-me/schedule-a-meeting",
+    "linkContact": "https://torressmall.house.gov/contact/email-me",
+    "linkMeeting": "https://torressmall.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Xochitl_Torres_Small",
     "name": "Xochitl Torres Small",
     "party": "Democratic",
     "photoFilename": "new_mexico2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Steve_Pearce%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Steve_Pearce%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/RepStevePearce",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Xochitl_Torres_Small%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepTorresSmall",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/repstevepearce",
-    "socialYoutube": "https://www.youtube.com/user/NMStevePearce",
+    "socialTwitter": "http://twitter.com/RepTorresSmall",
+    "socialYoutube": "",
     "state": "new_mexico",
     "stateAbbreviation": "NM-2",
     "stateDisplay": "New Mexico",
     "voteClinton": 39.9,
     "votePersonal": 50.9,
     "voteTrump": 50.1,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -12954,43 +12899,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Rules"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2469 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-7822",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1317 Longworth House Office Building, Washington, DC 20515",
         "phone": "202-225-3615"
       },
       {
-        "address": "3120 Federal Bldg. 100 State St., Rochester, NY 14614",
-        "fax": "585-232-1954",
+        "fax": "",
         "name": "Rochester Office",
+        "address": "3120 Federal Building 100 State Street, Rochester, NY 14614",
         "phone": "585-232-4850"
       }
     ],
     "district": "25",
     "id": "NY-25",
-    "linkContact": "https://louise.house.gov/contact/email-louise",
-    "linkMeeting": "",
+    "linkContact": "https://morelle.house.gov/contact/email-me",
+    "linkMeeting": "https://morelle.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joseph_Morelle",
     "name": "Joe Morelle",
     "party": "Democratic",
     "photoFilename": "new_york25.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Louise_Slaughter%2C_Official_Portrait%2C_113th_congress.jpg/75px-Louise_Slaughter%2C_Official_Portrait%2C_113th_congress.jpg",
-    "socialFacebook": "http://www.facebook.com/RepLouiseSlaughter",
-    "socialInstagram": "http://instagram.com/louisemslaughter/",
-    "socialTwitter": "https://twitter.com/louiseslaughter",
-    "socialYoutube": "http://www.youtube.com/louiseslaughter",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Joe_Morelle_official_photo.jpg/440px-Joe_Morelle_official_photo.jpg",
+    "socialFacebook": "http://www.facebook.com/RepJoeMorelle/",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/repjoemorelle",
+    "socialYoutube": "",
     "state": "new_york",
     "stateAbbreviation": "NY-25",
     "stateDisplay": "New York",
     "voteClinton": 55.5,
     "votePersonal": 58.6,
     "voteTrump": 39.1,
-    "yearElected": "1987",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -13465,55 +13408,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "224 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-3389",
+        "address": "",
+        "fax": "",
         "name": "Washington DC Office",
-        "phone": "202-225-1976"
-      },
-      {
-        "address": "5970 Fairview Road, Suite 430, Charlotte, NC 28210",
-        "fax": "704-365-6384",
-        "name": "Charlotte Office",
-        "phone": "704-362-1060"
-      },
-      {
-        "address": "225 Ray Avenue, Suite 100, Fayetteville, NC 28301",
-        "fax": "704-365-6384",
-        "name": "Fayetteville Office",
-        "phone": "910-303-0669"
-      },
-      {
-        "address": "100 West Jefferson Street, Suite 1A, Monroe, NC 28112",
-        "fax": "704-365-6384",
-        "name": "Monroe Office",
-        "phone": "704-917-9573"
+        "phone": ""
       }
     ],
     "district": "9",
     "id": "NC-9",
-    "linkContact": "https://pittenger.house.gov/contact/email-me",
-    "linkMeeting": "https://pittenger.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)",
-    "name": "Mark Harris",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "",
+    "name": "Mark Harris (unseated)",
     "party": "Republican",
     "photoFilename": "north_carolina9.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Robert_Pittenger%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Robert_Pittenger%2C_Official_Portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/congressmanpittenger",
+    "photoUrl": "",
+    "socialFacebook": "",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/@RepPittenger",
-    "socialYoutube": "http://www.youtube.com/user/CongressmanPittenger",
+    "socialTwitter": "",
+    "socialYoutube": "",
     "state": "north_carolina",
     "stateAbbreviation": "NC-9",
     "stateDisplay": "North Carolina",
     "voteClinton": 42.8,
     "votePersonal": 49.3,
     "voteTrump": 54.4,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -13698,61 +13621,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Commerce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1717 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1004 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2611"
       },
       {
-        "address": "220 East Rosser Avenue, 328 Federal Building, Bismarck, ND 58501",
-        "fax": "701-224-0431",
+        "fax": "",
         "name": "Bismarck Office",
-        "phone": "701-224-0355"
+        "address": "220 E Rosser Ave, Room 228, Bismarck, ND 58501",
+        "phone": "701-354-6700"
       },
       {
-        "address": "3217 Fiechtner Drive, Suite D, Fargo, ND 58103",
-        "fax": "701-356-2217",
+        "fax": "",
         "name": "Fargo Office",
-        "phone": "701-356-2216"
-      },
-      {
-        "address": "4200 James Ray Drive, Office 600, Grand Forks, ND 58202",
-        "fax": "",
-        "name": "Grand Forks Office",
-        "phone": "701-738-4880"
-      },
-      {
-        "address": "315 Main Street, Suite 203, Minot, ND 58701",
-        "fax": "",
-        "name": "Minot Office",
-        "phone": "701-839-0255"
+        "address": "3217 Fiechtner Dr, Suite D, Fargo, ND 58103",
+        "phone": "701-353-6665"
       }
     ],
     "district": "1",
     "id": "ND-1",
-    "linkContact": "http://cramer.house.gov/contact/email-me",
-    "linkMeeting": "http://cramer.house.gov/contact/request-a-meeting",
+    "linkContact": "https://armstrong.house.gov/contact/email-me",
+    "linkMeeting": "https://armstrong.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kelly_Armstrong",
     "name": "Kelly Armstrong",
     "party": "Republican",
     "photoFilename": "north_dakota1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kevin_Cramer%2C_official_portrait%2C_113th_Congress.jpg/75px-Kevin_Cramer%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/CongressmanKevinCramer",
-    "socialInstagram": "https://instagram.com/repkevincramer/",
-    "socialTwitter": "https://twitter.com/RepKevinCramer",
-    "socialYoutube": "https://www.youtube.com/kevincramer",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kelly_Armstrong.jpg/440px-Kelly_Armstrong.jpg",
+    "socialFacebook": "http://www.facebook.com/RepArmstrongND",
+    "socialInstagram": "http://instagram.com/reparmstrongnd/",
+    "socialTwitter": "http://twitter.com/RepArmstrongND",
+    "socialYoutube": "http://www.youtube.com/channel/UClBpZFDXVlzJY-AcG8fXRxw",
     "state": "north_dakota",
     "stateAbbreviation": "ND-1",
     "stateDisplay": "North Dakota",
     "voteClinton": 27.7,
     "votePersonal": 60.3,
     "voteTrump": 64.1,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -14301,28 +14210,33 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "",
         "fax": "",
         "name": "Washington DC Office",
-        "phone": ""
+        "address": "1221 Longworth HOB, Washington, DC 20515",
+        "phone": "202-225-5355"
+      },
+      {
+        "fax": "",
+        "name": "Worthington Office",
+        "address": "250 East Wilson Bridge Rd, Suite 100, Worthington, OH 43085",
+        "phone": "614-523-2555"
       }
     ],
     "district": "12",
     "id": "OH-12",
-    "linkContact": "",
-    "linkMeeting": "",
+    "linkContact": "https://balderson.house.gov/contact/email",
+    "linkMeeting": "https://balderson.house.gov/contact/request-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Troy_Balderson",
     "name": "Troy Balderson",
     "party": "Republican",
-    "photoFilename": "blank.png",
-    "photoUrl": "",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "",
+    "photoFilename": "ohio12.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Troy_Balderson_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepTroyBalderson/",
+    "socialInstagram": "http://instagram.com/housegop/",
+    "socialTwitter": "http://twitter.com/RepBalderson",
     "socialYoutube": "",
     "state": "ohio",
     "stateAbbreviation": "OH-12",
@@ -14484,91 +14398,85 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Budget",
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "328 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-3059",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1023 Longworth HOB Washington, DC 20515",
         "phone": "202-225-3876"
       },
       {
-        "address": "1 Park Center Drive, Suite 302, Wadsworth, Ohio 44281",
-        "fax": "330-334-0061",
-        "name": "Wadsworth Office",
-        "phone": "330-334-0040"
+        "fax": "",
+        "name": "Canton Office",
+        "address": "4150 Belden Village St. Suite 607, Canton, OH 44718",
+        "phone": "330-599-7037"
       },
       {
-        "address": "7335 Ridge Road, Suite 2, Parma, OH 44129",
-        "fax": "440-882-6560",
-        "name": "Parma Office",
-        "phone": "440-882-6779"
+        "fax": "",
+        "name": "Strongsville Office",
+        "address": "13477 Prospect Rd. Suite 212, Strongsville, OH 44149",
+        "phone": "440-783-3696"
       }
     ],
     "district": "16",
     "id": "OH-16",
-    "linkContact": "http://renacci.house.gov/index.cfm/contact-form",
-    "linkMeeting": "http://renacci.house.gov/index.cfm/request-a-meeting",
+    "linkContact": "https://anthonygonzalez.house.gov/contact/email-me",
+    "linkMeeting": "https://anthonygonzalez.house.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Anthony_Gonzalez",
     "name": "Anthony Gonzalez",
     "party": "Republican",
     "photoFilename": "ohio16.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jim_Renacci%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Jim_Renacci%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/repjimrenacci",
-    "socialInstagram": "https://www.instagram.com/repjimrenacci/",
-    "socialTwitter": "https://twitter.com/repjimrenacci",
-    "socialYoutube": "https://www.youtube.com/user/RepJimRenacci",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Anthony_Gonzalez%2C_official_portrait%2C_116th_Congress.jpg/440px-Anthony_Gonzalez%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepAGonzalez",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/RepAGonzalez",
+    "socialYoutube": "",
     "state": "ohio",
     "stateAbbreviation": "OH-16",
     "stateDisplay": "Ohio",
     "voteClinton": 39.5,
     "votePersonal": 56.7,
     "voteTrump": 56.1,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Science, Space, and Technology"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "216 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1019 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2211"
       },
       {
-        "address": "2448 E. 81st St., Suite 5150, Tulsa, OK 74137",
-        "fax": "918-935-2716",
+        "fax": "",
         "name": "Tulsa Office",
+        "address": "2448 East 81st Street, Suite 5150, Tulsa, OK 74137",
         "phone": "918-935-3222"
       }
     ],
     "district": "1",
     "id": "OK-1",
-    "linkContact": "http://bridenstine.house.gov/contact",
-    "linkMeeting": "http://bridenstine.house.gov/contact/request-a-meeting.htm",
+    "linkContact": "https://hern.house.gov/contact",
+    "linkMeeting": "https://hern.house.gov/forms/eventrequest",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Hern",
     "name": "Kevin Hern",
     "party": "Republican",
     "photoFilename": "oklahoma1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jim_Bridenstine%2C_official_portrait%2C_113th_Congress.jpg/75px-Jim_Bridenstine%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/congressmanjimbridenstine",
-    "socialInstagram": "http://instagram.com/repjbridenstine/",
-    "socialTwitter": "http://twitter.com/repjbridenstine",
-    "socialYoutube": "http://www.youtube.com/repjimbridenstine",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rep._Kevin_Hern_official_photo%2C_116th_congress.jpg/440px-Rep._Kevin_Hern_official_photo%2C_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/repkevinhern/",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/repkevinhern",
+    "socialYoutube": "https://www.youtube.com/channel/UC9XRRGCgGOEtEOwUAo1rYZg",
     "state": "oklahoma",
     "stateAbbreviation": "OK-1",
     "stateDisplay": "Oklahoma",
     "voteClinton": 32.7,
     "votePersonal": 59.3,
     "voteTrump": 61.4,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -14985,68 +14893,95 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2004 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-0088",
+        "fax": "202-225-9511",
         "name": "Washington DC Office",
-        "phone": "202-225-4731"
+        "address": "1722 Longworth HOB, Washington, DC 20515",
+        "phone": "202-225-4276"
       },
       {
-        "address": "1350 Edgmont Avenue, Suite 2575, Chester, PA 19013",
-        "fax": "484-816-0029",
-        "name": "Chester Office",
-        "phone": "610-874-7094"
-      },
-      {
-        "address": "1909 S. Broad Street, Philadelphia, PA 19148",
-        "fax": "215-389-4636",
-        "name": "S. Broad Street Office",
-        "phone": "215-389-4627"
-      },
-      {
-        "address": "2637 E. Clearfield Street, Philadelphia, PA 19134",
-        "fax": "267-519-2262",
-        "name": "E. Clearfield Street Office",
-        "phone": "267-519-2252"
-      },
-      {
-        "address": "2630 Memphis St., Philadelphia, PA 19125",
-        "fax": "215-426-7741",
-        "name": "Memphis Office",
-        "phone": "215-426-4616"
+        "fax": "215-579-8109",
+        "name": "Langhorne Office",
+        "address": "1717 Langhorne Newtown Rd. Suite 400, Langhorne, PA 19047",
+        "phone": "215-579-8102"
       }
     ],
     "district": "1",
     "id": "PA-1",
-    "linkContact": "https://brady.house.gov/contact-me/email-me",
-    "linkMeeting": "https://brady.house.gov/request-meeting-zip-authentication",
+    "linkContact": "https://fitzpatrick.house.gov/email-me",
+    "linkMeeting": "https://fitzpatrick.house.gov/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)",
     "name": "Brian Fitzpatrick",
     "party": "Republican",
     "photoFilename": "pennsylvania1.jpeg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bobbrady.jpeg/75px-Bobbrady.jpeg",
-    "socialFacebook": "http://www.facebook.com/pages/Congressman-Robert-Brady/118845109487?ref=ts",
-    "socialInstagram": "http://instagram.com/repbrady",
-    "socialTwitter": "http://twitter.com/RepBrady",
-    "socialYoutube": "http://www.youtube.com/user/BradyPA01",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brian_Fitzpatrick_official_congressional_photo.jpg/440px-Brian_Fitzpatrick_official_congressional_photo.jpg",
+    "socialFacebook": "https://www.facebook.com/RepBrianFitzpatrick/",
+    "socialInstagram": "",
+    "socialTwitter": "http://www.twitter.com/repbrianfitz",
+    "socialYoutube": "https://www.youtube.com/channel/UCYMNcgHss4_Q5JY2vSvMpgw",
     "state": "pennsylvania",
     "stateAbbreviation": "PA-1",
     "stateDisplay": "Pennsylvania",
     "voteClinton": 79.5,
     "votePersonal": 51.3,
     "voteTrump": 18.2,
-    "yearElected": "1998*",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Agriculture",
-      "Small Business"
+    "committees": [],
+    "contact": [
+      {
+        "fax": "202-226-0611",
+        "name": "Washington DC Office",
+        "address": "1133 Longworth House Office Building, Washington DC 20515",
+        "phone": "202-225-6111"
+      },
+      {
+        "fax": "215-856-3734",
+        "name": "District Office",
+        "address": "8572 Bustleton Ave, Philadelphia, PA 19152",
+        "phone": "215-335-3355"
+      },
+      {
+        "fax": "215-426-7741",
+        "name": "District Office",
+        "address": "2630 Memphis Street, Philadelphia, PA 19125",
+        "phone": "215-426-4616"
+      },
+      {
+        "fax": "267-437-3886",
+        "name": "District Office",
+        "address": "5675 N. Front Street, Ste 180, Philadelphia, PA 19120",
+        "phone": "267-335-5643"
+      }
     ],
+    "district": "2",
+    "id": "PA-2",
+    "linkContact": "https://boyle.house.gov/contact/email",
+    "linkMeeting": "",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Brendan_Boyle",
+    "name": "Brendan Boyle",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania2.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Brendan_Boyle_House_Portrait.jpg/440px-Brendan_Boyle_House_Portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/CongressmanBoyle",
+    "socialInstagram": "http://instagram.com/congressmanboyle",
+    "socialTwitter": "http://twitter.com/CongBoyle",
+    "socialYoutube": "http://www.youtube.com/channel/UCMP_Anj7lz4eZuSh8GwFqQQ",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-2",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 90.4,
+    "votePersonal": 79,
+    "voteTrump": 7.6,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
     "contact": [
       {
         "address": "1105 Longworth, Washington, DC 20515",
@@ -15056,40 +14991,530 @@
       },
       {
         "address": "7174 Ogontz Avenue, Philadelphia, PA 19138",
-        "fax": "215-276-2939",
+        "fax": "215-276-2939 ",
         "name": "Philadelphia Office",
         "phone": "215-276-0340"
       }
     ],
-    "district": "2",
-    "id": "PA-2",
+    "district": "3",
+    "id": "PA-3",
     "linkContact": "https://evans.house.gov/contact/email",
     "linkMeeting": "https://evans.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Brendan_Boyle",
-    "name": "Brendan Boyle",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Dwight_Evans_(politician)",
+    "name": "Dwight Evans",
     "party": "Democratic",
-    "photoFilename": "pennsylvania2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dwight_Evans_115th_Congress_photo.jpg/75px-Dwight_Evans_115th_Congress_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanDwightEvans/",
-    "socialInstagram": "",
+    "photoFilename": "pennsylvania3.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dwight_Evans_official_portrait.jpg/440px-Dwight_Evans_official_portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/RepDwightEvans/",
+    "socialInstagram": "http://instagram.com/repdwightevans/",
     "socialTwitter": "http://twitter.com/RepDwightEvans",
     "socialYoutube": "",
     "state": "pennsylvania",
-    "stateAbbreviation": "PA-2",
+    "stateAbbreviation": "PA-3",
     "stateDisplay": "Pennsylvania",
-    "voteClinton": 90.4,
-    "votePersonal": 79,
-    "voteTrump": 7.6,
-    "yearElected": "2016*",
+    "voteClinton": 35,
+    "votePersonal": 93.4,
+    "voteTrump": 61.1,
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1707 Longworth House Office Building, Washington, DC 20515",
+        "fax": "",
+        "name": "Washington DC Office",
+        "address": "129 Cannon HOB Washington, DC 20515",
+        "phone": "202-225-4731"
+      },
+      {
+        "fax": "215-884-3640",
+        "name": "Glenside Office",
+        "address": "115 E Glenside Ave Suite 1, Glenside, PA 19038",
+        "phone": "215-884-4300"
+      },
+      {
+        "fax": "610-275-1759",
+        "name": "Norristown Office",
+        "address": "101 E. Main Street Suite A, Norristown, PA 19401",
+        "phone": "610-382-1250"
+      }
+    ],
+    "district": "4",
+    "id": "PA-4",
+    "linkContact": "https://dean.house.gov/contact/email-me",
+    "linkMeeting": "https://dean.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Madeleine_Dean",
+    "name": "Madeleine Dean",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania4.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Madeleine_Dean%2C_official_portrait%2C_116th_Congress.jpg/440px-Madeleine_Dean%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepMadeleineDean",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/RepDean",
+    "socialYoutube": "",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-4",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 37.1,
+    "votePersonal": 63.5,
+    "voteTrump": 58.6,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "",
+        "name": "Washington DC Office",
+        "address": "1535 Longworth House Office Building Washington, DC 20515",
+        "phone": "202-225-2011"
+      },
+      {
+        "fax": "",
+        "name": "East Lansdowne Office",
+        "address": "927 East Baltimore Avenue East Lansdowne, PA 19050",
+        "phone": "610-690-7323"
+      }
+    ],
+    "district": "5",
+    "id": "PA-5",
+    "linkContact": "https://scanlon.house.gov/contact/email",
+    "linkMeeting": "https://scanlonforms.house.gov/forms/eventrequest/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon",
+    "name": "Mary Gay Scanlon",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania5.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mary_Gay_Scanlon%2C_official_portrait%2C_116th_Congress.jpg/440px-Mary_Gay_Scanlon%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepMGS/",
+    "socialInstagram": "https://www.instagram.com/RepMGS/",
+    "socialTwitter": "https://twitter.com/RepMGS",
+    "socialYoutube": "",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-5",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 33.5,
+    "votePersonal": 65.2,
+    "voteTrump": 62.3,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "",
+        "name": "Washington DC Office",
+        "address": "1218 Longworth HOB Washington, DC 20515",
+        "phone": "202-225-4315"
+      },
+      {
+        "fax": "",
+        "name": "Reading District Office",
+        "address": "815 Washington St, 2-48 Reading, PA 19601",
+        "phone": "610-295-0815"
+      }
+    ],
+    "district": "6",
+    "id": "PA-6",
+    "linkContact": "https://houlahan.house.gov/contact",
+    "linkMeeting": "https://houlahan.house.gov/forms/meetingrequest/",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Chrissy_Houlahan",
+    "name": "Chrissy Houlahan",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania6.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Chrissy_Houlahan%2C_official_portrait%2C_116th_Congress.jpg/440px-Chrissy_Houlahan%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/ChrissyHoulahan/",
+    "socialInstagram": "https://www.instagram.com/chrissyhoulahan/",
+    "socialTwitter": "https://twitter.com/rephoulahan",
+    "socialYoutube": "",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-6",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 48.2,
+    "votePersonal": 58.9,
+    "voteTrump": 47.6,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "address": "1607 Longworth, Washington, DC 20515",
+        "fax": "",
+        "name": "Washington DC Office",
+        "phone": "202-225-6411"
+      },
+      {
+        "address": "840 Hamilton St, #303, Allentown, PA 18101",
+        "fax": "",
+        "name": "Allentown Office",
+        "phone": "484-781-6000"
+      },
+      {
+        "address": "400 Northampton St, #503, Easton, PA 18042",
+        "fax": "",
+        "name": "Easton Office",
+        "phone": "(610) 333-1170"
+      }
+    ],
+    "district": "7",
+    "id": "PA-7",
+    "linkContact": "https://wild.house.gov/contact/email-me",
+    "linkMeeting": "https://wild.house.gov/contact/request-a-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Susan_Wild",
+    "name": "Susan Wild",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania7.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Susan_Wild%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/repsusanwild",
+    "socialInstagram": "http://instagram.com/repsusanwild/",
+    "socialTwitter": "http://twitter.com/RepSusanWild",
+    "socialYoutube": "",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-7",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 49.3,
+    "votePersonal": 53.5,
+    "voteTrump": 47,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "202-226-0996",
+        "name": "Washington DC Office",
+        "address": "1034 Longworth, Washington, DC 20515",
+        "phone": "202-225-5546"
+      },
+      {
+        "fax": "570-341-1055",
+        "name": "Scranton Office",
+        "address": "226 Wyoming Avenue, Scranton, PA 18503",
+        "phone": "570-341-1050"
+      },
+      {
+        "fax": "",
+        "name": "Wilkes-Barre Office",
+        "address": "20 North Pennsylvania Avenue, Suite 201, Wilkes-Barre PA 18711",
+        "phone": "570-371-0317"
+      }
+    ],
+    "district": "8",
+    "id": "PA-8",
+    "linkContact": "https://cartwright.house.gov/contact/email-me",
+    "linkMeeting": "https://cartwright.house.gov/contact/request-a-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Matt_Cartwright",
+    "name": "Matt Cartwright",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania8.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Matt_Cartwright%2C_official_portrait%2C_113th_Congress.jpg/440px-Matt_Cartwright%2C_official_portrait%2C_113th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/CongressmanMattCartwright",
+    "socialInstagram": "http://www.instagram.com/repmattcartwright",
+    "socialTwitter": "http://twitter.com/RepCartwright",
+    "socialYoutube": "http://www.youtube.com/channel/UCnAOvexSGLBnYidaFzguhTQ",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-8",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 48,
+    "votePersonal": 54.6,
+    "voteTrump": 48.2,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "",
+        "name": "Washington DC Office",
+        "address": "326 Cannon HOB Washington, DC 20515",
+        "phone": "202-225-6511"
+      },
+      {
+        "fax": "",
+        "name": "Pottsville Office",
+        "address": "121 Progress Avenue, Suite 110, Pottsville, PA 17901",
+        "phone": "570-871-6370"
+      },
+      {
+        "fax": "",
+        "name": "Palmyra Office",
+        "address": "1044 East Main Street Palmyra, PA 17078",
+        "phone": ""
+      }
+    ],
+    "district": "9",
+    "id": "PA-9",
+    "linkContact": "https://meuser.house.gov/contact/email-me",
+    "linkMeeting": "https://meuser.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Meuser",
+    "name": "Dan Meuser",
+    "party": "Republican",
+    "photoFilename": "pennsylvania9.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rep._Dan_Meuser_official_photo%2C_116th_congress.jpg/440px-Rep._Dan_Meuser_official_photo%2C_116th_congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepMeuser",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/RepMeuser",
+    "socialYoutube": "http://www.youtube.com/channel/UCFBiWT7JNlSyUNuxYqjdUtA/featured?view_as=subscriber",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-9",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 27.2,
+    "votePersonal": 59.7,
+    "voteTrump": 69.7,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "address": "1207 Longworth, Washington, DC 20515",
+        "fax": "202-226-1000",
+        "name": "Washington DC Office",
+        "phone": "202-225-5836"
+      },
+      {
+        "address": "730 North Front Street, Wormleysburg, PA 17043",
+        "fax": "717-635-9861",
+        "name": "Cumberland County Office",
+        "phone": "717-635-9504"
+      },
+      {
+        "address": "800 Corporate Circle, Suite 202, Harrisburg, PA 17110",
+        "fax": "",
+        "name": "Dauphin County Office",
+        "phone": "717-603-4980"
+      }
+    ],
+    "district": "10",
+    "id": "PA-10",
+    "linkContact": "https://perry.house.gov/contact",
+    "linkMeeting": "https://perryforms.house.gov/constituent-services/scheduling-request.htm",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)",
+    "name": "Scott Perry",
+    "party": "Republican",
+    "photoFilename": "pennsylvania10.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Scott_Perry_official_photo.jpg/440px-Scott_Perry_official_photo.jpg",
+    "socialFacebook": "https://www.facebook.com/repscottperry",
+    "socialInstagram": "https://instagram.com/repscottperry",
+    "socialTwitter": "https://twitter.com/RepScottPerry",
+    "socialYoutube": "https://www.youtube.com/user/RepScottPerry",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-10",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 30.2,
+    "votePersonal": 51.3,
+    "voteTrump": 66.1,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "202-225-2013",
+        "name": "Washington DC Office",
+        "address": "127 Cannon House Office Building Washington, DC 20515",
+        "phone": "202-225-2411"
+      },
+      {
+        "fax": "717-393-0924",
+        "name": "Lancaster Office",
+        "address": "51 South Duke St, Suite 201, Lancaster, PA 17602",
+        "phone": "717-393-0667"
+      }
+    ],
+    "district": "11",
+    "id": "PA-11",
+    "linkContact": "https://smucker.house.gov/contact/email",
+    "linkMeeting": "https://smucker.house.gov/contact/request-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Lloyd_Smucker",
+    "name": "Lloyd Smucker",
+    "party": "Republican",
+    "photoFilename": "pennsylvania11.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lloyd_Smucker_official_congressional_photo.jpg/440px-Lloyd_Smucker_official_congressional_photo.jpg",
+    "socialFacebook": "http://www.facebook.com/RepSmucker",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/RepSmucker",
+    "socialYoutube": "http://www.youtube.com/channel/UCs5iMvWy-oTHyf5HuwB7FCg",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-11",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 36.2,
+    "votePersonal": 59,
+    "voteTrump": 60,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [],
+    "district": "12",
+    "id": "PA-12",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "",
+    "name": "Vacant",
+    "note": "Tom Marino resigned, new election May 21, 2019",
+    "party": "Republican",
+    "photoFilename": "blank.png",
+    "photoUrl": "",
+    "socialFacebook": "",
+    "socialInstagram": "",
+    "socialTwitter": "",
+    "socialYoutube": "",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-12",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 37.9,
+    "votePersonal": 66,
+    "voteTrump": 58.7,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "",
+        "name": "Washington DC Office",
+        "address": "1337 Longworth HOB Washington, DC 20515",
+        "phone": "202-225-2431"
+      },
+      {
+        "fax": "",
+        "name": "Chambersburg Office",
+        "address": "100 Lincoln Way East Suite B, Chambersburg, PA 17201",
+        "phone": "717-753-6344"
+      },
+      {
+        "fax": "",
+        "name": "Altoona Office",
+        "address": "5414 6th Avenue Altoona, PA 16602",
+        "phone": "814-656-6081"
+      }
+    ],
+    "district": "13",
+    "id": "PA-13",
+    "linkContact": "https://johnjoyce.house.gov/contact/email-me",
+    "linkMeeting": "https://johnjoyce.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)",
+    "name": "John Joyce",
+    "party": "Republican",
+    "photoFilename": "pennsylvania13.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/John_Joyce%2C_official_portrait%2C_116th_Congress.jpg/440px-John_Joyce%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepJohnJoyce/",
+    "socialInstagram": "http://instagram.com/housegop/",
+    "socialTwitter": "http://twitter.com/RepJohnJoyce",
+    "socialYoutube": "http://www.youtube.com/channel/UC6F6PTH33VO_wfqfvNjyuiw",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-13",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 65.3,
+    "votePersonal": 70.5,
+    "voteTrump": 31.7,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "",
+        "name": "Washington DC Office",
+        "address": "531 Cannon, Washington, DC 20515",
+        "phone": "202-225-2065"
+      },
+      {
+        "fax": "",
+        "name": "Washington PA Office",
+        "address": "14 S. Main Street, Washington, PA 15301",
+        "phone": "724-206-4800"
+      },
+      {
+        "fax": "",
+        "name": "Greensburg Office",
+        "address": "700 Pellis Rd, Greensburg, PA 15601",
+        "phone": "724-219-4200"
+      }
+    ],
+    "district": "14",
+    "id": "PA-14",
+    "linkContact": "https://reschenthaler.house.gov/contact/email-me",
+    "linkMeeting": "https://reschenthaler.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Guy_Reschenthaler",
+    "name": "Guy Reschenthaler",
+    "party": "Republican",
+    "photoFilename": "pennsylvania14.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Guy_Reschenthaler_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/GReschenthaler",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/GReschenthaler",
+    "socialYoutube": "",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-14",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 66,
+    "votePersonal": 57.9,
+    "voteTrump": 30.5,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "fax": "202-225-5796",
+        "name": "Washington DC Office",
+        "address": "400 Cannon House Office Building, Washington, DC 20515",
+        "phone": "202-225-5121"
+      },
+      {
+        "fax": "814-353-0218",
+        "name": "Bellefonte Office",
+        "address": "3555 Benner Pike, Suite 101, Bellefonte, PA 16823",
+        "phone": "814-353-0215"
+      },
+      {
+        "fax": "814-670-0868",
+        "name": "Oil City Office",
+        "address": "217 Elm St, Suite B, Oil City, PA 16301",
+        "phone": "814-670-0432"
+      }
+    ],
+    "district": "15",
+    "id": "PA-15",
+    "linkContact": "https://thompson.house.gov/contact/email",
+    "linkMeeting": "https://thompson.house.gov/contact/invite-me-to-speak",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)",
+    "name": "Glenn Thompson",
+    "party": "Republican",
+    "photoFilename": "pennsylvania15.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Glennthompson.jpg/440px-Glennthompson.jpg",
+    "socialFacebook": "http://www.facebook.com/CongressmanGT/",
+    "socialInstagram": "http://instagram.com/congressman_gt/",
+    "socialTwitter": "http://twitter.com/CongressmanGT",
+    "socialYoutube": "http://www.youtube.com/user/CongressmanGT",
+    "state": "pennsylvania",
+    "stateAbbreviation": "PA-15",
+    "stateDisplay": "Pennsylvania",
+    "voteClinton": 44.2,
+    "votePersonal": 67.8,
+    "voteTrump": 51.8,
+    "yearElected": "2018",
+    "yearReelection": "2020"
+  },
+  {
+    "committees": [],
+    "contact": [
+      {
+        "address": "1707 Longworth, Washington, DC 20515",
         "fax": "202-225-3103",
         "name": "Washington DC Office",
         "phone": "202-225-5406"
@@ -15111,572 +15536,73 @@
         "fax": "724-342-7242",
         "name": "Sharon Office",
         "phone": "724-342-7170"
-      },
-      {
-        "address": "Lawrence County Courthouse 430 Court Street, New Castle, PA 16101",
-        "fax": "",
-        "name": "Lawrence County Office",
-        "phone": ""
       }
     ],
-    "district": "3",
-    "id": "PA-3",
-    "linkContact": "http://kelly.house.gov/contact-me/email-me",
-    "linkMeeting": "http://kelly.house.gov/contact-me/schedule-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dwight_Evans_(politician)",
-    "name": "Dwight Evans",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mike_Kelly%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Mike_Kelly%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/#!/pages/Representative-Mike-Kelly/191056827594903",
+    "district": "16",
+    "id": "PA-16",
+    "linkContact": "https://kelly.house.gov/contact-me/email-me",
+    "linkMeeting": "https://kelly.house.gov/contact-me/schedule-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)",
+    "name": "Mike Kelly",
+    "party": "Republican",
+    "photoFilename": "pennsylvania16.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mike_Kelly%2C_Official_Portrait%2C_112th_Congress.jpg/440px-Mike_Kelly%2C_Official_Portrait%2C_112th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/#!/pages/Representative-Mike-Kelly/191056827594903",
     "socialInstagram": "",
     "socialTwitter": "https://twitter.com/MikeKellyPA",
-    "socialYoutube": "http://www.youtube.com/repmikekelly",
+    "socialYoutube": "https://www.youtube.com/repmikekelly",
     "state": "pennsylvania",
-    "stateAbbreviation": "PA-3",
+    "stateAbbreviation": "PA-16",
     "stateDisplay": "Pennsylvania",
-    "voteClinton": 35,
-    "votePersonal": 93.4,
-    "voteTrump": 61.1,
-    "yearElected": "2011",
+    "voteClinton": 44.2,
+    "votePersonal": 51.6,
+    "voteTrump": 51,
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Homeland Security",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1207 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-226-1000",
+        "fax": "202-225-1844",
         "name": "Washington DC Office",
-        "phone": "202-225-5836"
+        "address": "1224 Longworth House Office Building, Washington, DC 20515",
+        "phone": "202-225-2301"
       },
       {
-        "address": "22 Chambersburg Street, Gettysburg, PA 17325",
-        "fax": "717-334-6314",
-        "name": "Adams County Office",
-        "phone": "717-338-1919"
-      },
-      {
-        "address": "730 North Front Street, Wormleysburg, PA 17043",
-        "fax": "717-635-9861",
-        "name": "Cumberland and Dauphin County Office",
-        "phone": "717-635-9504"
-      },
-      {
-        "address": "2209 East Market Street, York, PA 17402",
-        "fax": "717-757-5001",
-        "name": "York County Office",
-        "phone": "717-600-1919"
-      }
-    ],
-    "district": "4",
-    "id": "PA-4",
-    "linkContact": "https://perry.house.gov/contact/",
-    "linkMeeting": "https://perryforms.house.gov/constituent-services/scheduling-request.htm",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Madeleine_Dean",
-    "name": "Madeleine Dean",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania4.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Scott_Perry_official_photo.jpg/75px-Scott_Perry_official_photo.jpg",
-    "socialFacebook": "https://www.facebook.com/repscottperry",
-    "socialInstagram": "http://instagram.com/repscottperry",
-    "socialTwitter": "https://twitter.com/RepScottPerry",
-    "socialYoutube": "http://www.youtube.com/user/RepScottPerry",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-4",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 37.1,
-    "votePersonal": 63.5,
-    "voteTrump": 58.6,
-    "yearElected": "2013",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Agriculture",
-      "Education and the Workforce",
-      "Natural Resources"
-    ],
-    "contact": [
-      {
-        "address": "124 Cannon HOB, Washington, DC 20515",
-        "fax": "202-225-5796",
-        "name": "Washington DC Office",
-        "phone": "202-225-5121"
-      },
-      {
-        "address": "3555 Benner Pike, Suite 101, Bellefonte, PA 16823",
-        "fax": "814-353-0218",
-        "name": "Bellefonte Office",
-        "phone": "814-353-0215"
-      },
-      {
-        "address": "127 West Spring St., Suite C, Titusville, PA 16354",
-        "fax": "814-827-7307",
-        "name": "Titusville Office",
-        "phone": "814-827-3985"
-      }
-    ],
-    "district": "5",
-    "id": "PA-5",
-    "linkContact": "https://thompson.house.gov/contact-me/email-me",
-    "linkMeeting": "https://thompson.house.gov/contact-me/request-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon",
-    "name": "Mary Gay Scanlon",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania5.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/GT_Thompson_%28111th%29.jpg/75px-GT_Thompson_%28111th%29.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanGT",
-    "socialInstagram": "https://instagram.com/congressman_gt/",
-    "socialTwitter": "http://twitter.com/CongressmanGT/",
-    "socialYoutube": "http://www.youtube.com/CongressmanGT",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-5",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 33.5,
-    "votePersonal": 65.2,
-    "voteTrump": 62.3,
-    "yearElected": "2009",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Energy and Commerce"
-    ],
-    "contact": [
-      {
-        "address": "326 Cannon House Office Building, Washington, DC 20515",
-        "fax": "",
-        "name": "Washington DC Office",
-        "phone": "202-225-4315"
-      },
-      {
-        "address": "21 West Market Street, Suite 105, West Chester, PA 19382",
-        "fax": "610-696-2985",
-        "name": "West Chester Office",
-        "phone": "610-696-2982"
-      },
-      {
-        "address": "840 North Park Road, Wyomissing, PA 19610",
-        "fax": "610-376-7633",
-        "name": "Wyomissing Office",
-        "phone": "610-376-7630"
-      }
-    ],
-    "district": "6",
-    "id": "PA-6",
-    "linkContact": "https://costello.house.gov/contact/email",
-    "linkMeeting": "https://costello.house.gov/contact/request-appearance",
-    "linkTeletownhall": "https://costello.house.gov/contact/telephone-town-hall-district-verification",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Chrissy_Houlahan",
-    "name": "Chrissy Houlahan",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ryan_Costello_official_congressional_photo.jpg/75px-Ryan_Costello_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanRyanCostello",
-    "socialInstagram": "http://instagram.com/RepRyanCostello",
-    "socialTwitter": "http://twitter.com/RepRyanCostello",
-    "socialYoutube": "http://www.youtube.com/channel/UCJzU_8Bwz1lUyP1qz84L5jw",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-6",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 48.2,
-    "votePersonal": 58.9,
-    "voteTrump": 47.6,
-    "yearElected": "2015",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Ethics",
-      "Ways and Means"
-    ],
-    "contact": [
-      {
-        "address": "2305 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-226-0280",
-        "name": "Washington DC Office",
-        "phone": "202-225-2011"
-      },
-      {
-        "address": "2004 Weavertown Road, Douglassville, PA 19518",
-        "fax": "",
-        "name": "Douglassville Office",
-        "phone": ""
-      },
-      {
-        "address": "2 Township Drive, Paradise, PA 17562",
-        "fax": "",
-        "name": "Paradise Office",
-        "phone": ""
-      },
-      {
-        "address": "960 Wentz Road, Blue Bell, PA 19422",
-        "fax": "",
-        "name": "Blue Bell Office",
-        "phone": ""
-      },
-      {
-        "address": "500 Suplee Road, Honey Brook, PA 19344",
-        "fax": "",
-        "name": "Honey Brook Office",
-        "phone": ""
-      }
-    ],
-    "district": "7",
-    "id": "PA-7",
-    "linkContact": "https://meehan.house.gov/contact/email-me",
-    "linkMeeting": "https://meehan.house.gov/contact/request-a-meeting",
-    "linkTeletownhall": "https://meehan.house.gov/contact/telephone-town-hall-sign-up",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Susan_Wild",
-    "name": "Susan Wild",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania7.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pat_Meehan%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Pat_Meehan%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/CongressmanPatrickMeehan",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/repmeehan",
-    "socialYoutube": "https://www.youtube.com/user/RepMeehan",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-7",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 49.3,
-    "votePersonal": 53.5,
-    "voteTrump": 47,
-    "yearElected": "2011",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Foreign Affairs",
-      "Homeland Security",
-      "Small Business"
-    ],
-    "contact": [
-      {
-        "address": "514 Cannon HOB, Washington, DC 20515",
-        "fax": "202-225-9511",
-        "name": "Washington DC Office",
-        "phone": "202-225-4276"
-      },
-      {
-        "address": "1717 Langhorne Newtown Rd. Suite 400, Langhorne, PA 19047",
-        "fax": "215-579-8109",
-        "name": "Langhorne Office",
-        "phone": "215-579-8102"
-      }
-    ],
-    "district": "8",
-    "id": "PA-8",
-    "linkContact": "https://brianfitzpatrick.house.gov/contact/email",
-    "linkMeeting": "https://brianfitzpatrick.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Matt_Cartwright",
-    "name": "Matt Cartwright",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania8.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brian_Fitzpatrick_official_congressional_photo.jpg/75px-Brian_Fitzpatrick_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/repbrianfitzpatrick",
-    "socialInstagram": "http://instagram.com/repbrianfitz",
-    "socialTwitter": "http://twitter.com/repbrianfitz",
-    "socialYoutube": "http://www.youtube.com/channel/UCYMNcgHss4_Q5JY2vSvMpgw",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-8",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 48,
-    "votePersonal": 54.6,
-    "voteTrump": 48.2,
-    "yearElected": "2017",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Armed Services",
-      "Transportation and Infrastructure"
-    ],
-    "contact": [
-      {
-        "address": "2079 Rayburn House Office Building, Washington, D.C. 20515",
-        "fax": "202-225-2486",
-        "name": "Washington DC Office",
-        "phone": "202-225-2431"
-      },
-      {
-        "address": "310 Penn Street, Suite 200, Hollidaysburg, PA 16648",
-        "fax": "814-696-6726",
-        "name": "Hollidaysburg Office",
-        "phone": "814-696-6318"
-      },
-      {
-        "address": "100 Lincoln Way East, Suite B, Chambersburg, PA 17201",
-        "fax": "717-264-0269",
-        "name": "Chambersburg Office",
-        "phone": "717-264-8308"
-      },
-      {
-        "address": "827 Water Street #3, Indiana, PA 15701",
-        "fax": "724-463-0518",
-        "name": "Indiana Office",
-        "phone": "724-463-0516"
-      }
-    ],
-    "district": "9",
-    "id": "PA-9",
-    "linkContact": "http://shuster.house.gov/contact-bill/",
-    "linkMeeting": "https://shuster.house.gov/schedule-a-meeting/",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Meuser",
-    "name": "Dan Meuser",
-    "party": "Republican",
-    "photoFilename": "pennsylvania9.JPG",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bill_Shuster%2C_official_photo_portrait%2C_2005.JPG/75px-Bill_Shuster%2C_official_photo_portrait%2C_2005.JPG",
-    "socialFacebook": "http://www.facebook.com/Rep.Shuster",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/repbillshuster",
-    "socialYoutube": "http://www.youtube.com/repshuster",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-9",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 27.2,
-    "votePersonal": 59.7,
-    "voteTrump": 69.7,
-    "yearElected": "2001*",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Foreign Affairs",
-      "Homeland Security",
-      "Judiciary"
-    ],
-    "contact": [
-      {
-        "address": "2242 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-225-9594",
-        "name": "Washington DC Office",
-        "phone": "202-225-3731"
-      },
-      {
-        "address": "543 Easton Turnpike, Suite 101, Lake Ariel, PA 18436",
-        "fax": "570-689-6028",
-        "name": "Hamlin Office",
-        "phone": "570-689-6024"
-      },
-      {
-        "address": "713 Bridge Street, Room 29, Selinsgrove, PA 17870",
-        "fax": "570-374-9589",
-        "name": "Selinsgrove Office",
-        "phone": "570-374-9469"
-      },
-      {
-        "address": "1020 Commerce Park Drive, Suite 1A, Williamsport, PA 17701",
-        "fax": "570-322-3965",
-        "name": "Williamsport Office",
-        "phone": "570-322-3961"
-      }
-    ],
-    "district": "10",
-    "id": "PA-10",
-    "linkContact": "https://marino.house.gov/contact/email",
-    "linkMeeting": "https://marino.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)",
-    "name": "Scott Perry",
-    "party": "Republican",
-    "photoFilename": "pennsylvania10.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tom_Marino_Official_Portrait%2C_112th_Congress.jpg/75px-Tom_Marino_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanMarino",
-    "socialInstagram": "http://instagram.com/reptommarino/",
-    "socialTwitter": "http://twitter.com/RepTomMarino",
-    "socialYoutube": "http://www.youtube.com/user/RepTomMarino",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-10",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 30.2,
-    "votePersonal": 51.3,
-    "voteTrump": 66.1,
-    "yearElected": "2011",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Education and the Workforce",
-      "Homeland Security",
-      "Transportation and Infrastructure"
-    ],
-    "contact": [
-      {
-        "address": "2049 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-226-6250",
-        "name": "Washington DC Office",
-        "phone": "202-225-6511"
-      },
-      {
-        "address": "126 N. Hanover St., Carlisle, PA 17013",
-        "fax": "717-218-0190",
-        "name": "Carlisle Office",
-        "phone": "717-249-0190"
-      },
-      {
-        "address": "4813 Jonestown Road, Suite 101, Harrisburg, PA 17109",
-        "fax": "717-695-6794",
-        "name": "Harrisburg Office",
-        "phone": "717-525-7002"
-      },
-      {
-        "address": "1 South Church Street, Suite 100, Hazleton, PA 18201",
-        "fax": "570-751-0054",
-        "name": "Hazleton Office",
-        "phone": "570-751-0050"
-      },
-      {
-        "address": "106 Arch Street, Sunbury, PA 17801",
-        "fax": "570-988-7805",
-        "name": "Sunbury Office",
-        "phone": "570-988-7801"
-      }
-    ],
-    "district": "11",
-    "id": "PA-11",
-    "linkContact": "http://barletta.house.gov/contact/email-me",
-    "linkMeeting": "http://barletta.house.gov/contact/request-a-meeting",
-    "linkTeletownhall": "http://barletta.house.gov/contact-lou/tele-town-hall-sign-up",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Lloyd_Smucker",
-    "name": "Lloyd Smucker",
-    "party": "Republican",
-    "photoFilename": "pennsylvania11.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lou_Barletta.jpg/75px-Lou_Barletta.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanLouBarletta",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepLouBarletta",
-    "socialYoutube": "http://www.youtube.com/reploubarletta",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-11",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 36.2,
-    "votePersonal": 59,
-    "voteTrump": 60,
-    "yearElected": "2011",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Financial Services"
-    ],
-    "contact": [
-      {
-        "address": "1205 Longworth HOB, Washington, DC 20515",
-        "fax": "202-225-5709",
-        "name": "Washington DC Office",
-        "phone": "202-225-2065"
-      },
-      {
-        "address": "650 Corporation Street, Suite 304, Beaver, PA 15009",
-        "fax": "412-593-2022",
-        "name": "Beaver Office",
-        "phone": "724-359-1626"
-      },
-      {
-        "address": "110 Franklin Street, Suite 150, Cambria County Complex, Johnstown, PA 15901",
-        "fax": "412-593-2022",
-        "name": "Johnstown Office",
-        "phone": "814-619-3659"
-      },
-      {
-        "address": "6000 Babcock Boulevard, Suite 104, Pittsburgh, PA 15237",
-        "fax": "412-837-1361",
+        "fax": "412-429-5092",
         "name": "Pittsburgh Office",
-        "phone": "412-837-1361"
+        "address": "504 Washington Rd Pittsburgh, PA 15228",
+        "phone": "412-344-5583"
       }
     ],
-    "district": "12",
-    "id": "PA-12",
-    "linkContact": "https://rothfus.house.gov/email-keith",
-    "linkMeeting": "https://rothfus.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Marino",
-    "name": "Tom Marino",
-    "party": "Republican",
-    "photoFilename": "pennsylvania12.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Keith_Rothfus%2C_Official_Portrait%2C_113th_Congress.jpg/75px-Keith_Rothfus%2C_Official_Portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/keithrothfus",
+    "district": "17",
+    "id": "PA-17",
+    "linkContact": "https://lamb.house.gov/contact/email",
+    "linkMeeting": "",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Conor_Lamb",
+    "name": "Conor Lamb",
+    "party": "Democratic",
+    "photoFilename": "pennsylvania17.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Conor_Lamb.jpg/440px-Conor_Lamb.jpg",
+    "socialFacebook": "http://www.facebook.com/RepConorLamb",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/KeithRothfus",
-    "socialYoutube": "https://www.youtube.com/reprothfus",
+    "socialTwitter": "http://twitter.com/RepConorLamb",
+    "socialYoutube": "http://www.youtube.com/channel/UC7hX59n_ixS1Bz3f8Je02yA?view_as=subscriber",
     "state": "pennsylvania",
-    "stateAbbreviation": "PA-12",
+    "stateAbbreviation": "PA-17",
     "stateDisplay": "Pennsylvania",
-    "voteClinton": 37.9,
-    "votePersonal": 66,
-    "voteTrump": 58.7,
-    "yearElected": "2013",
+    "voteClinton": 43.3,
+    "votePersonal": 56.3,
+    "voteTrump": 53.4,
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Foreign Affairs",
-      "Oversight and Government Reform"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1133 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-226-0611",
-        "name": "Washington DC Office",
-        "phone": "202-225-6111"
-      },
-      {
-        "address": "115 E. Glenside Avenue, Ste 1, Glenside, PA 19038",
-        "fax": "215-277-7225",
-        "name": "Glenside Office",
-        "phone": "215-517-6572"
-      },
-      {
-        "address": "101 E. Main St, Ste A, Norristown, PA 19401",
-        "fax": "610-270-8084",
-        "name": "Norristown Office",
-        "phone": "610-270-8081"
-      },
-      {
-        "address": "The Towers, 2375 Woodward Street, Ste 105, Philadelphia, PA 19115",
-        "fax": "215-856-3734",
-        "name": "Northeast Philadelphia Office",
-        "phone": "215-335-3355"
-      },
-      {
-        "address": "5675 N. Front Street, Ste 180, Philadelphia, PA 19120",
-        "fax": "267-437-3886",
-        "name": "Olney Philadelphia Office",
-        "phone": "267-335-5643"
-      }
-    ],
-    "district": "13",
-    "id": "PA-13",
-    "linkContact": "https://boyle.house.gov/contact/email",
-    "linkMeeting": "https://boyle.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)",
-    "name": "John Joyce",
-    "party": "Republican",
-    "photoFilename": "pennsylvania13.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Brendan_Boyle_House_Portrait.jpg/75px-Brendan_Boyle_House_Portrait.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanBoyle",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/CongBoyle",
-    "socialYoutube": "http://www.youtube.com/channel/UCMP_Anj7lz4eZuSh8GwFqQQ",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-13",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 65.3,
-    "votePersonal": 70.5,
-    "voteTrump": 31.7,
-    "yearElected": "2015",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Energy and Commerce"
-    ],
-    "contact": [
-      {
-        "address": "239 Cannon HOB, Washington, DC 20515",
+        "address": "306 Cannon HOB, Washington, DC 20515",
         "fax": "202-225-3084",
         "name": "Washington DC Office",
         "phone": "202-225-2135"
@@ -15688,230 +15614,31 @@
         "phone": "412-390-1499"
       },
       {
+        "address": "4705 Library Road, Bethel Park, PA 15102",
+        "fax": "412-283-4465",
+        "name": "Bethel Park Office",
+        "phone": "412-283-4451"
+      },
+      {
         "address": "627 Lysle Boulevard, McKeesport, PA 15132",
         "fax": "412-664-4053",
         "name": "McKeesport Office",
         "phone": "412-664-4049"
-      },
-      {
-        "address": "1350 Fifth Avenue, Coraopolis, PA 15108",
-        "fax": "",
-        "name": "Coraopolis Office",
-        "phone": "412-264-3460"
-      },
-      {
-        "address": "11 Duff Road, Penn Hills, PA 15235",
-        "fax": "412-241-6820",
-        "name": "Penn Hills Office",
-        "phone": "412-241-6055"
-      }
-    ],
-    "district": "14",
-    "id": "PA-14",
-    "linkContact": "https://doyle.house.gov/contact-me/email-me",
-    "linkMeeting": "https://doyle.house.gov/contact-me/request-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Guy_Reschenthaler",
-    "name": "Guy Reschenthaler",
-    "party": "Republican",
-    "photoFilename": "pennsylvania14.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michael_F._Doyle_113th_Congress.jpg/75px-Michael_F._Doyle_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/usrepmikedoyle",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/usrepmikedoyle",
-    "socialYoutube": "http://www.youtube.com/CongressmanDoyle",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-14",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 66,
-    "votePersonal": 57.9,
-    "voteTrump": 30.5,
-    "yearElected": "1995",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Appropriations"
-    ],
-    "contact": [
-      {
-        "address": "2082 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-226-0778",
-        "name": "Washington DC Office",
-        "phone": "202-225-6411"
-      },
-      {
-        "address": "3900 Hamilton Boulevard, Suite 207, Allentown, PA 18103",
-        "fax": "610-770-3498",
-        "name": "Lehigh Valley Office",
-        "phone": "610-770-3490"
-      },
-      {
-        "address": "61 N 3rd Street, Hamburg, PA 19526",
-        "fax": "610-562-4352",
-        "name": "Berks County Office",
-        "phone": "610-562-4281"
-      },
-      {
-        "address": "250 W Chocolate Avenue, Suite 2, Hershey, PA 17033",
-        "fax": "717-533-3979",
-        "name": "Dauphin County Office",
-        "phone": "717-533-3959"
-      },
-      {
-        "address": "342 W Main St, Annville, PA 17003",
-        "fax": "717-867-1540",
-        "name": "Lebanon County Office",
-        "phone": "717-867-1026"
-      }
-    ],
-    "district": "15",
-    "id": "PA-15",
-    "linkContact": "http://dent.house.gov/index.cfm?p=ContactForm",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)",
-    "name": "Glenn Thompson",
-    "party": "Republican",
-    "photoFilename": "pennsylvania15.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DENT_Headshot_113th_Congress_-_cropped.jpg/75px-DENT_Headshot_113th_Congress_-_cropped.jpg",
-    "socialFacebook": "https://www.facebook.com/CongressmanDent",
-    "socialInstagram": "",
-    "socialTwitter": "https://www.twitter.com/RepCharlieDent",
-    "socialYoutube": "https://www.youtube.com/user/CongressmanDent",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-15",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 44.2,
-    "votePersonal": 67.8,
-    "voteTrump": 51.8,
-    "yearElected": "2005",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Budget",
-      "Education and the Workforce",
-      "Transportation and Infrastructure"
-    ],
-    "contact": [
-      {
-        "address": "516 Cannon House Office Building, Washington, DC 20515",
-        "fax": "",
-        "name": "Washington DC Office",
-        "phone": "202-225-2411"
-      },
-      {
-        "address": "51 South Duke St, Suite 201, Lancaster, PA 17602",
-        "fax": "",
-        "name": "Lancaster Office",
-        "phone": "717-393-0667"
-      }
-    ],
-    "district": "16",
-    "id": "PA-16",
-    "linkContact": "https://smucker.house.gov/contact/email",
-    "linkMeeting": "https://smucker.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)",
-    "name": "Mike Kelly",
-    "party": "Republican",
-    "photoFilename": "pennsylvania16.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lloyd_Smucker.jpg/75px-Lloyd_Smucker.jpg",
-    "socialFacebook": "https://www.facebook.com/RepSmucker/",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/repsmucker?lang=en",
-    "socialYoutube": "",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-16",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 44.2,
-    "votePersonal": 51.6,
-    "voteTrump": 51,
-    "yearElected": "2017",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Appropriations"
-    ],
-    "contact": [
-      {
-        "address": "1034 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-226-0996",
-        "name": "Washington DC Office",
-        "phone": "202-225-5546"
-      },
-      {
-        "address": "226 Wyoming Avenue, Scranton, PA 18503",
-        "fax": "570-341-1055",
-        "name": "Scranton Office",
-        "phone": "570-341-1050"
-      },
-      {
-        "address": "400 Northampton Street, Suite 307, Easton, PA 18042",
-        "fax": "610-252-3257",
-        "name": "Easton Office",
-        "phone": "484-546-0776"
-      },
-      {
-        "address": "121 Progress Avenue, Suite 310, Pottsville, PA 17901",
-        "fax": "570-622-2902",
-        "name": "Pottsville Office",
-        "phone": "570-624-0140"
-      },
-      {
-        "address": "20 North Pennsylvania Avenue, Suite 201, Wilkes-Barre, PA 18711",
-        "fax": "",
-        "name": "Wilkes-Barre Office",
-        "phone": "570-371-0317"
-      }
-    ],
-    "district": "17",
-    "id": "PA-17",
-    "linkContact": "http://cartwright.house.gov/contact/email-me",
-    "linkMeeting": "http://cartwright.house.gov/contact/request-a-meeting",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Conor_Lamb",
-    "name": "Conor Lamb",
-    "party": "Democratic",
-    "photoFilename": "pennsylvania17.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Matt_Cartwright%2C_official_portrait%2C_113th_Congress.jpg/75px-Matt_Cartwright%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/CongressmanMattCartwright",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepCartwright",
-    "socialYoutube": "http://www.youtube.com/channel/UCnAOvexSGLBnYidaFzguhTQ",
-    "state": "pennsylvania",
-    "stateAbbreviation": "PA-17",
-    "stateDisplay": "Pennsylvania",
-    "voteClinton": 43.3,
-    "votePersonal": 56.3,
-    "voteTrump": 53.4,
-    "yearElected": "2013",
-    "yearReelection": "2020"
-  },
-  {
-    "committees": [
-      "Science, Space, and Technology",
-      "Veterans' Affairs"
-    ],
-    "contact": [
-      {
-        "address": "2332 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "",
-        "name": "Washington DC Office",
-        "phone": "202-225-2301"
       }
     ],
     "district": "18",
     "id": "PA-18",
-    "linkContact": "https://lamb.house.gov/contact/email",
-    "linkMeeting": "https://lamb.house.gov/contact/request-appearance",
+    "linkContact": "https://doyle.house.gov/contact-me/email-me",
+    "linkMeeting": "https://doyle.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Michael_F._Doyle",
     "name": "Mike Doyle",
     "party": "Democratic",
     "photoFilename": "pennsylvania18.jpg",
-    "photoUrl": "https://en.wikipedia.org/wiki/Conor_Lamb#/media/File:Conor_Lamb_(40636199252)_(cropped).jpg",
-    "socialFacebook": "http://www.facebook.com/RepConorLamb",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Michael_F_Doyle%2C_Official_Portrait%2C_c112th_Congress.jpg/440px-Michael_F_Doyle%2C_Official_Portrait%2C_c112th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/usrepmikedoyle",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepConorLamb",
-    "socialYoutube": "",
+    "socialTwitter": "https://twitter.com/usrepmikedoyle",
+    "socialYoutube": "https://www.youtube.com/CongressmanDoyle",
     "state": "pennsylvania",
     "stateAbbreviation": "PA-18",
     "stateDisplay": "Pennsylvania",
