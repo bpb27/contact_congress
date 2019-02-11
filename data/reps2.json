@@ -15712,7 +15712,7 @@
     "linkContact": "https://langevin.house.gov/contact-me/email-me",
     "linkMeeting": "https://langevin.house.gov/contact-me/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/James_Langevin",
-    "name": "James Langevin",
+    "name": "Jim Langevin",
     "party": "Democratic",
     "photoFilename": "rhode_island2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/James_R._Langevin_113th_Congress.jpg/75px-James_R._Langevin_113th_Congress.jpg",
@@ -15864,51 +15864,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ethics",
-      "Judiciary",
-      "Oversight and Government Reform"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2418 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-226-1177",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "313 Cannon HOB Washington, DC 20515",
         "phone": "202-225-6030"
       },
       {
-        "address": "104 South Main St, Greenville, SC 29601",
-        "fax": "864-241-0982",
+        "fax": "",
         "name": "Greenville Office",
+        "address": "104 S. Main Street Suite 801, Greenville, SC 29601",
         "phone": "864-241-0175"
       },
       {
-        "address": "101 West St. John St., Spartanburg, SC 29306",
-        "fax": "864-583-3926",
+        "fax": "",
         "name": "Spartanburg Office",
+        "address": "101 W. St. John Street Suite 303, Spartanburg, SC 29306",
         "phone": "864-583-3264"
       }
     ],
     "district": "4",
     "id": "SC-4",
-    "linkContact": "https://gowdyforms.house.gov/forms/writeyourrep/",
-    "linkMeeting": "",
+    "linkContact": "https://timmons.house.gov/contact/email-me",
+    "linkMeeting": "https://timmons.house.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/William_Timmons_(politician)",
     "name": "William Timmons",
     "party": "Republican",
     "photoFilename": "south_carolina4.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Trey_Gowdy%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Trey_Gowdy%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/RepTreyGowdy",
-    "socialInstagram": "http://instagram.com/tgowdysc",
-    "socialTwitter": "http://twitter.com/tgowdysc",
-    "socialYoutube": "http://www.youtube.com/user/TGowdySC",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/William_Timmons_116_pic.jpg",
+    "socialFacebook": "http://www.facebook.com/RepTimmons/",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/reptimmons",
+    "socialYoutube": "",
     "state": "south_carolina",
     "stateAbbreviation": "SC-4",
     "stateDisplay": "South Carolina",
     "voteClinton": 34.5,
     "votePersonal": 59.6,
     "voteTrump": 60.2,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -16060,55 +16056,53 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2457 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-225-5823",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1508 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2801"
       },
       {
-        "address": "300 N. Dakota Avenue, Suite 314, Sioux Falls, SD 57104",
-        "fax": "605-275-2875",
-        "name": "Sioux Falls Office",
-        "phone": "605-275-2868"
+        "fax": "",
+        "name": "Aberdeen Office",
+        "address": "304 6th Avenue SE Aberdeen, SD 57401",
+        "phone": ""
       },
       {
-        "address": "2525 West Main Street, Suite 310, Rapid City, SD 57702",
-        "fax": "605-791-4679",
+        "fax": "",
         "name": "Rapid City Office",
-        "phone": "605-791-4673"
+        "address": "2525 W Main Street Suite 310, Rapid City, SD 57702",
+        "phone": ""
       },
       {
-        "address": "818 S. Broadway, Suite 113, Watertown, SD 57201",
-        "fax": "605-878-2871",
-        "name": "Watertown Office",
-        "phone": "605-878-2868"
+        "fax": "",
+        "name": "Sioux Falls Office",
+        "address": "300 North Dakota Avenue Suite 314, Sioux Falls, SD 57108",
+        "phone": ""
       }
     ],
     "district": "1",
     "id": "SD-1",
-    "linkContact": "https://noem.house.gov/index.cfm/email-kristi",
+    "linkContact": "https://dustyjohnson.house.gov/contact/email-me",
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dusty_Johnson",
     "name": "Dusty Johnson",
     "party": "Republican",
     "photoFilename": "south_dakota1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kristi_Noem_portrait.jpg/75px-Kristi_Noem_portrait.jpg",
-    "socialFacebook": "https://www.facebook.com/kristiforgovernor/",
-    "socialInstagram": "http://www.instagram.com/repkristinoem",
-    "socialTwitter": "http://twitter.com/RepKristiNoem",
-    "socialYoutube": "http://www.youtube.com/user/RepKristiNoem",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dusty_Johnson_116th_Congress_Portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/Rep-Dusty-Johnson-2099566776755945/",
+    "socialInstagram": "http://instagram.com/repdustyjohnson/",
+    "socialTwitter": "http://twitter.com/RepDustyJohnson",
+    "socialYoutube": "http://www.youtube.com/HouseConference",
     "state": "south_dakota",
     "stateAbbreviation": "SD-1",
     "stateDisplay": "South Dakota",
     "voteClinton": 31.7,
     "votePersonal": 60.3,
     "voteTrump": 61.5,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -16159,50 +16153,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Oversight and Government Reform",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2207 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-6444",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1122 Longworth HOB Washington, DC 20515",
         "phone": "202-225-5435"
       },
       {
-        "address": "331 Court Street, Maryville, TN 37804 ",
-        "fax": "865-984-0521",
-        "name": "Maryville Office",
-        "phone": "865-984-5464"
+        "fax": "",
+        "name": "Knoxville Office",
+        "address": "800 Market Street, Suite 110 Knoxville, TN 37902",
+        "phone": "865-523-3772"
       },
       {
-        "address": "800 Market Street, Suite 110, Knoxville, TN 37902",
-        "fax": "865-544-0728",
-        "name": "Knoxville Office",
-        "phone": "865-523-3772"
+        "fax": "",
+        "name": "Maryville Office",
+        "address": "341 Court Street Maryville, TN 37804",
+        "phone": "865-984-5464"
       }
     ],
     "district": "2",
     "id": "TN-2",
-    "linkContact": "https://duncan.house.gov/contact-me/email-me",
-    "linkMeeting": "https://duncan.house.gov/contact-me/request-meeting",
+    "linkContact": "https://burchett.house.gov/contact/email-me",
+    "linkMeeting": "https://burchett.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tim_Burchett",
     "name": "Tim Burchett",
     "party": "Republican",
     "photoFilename": "tennessee2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/John_J._Duncan%2C_official_photo_portrait.jpg/75px-John_J._Duncan%2C_official_photo_portrait.jpg",
-    "socialFacebook": "https://www.facebook.com/CongressmanDuncan",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/RepJohnDuncanJr",
-    "socialYoutube": "https://www.youtube.com/user/RepJohnDuncan",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Rep._Tim_Burchett_official_photo%2C_116th_congress.jpg",
+    "socialFacebook": "http://www.facebook.com/reptimburchett",
+    "socialInstagram": "http://instagram.com/reptimburchett/",
+    "socialTwitter": "http://twitter.com/reptimburchett",
+    "socialYoutube": "",
     "state": "tennessee",
     "stateAbbreviation": "TN-2",
     "stateDisplay": "Tennessee",
     "voteClinton": 29.7,
     "votePersonal": 65.9,
     "voteTrump": 65.1,
-    "yearElected": "1988*",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -16359,97 +16350,91 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Budget",
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1131 Longworth HOB, Washington, DC 20515",
-        "fax": "202-225-6887",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1232 Longworth HOB, Washington, DC 20515",
         "phone": "202-225-4231"
       },
       {
-        "address": "355 North Belvedere Drive, Suite 308, Gallatin , TN 37066",
-        "fax": "615-206-8980",
-        "name": "Gallatin Office",
-        "phone": "615-206-8204"
-      },
-      {
-        "address": "321 East Spring Street, Suite 301, Cookeville, TN 38501",
         "fax": "615-206-8980",
         "name": "Cookeville Office",
-        "phone": "931-854-0069"
+        "address": "321 East Spring Street, Suite 301, Cookeville, TN 38501",
+        "phone": "931-854-9430"
+      },
+      {
+        "fax": "615-206-8980",
+        "name": "Gallatin Office",
+        "address": "355 North Belvedere Drive, Suite 308, Gallatin, TN 37066",
+        "phone": "615-206-8204"
       }
     ],
     "district": "6",
     "id": "TN-6",
-    "linkContact": "https://black.house.gov/contact-me/email-me",
-    "linkMeeting": "https://black.house.gov/contact-me/schedule-meeting",
-    "linkTownhall": "https://black.house.gov/town-hall-meetings",
+    "linkContact": "https://johnrose.house.gov/contact/email-me",
+    "linkMeeting": "https://johnrose.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Rose_(Tennessee_politician)",
     "name": "John Rose",
     "party": "Republican",
     "photoFilename": "tennessee6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RepBlack_OfficialPhoto.jpg/75px-RepBlack_OfficialPhoto.jpg",
-    "socialFacebook": "http://www.facebook.com/DianeBlackTN06",
-    "socialInstagram": "http://instagram.com/repdianeblack#",
-    "socialTwitter": "https://twitter.com/#!/RepDianeBlack",
-    "socialYoutube": "http://www.youtube.com/user/RepDianeBlack",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/John_Rose%2C_official_portrait%2C_116th_Congress.jpg/440px-John_Rose%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/repjohnrose",
+    "socialInstagram": "",
+    "socialTwitter": "http://twitter.com/repjohnrose",
+    "socialYoutube": "",
     "state": "tennessee",
     "stateAbbreviation": "TN-6",
     "stateDisplay": "Tennessee",
     "voteClinton": 23.7,
     "votePersonal": 69.5,
     "voteTrump": 72.6,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Commerce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2266 Rayburn Building, Washington, D.C. 20515",
-        "fax": "202-225-3004",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "533 Cannon HOB Washington, DC 20515",
         "phone": "202-225-2811"
       },
       {
-        "address": "128 North 2nd Street, Suite 202, Clarksville, TN 37040",
-        "fax": "931-503-0393",
+        "fax": "",
         "name": "Clarksville Office",
-        "phone": "931-503-0391"
+        "address": "128 N. Second St, Suite 104, Clarksville, TN 37040",
+        "phone": ""
       },
       {
-        "address": "305 Public Square, Suite 212, Franklin, TN 37064",
-        "fax": "615-599-2916",
+        "fax": "",
         "name": "Franklin Office",
-        "phone": "615-591-5161"
+        "address": "305 Public Square, Suite 212, Franklin, TN 37064",
+        "phone": ""
       }
     ],
     "district": "7",
     "id": "TN-7",
-    "linkContact": "https://blackburn.house.gov/ContactForm",
-    "linkMeeting": "https://blackburn.house.gov/Schedule",
+    "linkContact": "https://markgreen.house.gov/contact",
+    "linkMeeting": "https://markgreen.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_E._Green",
     "name": "Mark Green",
     "party": "Republican",
     "photoFilename": "tennessee7.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marsha_blackburn_congress.jpg/75px-Marsha_blackburn_congress.jpg",
-    "socialFacebook": "http://facebook.com/marshablackburn",
-    "socialInstagram": "http://www.instagram.com/marshablackburn/",
-    "socialTwitter": "http://twitter.com/#!/MarshaBlackburn",
-    "socialYoutube": "http://www.youtube.com/RepMarshaBlackburn",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mark_Green%2C_official_portrait%2C_116th_Congress.jpg/440px-Mark_Green%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepMarkGreenTN/",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/repmarkgreen",
+    "socialYoutube": "",
     "state": "tennessee",
     "stateAbbreviation": "TN-7",
     "stateDisplay": "Tennessee",
     "voteClinton": 28.2,
     "votePersonal": 66.9,
     "voteTrump": 67.5,
-    "yearElected": "2003",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -16617,85 +16602,79 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Foreign Affairs",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2132 Rayburn Building, Washington, DC 20515",
-        "fax": "202-225-5547",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "413 Cannon HOB Washington, DC 20515",
         "phone": "202-225-6565"
       },
       {
-        "address": "1801 Kingwood Drive, Suite 240, Kingwood, TX 77339",
-        "fax": "281-446-0252",
+        "fax": "",
         "name": "Kingwood Office",
-        "phone": "281-446-0242"
+        "address": "1801 Kingwood Drive Suite 240 Kingwood, TX 77339",
+        "phone": "713-860-1330"
       }
     ],
     "district": "2",
     "id": "TX-2",
-    "linkContact": "https://poe.house.gov/contact-form",
-    "linkMeeting": "https://poe.house.gov/request-a-meeting",
-    "linkTeletownhall": "https://poe.house.gov/telephone-town-halls",
+    "linkContact": "https://crenshaw.house.gov/contact",
+    "linkMeeting": "https://crenshaw.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Crenshaw",
     "name": "Dan Crenshaw",
     "party": "Republican",
     "photoFilename": "texas2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ted_Poe_Official.jpg/75px-Ted_Poe_Official.jpg",
-    "socialFacebook": "https://www.facebook.com/pages/Ted-Poe/106631626049851",
-    "socialInstagram": "http://instagram.com/judgetedpoe",
-    "socialTwitter": "http://twitter.com/JudgeTedPoe/",
-    "socialYoutube": "http://www.youtube.com/user/CongressmanTedPoe",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Crenshaw_116_Headshot.jpg",
+    "socialFacebook": "https://www.facebook.com/RepDanCrenshaw/",
+    "socialInstagram": "https://www.instagram.com/dancrenshawtx/",
+    "socialTwitter": "https://twitter.com/RepDanCrenshaw",
+    "socialYoutube": "https://www.youtube.com/channel/UC2XDiCjAHtJqnSEzrHAY5IQ",
     "state": "texas",
     "stateAbbreviation": "TX-2",
     "stateDisplay": "Texas",
     "voteClinton": 43.1,
     "votePersonal": 52.8,
     "voteTrump": 52.4,
-    "yearElected": "2005",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2304 Rayburn HOB, Washington, D.C. 20515",
+        "address": "1404 Longworth, Washington, D.C. 20515",
         "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-4201"
       },
       {
-        "address": "1255 W 15th Street, Suite 170, Plano, Texas 75075",
-        "fax": "469-304-0392",
+        "address": "5600 Tennyson Pkwy, #275, Plano, TX 75024",
+        "fax": "",
         "name": "Plano Office",
-        "phone": "469-304-0382"
+        "phone": "972-202-4150"
       }
     ],
     "district": "3",
     "id": "TX-3",
-    "linkContact": "http://samjohnson.house.gov/contact-me/ema-l-me.htm",
-    "linkMeeting": "http://samjohnson.house.gov/contact-me/chedul-ng-reque-t.htm/",
+    "linkContact": "https://vantaylor.house.gov/contact",
+    "linkMeeting": "https://vantaylor.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Van_Taylor",
     "name": "Van Taylor",
     "party": "Republican",
     "photoFilename": "texas3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sam_Johnson_113th_Congress.jpg/75px-Sam_Johnson_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/RepSamJohnson/",
-    "socialInstagram": "https://www.instagram.com/samjohnsontx03/",
-    "socialTwitter": "https://twitter.com/SamsPressShop",
-    "socialYoutube": "https://www.youtube.com/user/RepSamJohnson",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Van_Taylor%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://facebook.com/RepVanTaylor",
+    "socialInstagram": "https://www.instagram.com/repvantaylor/",
+    "socialTwitter": "https://twitter.com/RepVanTaylor",
+    "socialYoutube": "",
     "state": "texas",
     "stateAbbreviation": "TX-3",
     "stateDisplay": "Texas",
     "voteClinton": 40.6,
     "votePersonal": 54.3,
     "voteTrump": 54.8,
-    "yearElected": "1991*",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -16753,87 +16732,65 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2228 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-226-4888",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "425 Cannon HOB Washington, DC 20515",
         "phone": "202-225-3484"
       },
       {
-        "address": "810 East Corsicana Street, Suite C, Athens, TX 75751",
-        "fax": "903-675-8351",
-        "name": "Athens Office",
-        "phone": "903-675-8288"
-      },
-      {
-        "address": "6510 Abrams Road, Suite 243, Dallas, TX 75231",
-        "fax": "214-349-0738",
-        "name": "Dallas Office",
-        "phone": "214-349-9996"
+        "fax": "",
+        "name": " Mesquite Office",
+        "address": "18601 LBJ Freeway Suite 725, Mesquite, TX 75150",
+        "phone": "214-765-6789"
       }
     ],
     "district": "5",
     "id": "TX-5",
-    "linkContact": "http://hensarlingforms.house.gov/contact/",
-    "linkMeeting": "http://hensarling.house.gov/contact/request-a-meeting",
+    "linkContact": "https://gooden.house.gov/contact/email-me",
+    "linkMeeting": "https://gooden.house.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lance_Gooden",
     "name": "Lance Gooden",
     "party": "Republican",
     "photoFilename": "texas5.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jeb_Hensarling.jpg/75px-Jeb_Hensarling.jpg",
-    "socialFacebook": "http://www.facebook.com/RepHensarling",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lance_Gooden%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepGooden",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/rephensarling",
-    "socialYoutube": "http://www.youtube.com/user/RepJebHensarling",
+    "socialTwitter": "http://twitter.com/RepLanceGooden",
+    "socialYoutube": "http://www.youtube.com/channel/UCaEs0pYlL_1cLlPBHfl0RIg/featured?view_as=subscriber",
     "state": "texas",
     "stateAbbreviation": "TX-5",
     "stateDisplay": "Texas",
     "voteClinton": 34.3,
     "votePersonal": 62.4,
     "voteTrump": 62.7,
-    "yearElected": "2003",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Commerce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2107 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-225-3052",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "428 Cannon HOB Washington, DC 20515",
         "phone": "202-225-2002"
-      },
-      {
-        "address": "2106 A W. Ennis Ave., Ennis, Texas 75119",
-        "fax": "972-875-1907",
-        "name": "Ennis Office",
-        "phone": "972-875-8488"
-      },
-      {
-        "address": "6001 W. Ronald Reagan Memorial Hwy, #200, Arlington, Texas 76017",
-        "fax": "817-548-7029",
-        "name": "Arlington Office",
-        "phone": "817-543-1000"
       }
     ],
     "district": "6",
     "id": "TX-6",
-    "linkContact": "http://joebarton.house.gov/contact",
-    "linkMeeting": "http://joebarton.house.gov/forms/meetingrequest/",
+    "linkContact": "https://wright.house.gov/contact/email-me",
+    "linkMeeting": "https://wright.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Wright_(politician)",
     "name": "Ron Wright",
     "party": "Republican",
     "photoFilename": "texas6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Joe_Barton_Official.jpg/75px-Joe_Barton_Official.jpg",
-    "socialFacebook": "https://www.facebook.com/RepJoeBarton",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ron_Wright%2C_official_portrait%2C_116th_Congress.jpg/440px-Ron_Wright%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/Congressman-Ron-Wright-594717754318936/",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/repjoebarton",
+    "socialTwitter": "http://twitter.com/RepRonWright",
     "socialYoutube": "",
     "state": "texas",
     "stateAbbreviation": "TX-6",
@@ -16841,47 +16798,39 @@
     "voteClinton": 41.9,
     "votePersonal": 53.1,
     "voteTrump": 54.2,
-    "yearElected": "1985",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2161 Rayburn House Office Building Washington, D.C. 20515",
-        "fax": "202-225-4381",
+        "fax": "202-226-3805",
         "name": "Washington DC Office",
-        "phone": "202-225-2571"
-      },
-      {
-        "address": "10000 Memorial Drive, Suite 620, Houston, TX 77024",
-        "fax": "",
-        "name": "Houston Office",
-        "phone": "713-682-8828"
+        "address": "1429 Longworth HOB Washington, DC 20515",
+        "phone": "202-225-2571 "
       }
     ],
     "district": "7",
     "id": "TX-7",
-    "linkContact": "http://culberson.house.gov/contact/zipauth.htm",
-    "linkMeeting": "",
+    "linkContact": "https://fletcher.house.gov/contact",
+    "linkMeeting": "https://fletcher.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lizzie_Pannill_Fletcher",
     "name": "Lizzie Fletcher",
     "party": "Democratic",
     "photoFilename": "texas7.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/John_Culberson_official_photo.jpg/75px-John_Culberson_official_photo.jpg",
-    "socialFacebook": "https://www.facebook.com/johnculberson/",
-    "socialInstagram": "https://instagram.com/repjculberson/",
-    "socialTwitter": "http://www.twitter.com/congculberson",
-    "socialYoutube": "http://www.youtube.com/johnculbersontx07",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lizzie_Fletcher%2C_official_portrait%2C_116th_Congress.jpg/440px-Lizzie_Fletcher%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/RepFletcher/",
+    "socialInstagram": "https://www.instagram.com/repfletcher/",
+    "socialTwitter": "https://twitter.com/RepFletcher",
+    "socialYoutube": "https://www.youtube.com/channel/UCIWDLoDPvawP118TNWi-9rg",
     "state": "texas",
     "stateAbbreviation": "TX-7",
     "stateDisplay": "Texas",
     "voteClinton": 48.5,
     "votePersonal": 52.5,
     "voteTrump": 47.1,
-    "yearElected": "2001",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -17283,37 +17232,33 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Veterans’ Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1330 Longworth House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1505 Longworth, Washington, DC 20515",
         "phone": "202-225-4831"
       },
       {
-        "address": "303 N Oregon St Suite 210, El Paso, TX 79901",
         "fax": "",
         "name": "El Paso Office",
+        "address": "221 N. Kansas Street, Suite 1500, El Paso, TX 79901",
         "phone": "915-541-1400"
       }
     ],
     "district": "16",
     "id": "TX-16",
-    "linkContact": "https://orourke.house.gov/correspondence/",
-    "linkMeeting": "https://orourke.house.gov/meeting-requests/",
-    "linkTownhall": "https://www.facebook.com/pg/BetoORourkeTX16/events/",
+    "linkContact": "https://escobar.house.gov/contact/email-me",
+    "linkMeeting": "https://escobar.house.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Veronica_Escobar",
     "name": "Veronica Escobar",
     "party": "Democratic",
     "photoFilename": "texas16.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Beto_O%27Rourke%2C_Official_portrait%2C_113th_Congress.jpg/75px-Beto_O%27Rourke%2C_Official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/BetoORourkeTX16",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Veronica_Escobar_116th_congress_official_%28cropped-portrait%29.jpg/440px-Veronica_Escobar_116th_congress_official_%28cropped-portrait%29.jpg",
+    "socialFacebook": "https://www.facebook.com/RepEscobar",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/repbetoorourke",
+    "socialTwitter": "https://twitter.com/RepEscobar",
     "socialYoutube": "",
     "state": "texas",
     "stateAbbreviation": "TX-16",
@@ -17321,7 +17266,7 @@
     "voteClinton": 67.9,
     "votePersonal": 68.5,
     "voteTrump": 27.2,
-    "yearElected": "2013",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -17521,57 +17466,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Homeland Security",
-      "Judiciary",
-      "Science, Space, and Technology"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2409 Rayburn House Office Building, Washington, DC 20515",
         "fax": "202-225-8628",
         "name": "Washington DC Office",
+        "address": "1319 Longworth HOB Washington, DC 20515",
         "phone": "202-225-4236"
       },
       {
-        "address": "2211 South IH-35, Suite 106, Austin, TX 78741",
-        "fax": "512-912-7519",
-        "name": "Austin Office",
-        "phone": "512-912-7508"
-      },
-      {
-        "address": "301 Junction Highway, Suite 346C, Kerrville, TX 78028",
-        "fax": "830-896-0168",
-        "name": "Kerrville Office",
-        "phone": "830-896-0154"
-      },
-      {
-        "address": "1100 NE Loop 410, Suite 640, San Antonio, TX 78209",
-        "fax": "210-821-5947",
+        "fax": "",
         "name": "San Antonio Office",
+        "address": "1100 NE Interstate 410 Loop, Suite 640, San Antonio, TX 78209",
         "phone": "210-821-5024"
       }
     ],
     "district": "21",
     "id": "TX-21",
-    "linkContact": "https://lamarsmith.house.gov/contact/email-lamar",
-    "linkMeeting": "",
+    "linkContact": "https://roy.house.gov/contact/email-me",
+    "linkMeeting": "https://roy.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chip_Roy",
     "name": "Chip Roy",
     "party": "Republican",
     "photoFilename": "texas21.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lamar_S._Smith%2C_official_Congressional_photo_portrait.jpg/75px-Lamar_S._Smith%2C_official_Congressional_photo_portrait.jpg",
-    "socialFacebook": "http://www.facebook.com/LamarSmithTX21",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Chip_Roy%2C_official_portrait%2C_116th_Congress.jpg/440px-Chip_Roy%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/pg/RepChipRoy/posts/",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/LamarSmithTX21",
-    "socialYoutube": "http://www.youtube.com/user/lamarsmithtexas21",
+    "socialTwitter": "http://twitter.com/chiproytx",
+    "socialYoutube": "",
     "state": "texas",
     "stateAbbreviation": "TX-21",
     "stateDisplay": "Texas",
     "voteClinton": 42.5,
     "votePersonal": 50.2,
     "voteTrump": 52.5,
-    "yearElected": "1987",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -17819,52 +17748,47 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Judiciary",
-      "Oversight and Government Reform",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2331 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-226-1134",
+        "address": "1314 Longworth HOB, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-225-7742"
       },
       {
         "address": "101 N. Shoreline Blvd, Suite 300, Corpus Christi, TX 78401",
-        "fax": "361-884-2223",
+        "fax": "",
         "name": "Corpus Christi Office",
         "phone": "361-884-2222"
       },
       {
-        "address": "5606 North Navarro Street, Suite 203, Victoria, Texas 77904",
-        "fax": "361-894-6460",
+        "address": "111 N. Glass St., Suite 102, Victoria, TX 77904",
+        "fax": "",
         "name": "Victoria Office",
         "phone": "361-894-6446"
       }
     ],
     "district": "27",
     "id": "TX-27",
-    "linkContact": "https://farenthold.house.gov/contact/email.htm",
-    "linkMeeting": "",
-    "linkTeletownhall": "https://farenthold.house.gov/forms/form/?ID=2721",
+    "linkContact": "https://cloud.house.gov/contact",
+    "linkMeeting": "https://cloud.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Michael_Cloud",
     "name": "Michael Cloud",
     "party": "Republican",
     "photoFilename": "texas27.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Blake_Farenthold_2015.jpg/75px-Blake_Farenthold_2015.jpg",
-    "socialFacebook": "http://www.facebook.com/BlakeFarenthold",
-    "socialInstagram": "http://instagram.com/Farenthold",
-    "socialTwitter": "http://twitter.com/farenthold",
-    "socialYoutube": "http://www.youtube.com/user/BlakeFarenthold",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Michael_Cloud.jpg/440px-Michael_Cloud.jpg",
+    "socialFacebook": "https://www.facebook.com/repcloudtx",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/RepCloudTX",
+    "socialYoutube": "",
     "state": "texas",
     "stateAbbreviation": "TX-27",
     "stateDisplay": "Texas",
     "voteClinton": 36.5,
     "votePersonal": 60.3,
     "voteTrump": 60.1,
-    "yearElected": "2011",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -17926,42 +17850,33 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Commerce"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2470 Rayburn HOB, Washington, DC 20515",
-        "fax": "202-225-9903",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1620 Longworth HOB, Washington, DC 20515",
         "phone": "202-225-1688"
       },
       {
-        "address": "11811 East Freeway, Suite 430, Houston, TX 77029-1974",
-        "fax": "713-330-0807",
-        "name": "Houston East Office",
-        "phone": "713-330-0761"
-      },
-      {
-        "address": "256 North Sam Houston Parkway East, Suite 29, Houston, TX 77060",
-        "fax": "281-999-5716",
-        "name": "Houston North Office",
-        "phone": "281-999-5879"
+        "fax": "",
+        "name": "East Houston Office",
+        "address": "11811 East Freeway Suite 430, Houston, TX 77029",
+        "phone": ""
       }
     ],
     "district": "29",
     "id": "TX-29",
-    "linkContact": "https://green.house.gov/contact/email",
-    "linkMeeting": "https://green.house.gov/contact/scheduling-requests",
-    "linkTeletownhall": "https://green.house.gov/telephone-town-halls",
+    "linkContact": "https://sylviagarcia.house.gov/contact/email-me",
+    "linkMeeting": "https://sylviagarcia.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sylvia_Garcia",
     "name": "Sylvia Garcia",
     "party": "Democratic",
     "photoFilename": "texas29.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gene_Green_113th_Congress.jpg/75px-Gene_Green_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/RepGeneGreen",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sylvia_Garcia%2C_official_portrait%2C_116th_Congress.jpg/440px-Sylvia_Garcia%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepSylviaGarcia",
     "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/RepGeneGreen",
+    "socialTwitter": "http://twitter.com/repsylviagarcia",
     "socialYoutube": "",
     "state": "texas",
     "stateAbbreviation": "TX-29",
@@ -17969,7 +17884,7 @@
     "voteClinton": 71.1,
     "votePersonal": 75.1,
     "voteTrump": 25.4,
-    "yearElected": "1993",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -18060,44 +17975,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Rules"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2233 Rayburn House Office Building, Washington, DC 20515",
-        "fax": "202-225-5878",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "328 Cannon HOB Washington, DC 20515",
         "phone": "202-225-2231"
-      },
-      {
-        "address": "Park Central VII 12750 Merit Drive, Suite 1434, Dallas, TX 75251-1229",
-        "fax": "972-392-0615",
-        "name": "Dallas Office",
-        "phone": "972-392-0505"
       }
     ],
     "district": "32",
     "id": "TX-32",
-    "linkContact": "https://sessions.house.gov/contact/email",
-    "linkMeeting": "",
-    "linkTownhall": "https://sessions.house.gov/services/town-hall-meetings",
+    "linkContact": "https://allred.house.gov/contact/email-me",
+    "linkMeeting": "https://allred.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Colin_Allred",
     "name": "Colin Allred",
     "party": "Democratic",
     "photoFilename": "texas32.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pete_Sessions.jpg/75px-Pete_Sessions.jpg",
-    "socialFacebook": "http://www.facebook.com/petesessions",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/petesessions",
-    "socialYoutube": "http://www.youtube.com/user/PeteSessions",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Colin_Allred%2C_official_portrait%2C_116th_Congress.jpg/440px-Colin_Allred%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepColinAllred/",
+    "socialInstagram": "http://instagram.com/repcolinallred/",
+    "socialTwitter": "http://twitter.com/RepColinAllred",
+    "socialYoutube": "http://www.youtube.com/channel/UCm3l7ZntoH0EI2vIsvxeVqg",
     "state": "texas",
     "stateAbbreviation": "TX-32",
     "stateDisplay": "Texas",
     "voteClinton": 48.5,
     "votePersonal": 52.3,
     "voteTrump": 46.6,
-    "yearElected": "1997",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -18449,44 +18355,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Financial Services"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "217 Cannon House Office Building, Washington, DC 20515",
-        "fax": "202-225-5638",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "130 Cannon HOB Washington, DC 20515",
         "phone": "202-225-3011"
       },
       {
-        "address": "9067 South 1300 West Suite 101, West Jordan, UT 84088",
-        "fax": "801-987-8631",
-        "name": "West Jordan Office",
-        "phone": "801-996-8729"
+        "fax": "",
+        "name": " West Jordan Office",
+        "address": "9067 S. 1300 West Suite #101, West Jordan, UT 84088",
+        "phone": ""
       }
     ],
     "district": "4",
     "id": "UT-4",
-    "linkContact": "https://love.house.gov/email-me/",
-    "linkMeeting": "https://love.house.gov/schedule-a-meeting/",
-    "linkTeletownhall": "https://vekeo.com/repmialove/",
+    "linkContact": "https://mcadams.house.gov/contact/email-me",
+    "linkMeeting": "https://mcadams.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_McAdams",
     "name": "Ben McAdams",
     "party": "Democratic",
     "photoFilename": "utah4.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mia_Love_official_portrait.jpg/75px-Mia_Love_official_portrait.jpg",
-    "socialFacebook": "http://www.facebook.com/repmialove?ref=hl",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/@RepMiaLove",
-    "socialYoutube": "https://www.youtube.com/channel/UCqHVv1qerDPYaH9NbyWyxtg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ben_McAdams_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepBenMcAdams/",
+    "socialInstagram": "https://www.instagram.com/repbenmcadams/",
+    "socialTwitter": "http://twitter.com/RepBenMcAdams",
+    "socialYoutube": "",
     "state": "utah",
     "stateAbbreviation": "UT-4",
     "stateDisplay": "Utah",
     "voteClinton": 32.4,
     "votePersonal": 50.1,
     "voteTrump": 39.1,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
