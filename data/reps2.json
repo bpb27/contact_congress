@@ -18486,35 +18486,33 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "412 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "534 Cannon HOB Washington, DC 20515",
         "phone": "202-225-4215"
       },
       {
-        "address": "1 Columbus Street, Suite 900, Virginia Beach, VA 23462",
         "fax": "",
         "name": "Virginia Beach Office",
-        "phone": "888-217-9979"
+        "address": "283 Constitution Way One Columbus Center, Suite 900, Virginia Beach, VA 23462",
+        "phone": "757-364-7650"
       }
     ],
     "district": "2",
     "id": "VA-2",
-    "linkContact": "https://taylor.house.gov/contact/email",
-    "linkMeeting": "",
+    "linkContact": "https://luria.house.gov/contact/email-me",
+    "linkMeeting": "https://luria.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Elaine_Luria",
     "name": "Elaine Luria",
     "party": "Democratic",
     "photoFilename": "virginia2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scott_Taylor_%28politician%29.jpg/75px-Scott_Taylor_%28politician%29.jpg",
-    "socialFacebook": "https://www.facebook.com/scotttaylorvirginia/",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Elaine_Luria_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepElaineLuria",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/scotttaylorva?lang=en",
+    "socialTwitter": "http://twitter.com/RepElaineLuria",
     "socialYoutube": "",
     "state": "virginia",
     "stateAbbreviation": "VA-2",
@@ -18522,7 +18520,7 @@
     "voteClinton": 45.4,
     "votePersonal": 51.1,
     "voteTrump": 48.8,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -18601,155 +18599,147 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "415 Cannon House Office Building, Washington, DC 20515",
         "fax": "",
         "name": "Washington DC Office",
+        "address": "1022 Longworth HOB Washington, DC 20515",
         "phone": "202-225-4711"
       },
       {
-        "address": "686 Berkmar Circle, 2nd Floor, Charlottesville, VA 22901",
         "fax": "",
         "name": "Charlottesville Office",
+        "address": "686 Berkmar Circle Charlottesville, VA 22901",
         "phone": "434-973-9631"
       },
       {
-        "address": "308 Craghead Street, Suite 102D, Danville, VA 24541",
         "fax": "",
         "name": "Danville Office",
+        "address": "308 Craghead Street Suite 102-D, Danville, VA 24541",
         "phone": "434-791-2596"
       }
     ],
     "district": "5",
     "id": "VA-5",
-    "linkContact": "https://tomgarrett.house.gov/contact/email",
-    "linkMeeting": "",
+    "linkContact": "https://riggleman.house.gov/contact/email-me",
+    "linkMeeting": "https://riggleman.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Denver_Riggleman",
     "name": "Denver Riggleman",
     "party": "Republican",
     "photoFilename": "virginia5.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tom_Garrett_official_congressional_photo.jpg/75px-Tom_Garrett_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/congressman-Tom-Garrett-1835767753333490/",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/Rep_Tom_Garrett",
-    "socialYoutube": "http://www.youtube.com/channel/UC_lWS6tnQPcBPlmD2e99zKw",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Denver_Riggleman%2C_official_116th_Congress_photo_portrait.jpg/440px-Denver_Riggleman%2C_official_116th_Congress_photo_portrait.jpg",
+    "socialFacebook": "http://www.facebook.com/RepRiggleman",
+    "socialInstagram": "http://instagram.com/repriggleman/",
+    "socialTwitter": "http://twitter.com/RepRiggleman",
+    "socialYoutube": "http://www.youtube.com/channel/UC8mZiEOiWcSVVyMiUmE0AjQ",
     "state": "virginia",
     "stateAbbreviation": "VA-5",
     "stateDisplay": "Virginia",
     "voteClinton": 42.3,
     "votePersonal": 53.3,
     "voteTrump": 53.4,
-    "yearElected": "2017",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Agriculture",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "2309 Rayburn HOB, Washington, D.C. 20515",
         "fax": "202-225-9681",
-        "name": "Washington DC Office",
+        "name": "Washington Office",
+        "address": "1009 Longworth House Office Building Washington, DC 20515",
         "phone": "202-225-5431"
       },
       {
-        "address": "70 North Mason Street, Harrisonburg, VA 22802",
         "fax": "540-432-6593",
         "name": "Harrisonburg Office",
+        "address": "70 N Mason St, Suite 110 Harrisonburg, VA 22802",
         "phone": "540-432-2391"
       },
       {
-        "address": "916 Main Street, Suite 300, Lynchburg, VA 24504",
         "fax": "434-845-8245",
         "name": "Lynchburg Office",
+        "address": "916 Main St, Suite 300 Lynchburg, VA 24504",
         "phone": "434-845-8306"
       },
       {
-        "address": "10 Franklin Road SE, Suite 540, Roanoke, VA 24011",
         "fax": "540-857-2675",
         "name": "Roanoke Office",
+        "address": "10 Franklin Rd, Suite 510 Roanoke, VA 24011",
         "phone": "540-857-2672"
       },
       {
-        "address": "117 South Lewis Street, Suite 215, Staunton, VA 24401",
         "fax": "540-885-3930",
         "name": "Staunton Office",
+        "address": "117 S Lewis St, Suite 215 Staunton, VA 24401",
         "phone": "540-885-3861"
       }
     ],
     "district": "6",
     "id": "VA-6",
-    "linkContact": "https://goodlatte.house.gov/contact",
-    "linkMeeting": "https://goodlatte.house.gov/constituent-services/meeting-request.htm",
+    "linkContact": "https://cline.house.gov/contact/email-me",
+    "linkMeeting": "https://cline.house.gov/contact/request-an-appearance-district",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_Cline",
     "name": "Ben Cline",
     "party": "Republican",
     "photoFilename": "virginia6.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bob_Goodlatte_official_photo.jpg/75px-Bob_Goodlatte_official_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/BobGoodlatte",
-    "socialInstagram": "https://www.instagram.com/bobgoodlatte/",
-    "socialTwitter": "http://www.twitter.com/repgoodlatte",
-    "socialYoutube": "http://www.youtube.com/RepBobGoodlatte",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ben_Cline%2C_official_portrait%2C_116th_Congress.jpg/440px-Ben_Cline%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/RepBenCline",
+    "socialInstagram": "http://instagram.com/RepBenCline/",
+    "socialTwitter": "http://twitter.com/RepBenCline",
+    "socialYoutube": "http://www.youtube.com/HouseConference",
     "state": "virginia",
     "stateAbbreviation": "VA-6",
     "stateDisplay": "Virginia",
     "voteClinton": 34.9,
     "votePersonal": 59.8,
     "voteTrump": 59.7,
-    "yearElected": "1993",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Budget",
-      "Education and the Workforce",
-      "Small Business"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1628 Longworth HOB, Washington, DC 20515",
-        "fax": "202-225-0011",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1239 Longworth HOB Washington, DC 20515",
         "phone": "202-225-2815"
       },
       {
-        "address": "9104 Courthouse Rd. PO Box 99, Spotsylvania, VA 22553",
-        "fax": "540-507-7019",
-        "name": "Spotsylvania Office",
-        "phone": "540-507-7216"
+        "fax": "",
+        "name": "Glen Allen Office",
+        "address": "4201 Dominion Blvd Suite 110 Glen Allen, VA 23060",
+        "phone": "202-225-2815"
       },
       {
-        "address": "4201 Dominion Blvd, Suite 110, Glen Allen, VA 23060",
-        "fax": "804-747-5308",
-        "name": "Glen Allen Office",
-        "phone": "804-747-4073"
+        "fax": "",
+        "name": "Spotsylvania Office",
+        "address": "9104 Courthouse Rd Room 249 Spotsylvania, VA 22553",
+        "phone": "202-225-2815"
       }
     ],
     "district": "7",
     "id": "VA-7",
-    "linkContact": "http://brat.house.gov/contact/",
-    "linkMeeting": "http://brat.house.gov/forms/meetingrequest/",
+    "linkContact": "https://spanberger.house.gov/contact",
+    "linkMeeting": "https://spanberger.house.gov/forms/meetingrequest/",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Abigail_Spanberger",
     "name": "Abigail Spanberger",
     "party": "Democratic",
     "photoFilename": "virginia7.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dave_Brat_official_congressional_photo.jpg/75px-Dave_Brat_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/RepDaveBrat",
-    "socialInstagram": "",
-    "socialTwitter": "http://www.twitter.com/RepDaveBrat",
-    "socialYoutube": "",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Abigail_Spanberger%2C_official_116th_Congress_photo_portrait.jpg/440px-Abigail_Spanberger%2C_official_116th_Congress_photo_portrait.jpg",
+    "socialFacebook": "https://www.facebook.com/RepAbigailSpanberger",
+    "socialInstagram": "https://www.instagram.com/repspanberger",
+    "socialTwitter": "https://twitter.com/RepSpanberger",
+    "socialYoutube": "https://www.youtube.com/channel/UC66jKgZXnDVGUrOnwHjpvNg",
     "state": "virginia",
     "stateAbbreviation": "VA-7",
     "stateDisplay": "Virginia",
     "voteClinton": 44,
     "votePersonal": 50.4,
     "voteTrump": 50.5,
-    "yearElected": "2014*",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -18846,51 +18836,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "House Administration",
-      "Science, Space, and Technology",
-      "Transportation and Infrastructure"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "229 Cannon House Office Building, Washington, DC 20515",
         "fax": "202-225-0437",
         "name": "Washington DC Office",
+        "address": "1217 Longworth HOB Washington, DC 20515",
         "phone": "202-225-5136"
       },
       {
-        "address": "21430 Cedar Drive, Suite 218, Sterling, VA 20164",
-        "fax": "703-404-6906",
-        "name": "Sterling Office",
-        "phone": "703-404-6903"
-      },
-      {
-        "address": "117 E. Piccadilly Street, Suite 100 D, Winchester, VA 22601",
         "fax": "",
-        "name": "Winchester Office",
-        "phone": "540-773-3600"
+        "name": "Sterling Office",
+        "address": "21351 Gentry Drive Suite 140, Sterling, VA 20166",
+        "phone": ""
       }
     ],
     "district": "10",
     "id": "VA-10",
-    "linkContact": "https://comstock.house.gov/contact/email",
-    "linkMeeting": "https://comstock.house.gov/contact/request-appearance",
+    "linkContact": "https://wexton.house.gov/contact/email-me",
+    "linkMeeting": "https://wexton.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jennifer_Wexton",
     "name": "Jennifer Wexton",
     "party": "Democratic",
     "photoFilename": "virginia10.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Barbara_Comstock_official_photo%2C_114th_Congress.jpg/75px-Barbara_Comstock_official_photo%2C_114th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/RepBarbaraComstock",
-    "socialInstagram": "http://instagram.com/repbarbaracomstock/",
-    "socialTwitter": "https://twitter.com/RepComstock",
-    "socialYoutube": "http://www.youtube.com/channel/UC2IBUvBd51zgaE56fPcZeVA",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jennifer_Wexton_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/CongresswomanWexton",
+    "socialInstagram": "http://instagram.com/repwexton/",
+    "socialTwitter": "http://twitter.com/RepWexton",
+    "socialYoutube": "",
     "state": "virginia",
     "stateAbbreviation": "VA-10",
     "stateDisplay": "Virginia",
     "voteClinton": 52.2,
     "votePersonal": 56.2,
     "voteTrump": 42.2,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -19281,49 +19261,41 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Ways and Means"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1127 Longworth HOB, Washington, DC 20515",
-        "fax": "202-225-4282",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1123 Longworth HOB, Washington, DC 20515",
         "phone": "202-225-7761"
       },
       {
-        "address": "5 South Wenatchee Ave, Suite 315, Wenatchee, WA 98801",
         "fax": "",
-        "name": "Wenatchee Office",
-        "phone": "509-885-6615"
-      },
-      {
-        "address": "22605 SE 56th Street Suite 130, Issaquah, WA 98029",
-        "fax": "425-270-3589",
         "name": "Issaquah Office",
-        "phone": "425-677-7414"
+        "address": "1445 NW Mall St. Suite 4, Issaquah, WA 98027",
+        "phone": "425-657-1001"
       }
     ],
     "district": "8",
     "id": "WA-8",
-    "linkContact": "http://reichert.house.gov/contact-me/email-me",
-    "linkMeeting": "http://reichert.house.gov/contact-me/request-a-meeting",
+    "linkContact": "https://schrier.house.gov/contact/email-me",
+    "linkMeeting": "https://schrier.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kim_Schrier",
     "name": "Kim Schrier",
     "party": "Democratic",
     "photoFilename": "washington8.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dave_Reichert%2C_Official_Portrait%2C_112th_Congress.jpg/75px-Dave_Reichert%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/repdavereichert",
-    "socialInstagram": "https://instagram.com/repdavereichert/",
-    "socialTwitter": "https://twitter.com/davereichert",
-    "socialYoutube": "http://www.youtube.com/repdavereichert",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kim_Schrier%2C_official_portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "http://www.facebook.com/repkimschrier",
+    "socialInstagram": "http://instagram.com/repkimschrier/",
+    "socialTwitter": "http://twitter.com/repkimschrier",
+    "socialYoutube": "",
     "state": "washington",
     "stateAbbreviation": "WA-8",
     "stateDisplay": "Washington",
     "voteClinton": 47.7,
     "votePersonal": 52.4,
     "voteTrump": 44.7,
-    "yearElected": "2005",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
@@ -19512,106 +19484,91 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1609 Longworth House Office Building, Washington, DC 20515",
-        "fax": "202-225-9061",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1605 Longworth HOB, Washington, DC 20515",
         "phone": "202-225-3452"
       },
       {
-        "address": "307 Prince St., Beckley, WV 25801",
-        "fax": "304-250-6179",
-        "name": "Beckley Office",
+        "fax": "",
+        "name": " Beckley Office",
+        "address": "307 Prince Street, Beckley, WV 25801",
         "phone": "304-250-6177"
       },
       {
-        "address": "601 Federal St. Suite 1003, Bluefield, WV 24701",
         "fax": "",
-        "name": "Bluefield Office",
-        "phone": "304-325-6800"
+        "name": " Bluefield Office",
+        "address": "601 Federal Street, Bluefield, WV 24701",
+        "phone": ""
       },
       {
-        "address": "845 Fifth Ave., Suite 314, Huntington, WV 25701",
-        "fax": "304-529-5716",
-        "name": "Huntington Office",
+        "fax": "",
+        "name": " Huntington Office",
+        "address": "845 5th Avenue, Huntington, WV 25701",
         "phone": "304-522-2201"
       }
     ],
     "district": "3",
     "id": "WV-3",
-    "linkContact": "https://evanjenkins.house.gov/contact/email",
-    "linkMeeting": "https://evanjenkins.house.gov/contact/request-appearance",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Alex_Mooney",
+    "linkContact": "https://miller.house.gov/contact/email-me",
+    "linkMeeting": "https://miller.house.gov/contact/request-an-appearance",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Carol_Miller_(politician)",
     "name": "Carol Miller",
     "party": "Republican",
     "photoFilename": "west_virginia3.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Evan_Jenkins_official_congressional_photo.jpg/75px-Evan_Jenkins_official_congressional_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/RepEvanJenkins",
-    "socialInstagram": "http://instagram.com/RepEvanJenkins",
-    "socialTwitter": "http://twitter.com/RepEvanJenkins",
-    "socialYoutube": "http://www.youtube.com/channel/UCSy2mmlbZCv0p07KOw8-m7Q",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Carol_Miller_116_headshot.jpg",
+    "socialFacebook": "http://www.facebook.com/RepCarolMiller",
+    "socialInstagram": "http://instagram.com/repcarolmiller/",
+    "socialTwitter": "http://twitter.com/RepCarolMiller",
+    "socialYoutube": "",
     "state": "west_virginia",
     "stateAbbreviation": "WV-3",
     "stateDisplay": "West Virginia",
     "voteClinton": 23.3,
     "votePersonal": 56.4,
     "voteTrump": 72.5,
-    "yearElected": "2015",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
-    "committees": [
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "1233 Longworth House Office Bldg, Washington, DC 20515",
-        "fax": "202-225-3393",
+        "fax": "",
         "name": "Washington DC Office",
+        "address": "1408 Longworth HOB, Washington, DC 20515",
         "phone": "202-225-3031"
       },
       {
-        "address": "20 South Main Street, Suite 10, Janesville, WI 53545",
-        "fax": "608-752-4711",
+        "fax": "",
         "name": "Janesville Office",
+        "address": "20 S. Main St. Suite 10, Janesville, WI 53545",
         "phone": "608-752-4050"
-      },
-      {
-        "address": "5031 7th Avenue, Kenosha, WI 53140",
-        "fax": "262-654-2156",
-        "name": "Kenosha Office",
-        "phone": "262-654-1901"
-      },
-      {
-        "address": "216 6th Street, Racine, WI 53403",
-        "fax": "262-637-5689",
-        "name": "Racine Office",
-        "phone": "262-637-0510"
       }
     ],
     "district": "1",
     "id": "WI-1",
-    "linkContact": "https://paulryan.house.gov/Contact/Email.htm",
-    "linkMeeting": "https://paulryan.house.gov/Contact/Scheduling.htm",
+    "linkContact": "https://steil.house.gov/contact/email-me",
+    "linkMeeting": "https://steil.house.gov/contact/request-an-appearance",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bryan_Steil",
     "name": "Bryan Steil",
     "party": "Republican",
-    "photoFilename": "wisconsin1.png",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Paul_Ryan--113th_Congress--.png/75px-Paul_Ryan--113th_Congress--.png",
-    "socialFacebook": "https://facebook.com/speakerryan",
-    "socialInstagram": "https://instagram.com/SpeakerRyan",
-    "socialTwitter": "https://twitter.com/SpeakerRyan",
-    "socialYoutube": "https://youtube.com/SpeakerRyan",
+    "photoFilename": "wisconsin1.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bryan_Steil.jpg/440px-Bryan_Steil.jpg",
+    "socialFacebook": "http://www.facebook.com/RepBryanSteil/",
+    "socialInstagram": "http://instagram.com/repbryansteil/",
+    "socialTwitter": "http://twitter.com/repbryansteil",
+    "socialYoutube": "",
     "state": "wisconsin",
     "stateAbbreviation": "WI-1",
     "stateDisplay": "Wisconsin",
     "voteClinton": 42.3,
     "votePersonal": 54.6,
     "voteTrump": 52.6,
-    "yearElected": "1999",
+    "yearElected": "2018",
     "yearReelection": "2020"
   },
   {
