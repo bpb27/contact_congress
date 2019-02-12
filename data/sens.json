@@ -48,9 +48,6 @@
     "linkMeeting": "http://www.shelby.senate.gov/public/index.cfm/requestameeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Richard_Shelby",
     "name": "Richard Shelby",
-    "numbersAca": 165600,
-    "numbersMedicaid": 1047100,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "alabama_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Richard_Shelby%2C_official_portrait%2C_112th_Congress_crop.jpg/95px-Richard_Shelby%2C_official_portrait%2C_112th_Congress_crop.jpg",
@@ -104,9 +101,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)",
     "name": "Doug Jones",
-    "numbersAca": 165600,
-    "numbersMedicaid": 1047100,
-    "numbersMedicaidAca": 0,
     "party": "Democratic",
     "photoFilename": "alabama_sen2.jpg",
     "photoUrl": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)#/media/File:Senator_Doug_Jones_official_photo.jpg",
@@ -180,9 +174,6 @@
     "linkMeeting": "https://www.murkowski.senate.gov/contact/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
     "name": "Lisa Murkowski",
-    "numbersAca": 18000,
-    "numbersMedicaid": 137800,
-    "numbersMedicaidAca": 14400,
     "party": "Republican",
     "photoFilename": "alaska_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lisa_Murkowski.jpg/95px-Lisa_Murkowski.jpg",
@@ -255,9 +246,6 @@
     "linkMeeting": "http://www.sullivan.senate.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._Senator)",
     "name": "Dan Sullivan",
-    "numbersAca": 18000,
-    "numbersMedicaid": 137800,
-    "numbersMedicaidAca": 14400,
     "party": "Republican",
     "photoFilename": "alaska_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/95px-Senator_Dan_Sullivan_official.jpg",
@@ -275,16 +263,11 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Homeland Security and Governmental Affairs",
-      "Indian Affairs",
-      "Intelligence"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "218 Russell Senate Office Building, Washington, DC 20510",
-        "fax": "202-228-2862",
+        "address": "B40D Dirksen Senate Office Building, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-2235"
       },
@@ -293,93 +276,66 @@
         "fax": "855-952-8702",
         "name": "Phoenix Office",
         "phone": "602-952-2410"
-      },
-      {
-        "address": "122 North Cortez Street, Suite 108, Prescott, AZ 86301",
-        "fax": "928-445-8594",
-        "name": "Prescott Office",
-        "phone": "928-445-0833"
-      },
-      {
-        "address": "407 West Congress Street, Suite 103, Tucson, AZ 85701",
-        "fax": "520-670-6334",
-        "name": "Tucson Office",
-        "phone": "520-670-6637"
       }
     ],
     "id": "AZ-1",
-    "linkContact": "https://www.mccain.senate.gov/public/index.cfm/contact-form",
+    "linkContact": "https://www.mcsally.senate.gov/contact_martha",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/John_McCain",
-    "name": "John McCain",
-    "numbersAca": 179700,
-    "numbersMedicaid": 1884600,
-    "numbersMedicaidAca": 418400,
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Martha_McSally",
+    "name": "Martha McSally",
     "party": "Republican",
     "photoFilename": "arizona_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/95px-John_McCain_official_portrait_2009.jpg",
-    "socialFacebook": "http://www.facebook.com/johnmccain",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/senjohnmccain",
-    "socialYoutube": "http://www.youtube.com/user/SenatorJohnMcCain?feature=mhum",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sen._Martha_McSally_official_Senate_headshot_116th_congress.jpg/440px-Sen._Martha_McSally_official_Senate_headshot_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenMarthaMcSally/",
+    "socialInstagram": "https://www.instagram.com/senmcsallyaz/",
+    "socialTwitter": "https://twitter.com/SenMcSallyAZ",
+    "socialYoutube": "https://www.youtube.com/channel/UCfHMG2Db0TJ_RatSBHuH8NA",
     "state": "arizona",
     "stateAbbreviation": "AZ",
     "stateDisplay": "Arizona",
     "voteClinton": 45.1,
-    "votePersonal": 53,
+    "votePersonal": 47.6,
     "voteTrump": 48.7,
-    "yearElected": "1987",
-    "yearReelection": "2022"
+    "yearElected": "2018",
+    "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Natural Resources",
-      "Foreign Relations",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "Senate Russell Office Building 413, Washington, D.C. 20510",
-        "fax": "202-228-0515",
+        "address": "825 B&C Hart Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-4521"
       },
       {
         "address": "2200 East Camelback Road, Suite 120, Phoenix, AZ 85016",
-        "fax": "602-840-4092",
+        "fax": "",
         "name": "Phoenix Office",
-        "phone": "602-840-1891"
-      },
-      {
-        "address": "6840 North Oracle Road, Suite 150, Tucson, AZ 85704",
-        "fax": "520-797-3232",
-        "name": "Tucson Office",
-        "phone": "520-575-8633"
+        "phone": "602-598-7327"
       }
     ],
     "id": "AZ-2",
-    "linkContact": "http://www.flake.senate.gov/public/index.cfm/contact-jeff",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Flake",
-    "name": "Jeff Flake",
-    "numbersAca": 179700,
-    "numbersMedicaid": 1884600,
-    "numbersMedicaidAca": 418400,
-    "party": "Republican",
+    "linkContact": "https://www.sinema.senate.gov/contact-kyrsten",
+    "linkMeeting": "https://www.sinema.senate.gov/schedule-a-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Kyrsten_Sinema",
+    "name": "Kyrsten Sinema",
+    "party": "Democratic",
     "photoFilename": "arizona_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jeff_Flake_official_Senate_photo.jpg/95px-Jeff_Flake_official_Senate_photo.jpg",
-    "socialFacebook": "https://www.facebook.com/senatorjeffflake",
-    "socialInstagram": "https://instagram.com/jeffflake/",
-    "socialTwitter": "http://twitter.com/JeffFlake",
-    "socialYoutube": "http://www.youtube.com/flakeoffice",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyrsten_Sinema_%28cropped%29.jpg/440px-Kyrsten_Sinema_%28cropped%29.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorSinema",
+    "socialInstagram": "https://www.instagram.com/SenatorSinema",
+    "socialTwitter": "https://twitter.com/kyrstensinema",
+    "socialTwitter2": "https://www.twitter.com/SenatorSinema",
+    "socialYoutube": "",
     "state": "arizona",
     "stateAbbreviation": "AZ",
     "stateDisplay": "Arizona",
     "voteClinton": 45.1,
-    "votePersonal": 49.2,
+    "votePersonal": 50.0,
     "voteTrump": 48.7,
-    "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -445,9 +401,6 @@
     "linkTeletownhall": "https://www.boozman.senate.gov/public/index.cfm/signup-for-telephone-townhalls",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Boozman",
     "name": "John Boozman",
-    "numbersAca": 63400,
-    "numbersMedicaid": 767000,
-    "numbersMedicaidAca": 303900,
     "party": "Republican",
     "photoFilename": "arkansas_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/John_Boozman%2C_official_portrait%2C_112th_Congress.jpg/95px-John_Boozman%2C_official_portrait%2C_112th_Congress.jpg",
@@ -489,9 +442,6 @@
     "linkMeeting": "https://www.cotton.senate.gov/?p=scheduling_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Cotton",
     "name": "Tom Cotton",
-    "numbersAca": 63400,
-    "numbersMedicaid": 767000,
-    "numbersMedicaidAca": 303900,
     "party": "Republican",
     "photoFilename": "arkansas_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tom_Cotton_official_Senate_photo.jpg/95px-Tom_Cotton_official_Senate_photo.jpg",
@@ -552,9 +502,6 @@
     "linkMeeting": "http://www.feinstein.senate.gov/public/index.cfm/scheduling",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dianne_Feinstein",
     "name": "Dianne Feinstein",
-    "numbersAca": 1415300,
-    "numbersMedicaid": 13107000,
-    "numbersMedicaidAca": 3541700,
     "party": "Democratic",
     "photoFilename": "california_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dianne_Feinstein%2C_official_Senate_photo_2.jpg/95px-Dianne_Feinstein%2C_official_Senate_photo_2.jpg",
@@ -566,10 +513,10 @@
     "stateAbbreviation": "CA",
     "stateDisplay": "California",
     "voteClinton": 61.7,
-    "votePersonal": 62.5,
+    "votePersonal": 54.2,
     "voteTrump": 31.6,
     "yearElected": "1992",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -621,9 +568,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kamala_Harris",
     "name": "Kamala Harris",
-    "numbersAca": 1415300,
-    "numbersMedicaid": 13107000,
-    "numbersMedicaidAca": 3541700,
     "party": "Democratic",
     "photoFilename": "california_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kamala_Harris_Official_Attorney_General_Photo.jpg/95px-Kamala_Harris_Official_Attorney_General_Photo.jpg",
@@ -701,9 +645,6 @@
     "linkMeeting": "https://www.bennet.senate.gov/?p=scheduling_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Michael_Bennet",
     "name": "Michael Bennet",
-    "numbersAca": 108400,
-    "numbersMedicaid": 1321700,
-    "numbersMedicaidAca": 425500,
     "party": "Democratic",
     "photoFilename": "colorado_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Michael_Bennet_Official_Photo.jpg/95px-Michael_Bennet_Official_Photo.jpg",
@@ -788,9 +729,6 @@
     "linkMeeting": "https://www.gardner.senate.gov/contact-cory/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Cory_Gardner",
     "name": "Cory Gardner",
-    "numbersAca": 108400,
-    "numbersMedicaid": 1321700,
-    "numbersMedicaidAca": 425500,
     "party": "Republican",
     "photoFilename": "colorado_sen2.jpeg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cory_Gardner_official_Senate_portrait.jpeg/95px-Cory_Gardner_official_Senate_portrait.jpeg",
@@ -839,9 +777,6 @@
     "linkMeeting": "https://www.blumenthal.senate.gov/services/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Richard_Blumenthal",
     "name": "Richard Blumenthal",
-    "numbersAca": 103000,
-    "numbersMedicaid": 856100,
-    "numbersMedicaidAca": 207600,
     "party": "Democratic",
     "photoFilename": "connecticut_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Richard_Blumenthal_Official_Portrait.jpg/95px-Richard_Blumenthal_Official_Portrait.jpg",
@@ -883,9 +818,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Murphy_(Connecticut_politician)",
     "name": "Chris Murphy",
-    "numbersAca": 103000,
-    "numbersMedicaid": 856100,
-    "numbersMedicaidAca": 207600,
     "party": "Democratic",
     "photoFilename": "connecticut_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chris_Murphy%2C_official_portrait%2C_113th_Congress.jpg/95px-Chris_Murphy%2C_official_portrait%2C_113th_Congress.jpg",
@@ -897,10 +829,10 @@
     "stateAbbreviation": "CT",
     "stateDisplay": "Connecticut",
     "voteClinton": 54.6,
-    "votePersonal": 54.8,
+    "votePersonal": 58.4,
     "voteTrump": 40.9,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -939,9 +871,6 @@
     "linkMeeting": "http://www.carper.senate.gov/public/index.cfm/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Carper",
     "name": "Tom Carper",
-    "numbersAca": 25400,
-    "numbersMedicaid": 221800,
-    "numbersMedicaidAca": 67900,
     "party": "Democratic",
     "photoFilename": "delaware_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tom_Carper%2C_official_portrait%2C_112th_Congress.jpg/95px-Tom_Carper%2C_official_portrait%2C_112th_Congress.jpg",
@@ -953,10 +882,10 @@
     "stateAbbreviation": "DE",
     "stateDisplay": "Delaware",
     "voteClinton": 53.2,
-    "votePersonal": 66.4,
+    "votePersonal": 60.0,
     "voteTrump": 41.8,
     "yearElected": "2001",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -991,9 +920,6 @@
     "linkMeeting": "https://www.coons.senate.gov/services/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Coons",
     "name": "Chris Coons",
-    "numbersAca": 25400,
-    "numbersMedicaid": 221800,
-    "numbersMedicaidAca": 67900,
     "party": "Democratic",
     "photoFilename": "delaware_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chris_Coons%2C_official_portrait%2C_112th_Congress.jpg/95px-Chris_Coons%2C_official_portrait%2C_112th_Congress.jpg",
@@ -1011,90 +937,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Commerce, Science, and Transportation",
-      "Finance"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "716 Senate Hart Office Building, Washington, DC 20510",
-        "fax": "202-228-2183",
+        "address": "B3 Russell Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-5274"
-      },
-      {
-        "address": "3416 South University Drive, Fort Lauderdale, FL 33328",
-        "fax": "954-693-4862",
-        "name": "Fort Lauderdale Office",
-        "phone": "954-693-4851"
-      },
-      {
-        "address": "2000 Main Street, Suite 801, Fort Myers, FL 33901",
-        "fax": "239-334-7710",
-        "name": "Fort Myers Office",
-        "phone": "239-334-7760"
-      },
-      {
-        "address": "1301 Riverplace Blvd., Suite 2010, Jacksonville, FL 32207",
-        "fax": "904-346-4506",
-        "name": "Jacksonville Office",
-        "phone": "904-346-4500"
-      },
-      {
-        "address": "2555 Ponce De Leon Boulevard, Suite 610, Coral Gables, FL 33134",
-        "fax": "305-536-5991",
-        "name": "Miami-Dade Office",
-        "phone": "305-536-5999"
-      },
-      {
-        "address": "225 East Robinson Street, Suite 410, Orlando, FL 32801",
-        "fax": "407-872-7165",
-        "name": "Orlando Office",
-        "phone": "407-872-7161"
-      },
-      {
-        "address": "111 North Adams Street, Tallahassee, FL 32301",
-        "fax": "850-942-8450",
-        "name": "Tallahassee Office",
-        "phone": "850-942-8415"
-      },
-      {
-        "address": "801 N. Florida Ave., 4th Floor, Tampa, FL 33602",
-        "fax": "813-225-7050",
-        "name": "Tampa Office",
-        "phone": "813-225-7040"
-      },
-      {
-        "address": "413 Clematis Street, Suite 210, West Palm Beach, FL 33401",
-        "fax": "561-514-4078",
-        "name": "West Palm Beach Office",
-        "phone": "561-514-0189"
       }
     ],
     "id": "FL-1",
-    "linkContact": "https://www.billnelson.senate.gov/contact-bill",
+    "linkContact": "",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Nelson",
-    "name": "Bill Nelson",
-    "numbersAca": 1531800,
-    "numbersMedicaid": 4031300,
-    "numbersMedicaidAca": 0,
-    "party": "Democratic",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Rick_Scott",
+    "name": "Rick Scott",
+    "party": "Republican",
     "photoFilename": "florida_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bill_Nelson.jpg/95px-Bill_Nelson.jpg",
-    "socialFacebook": "https://www.facebook.com/billnelson",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sen._Rick_Scott_%28R-FL%29_official_Senate_portrait.jpg",
+    "socialFacebook": "",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/senbillnelson",
+    "socialTwitter": "",
     "socialYoutube": "",
     "state": "florida",
     "stateAbbreviation": "FL",
     "stateDisplay": "Florida",
     "voteClinton": 47.8,
-    "votePersonal": 55.2,
+    "votePersonal": 50.1,
     "voteTrump": 49,
-    "yearElected": "2001",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -1158,9 +1029,6 @@
     "linkMeeting": "http://www.rubio.senate.gov/public/index.cfm/coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio",
     "name": "Marco Rubio",
-    "numbersAca": 1531800,
-    "numbersMedicaid": 4031300,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "florida_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marco_Rubio%2C_Official_Portrait%2C_112th_Congress.jpg/95px-Marco_Rubio%2C_Official_Portrait%2C_112th_Congress.jpg",
@@ -1204,9 +1072,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Johnny_Isakson",
     "name": "Johnny Isakson",
-    "numbersAca": 478100,
-    "numbersMedicaid": 1889500,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "georgia_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johnny_Isakson_official_Senate_photo.jpg/95px-Johnny_Isakson_official_Senate_photo.jpg",
@@ -1248,9 +1113,6 @@
     "linkMeeting": "http://www.perdue.senate.gov/connect/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/David_Perdue",
     "name": "David Perdue",
-    "numbersAca": 478100,
-    "numbersMedicaid": 1889500,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "georgia_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/David_Perdue_official_Senate_photo.jpg/95px-David_Perdue_official_Senate_photo.jpg",
@@ -1294,9 +1156,6 @@
     "linkMeeting": "http://www.schatz.senate.gov/services/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Brian_Schatz",
     "name": "Brian Schatz",
-    "numbersAca": 13300,
-    "numbersMedicaid": 319300,
-    "numbersMedicaidAca": 110000,
     "party": "Democratic",
     "photoFilename": "hawaii_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Brian_Schatz%2C_official_portrait%2C_113th_Congress_2.jpg/95px-Brian_Schatz%2C_official_portrait%2C_113th_Congress_2.jpg",
@@ -1340,9 +1199,6 @@
     "linkMeeting": "https://www.hirono.senate.gov/help/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mazie_Hirono",
     "name": "Mazie Hirono",
-    "numbersAca": 13300,
-    "numbersMedicaid": 319300,
-    "numbersMedicaidAca": 110000,
     "party": "Democratic",
     "photoFilename": "hawaii_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mazie_Hirono%2C_official_portrait%2C_113th_Congress.jpg/95px-Mazie_Hirono%2C_official_portrait%2C_113th_Congress.jpg",
@@ -1354,10 +1210,10 @@
     "stateAbbreviation": "HI",
     "stateDisplay": "Hawaii",
     "voteClinton": 62.2,
-    "votePersonal": 62.6,
+    "votePersonal": 72.7,
     "voteTrump": 30,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -1416,9 +1272,6 @@
     "linkMeeting": "http://www.crapo.senate.gov/contact/scheduling.cfm",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Crapo",
     "name": "Mike Crapo",
-    "numbersAca": 94300,
-    "numbersMedicaid": 305300,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "idaho_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mike_Crapo_Official_Photo_110th_Congress.jpg/95px-Mike_Crapo_Official_Photo_110th_Congress.jpg",
@@ -1492,9 +1345,6 @@
     "linkMeeting": "http://www.risch.senate.gov/public/index.cfm/meetingrequests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Risch",
     "name": "Jim Risch",
-    "numbersAca": 94300,
-    "numbersMedicaid": 305300,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "idaho_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Jim_Risch_official_portrait.jpg/95px-Jim_Risch_official_portrait.jpg",
@@ -1554,9 +1404,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Dick_Durbin",
     "name": "Dick Durbin",
-    "numbersAca": 335100,
-    "numbersMedicaid": 2925100,
-    "numbersMedicaidAca": 681000,
     "party": "Democratic",
     "photoFilename": "illinois_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Richard_Durbin_official_photo.jpg/95px-Richard_Durbin_official_photo.jpg",
@@ -1599,9 +1446,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tammy_Duckworth",
     "name": "Tammy Duckworth",
-    "numbersAca": 335100,
-    "numbersMedicaid": 2925100,
-    "numbersMedicaidAca": 681000,
     "party": "Democratic",
     "photoFilename": "illinois_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tammy_Duckworth%2C_official_portrait%2C_113th_Congress.jpg/95px-Tammy_Duckworth%2C_official_portrait%2C_113th_Congress.jpg",
@@ -1619,78 +1463,59 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Agriculture, Nutrition and Forestry",
-      "Armed Services",
-      "Banking, Housing, and Urban Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "720 Hart Senate Office Building, Washington, D.C. 20510",
-        "fax": "202-224-5011",
+        "address": "B-85 Russell, Senate Office Building, Washington D.C. 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-4814"
       },
       {
-        "address": "123 NW 4th Street, Suite 417, Evansville, IN 47708",
-        "fax": "812-425-5817",
-        "name": "Evansville Office",
-        "phone": "812-425-5813"
-      },
-      {
         "address": "203 East Berry Street, Suite 702-B, Fort Wayne, IN 46802",
-        "fax": "260-420-4930",
+        "fax": "",
         "name": "Fort Wayne Office",
-        "phone": "260-420-4955"
+        "phone": "260-427-2167"
       },
       {
         "address": "5400 Federal Plaza, Suite 3200, Hammond, IN 46320",
         "fax": "219-852-0729",
         "name": "Hammond Office",
-        "phone": "219-852-0089"
+        "phone": "219-937-9650"
       },
       {
-        "address": "115 N. Pennsylvania Street Suite 100, Indianapolis, IN 46204",
-        "fax": "855-772-7518",
+        "address": "115 N. Pennsylvania Street, Indianapolis, IN 46204",
+        "fax": "317-822-8353",
         "name": "Indianapolis Office",
-        "phone": "317-226-5555"
-      },
-      {
-        "address": "702 North Shore Drive, Suite LL-101, Jeffersonville, IN 47130",
-        "fax": "812-284-2044",
-        "name": "Jeffersonville Office",
-        "phone": "812-284-2027"
+        "phone": "317-822-8240"
       },
       {
         "address": "205 West Colfax Avenue, South Bend, IN 46601",
-        "fax": "574-234-7476",
+        "fax": "",
         "name": "South Bend Office",
-        "phone": "574-288-2780"
+        "phone": "574-288-6302"
       }
     ],
     "id": "IN-1",
-    "linkContact": "http://www.donnelly.senate.gov/contact/email-joe",
-    "linkMeeting": "http://www.donnelly.senate.gov/contact/scheduling-request",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Donnelly",
-    "name": "Joe Donnelly",
-    "numbersAca": 168800,
-    "numbersMedicaid": 1280300,
-    "numbersMedicaidAca": 381600,
-    "party": "Democratic",
+    "linkContact": "https://www.braun.senate.gov/contact-mike",
+    "linkMeeting": "https://www.braun.senate.gov/scheduling_requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Braun",
+    "name": "Mike Braun",
+    "party": "Republican",
     "photoFilename": "indiana_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Donnelly%2C_official_portrait%2C_113th_Congress.jpg/95px-Joe_Donnelly%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/senatordonnelly",
-    "socialInstagram": "http://www.instagram.com/sendonnelly/",
-    "socialTwitter": "https://twitter.com/SenDonnelly",
-    "socialYoutube": "http://www.youtube.com/sendonnelly",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mike_Braun%2C_Official_Portrait%2C_116th_Congress.jpg/440px-Mike_Braun%2C_Official_Portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorBraun/",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/SenatorBraun",
+    "socialYoutube": "https://www.youtube.com/channel/UCQ02jR4CJErAbv3522PJffA",
     "state": "indiana",
     "stateAbbreviation": "IN",
     "stateDisplay": "Indiana",
     "voteClinton": 37.9,
-    "votePersonal": 50,
+    "votePersonal": 51.0,
     "voteTrump": 56.8,
-    "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -1736,9 +1561,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Todd_Young",
     "name": "Todd Young",
-    "numbersAca": 168800,
-    "numbersMedicaid": 1280300,
-    "numbersMedicaidAca": 381600,
     "party": "Republican",
     "photoFilename": "indiana_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Todd_Young%2C_Official_Portrait%2C_112th_Congress.jpg/95px-Todd_Young%2C_Official_Portrait%2C_112th_Congress.jpg",
@@ -1811,9 +1633,6 @@
     "linkMeeting": "http://www.grassley.senate.gov/contact/request-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chuck_Grassley",
     "name": "Chuck Grassley",
-    "numbersAca": 49000,
-    "numbersMedicaid": 591400,
-    "numbersMedicaidAca": 149300,
     "party": "Republican",
     "photoFilename": "iowa_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sen_Chuck_Grassley_official.jpg/95px-Sen_Chuck_Grassley_official.jpg",
@@ -1880,9 +1699,6 @@
     "linkMeeting": "http://www.ernst.senate.gov/public/index.cfm/?p=meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joni_Ernst",
     "name": "Joni Ernst",
-    "numbersAca": 49000,
-    "numbersMedicaid": 591400,
-    "numbersMedicaidAca": 149300,
     "party": "Republican",
     "photoFilename": "iowa_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Joni_Ernst_Official_photo_portrait_114th_Congress.jpg/95px-Joni_Ernst_Official_photo_portrait_114th_Congress.jpg",
@@ -1944,9 +1760,6 @@
     "linkMeeting": "http://www.roberts.senate.gov/public/index.cfm?p=SchedulingInfo",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pat_Roberts",
     "name": "Pat Roberts",
-    "numbersAca": 89500,
-    "numbersMedicaid": 384900,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "kansas_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pat_Roberts_official_Senate_photo.jpg/95px-Pat_Roberts_official_Senate_photo.jpg",
@@ -2014,9 +1827,6 @@
     "linkMeeting": "http://www.moran.senate.gov/public/index.cfm/schedule-request-form",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jerry_Moran",
     "name": "Jerry Moran",
-    "numbersAca": 89500,
-    "numbersMedicaid": 384900,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "kansas_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jerry_Moran%2C_official_portrait%2C_112th_Congress_headshot.jpg/95px-Jerry_Moran%2C_official_portrait%2C_112th_Congress_headshot.jpg",
@@ -2089,9 +1899,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mitch_McConnell",
     "name": "Mitch McConnell",
-    "numbersAca": 74600,
-    "numbersMedicaid": 1281500,
-    "numbersMedicaidAca": 443300,
     "party": "Republican",
     "photoFilename": "kentucky_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mitch_McConnell_official_portrait_112th_Congress.jpg/95px-Mitch_McConnell_official_portrait_112th_Congress.jpg",
@@ -2134,9 +1941,6 @@
     "linkMeeting": "https://www.paul.senate.gov/connect/schedule-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rand_Paul",
     "name": "Rand Paul",
-    "numbersAca": 74600,
-    "numbersMedicaid": 1281500,
-    "numbersMedicaidAca": 443300,
     "party": "Republican",
     "photoFilename": "kentucky_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rand_Paul%2C_official_portrait%2C_112th_Congress_alternate.jpg/95px-Rand_Paul%2C_official_portrait%2C_112th_Congress_alternate.jpg",
@@ -2215,9 +2019,6 @@
     "linkMeeting": "http://www.cassidy.senate.gov/helping-you/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Cassidy",
     "name": "Bill Cassidy",
-    "numbersAca": 184300,
-    "numbersMedicaid": 1466200,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "louisiana_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bill_Cassidy_official_Senate_photo.jpg/95px-Bill_Cassidy_official_Senate_photo.jpg",
@@ -2255,9 +2056,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Neely_Kennedy",
     "name": "John Kennedy",
-    "numbersAca": 184300,
-    "numbersMedicaid": 1466200,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "louisiana_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_Neely_Kennedy%2C_official_portrait%2C_115th_Congress.jpg/95px-John_Neely_Kennedy%2C_official_portrait%2C_115th_Congress.jpg",
@@ -2329,9 +2127,6 @@
     "linkMeeting": "https://www.collins.senate.gov/services/invitations",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Susan_Collins",
     "name": "Susan Collins",
-    "numbersAca": 75200,
-    "numbersMedicaid": 272100,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "maine_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sen_Susan_Collins_official.jpg/95px-Sen_Susan_Collins_official.jpg",
@@ -2393,9 +2188,6 @@
     "linkMeeting": "http://www.king.senate.gov/services/scheduling",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Angus_King",
     "name": "Angus King",
-    "numbersAca": 75200,
-    "numbersMedicaid": 272100,
-    "numbersMedicaidAca": 0,
     "party": "Independent",
     "photoFilename": "maine_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Angus_King_official_portrait.jpg/95px-Angus_King_official_portrait.jpg",
@@ -2407,10 +2199,10 @@
     "stateAbbreviation": "ME",
     "stateDisplay": "Maine",
     "voteClinton": 47.8,
-    "votePersonal": 52.9,
+    "votePersonal": 54.2,
     "voteTrump": 44.9,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -2468,9 +2260,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_Cardin",
     "name": "Ben Cardin",
-    "numbersAca": 135300,
-    "numbersMedicaid": 1103700,
-    "numbersMedicaidAca": 248200,
     "party": "Democratic",
     "photoFilename": "maryland_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ben_Cardin_official_Senate_portrait.jpg/95px-Ben_Cardin_official_Senate_portrait.jpg",
@@ -2482,10 +2271,10 @@
     "stateAbbreviation": "MD",
     "stateDisplay": "Maryland",
     "voteClinton": 60.3,
-    "votePersonal": 56,
+    "votePersonal": 64.2,
     "voteTrump": 33.9,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -2507,9 +2296,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
     "name": "Chris Van Hollen",
-    "numbersAca": 135300,
-    "numbersMedicaid": 1103700,
-    "numbersMedicaidAca": 248200,
     "party": "Democratic",
     "photoFilename": "maryland_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chris_Van_Hollen_official_portrait%2C_2010.jpg/95px-Chris_Van_Hollen_official_portrait%2C_2010.jpg",
@@ -2557,9 +2343,6 @@
     "linkMeeting": "https://www.warren.senate.gov/?p=meeting_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
     "name": "Elizabeth Warren",
-    "numbersAca": 207000,
-    "numbersMedicaid": 1845500,
-    "numbersMedicaidAca": 398300,
     "party": "Democratic",
     "photoFilename": "massachusetts_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Elizabeth_Warren%2C_official_portrait%2C_114th_Congress.jpg/95px-Elizabeth_Warren%2C_official_portrait%2C_114th_Congress.jpg",
@@ -2571,10 +2354,10 @@
     "stateAbbreviation": "MA",
     "stateDisplay": "Massachusetts",
     "voteClinton": 60,
-    "votePersonal": 53.7,
+    "votePersonal": 60.5,
     "voteTrump": 32.8,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -2614,9 +2397,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ed_Markey",
     "name": "Ed Markey",
-    "numbersAca": 207000,
-    "numbersMedicaid": 1845500,
-    "numbersMedicaidAca": 398300,
     "party": "Democratic",
     "photoFilename": "massachusetts_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Edward_Markey%2C_official_portrait%2C_114th_Congress.jpg/95px-Edward_Markey%2C_official_portrait%2C_114th_Congress.jpg",
@@ -2689,9 +2469,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Debbie_Stabenow",
     "name": "Debbie Stabenow",
-    "numbersAca": 313100,
-    "numbersMedicaid": 2321200,
-    "numbersMedicaidAca": 637200,
     "party": "Democratic",
     "photoFilename": "michigan_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Debbie_Stabenow%2C_official_portrait.jpg/95px-Debbie_Stabenow%2C_official_portrait.jpg",
@@ -2703,10 +2480,10 @@
     "stateAbbreviation": "MI",
     "stateDisplay": "Michigan",
     "voteClinton": 47.3,
-    "votePersonal": 58.8,
+    "votePersonal": 51.8,
     "voteTrump": 47.5,
     "yearElected": "2001",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -2769,9 +2546,6 @@
     "linkMeeting": "https://www.peters.senate.gov/contact/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Gary_Peters_(politician)",
     "name": "Gary Peters",
-    "numbersAca": 313100,
-    "numbersMedicaid": 2321200,
-    "numbersMedicaidAca": 637200,
     "party": "Democratic",
     "photoFilename": "michigan_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gary_Peters%2C_official_portrait%2C_114th_Congress.jpg/95px-Gary_Peters%2C_official_portrait%2C_114th_Congress.jpg",
@@ -2832,9 +2606,6 @@
     "linkMeeting": "http://www.klobuchar.senate.gov/public/index.cfm/minnesota-mornings",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
     "name": "Amy Klobuchar",
-    "numbersAca": 141500,
-    "numbersMedicaid": 1246000,
-    "numbersMedicaidAca": 222900,
     "party": "Democratic",
     "photoFilename": "minnesota_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg/95px-Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg",
@@ -2846,10 +2617,10 @@
     "stateAbbreviation": "MN",
     "stateDisplay": "Minnesota",
     "voteClinton": 46.4,
-    "votePersonal": 65.2,
+    "votePersonal": 60.9,
     "voteTrump": 44.9,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -2871,9 +2642,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tina_Smith",
     "name": "Tina Smith",
-    "numbersAca": 141500,
-    "numbersMedicaid": 1246000,
-    "numbersMedicaidAca": 222900,
     "party": "Democratic",
     "photoFilename": "minnesota_sen2.png",
     "photoUrl": "https://en.wikipedia.org/wiki/File:Senator_Smith_official_photo.jpg",
@@ -2927,9 +2695,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Thad_Cochran",
     "name": "Thad Cochran",
-    "numbersAca": 77800,
-    "numbersMedicaid": 729700,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "mississippi_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CochranThad%28R-MS%29.jpg/95px-CochranThad%28R-MS%29.jpg",
@@ -2990,9 +2755,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Roger_Wicker",
     "name": "Roger Wicker",
-    "numbersAca": 77800,
-    "numbersMedicaid": 729700,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "mississippi_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SenatorRogerWicker%28R-MS%29.jpg/95px-SenatorRogerWicker%28R-MS%29.jpg",
@@ -3004,72 +2766,41 @@
     "stateAbbreviation": "MS",
     "stateDisplay": "Mississippi",
     "voteClinton": 40.1,
-    "votePersonal": 57.2,
+    "votePersonal": 58.9,
     "voteTrump": 57.9,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Finance",
-      "Homeland Security and Governmental Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "503 Hart Senate Office Building, Washington, D.C. 20510",
-        "fax": "202-228-6326",
+        "address": "B40A Dirksen Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-6154"
-      },
-      {
-        "address": "324 Park Central West, Ste. 101, Springfield, Missouri 65806",
-        "fax": "417-831-1349",
-        "name": "Springfield Office",
-        "phone": "417-868-8745"
-      },
-      {
-        "address": "28 N. 8th St., Ste. 500, Columbia, Missouri 65201",
-        "fax": "573-442-7140",
-        "name": "Columbia Office",
-        "phone": "573-442-7130"
-      },
-      {
-        "address": "5850 Delmar Blvd., Ste. A, St. Louis, Missouri 63112",
-        "fax": "314-361-8649",
-        "name": "Kansas City Office",
-        "phone": "314-367-1364"
-      },
-      {
-        "address": "555 Independence St., Room 1600, Cape Girardeau, Missouri 63703",
-        "fax": "573-334-4278",
-        "name": "Cape Girardeau Office",
-        "phone": "573-651-0964"
       }
     ],
     "id": "MO-1",
-    "linkContact": "https://www.mccaskill.senate.gov/contact",
-    "linkMeeting": "https://www.mccaskill.senate.gov/services/scheduling-requests",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Claire_McCaskill",
-    "name": "Claire McCaskill",
-    "numbersAca": 252000,
-    "numbersMedicaid": 969200,
-    "numbersMedicaidAca": 0,
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Josh_Hawley",
+    "name": "Josh Hawley",
     "party": "Democratic",
     "photoFilename": "missouri_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claire_McCaskill%2C_official_Senate_photo_portrait%2C_standing%2C_2007.jpg/95px-Claire_McCaskill%2C_official_Senate_photo_portrait%2C_standing%2C_2007.jpg",
-    "socialFacebook": "https://www.facebook.com/senatormccaskill",
-    "socialInstagram": "http://instagram.com/clairecmc",
-    "socialTwitter": "https://twitter.com/mccaskilloffice",
-    "socialYoutube": "http://www.youtube.com/user/SenatorMcCaskill",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Josh_Hawley_official_photo.jpg",
+    "socialFacebook": "",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/HawleyMO",
+    "socialYoutube": "",
     "state": "missouri",
     "stateAbbreviation": "MO",
     "stateDisplay": "Missouri",
     "voteClinton": 38.1,
-    "votePersonal": 54.8,
+    "votePersonal": 51.9,
     "voteTrump": 56.8,
-    "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3121,9 +2852,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Roy_Blunt",
     "name": "Roy Blunt",
-    "numbersAca": 252000,
-    "numbersMedicaid": 969200,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "missouri_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Roy_Blunt%2C_Official_Portrait%2C_112th_Congress.jpg/95px-Roy_Blunt%2C_Official_Portrait%2C_112th_Congress.jpg",
@@ -3209,9 +2937,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jon_Tester",
     "name": "Jon Tester",
-    "numbersAca": 51800,
-    "numbersMedicaid": 201300,
-    "numbersMedicaidAca": 46700,
     "party": "Democratic",
     "photoFilename": "montana_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jon_Tester%2C_official_110th_Congress_photo.jpg/95px-Jon_Tester%2C_official_110th_Congress_photo.jpg",
@@ -3223,10 +2948,10 @@
     "stateAbbreviation": "MT",
     "stateDisplay": "Montana",
     "voteClinton": 35.8,
-    "votePersonal": 48.6,
+    "votePersonal": 49.8,
     "voteTrump": 56.2,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3297,9 +3022,6 @@
     "linkMeeting": "https://www.daines.senate.gov/connect/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Steve_Daines",
     "name": "Steve Daines",
-    "numbersAca": 51800,
-    "numbersMedicaid": 201300,
-    "numbersMedicaidAca": 46700,
     "party": "Republican",
     "photoFilename": "montana_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Steve_Daines_official_Senate_portrait.jpg/95px-Steve_Daines_official_Senate_portrait.jpg",
@@ -3366,9 +3088,6 @@
     "linkMeeting": "https://www.fischer.senate.gov/public/?p=ne-scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Deb_Fischer",
     "name": "Deb Fischer",
-    "numbersAca": 80100,
-    "numbersMedicaid": 237000,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "nebraska_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Deb_Fischer_official_Senate_photo.jpg/95px-Deb_Fischer_official_Senate_photo.jpg",
@@ -3380,10 +3099,10 @@
     "stateAbbreviation": "NE",
     "stateDisplay": "Nebraska",
     "voteClinton": 33.7,
-    "votePersonal": 57.8,
+    "votePersonal": 58,
     "voteTrump": 58.8,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3428,9 +3147,6 @@
     "linkMeeting": "https://www.sasse.senate.gov/public/index.cfm/nebraska-breakfast",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ben_Sasse",
     "name": "Ben Sasse",
-    "numbersAca": 80100,
-    "numbersMedicaid": 237000,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "nebraska_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ben_Sasse_official_portrait_%28crop%29.jpg/95px-Ben_Sasse_official_portrait_%28crop%29.jpg",
@@ -3480,9 +3196,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Catherine_Cortez_Masto",
     "name": "Catherine Cortez Masto",
-    "numbersAca": 79800,
-    "numbersMedicaid": 592400,
-    "numbersMedicaidAca": 203900,
     "party": "Democratic",
     "photoFilename": "nevada_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Catherine_Cortez_Masto_official_portrait.jpg/95px-Catherine_Cortez_Masto_official_portrait.jpg",
@@ -3501,55 +3214,47 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Banking, Housing, and Urban Affairs",
-      "Commerce, Science, and Transportation",
-      "Finance",
-      "Veterans' Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "324 Hart Senate Office Building, Washington, DC 20510",
-        "fax": "202-228-6753",
+        "address": "G12 Dirksen Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-6244"
       },
       {
         "address": "8930 West Sunset Road, Suite 230, Las Vegas, NV 89148",
-        "fax": "702-388-6501",
+        "fax": "",
         "name": "Las Vegas Office",
-        "phone": "702-388-6605"
+        "phone": "702-388-0205"
       },
       {
         "address": "Bruce Thompson Federal Building, 400 S. Virginia Street, Suite 738, Reno, NV 89501",
-        "fax": "775-686-5729",
+        "fax": "",
         "name": "Reno Office",
-        "phone": "775-686-5770"
+        "phone": "775-337-0110"
       }
     ],
     "id": "NV-2",
-    "linkContact": "http://www.heller.senate.gov/public/index.cfm/contact-form",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dean_Heller",
-    "name": "Dean Heller",
-    "numbersAca": 79800,
-    "numbersMedicaid": 592400,
-    "numbersMedicaidAca": 203900,
-    "party": "Republican",
+    "linkContact": "https://www.rosen.senate.gov/contact_jacky",
+    "linkMeeting": "https://www.rosen.senate.gov/scheduling",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Jacky_Rosen",
+    "name": "Jackie Rosen",
+    "party": "Democratic",
     "photoFilename": "nevada_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dean_Heller%2C_Official_Senate_Portrait%2C_112th_Congress.jpg/95px-Dean_Heller%2C_Official_Senate_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/US-Senator-Dean-Heller/325751330177",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/SenDeanHeller",
-    "socialYoutube": "http://www.youtube.com/user/SenDeanHeller",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacky_Rosen%2C_official_portrait%2C_116th_congress.jpg/440px-Jacky_Rosen%2C_official_portrait%2C_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenJackyRosen/",
+    "socialInstagram": "https://www.instagram.com/senjackyrosen",
+    "socialTwitter": "https://twitter.com/SenJackyRosen",
+    "socialYoutube": "",
     "state": "nevada",
     "stateAbbreviation": "NV",
     "stateDisplay": "Nevada",
     "voteClinton": 47.9,
-    "votePersonal": 45.9,
+    "votePersonal": 51.5,
     "voteTrump": 45.5,
-    "yearElected": "2011",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3608,9 +3313,6 @@
     "linkMeeting": "https://www.shaheen.senate.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeanne_Shaheen",
     "name": "Jeanne Shaheen",
-    "numbersAca": 49200,
-    "numbersMedicaid": 192100,
-    "numbersMedicaidAca": 52900,
     "party": "Democratic",
     "photoFilename": "new_hampshire_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Jeanne_Shaheen%2C_official_Senate_photo_portrait%2C_2009.jpg/95px-Jeanne_Shaheen%2C_official_Senate_photo_portrait%2C_2009.jpg",
@@ -3652,9 +3354,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Maggie_Hassan",
     "name": "Maggie Hassan",
-    "numbersAca": 49200,
-    "numbersMedicaid": 192100,
-    "numbersMedicaidAca": 52900,
     "party": "Democratic",
     "photoFilename": "new_hampshire_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Maggie_Hassan%2C_official_portrait%2C_115th_Congress.jpg/95px-Maggie_Hassan%2C_official_portrait%2C_115th_Congress.jpg",
@@ -3702,9 +3401,6 @@
     "linkMeeting": "https://www.menendez.senate.gov/services/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Menendez",
     "name": "Bob Menendez",
-    "numbersAca": 249400,
-    "numbersMedicaid": 1682200,
-    "numbersMedicaidAca": 552400,
     "party": "Democratic",
     "photoFilename": "new_jersey_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Robert_Menendez%2C_official_Senate_photo.jpg/95px-Robert_Menendez%2C_official_Senate_photo.jpg",
@@ -3716,10 +3412,10 @@
     "stateAbbreviation": "NJ",
     "stateDisplay": "New Jersey",
     "voteClinton": 55,
-    "votePersonal": 58.9,
+    "votePersonal": 53.1,
     "voteTrump": 41,
     "yearElected": "2006",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3753,9 +3449,6 @@
     "linkMeeting": "https://www.booker.senate.gov/?p=meeting_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Cory_Booker",
     "name": "Cory Booker",
-    "numbersAca": 249400,
-    "numbersMedicaid": 1682200,
-    "numbersMedicaidAca": 552400,
     "party": "Democratic",
     "photoFilename": "new_jersey_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cory_Booker%2C_official_portrait%2C_114th_Congress.jpg/95px-Cory_Booker%2C_official_portrait%2C_114th_Congress.jpg",
@@ -3823,9 +3516,6 @@
     "linkMeeting": "https://www.tomudall.senate.gov/?p=schedule_meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tom_Udall",
     "name": "Tom Udall",
-    "numbersAca": 47500,
-    "numbersMedicaid": 855800,
-    "numbersMedicaidAca": 243100,
     "party": "Democratic",
     "photoFilename": "new_mexico_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tom_Udall_official_Senate_portrait.jpg/95px-Tom_Udall_official_Senate_portrait.jpg",
@@ -3891,9 +3581,6 @@
     "linkMeeting": "http://www.heinrich.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Martin_Heinrich",
     "name": "Martin Heinrich",
-    "numbersAca": 47500,
-    "numbersMedicaid": 855800,
-    "numbersMedicaidAca": 243100,
     "party": "Democratic",
     "photoFilename": "new_mexico_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Martin_Heinrich%2C_official_portrait%2C_113th_Congress.jpg/95px-Martin_Heinrich%2C_official_portrait%2C_113th_Congress.jpg",
@@ -3905,10 +3592,10 @@
     "stateAbbreviation": "NM",
     "stateDisplay": "New Mexico",
     "voteClinton": 48.3,
-    "votePersonal": 51,
+    "votePersonal": 53.7,
     "voteTrump": 40,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3976,9 +3663,6 @@
     "linkMeeting": "https://www.schumer.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Chuck_Schumer",
     "name": "Chuck Schumer",
-    "numbersAca": 603500,
-    "numbersMedicaid": 4961100,
-    "numbersMedicaidAca": 2161100,
     "party": "Democratic",
     "photoFilename": "new_york_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charles_Schumer_official_portrait.jpg/95px-Charles_Schumer_official_portrait.jpg",
@@ -4062,9 +3746,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Kirsten_Gillibrand",
     "name": "Kirsten Gillibrand",
-    "numbersAca": 603500,
-    "numbersMedicaid": 4961100,
-    "numbersMedicaidAca": 2161100,
     "party": "Democratic",
     "photoFilename": "new_york_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SenatorGillibrandpic.jpg/95px-SenatorGillibrandpic.jpg",
@@ -4076,10 +3757,10 @@
     "stateAbbreviation": "NY",
     "stateDisplay": "New York",
     "voteClinton": 58.4,
-    "votePersonal": 71.6,
+    "votePersonal": 66.6,
     "voteTrump": 36.1,
     "yearElected": "2009",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -4124,9 +3805,6 @@
     "linkMeeting": "https://www.burr.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Richard_Burr",
     "name": "Richard Burr",
-    "numbersAca": 545300,
-    "numbersMedicaid": 1986400,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "north_carolina_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Richard_Burr_official_portrait.jpg/95px-Richard_Burr_official_portrait.jpg",
@@ -4187,9 +3865,6 @@
     "linkMeeting": "https://www.tillis.senate.gov/public/index.cfm/meetings",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Thom_Tillis",
     "name": "Thom Tillis",
-    "numbersAca": 545300,
-    "numbersMedicaid": 1986400,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "north_carolina_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Senator_Thom_Tillis_Official_Portrait.jpg/95px-Senator_Thom_Tillis_Official_Portrait.jpg",
@@ -4257,9 +3932,6 @@
     "linkMeeting": "https://www.hoeven.senate.gov/serving-you/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Hoeven",
     "name": "John Hoeven",
-    "numbersAca": 20500,
-    "numbersMedicaid": 0,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "north_dakota_sen1.JPG",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hoeven_Official_Portrait_2014.JPG/95px-Hoeven_Official_Portrait_2014.JPG",
@@ -4277,74 +3949,47 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Agriculture, Nutrition and Forestry",
-      "Banking, Housing, and Urban Affairs",
-      "Homeland Security and Governmental Affairs",
-      "Small Business and Entrepreneurship",
-      "Indian Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "SH-110 Hart Senate Office Building, Washington, DC 20510",
-        "fax": "202-224-7776",
+        "address": "B40C Dirksen Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-2043"
       },
       {
-        "address": "228 Federal Building, 220 East Rosser Avenue, Bismarck, ND 58501",
-        "fax": "701-258-1254",
-        "name": "Bismarck Office",
-        "phone": "701-258-4648"
-      },
-      {
         "address": "306 Federal Building, 657 Second Avenue North, Fargo, ND 58102",
-        "fax": "701-232-6449",
+        "fax": "",
         "name": "Fargo Office",
-        "phone": "701-232-8030"
-      },
-      {
-        "address": "40 1st Ave West, Suite 202, Dickinson, ND 58601",
-        "fax": "701-225-3287",
-        "name": "Dickinson Office",
-        "phone": "701-225-0974"
-      },
-      {
-        "address": "33 South Third Street Suite B, Grand Forks, ND 58201",
-        "fax": "701-746-1990",
-        "name": "Grand Forks Office",
-        "phone": "701-775-9601"
+        "phone": "701-232-5094"
       },
       {
         "address": "105 Federal Building, 100 First Street SW, Minot, ND 58701",
-        "fax": "701-838-8196",
+        "fax": "",
         "name": "Minot Office",
-        "phone": "701-852-0703"
+        "phone": "701-837-6141"
       }
     ],
     "id": "ND-2",
-    "linkContact": "http://www.heitkamp.senate.gov/public/index.cfm/email-heidi",
-    "linkMeeting": "http://www.heitkamp.senate.gov/public/index.cfm/visiting-dc",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Heidi_Heitkamp",
-    "name": "Heidi Heitkamp",
-    "numbersAca": 20500,
-    "numbersMedicaid": 0,
-    "numbersMedicaidAca": 0,
-    "party": "Democratic",
+    "linkContact": "https://www.cramer.senate.gov/contact_kevin",
+    "linkMeeting": "https://www.cramer.senate.gov/scheduling-requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Cramer",
+    "name": "Kevin Cramer",
+    "party": "Republican",
     "photoFilename": "north_dakota_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heidi_Heitkamp_official_portrait_113th_Congress.jpg/95px-Heidi_Heitkamp_official_portrait_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/SenatorHeidiHeitkamp",
-    "socialInstagram": "http://instagram.com/senatorheitkamp",
-    "socialTwitter": "https://twitter.com/SenatorHeitkamp",
-    "socialYoutube": "http://www.youtube.com/senatorheidiheitkamp",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kevin_Cramer%2C_official_portrait%2C_116th_congress.jpg/440px-Kevin_Cramer%2C_official_portrait%2C_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorKevinCramer/",
+    "socialInstagram": "https://www.instagram.com/senatorkevincramer/",
+    "socialTwitter": "https://twitter.com/SenKevinCramer",
+    "socialYoutube": "https://www.youtube.com/channel/UCqUPdO9XaAW-dvwwXKbIVdA/",
     "state": "north_dakota",
     "stateAbbreviation": "ND",
     "stateDisplay": "North Dakota",
     "voteClinton": 27.2,
-    "votePersonal": 50.24,
+    "votePersonal": 55.4,
     "voteTrump": 63,
-    "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -4390,9 +4035,6 @@
     "linkMeeting": "https://www.brown.senate.gov/schedule-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sherrod_Brown",
     "name": "Sherrod Brown",
-    "numbersAca": 211900,
-    "numbersMedicaid": 2983000,
-    "numbersMedicaidAca": 682900,
     "party": "Democratic",
     "photoFilename": "ohio_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sherrod_Brown_official_photo_2009_2.jpg/95px-Sherrod_Brown_official_photo_2009_2.jpg",
@@ -4404,10 +4046,10 @@
     "stateAbbreviation": "OH",
     "stateDisplay": "Ohio",
     "voteClinton": 43.6,
-    "votePersonal": 50.7,
+    "votePersonal": 53.2,
     "voteTrump": 51.7,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -4453,9 +4095,6 @@
     "linkMeeting": "http://www.portman.senate.gov/public/index.cfm/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Rob_Portman",
     "name": "Rob Portman",
-    "numbersAca": 211900,
-    "numbersMedicaid": 2983000,
-    "numbersMedicaidAca": 682900,
     "party": "Republican",
     "photoFilename": "ohio_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rob_Portman%2C_official_portrait%2C_112th_Congress.jpg/95px-Rob_Portman%2C_official_portrait%2C_112th_Congress.jpg",
@@ -4516,9 +4155,6 @@
     "linkMeeting": "http://www.inhofe.senate.gov/contact/request-a-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jim_Inhofe",
     "name": "Jim Inhofe",
-    "numbersAca": 130300,
-    "numbersMedicaid": 669200,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "oklahoma_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jim_Inhofe%2C_official_photo_portrait%2C_2007.jpg/95px-Jim_Inhofe%2C_official_photo_portrait%2C_2007.jpg",
@@ -4568,9 +4204,6 @@
     "linkMeeting": "https://www.lankford.senate.gov/contact/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/James_Lankford",
     "name": "James Lankford",
-    "numbersAca": 130300,
-    "numbersMedicaid": 669200,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "oklahoma_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/James_Lankford_official_Senate_photo.jpg/95px-James_Lankford_official_Senate_photo.jpg",
@@ -4643,9 +4276,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Wyden",
     "name": "Ron Wyden",
-    "numbersAca": 131100,
-    "numbersMedicaid": 1102100,
-    "numbersMedicaidAca": 550600,
     "party": "Democratic",
     "photoFilename": "oregon_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ron_Wyden_official_portrait_crop.jpg/95px-Ron_Wyden_official_portrait_crop.jpg",
@@ -4718,9 +4348,6 @@
     "linkMeeting": "https://www.merkley.senate.gov/events/coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Merkley",
     "name": "Jeff Merkley",
-    "numbersAca": 131100,
-    "numbersMedicaid": 1102100,
-    "numbersMedicaidAca": 550600,
     "party": "Democratic",
     "photoFilename": "oregon_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jeff_Merkley.jpg/95px-Jeff_Merkley.jpg",
@@ -4797,9 +4424,6 @@
     "linkMeeting": "https://www.casey.senate.gov/request/appointment",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Casey_Jr.",
     "name": "Bob Casey Jr",
-    "numbersAca": 412300,
-    "numbersMedicaid": 2747700,
-    "numbersMedicaidAca": 702800,
     "party": "Democratic",
     "photoFilename": "pennsylvania_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Senator_Bob_Casey_official_photo_2007.jpg/95px-Senator_Bob_Casey_official_photo_2007.jpg",
@@ -4811,10 +4435,10 @@
     "stateAbbreviation": "PA",
     "stateDisplay": "Pennsylvania",
     "voteClinton": 47.9,
-    "votePersonal": 53.7,
+    "votePersonal": 55.6,
     "voteTrump": 48.6,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -4877,9 +4501,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Pat_Toomey",
     "name": "Pat Toomey",
-    "numbersAca": 412300,
-    "numbersMedicaid": 2747700,
-    "numbersMedicaidAca": 702800,
     "party": "Republican",
     "photoFilename": "pennsylvania_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pat_Toomey%2C_Official_Portrait%2C_112th_Congress.jpg/95px-Pat_Toomey%2C_Official_Portrait%2C_112th_Congress.jpg",
@@ -4928,9 +4549,6 @@
     "linkMeeting": "https://www.reed.senate.gov/services/appointments",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Jack_Reed_(politician)",
     "name": "Jack Reed",
-    "numbersAca": 35600,
-    "numbersMedicaid": 281600,
-    "numbersMedicaidAca": 60500,
     "party": "Democratic",
     "photoFilename": "rhode_island_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jack_Reed%2C_official_portrait%2C_112th_Congress.jpg/95px-Jack_Reed%2C_official_portrait%2C_112th_Congress.jpg",
@@ -4973,9 +4591,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Sheldon_Whitehouse",
     "name": "Sheldon Whitehouse",
-    "numbersAca": 35600,
-    "numbersMedicaid": 281600,
-    "numbersMedicaidAca": 60500,
     "party": "Democratic",
     "photoFilename": "rhode_island_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sheldon_Whitehouse_2010.jpg/95px-Sheldon_Whitehouse_2010.jpg",
@@ -4987,10 +4602,10 @@
     "stateAbbreviation": "RI",
     "stateDisplay": "Rhode Island",
     "voteClinton": 54.4,
-    "votePersonal": 64.8,
+    "votePersonal": 55.6,
     "voteTrump": 38.9,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5048,9 +4663,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lindsey_Graham",
     "name": "Lindsey Graham",
-    "numbersAca": 204900,
-    "numbersMedicaid": 1128600,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "south_carolina_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lindsey_Graham%2C_Official_Portrait_2006.jpg/95px-Lindsey_Graham%2C_Official_Portrait_2006.jpg",
@@ -5106,9 +4718,6 @@
     "linkMeeting": "https://www.scott.senate.gov/contact/schedule-meeting",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tim_Scott",
     "name": "Tim Scott",
-    "numbersAca": 204900,
-    "numbersMedicaid": 1128600,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "south_carolina_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tim_Scott%2C_official_portrait%2C_113th_Congress.jpg/95px-Tim_Scott%2C_official_portrait%2C_113th_Congress.jpg",
@@ -5162,9 +4771,6 @@
     "linkMeeting": "https://www.thune.senate.gov/public/index.cfm/south-dakota-sunrise-coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Thune",
     "name": "John Thune",
-    "numbersAca": 24600,
-    "numbersMedicaid": 109100,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "south_dakota_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/John_Thune%2C_official_portrait%2C_111th_Congress.jpg/95px-John_Thune%2C_official_portrait%2C_111th_Congress.jpg",
@@ -5226,9 +4832,6 @@
     "linkMeeting": "http://www.rounds.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Rounds",
     "name": "Mike Rounds",
-    "numbersAca": 24600,
-    "numbersMedicaid": 109100,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "south_dakota_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mike_Rounds_official_Senate_portrait.jpg/95px-Mike_Rounds_official_Senate_portrait.jpg",
@@ -5301,9 +4904,6 @@
     "linkMeeting": "https://www.alexander.senate.gov/public/index.cfm/schedulingrequests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Lamar_Alexander",
     "name": "Lamar Alexander",
-    "numbersAca": 231700,
-    "numbersMedicaid": 1690000,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "tennessee_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LamarAlexander.jpg/95px-LamarAlexander.jpg",
@@ -5321,78 +4921,65 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Banking, Housing, and Urban Affairs",
-      "Budget",
-      "Foreign Relations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "Dirksen Senate Office Building, SD-425, Washington, DC 20510",
+        "address": "B40B Dirksen Senate Office Building, Washington, DC 20510",
         "fax": "202-228-0566",
         "name": "Washington DC Office",
         "phone": "202-224-3344"
       },
       {
         "address": "100 Peabody Place, Suite 1125, Memphis, TN 38103",
-        "fax": "901-575-3528",
+        "fax": "901-527-9395",
         "name": "Memphis Office",
-        "phone": "901-683-1910"
-      },
-      {
-        "address": "3322 West End Ave., Suite 610, Nashville, TN 37203",
-        "fax": "615-279-9488",
-        "name": "Nashville Office",
-        "phone": "615-279-8125"
+        "phone": "901-527-9199"
       },
       {
         "address": "800 Market Street, Suite 121, Knoxville, TN 37902",
-        "fax": "865-637-9886",
+        "fax": "865-540-7952",
         "name": "Knoxville Office",
-        "phone": "865-637-4180"
+        "phone": "865-540-3781"
       },
       {
         "address": "91 Stonebridge Boulevard, Suite 103, Jackson, TN 38305 ",
-        "fax": "731-664-4670",
+        "fax": "731-660-3978",
         "name": "Jackson Office",
-        "phone": "731-664-2294"
+        "phone": "731-660-3971"
       },
       {
         "address": "1105 East Jackson Boulevard, Suite 4, Jonesborough, TN 37659",
-        "fax": "423-753-3679",
+        "fax": "423-788-0250",
         "name": "Tri-Cities Office",
-        "phone": "423-753-2263"
+        "phone": "423-753-4009"
       },
       {
         "address": "10 West MLK Blvd., 6th Floor, Chattanooga, TN 37402",
-        "fax": "423-756-5313",
+        "fax": "423-541-2944",
         "name": "Chattanooga Office",
-        "phone": "423-756-2757"
+        "phone": "423-541-2939"
       }
     ],
     "id": "TN-2",
-    "linkContact": "http://www.corker.senate.gov/public/index.cfm/emailme",
-    "linkMeeting": "http://www.corker.senate.gov/public/index.cfm/schedule-requests",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Corker",
-    "name": "Bob Corker",
-    "numbersAca": 231700,
-    "numbersMedicaid": 1690000,
-    "numbersMedicaidAca": 0,
+    "linkContact": "https://www.blackburn.senate.gov/contact_marsha",
+    "linkMeeting": "https://www.blackburn.senate.gov/scheduling_requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Marsha_Blackburn",
+    "name": "Marsha Blackburn",
     "party": "Republican",
     "photoFilename": "tennessee_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bob_Corker_official_Senate_photo.jpg/95px-Bob_Corker_official_Senate_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/Senator-Bob-Corker/109251415789533?ref=ts",
-    "socialInstagram": "http://instagram.com/senbobcorker",
-    "socialTwitter": "http://twitter.com/SenBobCorker",
-    "socialYoutube": "http://www.youtube.com/user/senatorcorker",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marsha_blackburn_congress.jpg/440px-Marsha_blackburn_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/marshablackburn/",
+    "socialInstagram": "https://www.instagram.com/marshablackburn",
+    "socialTwitter": "https://twitter.com/MarshaBlackburn",
+    "socialYoutube": "",
     "state": "tennessee",
     "stateAbbreviation": "TN",
     "stateDisplay": "Tennessee",
     "voteClinton": 34.7,
-    "votePersonal": 64.9,
+    "votePersonal": 54.4,
     "voteTrump": 60.7,
-    "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5455,9 +5042,6 @@
     "linkMeeting": "https://www.cornyn.senate.gov/content/visit-dc?tab=texas-thursday-coffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Cornyn",
     "name": "John Cornyn",
-    "numbersAca": 1092400,
-    "numbersMedicaid": 4327900,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "texas_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/John_Cornyn_official_portrait%2C_2009.jpg/95px-John_Cornyn_official_portrait%2C_2009.jpg",
@@ -5530,9 +5114,6 @@
     "linkMeeting": "https://www.cruz.senate.gov/?p=meeting_requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ted_Cruz",
     "name": "Ted Cruz",
-    "numbersAca": 1092400,
-    "numbersMedicaid": 4327900,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "texas_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ted_Cruz%2C_official_portrait%2C_113th_Congress.jpg/95px-Ted_Cruz%2C_official_portrait%2C_113th_Congress.jpg",
@@ -5544,78 +5125,48 @@
     "stateAbbreviation": "TX",
     "stateDisplay": "Texas",
     "voteClinton": 43.2,
-    "votePersonal": 56.5,
+    "votePersonal": 51.1,
     "voteTrump": 52.2,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
-    "committees": [
-      "Finance",
-      "Health, Education, Labor and Pensions",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "104 Hart Office Building, Washington, DC 20510",
-        "fax": "202-224-6331",
+        "address": "B33 Russell Senate Office Building, Washington, DC 20510",
+        "fax": "202-228-0836",
         "name": "Washington DC Office",
         "phone": "202-224-5251"
       },
       {
-        "address": "8402 Federal Building, 125 South State Street, Salt Lake City, UT 84138",
-        "fax": "801-524-4379",
+        "address": "125 S. State Street, Suite 8402, Salt Lake City, UT 84138",
+        "fax": "",
         "name": "Salt Lake City Office",
         "phone": "801-524-4380"
-      },
-      {
-        "address": "51 S. University Ave., Suite 320, Provo, UT 84601",
-        "fax": "801-374-5005",
-        "name": "Provo Office",
-        "phone": "801-375-7881"
-      },
-      {
-        "address": "Federal Building, 196 East Tabernacle, Rm 14, St. George, UT 84770",
-        "fax": "435-634-1796",
-        "name": "St. George Office",
-        "phone": "435-634-1795"
-      },
-      {
-        "address": "1006 Federal Building, 324 25th Street, Ogden, UT 84401",
-        "fax": "801-394-4503",
-        "name": "Ogden Office",
-        "phone": "801-625-5672"
-      },
-      {
-        "address": "77 N. Main Street, Suite 112, Cedar City, UT 84720",
-        "fax": "435-586-2147",
-        "name": "Cedar City Office",
-        "phone": "435-586-8435"
       }
     ],
     "id": "UT-1",
-    "linkContact": "http://www.hatch.senate.gov/public/index.cfm/email-orrin",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Orrin_Hatch",
-    "name": "Orrin Hatch",
-    "numbersAca": 164500,
-    "numbersMedicaid": 334900,
-    "numbersMedicaidAca": 0,
+    "linkContact": "https://www.romney.senate.gov/contact-senator-romney",
+    "linkMeeting": "https://www.romney.senate.gov/scheduling-requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mitt_Romney",
+    "name": "Mitt Romney",
     "party": "Republican",
     "photoFilename": "utah_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Orrin_Hatch%2C_Official_Photograph.jpg/95px-Orrin_Hatch%2C_Official_Photograph.jpg",
-    "socialFacebook": "https://www.facebook.com/senatororrinhatch",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/SenOrrinHatch",
-    "socialYoutube": "http://www.youtube.com/user/SenatorOrrinHatch",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mitt_Romney_official_US_Senate_portrait.jpg/440px-Mitt_Romney_official_US_Senate_portrait.jpg",
+    "socialFacebook": "https://www.facebook.com/senatorromney/",
+    "socialInstagram": "https://www.instagram.com/senatorromney/",
+    "socialTwitter": "https://twitter.com/MittRomney",
+    "socialTwitter2": "https://twitter.com/senatorromney",
+    "socialYoutube": "https://www.youtube.com/channel/UCEnG85eZBypPpcmbKUJNdng",
     "state": "utah",
     "stateAbbreviation": "UT",
     "stateDisplay": "Utah",
     "voteClinton": 27.5,
-    "votePersonal": 65.3,
+    "votePersonal": 62.5,
     "voteTrump": 45.5,
-    "yearElected": "1977",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5649,9 +5200,6 @@
     "linkMeeting": "https://www.lee.senate.gov/public/index.cfm/jell-o-with-the-senator",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Lee_(U.S._politician)",
     "name": "Mike Lee",
-    "numbersAca": 164500,
-    "numbersMedicaid": 334900,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "utah_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mike_Lee_official_portrait_112th_Congress.jpg/95px-Mike_Lee_official_portrait_112th_Congress.jpg",
@@ -5700,9 +5248,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Patrick_Leahy",
     "name": "Patrick Leahy",
-    "numbersAca": 27900,
-    "numbersMedicaid": 209500,
-    "numbersMedicaidAca": 63300,
     "party": "Democratic",
     "photoFilename": "vermont_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leahy2009.jpg/95px-Leahy2009.jpg",
@@ -5752,9 +5297,6 @@
     "linkMeeting": "https://www.sanders.senate.gov/contact/scheduling-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Bernie_Sanders",
     "name": "Bernie Sanders",
-    "numbersAca": 27900,
-    "numbersMedicaid": 209500,
-    "numbersMedicaidAca": 63300,
     "party": "Independent",
     "photoFilename": "vermont_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders.jpg/95px-Bernie_Sanders.jpg",
@@ -5766,10 +5308,10 @@
     "stateAbbreviation": "VT",
     "stateDisplay": "Vermont",
     "voteClinton": 55.7,
-    "votePersonal": 71,
+    "votePersonal": 67.4,
     "voteTrump": 29.8,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5822,9 +5364,6 @@
     "linkMeeting": "http://www.warner.senate.gov/public/index.cfm/scheduling",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mark_Warner",
     "name": "Mark Warner",
-    "numbersAca": 378700,
-    "numbersMedicaid": 992800,
-    "numbersMedicaidAca": 0,
     "party": "Democratic",
     "photoFilename": "virginia_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mark_Warner%2C_official_111th_Congress_photo_portrait.jpg/95px-Mark_Warner%2C_official_111th_Congress_photo_portrait.jpg",
@@ -5897,9 +5436,6 @@
     "linkMeeting": "http://www.kaine.senate.gov/kaine-connects",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tim_Kaine",
     "name": "Tim Kaine",
-    "numbersAca": 378700,
-    "numbersMedicaid": 992800,
-    "numbersMedicaidAca": 0,
     "party": "Democratic",
     "photoFilename": "virginia_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tim_Kaine%2C_official_113th_Congress_photo_portrait.jpg/95px-Tim_Kaine%2C_official_113th_Congress_photo_portrait.jpg",
@@ -5912,10 +5448,10 @@
     "stateAbbreviation": "VA",
     "stateDisplay": "Virginia",
     "voteClinton": 49.8,
-    "votePersonal": 52.9,
+    "votePersonal": 56.9,
     "voteTrump": 44.4,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5973,9 +5509,6 @@
     "linkMeeting": "http://www.murray.senate.gov/public/index.cfm/weeklycoffee",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Patty_Murray",
     "name": "Patty Murray",
-    "numbersAca": 158100,
-    "numbersMedicaid": 1818300,
-    "numbersMedicaidAca": 594900,
     "party": "Democratic",
     "photoFilename": "washington_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Patty_Murray%2C_official_portrait%2C_113th_Congress.jpg/95px-Patty_Murray%2C_official_portrait%2C_113th_Congress.jpg",
@@ -6049,9 +5582,6 @@
     "linkMeeting": "https://www.cantwell.senate.gov/contact/scheduling-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Maria_Cantwell",
     "name": "Maria Cantwell",
-    "numbersAca": 158100,
-    "numbersMedicaid": 1818300,
-    "numbersMedicaidAca": 594900,
     "party": "Democratic",
     "photoFilename": "washington_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Maria_Cantwell%2C_official_portrait%2C_110th_Congress.jpg/95px-Maria_Cantwell%2C_official_portrait%2C_110th_Congress.jpg",
@@ -6063,10 +5593,10 @@
     "stateAbbreviation": "WA",
     "stateDisplay": "Washington",
     "voteClinton": 54.3,
-    "votePersonal": 60.5,
+    "votePersonal": 58.6,
     "voteTrump": 38.1,
     "yearElected": "2001",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -6106,9 +5636,6 @@
     "linkMeeting": "http://www.manchin.senate.gov/public/index.cfm/schedule-a-meeting-or-event",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Manchin",
     "name": "Joe Manchin",
-    "numbersAca": 33200,
-    "numbersMedicaid": 510200,
-    "numbersMedicaidAca": 180500,
     "party": "Democratic",
     "photoFilename": "west_virginia_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Joe_Manchin_official_portrait_112th_Congress.jpg/95px-Joe_Manchin_official_portrait_112th_Congress.jpg",
@@ -6120,10 +5647,10 @@
     "stateAbbreviation": "WV",
     "stateDisplay": "West Virginia",
     "voteClinton": 26.5,
-    "votePersonal": 60.6,
+    "votePersonal": 49.5,
     "voteTrump": 68.6,
     "yearElected": "2010",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -6168,9 +5695,6 @@
     "linkMeeting": "https://www.capito.senate.gov/contact/meeting-requests",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito",
     "name": "Shelley Moore Capito",
-    "numbersAca": 33200,
-    "numbersMedicaid": 510200,
-    "numbersMedicaidAca": 180500,
     "party": "Republican",
     "photoFilename": "west_virginia_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Shelley_Moore_Capito_official_Senate_photo.jpg/95px-Shelley_Moore_Capito_official_Senate_photo.jpg",
@@ -6219,9 +5743,6 @@
     "linkMeeting": "https://www.ronjohnson.senate.gov/public/index.cfm/meeting-request",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Ron_Johnson_(U.S._politician)",
     "name": "Ron Johnson",
-    "numbersAca": 224200,
-    "numbersMedicaid": 1201800,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "wisconsin_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ron_Johnson%2C_official_portrait%2C_112th_Congress.jpg/95px-Ron_Johnson%2C_official_portrait%2C_112th_Congress.jpg",
@@ -6293,9 +5814,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Tammy_Baldwin",
     "name": "Tammy Baldwin",
-    "numbersAca": 224200,
-    "numbersMedicaid": 1201800,
-    "numbersMedicaidAca": 0,
     "party": "Democratic",
     "photoFilename": "wisconsin_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg/95px-Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg",
@@ -6307,10 +5825,10 @@
     "stateAbbreviation": "WI",
     "stateDisplay": "Wisconsin",
     "voteClinton": 46.5,
-    "votePersonal": 51.4,
+    "votePersonal": 54.9,
     "voteTrump": 47.2,
     "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -6363,9 +5881,6 @@
     "linkMeeting": "http://www.enzi.senate.gov/public/index.cfm/meeting-request-form",
     "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Enzi",
     "name": "Mike Enzi",
-    "numbersAca": 22100,
-    "numbersMedicaid": 64400,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "wyoming_sen1.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mike_Enzi%2C_official_portrait%2C_111th_Congress.jpg/95px-Mike_Enzi%2C_official_portrait%2C_111th_Congress.jpg",
@@ -6426,9 +5941,6 @@
     "linkMeeting": "",
     "linkWikipedia": "https://en.wikipedia.org/wiki/John_Barrasso",
     "name": "John Barrasso",
-    "numbersAca": 22100,
-    "numbersMedicaid": 64400,
-    "numbersMedicaidAca": 0,
     "party": "Republican",
     "photoFilename": "wyoming_sen2.jpg",
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/John_Barrasso_official_portrait_112th_Congress.jpg/95px-John_Barrasso_official_portrait_112th_Congress.jpg",
@@ -6440,9 +5952,9 @@
     "stateAbbreviation": "WY",
     "stateDisplay": "Wyoming",
     "voteClinton": 21.6,
-    "votePersonal": 75.7,
+    "votePersonal": 67.1,
     "voteTrump": 67.4,
     "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearReelection": "2024"
   }
 ]
