@@ -263,16 +263,11 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Homeland Security and Governmental Affairs",
-      "Indian Affairs",
-      "Intelligence"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "218 Russell Senate Office Building, Washington, DC 20510",
-        "fax": "202-228-2862",
+        "address": "B40D Dirksen Senate Office Building, Washington, DC 20515",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-2235"
       },
@@ -281,87 +276,66 @@
         "fax": "855-952-8702",
         "name": "Phoenix Office",
         "phone": "602-952-2410"
-      },
-      {
-        "address": "122 North Cortez Street, Suite 108, Prescott, AZ 86301",
-        "fax": "928-445-8594",
-        "name": "Prescott Office",
-        "phone": "928-445-0833"
-      },
-      {
-        "address": "407 West Congress Street, Suite 103, Tucson, AZ 85701",
-        "fax": "520-670-6334",
-        "name": "Tucson Office",
-        "phone": "520-670-6637"
       }
     ],
     "id": "AZ-1",
-    "linkContact": "https://www.mccain.senate.gov/public/index.cfm/contact-form",
+    "linkContact": "https://www.mcsally.senate.gov/contact_martha",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/John_McCain",
-    "name": "John McCain",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Martha_McSally",
+    "name": "Martha McSally",
     "party": "Republican",
     "photoFilename": "arizona_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/95px-John_McCain_official_portrait_2009.jpg",
-    "socialFacebook": "http://www.facebook.com/johnmccain",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/senjohnmccain",
-    "socialYoutube": "http://www.youtube.com/user/SenatorJohnMcCain?feature=mhum",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sen._Martha_McSally_official_Senate_headshot_116th_congress.jpg/440px-Sen._Martha_McSally_official_Senate_headshot_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenMarthaMcSally/",
+    "socialInstagram": "https://www.instagram.com/senmcsallyaz/",
+    "socialTwitter": "https://twitter.com/SenMcSallyAZ",
+    "socialYoutube": "https://www.youtube.com/channel/UCfHMG2Db0TJ_RatSBHuH8NA",
     "state": "arizona",
     "stateAbbreviation": "AZ",
     "stateDisplay": "Arizona",
     "voteClinton": 45.1,
-    "votePersonal": 53,
+    "votePersonal": 47.6,
     "voteTrump": 48.7,
-    "yearElected": "1987",
-    "yearReelection": "2022"
+    "yearElected": "2018",
+    "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Energy and Natural Resources",
-      "Foreign Relations",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "Senate Russell Office Building 413, Washington, D.C. 20510",
-        "fax": "202-228-0515",
+        "address": "825 B&C Hart Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-4521"
       },
       {
         "address": "2200 East Camelback Road, Suite 120, Phoenix, AZ 85016",
-        "fax": "602-840-4092",
+        "fax": "",
         "name": "Phoenix Office",
-        "phone": "602-840-1891"
-      },
-      {
-        "address": "6840 North Oracle Road, Suite 150, Tucson, AZ 85704",
-        "fax": "520-797-3232",
-        "name": "Tucson Office",
-        "phone": "520-575-8633"
+        "phone": "602-598-7327"
       }
     ],
     "id": "AZ-2",
-    "linkContact": "http://www.flake.senate.gov/public/index.cfm/contact-jeff",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Jeff_Flake",
-    "name": "Jeff Flake",
-    "party": "Republican",
+    "linkContact": "https://www.sinema.senate.gov/contact-kyrsten",
+    "linkMeeting": "https://www.sinema.senate.gov/schedule-a-meeting",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Kyrsten_Sinema",
+    "name": "Kyrsten Sinema",
+    "party": "Democratic",
     "photoFilename": "arizona_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jeff_Flake_official_Senate_photo.jpg/95px-Jeff_Flake_official_Senate_photo.jpg",
-    "socialFacebook": "https://www.facebook.com/senatorjeffflake",
-    "socialInstagram": "https://instagram.com/jeffflake/",
-    "socialTwitter": "http://twitter.com/JeffFlake",
-    "socialYoutube": "http://www.youtube.com/flakeoffice",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyrsten_Sinema_%28cropped%29.jpg/440px-Kyrsten_Sinema_%28cropped%29.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorSinema",
+    "socialInstagram": "https://www.instagram.com/SenatorSinema",
+    "socialTwitter": "https://twitter.com/kyrstensinema",
+    "socialTwitter2": "https://www.twitter.com/SenatorSinema",
+    "socialYoutube": "",
     "state": "arizona",
     "stateAbbreviation": "AZ",
     "stateDisplay": "Arizona",
     "voteClinton": 45.1,
-    "votePersonal": 49.2,
+    "votePersonal": 50.0,
     "voteTrump": 48.7,
-    "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -963,87 +937,35 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Commerce, Science, and Transportation",
-      "Finance"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "716 Senate Hart Office Building, Washington, DC 20510",
-        "fax": "202-228-2183",
+        "address": "B3 Russell Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-5274"
-      },
-      {
-        "address": "3416 South University Drive, Fort Lauderdale, FL 33328",
-        "fax": "954-693-4862",
-        "name": "Fort Lauderdale Office",
-        "phone": "954-693-4851"
-      },
-      {
-        "address": "2000 Main Street, Suite 801, Fort Myers, FL 33901",
-        "fax": "239-334-7710",
-        "name": "Fort Myers Office",
-        "phone": "239-334-7760"
-      },
-      {
-        "address": "1301 Riverplace Blvd., Suite 2010, Jacksonville, FL 32207",
-        "fax": "904-346-4506",
-        "name": "Jacksonville Office",
-        "phone": "904-346-4500"
-      },
-      {
-        "address": "2555 Ponce De Leon Boulevard, Suite 610, Coral Gables, FL 33134",
-        "fax": "305-536-5991",
-        "name": "Miami-Dade Office",
-        "phone": "305-536-5999"
-      },
-      {
-        "address": "225 East Robinson Street, Suite 410, Orlando, FL 32801",
-        "fax": "407-872-7165",
-        "name": "Orlando Office",
-        "phone": "407-872-7161"
-      },
-      {
-        "address": "111 North Adams Street, Tallahassee, FL 32301",
-        "fax": "850-942-8450",
-        "name": "Tallahassee Office",
-        "phone": "850-942-8415"
-      },
-      {
-        "address": "801 N. Florida Ave., 4th Floor, Tampa, FL 33602",
-        "fax": "813-225-7050",
-        "name": "Tampa Office",
-        "phone": "813-225-7040"
-      },
-      {
-        "address": "413 Clematis Street, Suite 210, West Palm Beach, FL 33401",
-        "fax": "561-514-4078",
-        "name": "West Palm Beach Office",
-        "phone": "561-514-0189"
       }
     ],
     "id": "FL-1",
-    "linkContact": "https://www.billnelson.senate.gov/contact-bill",
+    "linkContact": "",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Bill_Nelson",
-    "name": "Bill Nelson",
-    "party": "Democratic",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Rick_Scott",
+    "name": "Rick Scott",
+    "party": "Republican",
     "photoFilename": "florida_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bill_Nelson.jpg/95px-Bill_Nelson.jpg",
-    "socialFacebook": "https://www.facebook.com/billnelson",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sen._Rick_Scott_%28R-FL%29_official_Senate_portrait.jpg",
+    "socialFacebook": "",
     "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/senbillnelson",
+    "socialTwitter": "",
     "socialYoutube": "",
     "state": "florida",
     "stateAbbreviation": "FL",
     "stateDisplay": "Florida",
     "voteClinton": 47.8,
-    "votePersonal": 55.2,
+    "votePersonal": 50.1,
     "voteTrump": 49,
-    "yearElected": "2001",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -1541,75 +1463,59 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Agriculture, Nutrition and Forestry",
-      "Armed Services",
-      "Banking, Housing, and Urban Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "720 Hart Senate Office Building, Washington, D.C. 20510",
-        "fax": "202-224-5011",
+        "address": "B-85 Russell, Senate Office Building, Washington D.C. 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-4814"
       },
       {
-        "address": "123 NW 4th Street, Suite 417, Evansville, IN 47708",
-        "fax": "812-425-5817",
-        "name": "Evansville Office",
-        "phone": "812-425-5813"
-      },
-      {
         "address": "203 East Berry Street, Suite 702-B, Fort Wayne, IN 46802",
-        "fax": "260-420-4930",
+        "fax": "",
         "name": "Fort Wayne Office",
-        "phone": "260-420-4955"
+        "phone": "260-427-2167"
       },
       {
         "address": "5400 Federal Plaza, Suite 3200, Hammond, IN 46320",
         "fax": "219-852-0729",
         "name": "Hammond Office",
-        "phone": "219-852-0089"
+        "phone": "219-937-9650"
       },
       {
-        "address": "115 N. Pennsylvania Street Suite 100, Indianapolis, IN 46204",
-        "fax": "855-772-7518",
+        "address": "115 N. Pennsylvania Street, Indianapolis, IN 46204",
+        "fax": "317-822-8353",
         "name": "Indianapolis Office",
-        "phone": "317-226-5555"
-      },
-      {
-        "address": "702 North Shore Drive, Suite LL-101, Jeffersonville, IN 47130",
-        "fax": "812-284-2044",
-        "name": "Jeffersonville Office",
-        "phone": "812-284-2027"
+        "phone": "317-822-8240"
       },
       {
         "address": "205 West Colfax Avenue, South Bend, IN 46601",
-        "fax": "574-234-7476",
+        "fax": "",
         "name": "South Bend Office",
-        "phone": "574-288-2780"
+        "phone": "574-288-6302"
       }
     ],
     "id": "IN-1",
-    "linkContact": "http://www.donnelly.senate.gov/contact/email-joe",
-    "linkMeeting": "http://www.donnelly.senate.gov/contact/scheduling-request",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Joe_Donnelly",
-    "name": "Joe Donnelly",
-    "party": "Democratic",
+    "linkContact": "https://www.braun.senate.gov/contact-mike",
+    "linkMeeting": "https://www.braun.senate.gov/scheduling_requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mike_Braun",
+    "name": "Mike Braun",
+    "party": "Republican",
     "photoFilename": "indiana_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Donnelly%2C_official_portrait%2C_113th_Congress.jpg/95px-Joe_Donnelly%2C_official_portrait%2C_113th_Congress.jpg",
-    "socialFacebook": "https://www.facebook.com/senatordonnelly",
-    "socialInstagram": "http://www.instagram.com/sendonnelly/",
-    "socialTwitter": "https://twitter.com/SenDonnelly",
-    "socialYoutube": "http://www.youtube.com/sendonnelly",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mike_Braun%2C_Official_Portrait%2C_116th_Congress.jpg/440px-Mike_Braun%2C_Official_Portrait%2C_116th_Congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorBraun/",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/SenatorBraun",
+    "socialYoutube": "https://www.youtube.com/channel/UCQ02jR4CJErAbv3522PJffA",
     "state": "indiana",
     "stateAbbreviation": "IN",
     "stateDisplay": "Indiana",
     "voteClinton": 37.9,
-    "votePersonal": 50,
+    "votePersonal": 51.0,
     "voteTrump": 56.8,
-    "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -2866,63 +2772,35 @@
     "yearReelection": "2024"
   },
   {
-    "committees": [
-      "Armed Services",
-      "Finance",
-      "Homeland Security and Governmental Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "503 Hart Senate Office Building, Washington, D.C. 20510",
-        "fax": "202-228-6326",
+        "address": "B40A Dirksen Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-6154"
-      },
-      {
-        "address": "324 Park Central West, Ste. 101, Springfield, Missouri 65806",
-        "fax": "417-831-1349",
-        "name": "Springfield Office",
-        "phone": "417-868-8745"
-      },
-      {
-        "address": "28 N. 8th St., Ste. 500, Columbia, Missouri 65201",
-        "fax": "573-442-7140",
-        "name": "Columbia Office",
-        "phone": "573-442-7130"
-      },
-      {
-        "address": "5850 Delmar Blvd., Ste. A, St. Louis, Missouri 63112",
-        "fax": "314-361-8649",
-        "name": "Kansas City Office",
-        "phone": "314-367-1364"
-      },
-      {
-        "address": "555 Independence St., Room 1600, Cape Girardeau, Missouri 63703",
-        "fax": "573-334-4278",
-        "name": "Cape Girardeau Office",
-        "phone": "573-651-0964"
       }
     ],
     "id": "MO-1",
-    "linkContact": "https://www.mccaskill.senate.gov/contact",
-    "linkMeeting": "https://www.mccaskill.senate.gov/services/scheduling-requests",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Claire_McCaskill",
-    "name": "Claire McCaskill",
+    "linkContact": "",
+    "linkMeeting": "",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Josh_Hawley",
+    "name": "Josh Hawley",
     "party": "Democratic",
     "photoFilename": "missouri_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Claire_McCaskill%2C_official_Senate_photo_portrait%2C_standing%2C_2007.jpg/95px-Claire_McCaskill%2C_official_Senate_photo_portrait%2C_standing%2C_2007.jpg",
-    "socialFacebook": "https://www.facebook.com/senatormccaskill",
-    "socialInstagram": "http://instagram.com/clairecmc",
-    "socialTwitter": "https://twitter.com/mccaskilloffice",
-    "socialYoutube": "http://www.youtube.com/user/SenatorMcCaskill",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Josh_Hawley_official_photo.jpg",
+    "socialFacebook": "",
+    "socialInstagram": "",
+    "socialTwitter": "https://twitter.com/HawleyMO",
+    "socialYoutube": "",
     "state": "missouri",
     "stateAbbreviation": "MO",
     "stateDisplay": "Missouri",
     "voteClinton": 38.1,
-    "votePersonal": 54.8,
+    "votePersonal": 51.9,
     "voteTrump": 56.8,
-    "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -3336,52 +3214,47 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Banking, Housing, and Urban Affairs",
-      "Commerce, Science, and Transportation",
-      "Finance",
-      "Veterans' Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "324 Hart Senate Office Building, Washington, DC 20510",
-        "fax": "202-228-6753",
+        "address": "G12 Dirksen Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-6244"
       },
       {
         "address": "8930 West Sunset Road, Suite 230, Las Vegas, NV 89148",
-        "fax": "702-388-6501",
+        "fax": "",
         "name": "Las Vegas Office",
-        "phone": "702-388-6605"
+        "phone": "702-388-0205"
       },
       {
         "address": "Bruce Thompson Federal Building, 400 S. Virginia Street, Suite 738, Reno, NV 89501",
-        "fax": "775-686-5729",
+        "fax": "",
         "name": "Reno Office",
-        "phone": "775-686-5770"
+        "phone": "775-337-0110"
       }
     ],
     "id": "NV-2",
-    "linkContact": "http://www.heller.senate.gov/public/index.cfm/contact-form",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Dean_Heller",
-    "name": "Dean Heller",
-    "party": "Republican",
+    "linkContact": "https://www.rosen.senate.gov/contact_jacky",
+    "linkMeeting": "https://www.rosen.senate.gov/scheduling",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Jacky_Rosen",
+    "name": "Jackie Rosen",
+    "party": "Democratic",
     "photoFilename": "nevada_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dean_Heller%2C_Official_Senate_Portrait%2C_112th_Congress.jpg/95px-Dean_Heller%2C_Official_Senate_Portrait%2C_112th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/US-Senator-Dean-Heller/325751330177",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/SenDeanHeller",
-    "socialYoutube": "http://www.youtube.com/user/SenDeanHeller",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacky_Rosen%2C_official_portrait%2C_116th_congress.jpg/440px-Jacky_Rosen%2C_official_portrait%2C_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenJackyRosen/",
+    "socialInstagram": "https://www.instagram.com/senjackyrosen",
+    "socialTwitter": "https://twitter.com/SenJackyRosen",
+    "socialYoutube": "",
     "state": "nevada",
     "stateAbbreviation": "NV",
     "stateDisplay": "Nevada",
     "voteClinton": 47.9,
-    "votePersonal": 45.9,
+    "votePersonal": 51.5,
     "voteTrump": 45.5,
-    "yearElected": "2011",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -4076,71 +3949,47 @@
     "yearReelection": "2022"
   },
   {
-    "committees": [
-      "Agriculture, Nutrition and Forestry",
-      "Banking, Housing, and Urban Affairs",
-      "Homeland Security and Governmental Affairs",
-      "Small Business and Entrepreneurship",
-      "Indian Affairs"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "SH-110 Hart Senate Office Building, Washington, DC 20510",
-        "fax": "202-224-7776",
+        "address": "B40C Dirksen Senate Office Building, Washington, DC 20510",
+        "fax": "",
         "name": "Washington DC Office",
         "phone": "202-224-2043"
       },
       {
-        "address": "228 Federal Building, 220 East Rosser Avenue, Bismarck, ND 58501",
-        "fax": "701-258-1254",
-        "name": "Bismarck Office",
-        "phone": "701-258-4648"
-      },
-      {
         "address": "306 Federal Building, 657 Second Avenue North, Fargo, ND 58102",
-        "fax": "701-232-6449",
+        "fax": "",
         "name": "Fargo Office",
-        "phone": "701-232-8030"
-      },
-      {
-        "address": "40 1st Ave West, Suite 202, Dickinson, ND 58601",
-        "fax": "701-225-3287",
-        "name": "Dickinson Office",
-        "phone": "701-225-0974"
-      },
-      {
-        "address": "33 South Third Street Suite B, Grand Forks, ND 58201",
-        "fax": "701-746-1990",
-        "name": "Grand Forks Office",
-        "phone": "701-775-9601"
+        "phone": "701-232-5094"
       },
       {
         "address": "105 Federal Building, 100 First Street SW, Minot, ND 58701",
-        "fax": "701-838-8196",
+        "fax": "",
         "name": "Minot Office",
-        "phone": "701-852-0703"
+        "phone": "701-837-6141"
       }
     ],
     "id": "ND-2",
-    "linkContact": "http://www.heitkamp.senate.gov/public/index.cfm/email-heidi",
-    "linkMeeting": "http://www.heitkamp.senate.gov/public/index.cfm/visiting-dc",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Heidi_Heitkamp",
-    "name": "Heidi Heitkamp",
-    "party": "Democratic",
+    "linkContact": "https://www.cramer.senate.gov/contact_kevin",
+    "linkMeeting": "https://www.cramer.senate.gov/scheduling-requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Kevin_Cramer",
+    "name": "Kevin Cramer",
+    "party": "Republican",
     "photoFilename": "north_dakota_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heidi_Heitkamp_official_portrait_113th_Congress.jpg/95px-Heidi_Heitkamp_official_portrait_113th_Congress.jpg",
-    "socialFacebook": "http://www.facebook.com/SenatorHeidiHeitkamp",
-    "socialInstagram": "http://instagram.com/senatorheitkamp",
-    "socialTwitter": "https://twitter.com/SenatorHeitkamp",
-    "socialYoutube": "http://www.youtube.com/senatorheidiheitkamp",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kevin_Cramer%2C_official_portrait%2C_116th_congress.jpg/440px-Kevin_Cramer%2C_official_portrait%2C_116th_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorKevinCramer/",
+    "socialInstagram": "https://www.instagram.com/senatorkevincramer/",
+    "socialTwitter": "https://twitter.com/SenKevinCramer",
+    "socialYoutube": "https://www.youtube.com/channel/UCqUPdO9XaAW-dvwwXKbIVdA/",
     "state": "north_dakota",
     "stateAbbreviation": "ND",
     "stateDisplay": "North Dakota",
     "voteClinton": 27.2,
-    "votePersonal": 50.24,
+    "votePersonal": 55.4,
     "voteTrump": 63,
-    "yearElected": "2013",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5072,75 +4921,65 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Banking, Housing, and Urban Affairs",
-      "Budget",
-      "Foreign Relations"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "Dirksen Senate Office Building, SD-425, Washington, DC 20510",
+        "address": "B40B Dirksen Senate Office Building, Washington, DC 20510",
         "fax": "202-228-0566",
         "name": "Washington DC Office",
         "phone": "202-224-3344"
       },
       {
         "address": "100 Peabody Place, Suite 1125, Memphis, TN 38103",
-        "fax": "901-575-3528",
+        "fax": "901-527-9395",
         "name": "Memphis Office",
-        "phone": "901-683-1910"
-      },
-      {
-        "address": "3322 West End Ave., Suite 610, Nashville, TN 37203",
-        "fax": "615-279-9488",
-        "name": "Nashville Office",
-        "phone": "615-279-8125"
+        "phone": "901-527-9199"
       },
       {
         "address": "800 Market Street, Suite 121, Knoxville, TN 37902",
-        "fax": "865-637-9886",
+        "fax": "865-540-7952",
         "name": "Knoxville Office",
-        "phone": "865-637-4180"
+        "phone": "865-540-3781"
       },
       {
         "address": "91 Stonebridge Boulevard, Suite 103, Jackson, TN 38305 ",
-        "fax": "731-664-4670",
+        "fax": "731-660-3978",
         "name": "Jackson Office",
-        "phone": "731-664-2294"
+        "phone": "731-660-3971"
       },
       {
         "address": "1105 East Jackson Boulevard, Suite 4, Jonesborough, TN 37659",
-        "fax": "423-753-3679",
+        "fax": "423-788-0250",
         "name": "Tri-Cities Office",
-        "phone": "423-753-2263"
+        "phone": "423-753-4009"
       },
       {
         "address": "10 West MLK Blvd., 6th Floor, Chattanooga, TN 37402",
-        "fax": "423-756-5313",
+        "fax": "423-541-2944",
         "name": "Chattanooga Office",
-        "phone": "423-756-2757"
+        "phone": "423-541-2939"
       }
     ],
     "id": "TN-2",
-    "linkContact": "http://www.corker.senate.gov/public/index.cfm/emailme",
-    "linkMeeting": "http://www.corker.senate.gov/public/index.cfm/schedule-requests",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Bob_Corker",
-    "name": "Bob Corker",
+    "linkContact": "https://www.blackburn.senate.gov/contact_marsha",
+    "linkMeeting": "https://www.blackburn.senate.gov/scheduling_requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Marsha_Blackburn",
+    "name": "Marsha Blackburn",
     "party": "Republican",
     "photoFilename": "tennessee_sen2.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bob_Corker_official_Senate_photo.jpg/95px-Bob_Corker_official_Senate_photo.jpg",
-    "socialFacebook": "http://www.facebook.com/pages/Senator-Bob-Corker/109251415789533?ref=ts",
-    "socialInstagram": "http://instagram.com/senbobcorker",
-    "socialTwitter": "http://twitter.com/SenBobCorker",
-    "socialYoutube": "http://www.youtube.com/user/senatorcorker",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marsha_blackburn_congress.jpg/440px-Marsha_blackburn_congress.jpg",
+    "socialFacebook": "https://www.facebook.com/marshablackburn/",
+    "socialInstagram": "https://www.instagram.com/marshablackburn",
+    "socialTwitter": "https://twitter.com/MarshaBlackburn",
+    "socialYoutube": "",
     "state": "tennessee",
     "stateAbbreviation": "TN",
     "stateDisplay": "Tennessee",
     "voteClinton": 34.7,
-    "votePersonal": 64.9,
+    "votePersonal": 54.4,
     "voteTrump": 60.7,
-    "yearElected": "2007",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
@@ -5292,69 +5131,42 @@
     "yearReelection": "2024"
   },
   {
-    "committees": [
-      "Finance",
-      "Health, Education, Labor and Pensions",
-      "Judiciary"
-    ],
+    "committees": [],
     "contact": [
       {
-        "address": "104 Hart Office Building, Washington, DC 20510",
-        "fax": "202-224-6331",
+        "address": "B33 Russell Senate Office Building, Washington, DC 20510",
+        "fax": "202-228-0836",
         "name": "Washington DC Office",
         "phone": "202-224-5251"
       },
       {
-        "address": "8402 Federal Building, 125 South State Street, Salt Lake City, UT 84138",
-        "fax": "801-524-4379",
+        "address": "125 S. State Street, Suite 8402, Salt Lake City, UT 84138",
+        "fax": "",
         "name": "Salt Lake City Office",
         "phone": "801-524-4380"
-      },
-      {
-        "address": "51 S. University Ave., Suite 320, Provo, UT 84601",
-        "fax": "801-374-5005",
-        "name": "Provo Office",
-        "phone": "801-375-7881"
-      },
-      {
-        "address": "Federal Building, 196 East Tabernacle, Rm 14, St. George, UT 84770",
-        "fax": "435-634-1796",
-        "name": "St. George Office",
-        "phone": "435-634-1795"
-      },
-      {
-        "address": "1006 Federal Building, 324 25th Street, Ogden, UT 84401",
-        "fax": "801-394-4503",
-        "name": "Ogden Office",
-        "phone": "801-625-5672"
-      },
-      {
-        "address": "77 N. Main Street, Suite 112, Cedar City, UT 84720",
-        "fax": "435-586-2147",
-        "name": "Cedar City Office",
-        "phone": "435-586-8435"
       }
     ],
     "id": "UT-1",
-    "linkContact": "http://www.hatch.senate.gov/public/index.cfm/email-orrin",
-    "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Orrin_Hatch",
-    "name": "Orrin Hatch",
+    "linkContact": "https://www.romney.senate.gov/contact-senator-romney",
+    "linkMeeting": "https://www.romney.senate.gov/scheduling-requests",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Mitt_Romney",
+    "name": "Mitt Romney",
     "party": "Republican",
     "photoFilename": "utah_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Orrin_Hatch%2C_Official_Photograph.jpg/95px-Orrin_Hatch%2C_Official_Photograph.jpg",
-    "socialFacebook": "https://www.facebook.com/senatororrinhatch",
-    "socialInstagram": "",
-    "socialTwitter": "http://twitter.com/SenOrrinHatch",
-    "socialYoutube": "http://www.youtube.com/user/SenatorOrrinHatch",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mitt_Romney_official_US_Senate_portrait.jpg/440px-Mitt_Romney_official_US_Senate_portrait.jpg",
+    "socialFacebook": "https://www.facebook.com/senatorromney/",
+    "socialInstagram": "https://www.instagram.com/senatorromney/",
+    "socialTwitter": "https://twitter.com/MittRomney",
+    "socialTwitter2": "https://twitter.com/senatorromney",
+    "socialYoutube": "https://www.youtube.com/channel/UCEnG85eZBypPpcmbKUJNdng",
     "state": "utah",
     "stateAbbreviation": "UT",
     "stateDisplay": "Utah",
     "voteClinton": 27.5,
-    "votePersonal": 65.3,
+    "votePersonal": 62.5,
     "voteTrump": 45.5,
-    "yearElected": "1977",
-    "yearReelection": "2018"
+    "yearElected": "2018",
+    "yearReelection": "2024"
   },
   {
     "committees": [
