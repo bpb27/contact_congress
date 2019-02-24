@@ -2659,57 +2659,53 @@
     "yearReelection": "2020"
   },
   {
-    "committees": [
-      "Appropriations",
-      "Agriculture, Nutrition and Forestry",
-      "Rules and Administration"
-    ],
+    "committees": [],
     "contact": [
       {
         "address": "113 Dirksen Senate Office Building, Washington, D.C. 20510",
-        "fax": "",
+        "fax": "202-224-5321",
         "name": "Washington DC Office",
         "phone": "202-224-5054"
       },
       {
         "address": "190 East Capitol Street, Suite 550, Jackson, Mississippi 39201 ",
-        "fax": "",
+        "fax": "601-965-4919",
         "name": "Jackson Office",
         "phone": "601-965-4459"
       },
       {
         "address": "911 East Jackson Avenue, Suite 249, Oxford, Mississippi 38655 ",
-        "fax": "",
+        "fax": "662-236-7618",
         "name": "Oxford Office",
         "phone": "662-236-1018"
       },
       {
         "address": "2012 15th Street, Suite 451, Gulfport, Mississippi 39501",
-        "fax": "",
+        "fax": "228-867-9789",
         "name": "Gulfport Office",
         "phone": "228-867-9710"
       }
     ],
     "id": "MS-1",
-    "linkContact": "http://www.cochran.senate.gov/public/index.cfm/email-me",
+    "linkContact": "https://www.hydesmith.senate.gov/content/contact-senator",
     "linkMeeting": "",
-    "linkWikipedia": "https://en.wikipedia.org/wiki/Thad_Cochran",
-    "name": "Thad Cochran",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith",
+    "name": "Cindy Hyde-Smith",
     "party": "Republican",
     "photoFilename": "mississippi_sen1.jpg",
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CochranThad%28R-MS%29.jpg/95px-CochranThad%28R-MS%29.jpg",
-    "socialFacebook": "",
-    "socialInstagram": "",
-    "socialTwitter": "https://twitter.com/#!/SenThadCochran",
-    "socialYoutube": "http://www.youtube.com/user/sencochran",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cindy_Hyde-Smith_official_photo.jpg/440px-Cindy_Hyde-Smith_official_photo.jpg",
+    "socialFacebook": "https://www.facebook.com/SenatorCindyHydeSmith/",
+    "socialInstagram": "https://www.instagram.com/sencindyhydesmith/?hl=en",
+    "socialTwitter": "https://twitter.com/SenHydeSmith",
+    "socialYoutube": "https://www.youtube.com/channel/UCJHxkJhGST0NTlkzJHWV03Q",
     "state": "mississippi",
     "stateAbbreviation": "MS",
     "stateDisplay": "Mississippi",
     "voteClinton": 40.1,
-    "votePersonal": 59.9,
+    "votePersonal": 53.6,
     "voteTrump": 57.9,
-    "yearElected": "1978",
-    "yearReelection": "2020"
+    "yearElected": "2018",
+    "yearReelection": "2021"
   },
   {
     "committees": [
